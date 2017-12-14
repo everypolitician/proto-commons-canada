@@ -1,0 +1,366 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_CA": "Mona Fortier",
+        "lang:fr_CA": "Mona Fortier"
+      },
+      "id": "Q29138522",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29138522"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Mary Ng",
+        "lang:fr_CA": "Mary Ng"
+      },
+      "id": "Q29139548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29139548"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/maryngMarkhamThornhill"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Emmanuella Lambropoulos",
+        "lang:fr_CA": "Emmanuella Lambropoulos"
+      },
+      "id": "Q29139554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29139554"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/emlambropoulos"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Rona Ambrose",
+        "lang:fr_CA": "Rona Ambrose"
+      },
+      "id": "Q3441480",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3441480"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Bob Benzen",
+        "lang:fr_CA": "Bob Benzen"
+      },
+      "id": "Q29139192",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29139192"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Stephanie Kusie",
+        "lang:fr_CA": "Stephanie Kusie"
+      },
+      "id": "Q29139551",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29139551"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Dane Lloyd",
+        "lang:fr_CA": "Dane Lloyd"
+      },
+      "id": "Q42308688",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42308688"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en_CA": "Liberal Party of Canada",
+        "lang:fr_CA": "Parti libéral du Canada"
+      },
+      "id": "Q138345",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Conservative Party of Canada",
+        "lang:fr_CA": "Parti conservateur du Canada"
+      },
+      "id": "Q488523",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q488523"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "Country",
+        "lang:fr_CA": "Pays"
+      }
+    },
+    {
+      "name": {
+        "lang:en_CA": "Ottawa—Vanier",
+        "lang:fr_CA": "Ottawa—Vanier"
+      },
+      "id": "Q3357766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "name": {
+        "lang:en_CA": "Markham—Thornhill",
+        "lang:fr_CA": "Markham—Thornhill"
+      },
+      "id": "Q16977883",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "name": {
+        "lang:en_CA": "Saint-Laurent—Cartierville",
+        "lang:fr_CA": "Saint-Laurent—Cartierville"
+      },
+      "id": "Q3462729",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "name": {
+        "lang:en_CA": "Sturgeon River—Parkland",
+        "lang:fr_CA": "Sturgeon River—Parkland"
+      },
+      "id": "Q16977239",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q488523"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "name": {
+        "lang:en_CA": "Calgary Heritage",
+        "lang:fr_CA": "Calgary Heritage"
+      },
+      "id": "Q16850469",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q488523"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "name": {
+        "lang:en_CA": "Calgary Midnapore",
+        "lang:fr_CA": "Calgary Midnapore"
+      },
+      "id": "Q16850474",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q488523"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "parent_id": "Q16"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29138522-fe814daf-4369-74ca-1181-962ab0223bbf",
+      "person_id": "Q29138522",
+      "on_behalf_of_id": "Q138345",
+      "area_id": "Q3357766",
+      "start_date": "2017-04-03",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29139548-a5b9fff0-4285-97bc-c20c-c2c5ae522199",
+      "person_id": "Q29139548",
+      "on_behalf_of_id": "Q138345",
+      "area_id": "Q16977883",
+      "start_date": "2017-04-03",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29139554-29c40df1-4106-6763-4d61-371f9a65acd3",
+      "person_id": "Q29139554",
+      "on_behalf_of_id": "Q138345",
+      "area_id": "Q3462729",
+      "start_date": "2017-04-03",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3441480-643a3914-4b99-00be-dba1-95e21442ad67",
+      "person_id": "Q3441480",
+      "on_behalf_of_id": "Q488523",
+      "area_id": "Q16977239",
+      "start_date": "2015-12-03",
+      "end_date": "2017-07-04",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29139192-ed849f3e-4b47-c93a-198d-460d1cdc5c22",
+      "person_id": "Q29139192",
+      "on_behalf_of_id": "Q488523",
+      "area_id": "Q16850469",
+      "start_date": "2017-04-03",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29139551-1494e595-4f82-32b0-c213-665ba93f155a",
+      "person_id": "Q29139551",
+      "on_behalf_of_id": "Q488523",
+      "area_id": "Q16850474",
+      "start_date": "2017-04-03",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42308688-977fc21a-41c6-90b6-7c18-81fc10b0f796",
+      "person_id": "Q42308688",
+      "on_behalf_of_id": "Q488523",
+      "area_id": "Q16977239",
+      "start_date": "2017-10-23",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    }
+  ]
+}
