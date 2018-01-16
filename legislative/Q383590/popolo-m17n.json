@@ -207,6 +207,10 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16850469"
+        },
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48007"
         }
       ],
       "type": {
@@ -225,6 +229,10 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16977239"
+        },
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48033"
         }
       ],
       "type": {
@@ -243,6 +251,10 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3462729"
+        },
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24068"
         }
       ],
       "type": {
@@ -261,6 +273,10 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16977883"
+        },
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35055"
         }
       ],
       "type": {
@@ -279,6 +295,10 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3357766"
+        },
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35078"
         }
       ],
       "type": {
@@ -297,6 +317,10 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3473801"
+        },
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47012"
         }
       ],
       "type": {
@@ -315,6 +339,10 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16850474"
+        },
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48008"
         }
       ],
       "type": {
@@ -322,6 +350,7146 @@
         "lang:fr_CA": "circonscription électorale fédérale canadienne"
       },
       "parent_id": "Q16"
+    },
+    {
+      "id": "Q16837639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16837639"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Banff—Airdrie",
+        "lang:fr_CA": "Banff--Airdrie"
+      }
+    },
+    {
+      "id": "Q16950705",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16950705"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Battle River—Crowfoot",
+        "lang:fr_CA": "Battle River--Crowfoot"
+      }
+    },
+    {
+      "id": "Q2922698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2922698"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Bow River",
+        "lang:fr_CA": "Bow River"
+      }
+    },
+    {
+      "id": "Q2933894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2933894"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Centre",
+        "lang:fr_CA": "Calgary-Centre"
+      }
+    },
+    {
+      "id": "Q16850460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850460"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Confederation",
+        "lang:fr_CA": "Calgary Confederation"
+      }
+    },
+    {
+      "id": "Q16850464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850464"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Forest Lawn",
+        "lang:fr_CA": "Calgary Forest Lawn"
+      }
+    },
+    {
+      "id": "Q2933912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2933912"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary—Nose Hill",
+        "lang:fr_CA": "Calgary Nose Hill"
+      }
+    },
+    {
+      "id": "Q16850493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850493"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Rocky Ridge",
+        "lang:fr_CA": "Calgary Rocky Ridge"
+      }
+    },
+    {
+      "id": "Q16850498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850498"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Shepard",
+        "lang:fr_CA": "Calgary Shepard"
+      }
+    },
+    {
+      "id": "Q16954913",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16954913"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Signal Hill",
+        "lang:fr_CA": "Calgary Signal Hill"
+      }
+    },
+    {
+      "id": "Q16850507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850507"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Skyview",
+        "lang:fr_CA": "Calgary Skyview"
+      }
+    },
+    {
+      "id": "Q3048042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3048042"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton Centre",
+        "lang:fr_CA": "Edmonton-Centre"
+      }
+    },
+    {
+      "id": "Q16966780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16966780"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton Griesbach",
+        "lang:fr_CA": "Edmonton Griesbach"
+      }
+    },
+    {
+      "id": "Q16966789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16966789"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton Manning",
+        "lang:fr_CA": "Edmonton Manning"
+      }
+    },
+    {
+      "id": "Q16974434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16974434"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton Mill Woods",
+        "lang:fr_CA": "Edmonton Mill Woods"
+      }
+    },
+    {
+      "id": "Q16966795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16966795"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton Riverbend",
+        "lang:fr_CA": "Edmonton Riverbend"
+      }
+    },
+    {
+      "id": "Q3048071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3048071"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton Strathcona",
+        "lang:fr_CA": "Edmonton Strathcona"
+      }
+    },
+    {
+      "id": "Q3048051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3048051"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton West",
+        "lang:fr_CA": "Edmonton-Ouest"
+      }
+    },
+    {
+      "id": "Q16966798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16966798"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton—Wetaskiwin",
+        "lang:fr_CA": "Edmonton--Wetaskiwin"
+      }
+    },
+    {
+      "id": "Q16977569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977569"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Foothills",
+        "lang:fr_CA": "Foothills"
+      }
+    },
+    {
+      "id": "Q16977823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977823"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Fort McMurray—Cold Lake",
+        "lang:fr_CA": "Fort McMurray--Cold Lake"
+      }
+    },
+    {
+      "id": "Q16982509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16982509"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Grande Prairie—Mackenzie",
+        "lang:fr_CA": "Grande Prairie--Mackenzie"
+      }
+    },
+    {
+      "id": "Q3216473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3216473"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lakeland",
+        "lang:fr_CA": "Lakeland"
+      }
+    },
+    {
+      "id": "Q3236894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3236894"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lethbridge",
+        "lang:fr_CA": "Lethbridge"
+      }
+    },
+    {
+      "id": "Q767079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q767079"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Medicine Hat",
+        "lang:fr_CA": "Medicine Hat--Cardston--Warner"
+      }
+    },
+    {
+      "id": "Q17092367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17092367"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Peace River—Westlock",
+        "lang:fr_CA": "Peace River--Westlock"
+      }
+    },
+    {
+      "id": "Q16986104",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16986104"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Red Deer—Lacombe",
+        "lang:fr_CA": "Red Deer--Lacombe"
+      }
+    },
+    {
+      "id": "Q16999879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999879"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Red Deer—Mountain View",
+        "lang:fr_CA": "Red Deer--Mountain View"
+      }
+    },
+    {
+      "id": "Q16986155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16986155"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sherwood Park—Fort Saskatchewan",
+        "lang:fr_CA": "Sherwood Park--Fort Saskatchewan"
+      }
+    },
+    {
+      "id": "Q16977238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977238"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "St. Albert—Edmonton",
+        "lang:fr_CA": "St. Albert--Edmonton"
+      }
+    },
+    {
+      "id": "Q3572142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:48034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572142"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Yellowhead",
+        "lang:fr_CA": "Yellowhead"
+      }
+    },
+    {
+      "id": "Q2820842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2820842"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Abbotsford",
+        "lang:fr_CA": "Abbotsford"
+      }
+    },
+    {
+      "id": "Q16954585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16954585"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Burnaby North—Seymour",
+        "lang:fr_CA": "Burnaby-Nord--Seymour"
+      }
+    },
+    {
+      "id": "Q16966970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16966970"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Burnaby South",
+        "lang:fr_CA": "Burnaby-Sud"
+      }
+    },
+    {
+      "id": "Q2938767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2938767"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cariboo—Prince George",
+        "lang:fr_CA": "Cariboo--Prince George"
+      }
+    },
+    {
+      "id": "Q16858686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16858686"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Central Okanagan—Similkameen—Nicola",
+        "lang:fr_CA": "Central Okanagan--Similkameen--Nicola"
+      }
+    },
+    {
+      "id": "Q16957671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16957671"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Chilliwack—Hope",
+        "lang:fr_CA": "Chilliwack--Hope"
+      }
+    },
+    {
+      "id": "Q16949372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16949372"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cloverdale—Langley City",
+        "lang:fr_CA": "Cloverdale--Langley City"
+      }
+    },
+    {
+      "id": "Q16951566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16951566"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Coquitlam—Port Coquitlam",
+        "lang:fr_CA": "Coquitlam--Port Coquitlam"
+      }
+    },
+    {
+      "id": "Q16952299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16952299"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Courtenay—Alberni",
+        "lang:fr_CA": "Courtenay--Alberni"
+      }
+    },
+    {
+      "id": "Q16952299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16952299"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Courtenay—Alberni",
+        "lang:fr_CA": "Courtenay--Alberni"
+      }
+    },
+    {
+      "id": "Q16952399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16952399"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cowichan—Malahat—Langford",
+        "lang:fr_CA": "Cowichan--Malahat--Langford"
+      }
+    },
+    {
+      "id": "Q3021905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3021905"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Delta",
+        "lang:fr_CA": "Delta"
+      }
+    },
+    {
+      "id": "Q17092809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17092809"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Esquimalt—Saanich—Sooke",
+        "lang:fr_CA": "Esquimalt--Saanich--Sooke"
+      }
+    },
+    {
+      "id": "Q3073517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3073517"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Fleetwood—Port Kells",
+        "lang:fr_CA": "Fleetwood--Port Kells"
+      }
+    },
+    {
+      "id": "Q3192457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3192457"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kamloops—Thompson—Cariboo",
+        "lang:fr_CA": "Kamloops--Thompson--Cariboo"
+      }
+    },
+    {
+      "id": "Q3194929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3194929"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kelowna—Lake Country",
+        "lang:fr_CA": "Kelowna--Lake Country"
+      }
+    },
+    {
+      "id": "Q3198835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3198835"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kootenay—Columbia",
+        "lang:fr_CA": "Kootenay--Columbia"
+      }
+    },
+    {
+      "id": "Q16999141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999141"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Langley—Aldergrove",
+        "lang:fr_CA": "Langley--Aldergrove"
+      }
+    },
+    {
+      "id": "Q16999752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999752"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mission—Matsqui—Fraser Canyon",
+        "lang:fr_CA": "Mission--Matsqui--Fraser Canyon"
+      }
+    },
+    {
+      "id": "Q16979413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979413"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Nanaimo—Ladysmith",
+        "lang:fr_CA": "Nanaimo--Ladysmith"
+      }
+    },
+    {
+      "id": "Q681292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q681292"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "New Westminster—Burnaby",
+        "lang:fr_CA": "New Westminster--Burnaby"
+      }
+    },
+    {
+      "id": "Q3344130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59037"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3344130"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "North Island—Powell River",
+        "lang:fr_CA": "North Island--Powell River"
+      }
+    },
+    {
+      "id": "Q512649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q512649"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Okanagan—Shuswap",
+        "lang:fr_CA": "North Okanagan--Shuswap"
+      }
+    },
+    {
+      "id": "Q3344177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3344177"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "North Vancouver",
+        "lang:fr_CA": "North Vancouver"
+      }
+    },
+    {
+      "id": "Q16979770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979770"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Pitt Meadows—Maple Ridge",
+        "lang:fr_CA": "Pitt Meadows--Maple Ridge"
+      }
+    },
+    {
+      "id": "Q3398378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3398378"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Port Moody—Coquitlam",
+        "lang:fr_CA": "Port Moody--Coquitlam"
+      }
+    },
+    {
+      "id": "Q3403325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3403325"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Prince George—Peace River",
+        "lang:fr_CA": "Prince George--Peace River--Northern Rockies"
+      }
+    },
+    {
+      "id": "Q3431468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3431468"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Richmond",
+        "lang:fr_CA": "Richmond-Centre"
+      }
+    },
+    {
+      "id": "Q3460439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3460439"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saanich—Gulf Islands",
+        "lang:fr_CA": "Saanich--Gulf Islands"
+      }
+    },
+    {
+      "id": "Q3486212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3486212"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Skeena—Bulkley Valley",
+        "lang:fr_CA": "Skeena--Bulkley Valley"
+      }
+    },
+    {
+      "id": "Q16999989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999989"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "South Okanagan—West Kootenay",
+        "lang:fr_CA": "Okanagan-Sud--Kootenay-Ouest"
+      }
+    },
+    {
+      "id": "Q16999811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999811"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "South Surrey—White Rock",
+        "lang:fr_CA": "Surrey-Sud--White Rock"
+      }
+    },
+    {
+      "id": "Q16999753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999753"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Steveston—Richmond East",
+        "lang:fr_CA": "Steveston--Richmond-Est"
+      }
+    },
+    {
+      "id": "Q16977199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977199"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Surrey Centre",
+        "lang:fr_CA": "Surrey-Centre"
+      }
+    },
+    {
+      "id": "Q16979255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59033"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979255"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Surrey—Newton",
+        "lang:fr_CA": "Surrey--Newton"
+      }
+    },
+    {
+      "id": "Q3554460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3554460"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vancouver Centre",
+        "lang:fr_CA": "Vancouver-Centre"
+      }
+    },
+    {
+      "id": "Q958124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q958124"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vancouver East",
+        "lang:fr_CA": "Vancouver-Est"
+      }
+    },
+    {
+      "id": "Q17101508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17101508"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vancouver Granville",
+        "lang:fr_CA": "Vancouver Granville"
+      }
+    },
+    {
+      "id": "Q3554467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59038"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3554467"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vancouver Kingsway",
+        "lang:fr_CA": "Vancouver Kingsway"
+      }
+    },
+    {
+      "id": "Q3554466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59039"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3554466"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vancouver Quadra",
+        "lang:fr_CA": "Vancouver Quadra"
+      }
+    },
+    {
+      "id": "Q3554462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3554462"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vancouver South",
+        "lang:fr_CA": "Vancouver-Sud"
+      }
+    },
+    {
+      "id": "Q3557672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59041"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3557672"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Victoria",
+        "lang:fr_CA": "Victoria"
+      }
+    },
+    {
+      "id": "Q3567450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:59042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3567450"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "West Vancouver—Sunshine Coast—Sea to Sky Country",
+        "lang:fr_CA": "West Vancouver--Sunshine Coast--Sea to Sky Country"
+      }
+    },
+    {
+      "id": "Q2923794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2923794"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brandon—Souris",
+        "lang:fr_CA": "Brandon--Souris"
+      }
+    },
+    {
+      "id": "Q2923794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2923794"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brandon—Souris",
+        "lang:fr_CA": "Brandon--Souris"
+      }
+    },
+    {
+      "id": "Q2960785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2960785"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Charleswood—St. James—Assiniboia",
+        "lang:fr_CA": "Charleswood--St. James--Assiniboia--Headingley"
+      }
+    },
+    {
+      "id": "Q16958326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16958326"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Churchill—Keewatinook Aski",
+        "lang:fr_CA": "Churchill--Keewatinook Aski"
+      }
+    },
+    {
+      "id": "Q16959462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16959462"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Dauphin—Swan River—Neepawa",
+        "lang:fr_CA": "Dauphin--Swan River--Neepawa"
+      }
+    },
+    {
+      "id": "Q3051614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3051614"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Elmwood—Transcona",
+        "lang:fr_CA": "Elmwood--Transcona"
+      }
+    },
+    {
+      "id": "Q3196587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3196587"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kildonan—St. Paul",
+        "lang:fr_CA": "Kildonan--St. Paul"
+      }
+    },
+    {
+      "id": "Q3398756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3398756"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Portage—Lisgar",
+        "lang:fr_CA": "Portage--Lisgar"
+      }
+    },
+    {
+      "id": "Q3408277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3408277"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Provencher",
+        "lang:fr_CA": "Provencher"
+      }
+    },
+    {
+      "id": "Q16983980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16983980"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saint Boniface—Saint Vital",
+        "lang:fr_CA": "Saint-Boniface--Saint-Vital"
+      }
+    },
+    {
+      "id": "Q16978916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16978916"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Selkirk—Interlake—Eastman",
+        "lang:fr_CA": "Selkirk--Interlake--Eastman"
+      }
+    },
+    {
+      "id": "Q16978916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16978916"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Selkirk—Interlake—Eastman",
+        "lang:fr_CA": "Selkirk--Interlake--Eastman"
+      }
+    },
+    {
+      "id": "Q16978916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16978916"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Selkirk—Interlake—Eastman",
+        "lang:fr_CA": "Selkirk--Interlake--Eastman"
+      }
+    },
+    {
+      "id": "Q16978916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16978916"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Selkirk—Interlake—Eastman",
+        "lang:fr_CA": "Selkirk--Interlake--Eastman"
+      }
+    },
+    {
+      "id": "Q3569365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569365"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Winnipeg Centre",
+        "lang:fr_CA": "Winnipeg-Centre"
+      }
+    },
+    {
+      "id": "Q3569367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569367"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Winnipeg North",
+        "lang:fr_CA": "Winnipeg-Nord"
+      }
+    },
+    {
+      "id": "Q3569370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569370"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Winnipeg South",
+        "lang:fr_CA": "Winnipeg-Sud"
+      }
+    },
+    {
+      "id": "Q3569366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:46014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569366"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Winnipeg South Centre",
+        "lang:fr_CA": "Winnipeg-Centre-Sud"
+      }
+    },
+    {
+      "id": "Q2822240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2822240"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Acadie—Bathurst",
+        "lang:fr_CA": "Acadie--Bathurst"
+      }
+    },
+    {
+      "id": "Q2893293",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2893293"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Beauséjour",
+        "lang:fr_CA": "Beauséjour"
+      }
+    },
+    {
+      "id": "Q3087204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3087204"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Fredericton",
+        "lang:fr_CA": "Fredericton"
+      }
+    },
+    {
+      "id": "Q267073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q267073"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Fundy Royal",
+        "lang:fr_CA": "Fundy Royal"
+      }
+    },
+    {
+      "id": "Q3275454",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3275454"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Madawaska—Restigouche",
+        "lang:fr_CA": "Madawaska--Restigouche"
+      }
+    },
+    {
+      "id": "Q17000012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17000012"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Miramichi—Grand Lake",
+        "lang:fr_CA": "Miramichi--Grand Lake"
+      }
+    },
+    {
+      "id": "Q3320478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3320478"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Moncton—Riverview—Dieppe",
+        "lang:fr_CA": "Moncton--Riverview--Dieppe"
+      }
+    },
+    {
+      "id": "Q3345015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3345015"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "New Brunswick Southwest",
+        "lang:fr_CA": "Nouveau-Brunswick-Sud-Ouest"
+      }
+    },
+    {
+      "id": "Q16979314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979314"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saint John—Rothesay",
+        "lang:fr_CA": "Saint John--Rothesay"
+      }
+    },
+    {
+      "id": "Q614586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:13010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q614586"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Tobique—Mactaquac",
+        "lang:fr_CA": "Tobique--Mactaquac"
+      }
+    },
+    {
+      "id": "Q2873260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:10001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2873260"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Avalon",
+        "lang:fr_CA": "Avalon"
+      }
+    },
+    {
+      "id": "Q16844235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:10002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16844235"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Bonavista—Burin—Trinity",
+        "lang:fr_CA": "Bonavista--Burin--Trinity"
+      }
+    },
+    {
+      "id": "Q16949517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:10003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16949517"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Coast of Bays—Central—Notre Dame",
+        "lang:fr_CA": "Coast of Bays--Central--Notre Dame"
+      }
+    },
+    {
+      "id": "Q3214536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:10004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3214536"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Labrador",
+        "lang:fr_CA": "Labrador"
+      }
+    },
+    {
+      "id": "Q16990299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:10005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16990299"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Long Range Mountains",
+        "lang:fr_CA": "Long Range Mountains"
+      }
+    },
+    {
+      "id": "Q3495268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:10006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3495268"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "St. John's East",
+        "lang:fr_CA": "St. John's-Est"
+      }
+    },
+    {
+      "id": "Q3495269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:10007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3495269"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "St. John's South—Mount Pearl",
+        "lang:fr_CA": "St. John's-Sud--Mount Pearl"
+      }
+    },
+    {
+      "id": "Q2937241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2937241"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cape Breton—Canso",
+        "lang:fr_CA": "Cape Breton--Canso"
+      }
+    },
+    {
+      "id": "Q3345304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3345304"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Central Nova",
+        "lang:fr_CA": "Nova-Centre"
+      }
+    },
+    {
+      "id": "Q3007524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3007524"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cumberland—Colchester—Musquodoboit Valley",
+        "lang:fr_CA": "Cumberland--Colchester"
+      }
+    },
+    {
+      "id": "Q3016601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3016601"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Dartmouth—Cole Harbour",
+        "lang:fr_CA": "Dartmouth--Cole Harbour"
+      }
+    },
+    {
+      "id": "Q2604650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2604650"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Halifax",
+        "lang:fr_CA": "Halifax"
+      }
+    },
+    {
+      "id": "Q2604650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2604650"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Halifax",
+        "lang:fr_CA": "Halifax"
+      }
+    },
+    {
+      "id": "Q3125968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3125968"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Halifax West",
+        "lang:fr_CA": "Halifax-Ouest"
+      }
+    },
+    {
+      "id": "Q3197141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197141"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kings—Hants",
+        "lang:fr_CA": "Kings--Hants"
+      }
+    },
+    {
+      "id": "Q3460955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3460955"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sackville—Eastern Shore",
+        "lang:fr_CA": "Sackville--Preston--Chezzetcook"
+      }
+    },
+    {
+      "id": "Q3492274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3492274"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "South Shore—St. Margaret's",
+        "lang:fr_CA": "South Shore--St. Margarets"
+      }
+    },
+    {
+      "id": "Q3506854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3506854"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sydney—Victoria",
+        "lang:fr_CA": "Sydney--Victoria"
+      }
+    },
+    {
+      "id": "Q3345310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:12011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3345310"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "West Nova",
+        "lang:fr_CA": "Nova-Ouest"
+      }
+    },
+    {
+      "id": "Q3518829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:61001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3518829"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Northwest Territories",
+        "lang:fr_CA": "Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "Q584337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:62001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q584337"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Nunavut",
+        "lang:fr_CA": "Nunavut"
+      }
+    },
+    {
+      "id": "Q16960528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16960528"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ajax",
+        "lang:fr_CA": "Ajax"
+      }
+    },
+    {
+      "id": "Q2835750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2835750"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Algoma—Manitoulin—Kapuskasing",
+        "lang:fr_CA": "Algoma--Manitoulin--Kapuskasing"
+      }
+    },
+    {
+      "id": "Q16949447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16949447"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Aurora—Oak Ridges—Richmond Hill",
+        "lang:fr_CA": "Aurora--Oak Ridges--Richmond Hill"
+      }
+    },
+    {
+      "id": "Q16950434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16950434"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Barrie—Innisfil",
+        "lang:fr_CA": "Barrie--Innisfil"
+      }
+    },
+    {
+      "id": "Q16950439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16950439"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Barrie—Springwater—Oro-Medonte",
+        "lang:fr_CA": "Barrie--Springwater--Oro-Medonte"
+      }
+    },
+    {
+      "id": "Q16950737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16950737"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Bay of Quinte",
+        "lang:fr_CA": "Baie de Quinte"
+      }
+    },
+    {
+      "id": "Q2892787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2892787"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Beaches—East York",
+        "lang:fr_CA": "Beaches--East York"
+      }
+    },
+    {
+      "id": "Q2923648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2923648"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brampton Centre",
+        "lang:fr_CA": "Brampton-Centre"
+      }
+    },
+    {
+      "id": "Q16953382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16953382"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brampton East",
+        "lang:fr_CA": "Brampton-Est"
+      }
+    },
+    {
+      "id": "Q16953394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16953394"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brampton North",
+        "lang:fr_CA": "Brampton-Nord"
+      }
+    },
+    {
+      "id": "Q16966835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16966835"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brampton South",
+        "lang:fr_CA": "Brampton-Sud"
+      }
+    },
+    {
+      "id": "Q2923649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2923649"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brampton West",
+        "lang:fr_CA": "Brampton-Ouest"
+      }
+    },
+    {
+      "id": "Q2923856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2923856"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brant",
+        "lang:fr_CA": "Brantford--Brant"
+      }
+    },
+    {
+      "id": "Q2926493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2926493"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Bruce—Grey—Owen Sound",
+        "lang:fr_CA": "Bruce--Grey--Owen Sound"
+      }
+    },
+    {
+      "id": "Q774538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q774538"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Burlington",
+        "lang:fr_CA": "Burlington"
+      }
+    },
+    {
+      "id": "Q2934691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2934691"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cambridge",
+        "lang:fr_CA": "Cambridge"
+      }
+    },
+    {
+      "id": "Q2939078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35088"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2939078"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Carleton",
+        "lang:fr_CA": "Carleton"
+      }
+    },
+    {
+      "id": "Q16961184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16961184"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Chatham-Kent—Leamington",
+        "lang:fr_CA": "Chatham-Kent--Leamington"
+      }
+    },
+    {
+      "id": "Q3017300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3017300"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Davenport",
+        "lang:fr_CA": "Davenport"
+      }
+    },
+    {
+      "id": "Q3035922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3035922"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Don Valley East",
+        "lang:fr_CA": "Don Valley-Est"
+      }
+    },
+    {
+      "id": "Q3035923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3035923"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Don Valley North",
+        "lang:fr_CA": "Don Valley-Nord"
+      }
+    },
+    {
+      "id": "Q3035926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3035926"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Don Valley West",
+        "lang:fr_CA": "Don Valley-Ouest"
+      }
+    },
+    {
+      "id": "Q602263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q602263"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Dufferin—Caledon",
+        "lang:fr_CA": "Dufferin--Caledon"
+      }
+    },
+    {
+      "id": "Q2390150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2390150"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Durham",
+        "lang:fr_CA": "Durham"
+      }
+    },
+    {
+      "id": "Q3049206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3049206"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Eglinton—Lawrence",
+        "lang:fr_CA": "Eglinton--Lawrence"
+      }
+    },
+    {
+      "id": "Q3050861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3050861"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Elgin—Middlesex—London",
+        "lang:fr_CA": "Elgin--Middlesex--London"
+      }
+    },
+    {
+      "id": "Q3058748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3058748"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Essex",
+        "lang:fr_CA": "Essex"
+      }
+    },
+    {
+      "id": "Q3059353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3059353"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Etobicoke Centre",
+        "lang:fr_CA": "Etobicoke-Centre"
+      }
+    },
+    {
+      "id": "Q3059355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3059355"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Etobicoke North",
+        "lang:fr_CA": "Etobicoke-Nord"
+      }
+    },
+    {
+      "id": "Q3059361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3059361"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Etobicoke—Lakeshore",
+        "lang:fr_CA": "Etobicoke--Lakeshore"
+      }
+    },
+    {
+      "id": "Q16978840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16978840"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Flamborough—Glanbrook",
+        "lang:fr_CA": "Flamborough--Glanbrook"
+      }
+    },
+    {
+      "id": "Q3108745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3108745"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Glengarry—Prescott—Russell",
+        "lang:fr_CA": "Glengarry--Prescott--Russell"
+      }
+    },
+    {
+      "id": "Q3118872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3118872"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Guelph",
+        "lang:fr_CA": "Guelph"
+      }
+    },
+    {
+      "id": "Q5641291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35033"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5641291"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Haldimand—Norfolk",
+        "lang:fr_CA": "Haldimand--Norfolk"
+      }
+    },
+    {
+      "id": "Q3125962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3125962"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Haliburton—Kawartha Lakes—Brock",
+        "lang:fr_CA": "Haliburton--Kawartha Lakes--Brock"
+      }
+    },
+    {
+      "id": "Q3126446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3126446"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Hamilton Centre",
+        "lang:fr_CA": "Hamilton-Centre"
+      }
+    },
+    {
+      "id": "Q3126448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3126448"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Hamilton East—Stoney Creek",
+        "lang:fr_CA": "Hamilton-Est--Stoney Creek"
+      }
+    },
+    {
+      "id": "Q3126460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35037"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3126460"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Hamilton Mountain",
+        "lang:fr_CA": "Hamilton Mountain"
+      }
+    },
+    {
+      "id": "Q16979665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35038"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979665"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Hamilton West—Ancaster—Dundas",
+        "lang:fr_CA": "Hamilton-Ouest--Ancaster--Dundas"
+      }
+    },
+    {
+      "id": "Q16979735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35039"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979735"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Hastings—Lennox and Addington",
+        "lang:fr_CA": "Hastings--Lennox and Addington"
+      }
+    },
+    {
+      "id": "Q3572594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572594"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "York West",
+        "lang:fr_CA": "Humber River--Black Creek"
+      }
+    },
+    {
+      "id": "Q290779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q290779"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Huron—Bruce",
+        "lang:fr_CA": "Huron--Bruce"
+      }
+    },
+    {
+      "id": "Q17088451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35041"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17088451"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kanata—Carleton",
+        "lang:fr_CA": "Kanata--Carleton"
+      }
+    },
+    {
+      "id": "Q3195247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3195247"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kenora",
+        "lang:fr_CA": "Kenora"
+      }
+    },
+    {
+      "id": "Q16977204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35043"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977204"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "King—Vaughan",
+        "lang:fr_CA": "King--Vaughan"
+      }
+    },
+    {
+      "id": "Q3197139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35044"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197139"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kingston and the Islands",
+        "lang:fr_CA": "Kingston et les Îles"
+      }
+    },
+    {
+      "id": "Q3197575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35045"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197575"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kitchener Centre",
+        "lang:fr_CA": "Kitchener-Centre"
+      }
+    },
+    {
+      "id": "Q16979185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35047"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979185"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kitchener South—Hespeler",
+        "lang:fr_CA": "Kitchener-Sud--Hespeler"
+      }
+    },
+    {
+      "id": "Q3197577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197577"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Kitchener—Conestoga",
+        "lang:fr_CA": "Kitchener--Conestoga"
+      }
+    },
+    {
+      "id": "Q3216699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35048"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3216699"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lambton—Kent—Middlesex",
+        "lang:fr_CA": "Lambton--Kent--Middlesex"
+      }
+    },
+    {
+      "id": "Q16976721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35049"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16976721"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lanark—Frontenac—Kingston",
+        "lang:fr_CA": "Lanark--Frontenac--Kingston"
+      }
+    },
+    {
+      "id": "Q581570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35050"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q581570"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Leeds—Grenville",
+        "lang:fr_CA": "Leeds--Grenville--Thousand Islands et Rideau Lakes"
+      }
+    },
+    {
+      "id": "Q3258929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35052"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3258929"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "London North Centre",
+        "lang:fr_CA": "London-Centre-Nord"
+      }
+    },
+    {
+      "id": "Q3258933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35053"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3258933"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "London West",
+        "lang:fr_CA": "London-Ouest"
+      }
+    },
+    {
+      "id": "Q3258986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35051"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3258986"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "London—Fanshawe",
+        "lang:fr_CA": "London--Fanshawe"
+      }
+    },
+    {
+      "id": "Q16977352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35054"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977352"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Markham—Stouffville",
+        "lang:fr_CA": "Markham--Stouffville"
+      }
+    },
+    {
+      "id": "Q3294346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35056"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3294346"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Markham—Unionville",
+        "lang:fr_CA": "Markham--Unionville"
+      }
+    },
+    {
+      "id": "Q16969295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35057"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16969295"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Milton",
+        "lang:fr_CA": "Milton"
+      }
+    },
+    {
+      "id": "Q975611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35058"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q975611"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mississauga Centre",
+        "lang:fr_CA": "Mississauga-Centre"
+      }
+    },
+    {
+      "id": "Q3316906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35059"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3316906"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mississauga East—Cooksville",
+        "lang:fr_CA": "Mississauga-Est--Cooksville"
+      }
+    },
+    {
+      "id": "Q16976696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35060"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16976696"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mississauga—Erin Mills",
+        "lang:fr_CA": "Mississauga--Erin Mills"
+      }
+    },
+    {
+      "id": "Q3316911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35061"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3316911"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mississauga South",
+        "lang:fr_CA": "Mississauga--Lakeshore"
+      }
+    },
+    {
+      "id": "Q16977742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35062"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977742"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mississauga—Malton",
+        "lang:fr_CA": "Mississauga--Malton"
+      }
+    },
+    {
+      "id": "Q3316916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35063"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3316916"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mississauga—Streetsville",
+        "lang:fr_CA": "Mississauga--Streetsville"
+      }
+    },
+    {
+      "id": "Q3338266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35064"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3338266"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Nepean",
+        "lang:fr_CA": "Nepean"
+      }
+    },
+    {
+      "id": "Q3339132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35065"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3339132"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Newmarket—Aurora",
+        "lang:fr_CA": "Newmarket--Aurora"
+      }
+    },
+    {
+      "id": "Q3339428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35066"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3339428"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Niagara Centre",
+        "lang:fr_CA": "Niagara-Centre"
+      }
+    },
+    {
+      "id": "Q3339434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35067"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3339434"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Niagara Falls",
+        "lang:fr_CA": "Niagara Falls"
+      }
+    },
+    {
+      "id": "Q16977205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35068"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977205"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Niagara West",
+        "lang:fr_CA": "Niagara-Ouest"
+      }
+    },
+    {
+      "id": "Q3339824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35069"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3339824"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Nickel Belt",
+        "lang:fr_CA": "Nickel Belt"
+      }
+    },
+    {
+      "id": "Q3342105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35070"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3342105"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Nipissing—Timiskaming",
+        "lang:fr_CA": "Nipissing--Timiskaming"
+      }
+    },
+    {
+      "id": "Q16977243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35071"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977243"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Northumberland—Peterborough South",
+        "lang:fr_CA": "Northumberland--Peterborough-Sud"
+      }
+    },
+    {
+      "id": "Q14875369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35072"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14875369"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Oakville",
+        "lang:fr_CA": "Oakville"
+      }
+    },
+    {
+      "id": "Q17092100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35073"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17092100"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Oakville North—Burlington",
+        "lang:fr_CA": "Oakville-Nord--Burlington"
+      }
+    },
+    {
+      "id": "Q3357764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35076"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3357764"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa—Orléans",
+        "lang:fr_CA": "Orléans"
+      }
+    },
+    {
+      "id": "Q3357223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35074"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3357223"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Oshawa",
+        "lang:fr_CA": "Oshawa"
+      }
+    },
+    {
+      "id": "Q3357743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35075"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3357743"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa Centre",
+        "lang:fr_CA": "Ottawa-Centre"
+      }
+    },
+    {
+      "id": "Q3357747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35077"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3357747"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa South",
+        "lang:fr_CA": "Ottawa-Sud"
+      }
+    },
+    {
+      "id": "Q3357746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35079"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3357746"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa West—Nepean",
+        "lang:fr_CA": "Ottawa-Ouest--Nepean"
+      }
+    },
+    {
+      "id": "Q3359048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35080"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3359048"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Oxford",
+        "lang:fr_CA": "Oxford"
+      }
+    },
+    {
+      "id": "Q3365449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35081"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3365449"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Parkdale—High Park",
+        "lang:fr_CA": "Parkdale--High Park"
+      }
+    },
+    {
+      "id": "Q3366038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35082"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366038"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Parry Sound—Muskoka",
+        "lang:fr_CA": "Parry Sound--Muskoka"
+      }
+    },
+    {
+      "id": "Q3376177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35083"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3376177"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Perth—Wellington",
+        "lang:fr_CA": "Perth--Wellington"
+      }
+    },
+    {
+      "id": "Q3376996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35084"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3376996"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Peterborough—Kawartha",
+        "lang:fr_CA": "Peterborough--Kawartha"
+      }
+    },
+    {
+      "id": "Q16977690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35085"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977690"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Pickering—Uxbridge",
+        "lang:fr_CA": "Pickering--Uxbridge"
+      }
+    },
+    {
+      "id": "Q3425442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35086"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3425442"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Renfrew—Nipissing—Pembroke",
+        "lang:fr_CA": "Renfrew--Nipissing--Pembroke"
+      }
+    },
+    {
+      "id": "Q3431478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35087"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3431478"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Richmond Hill",
+        "lang:fr_CA": "Richmond Hill"
+      }
+    },
+    {
+      "id": "Q3473661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35091"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3473661"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sarnia—Lambton",
+        "lang:fr_CA": "Sarnia--Lambton"
+      }
+    },
+    {
+      "id": "Q3474220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35092"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3474220"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sault Ste. Marie",
+        "lang:fr_CA": "Sault Ste. Marie"
+      }
+    },
+    {
+      "id": "Q3475163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35094"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3475163"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Scarborough Centre",
+        "lang:fr_CA": "Scarborough-Centre"
+      }
+    },
+    {
+      "id": "Q16976145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35096"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16976145"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Scarborough North",
+        "lang:fr_CA": "Scarborough-Nord"
+      }
+    },
+    {
+      "id": "Q3475165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35098"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3475165"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Scarborough Southwest",
+        "lang:fr_CA": "Scarborough-Sud-Ouest"
+      }
+    },
+    {
+      "id": "Q3475169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35093"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3475169"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Scarborough—Agincourt",
+        "lang:fr_CA": "Scarborough--Agincourt"
+      }
+    },
+    {
+      "id": "Q3475168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35095"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3475168"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Scarborough—Guildwood",
+        "lang:fr_CA": "Scarborough--Guildwood"
+      }
+    },
+    {
+      "id": "Q16979633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35097"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979633"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Scarborough—Rouge Park",
+        "lang:fr_CA": "Scarborough--Rouge Park"
+      }
+    },
+    {
+      "id": "Q3484116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3484116"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Simcoe North",
+        "lang:fr_CA": "Simcoe-Nord"
+      }
+    },
+    {
+      "id": "Q3484122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35099"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3484122"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Simcoe—Grey",
+        "lang:fr_CA": "Simcoe--Grey"
+      }
+    },
+    {
+      "id": "Q16976871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16976871"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Spadina—Fort York",
+        "lang:fr_CA": "Spadina--Fort York"
+      }
+    },
+    {
+      "id": "Q267841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35089"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q267841"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "St. Catharines",
+        "lang:fr_CA": "St. Catharines"
+      }
+    },
+    {
+      "id": "Q3499856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3499856"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Stormont—Dundas—South Glengarry",
+        "lang:fr_CA": "Stormont--Dundas--South Glengarry"
+      }
+    },
+    {
+      "id": "Q3502922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3502922"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sudbury",
+        "lang:fr_CA": "Sudbury"
+      }
+    },
+    {
+      "id": "Q3525846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3525846"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Thornhill",
+        "lang:fr_CA": "Thornhill"
+      }
+    },
+    {
+      "id": "Q3526042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3526042"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Thunder Bay—Rainy River",
+        "lang:fr_CA": "Thunder Bay--Rainy River"
+      }
+    },
+    {
+      "id": "Q3526041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3526041"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Thunder Bay—Superior North",
+        "lang:fr_CA": "Thunder Bay--Supérieur-Nord"
+      }
+    },
+    {
+      "id": "Q3529015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3529015"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Timmins—James Bay",
+        "lang:fr_CA": "Timmins--Baie James"
+      }
+    },
+    {
+      "id": "Q921653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q921653"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Toronto Centre",
+        "lang:fr_CA": "Toronto-Centre"
+      }
+    },
+    {
+      "id": "Q3532395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3532395"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Toronto—Danforth",
+        "lang:fr_CA": "Toronto--Danforth"
+      }
+    },
+    {
+      "id": "Q3495297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35090"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3495297"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "St. Paul's",
+        "lang:fr_CA": "Toronto--St. Paul's"
+      }
+    },
+    {
+      "id": "Q16977089",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977089"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "University—Rosedale",
+        "lang:fr_CA": "University--Rosedale"
+      }
+    },
+    {
+      "id": "Q16976825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16976825"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vaughan—Woodbridge",
+        "lang:fr_CA": "Vaughan--Woodbridge"
+      }
+    },
+    {
+      "id": "Q3566686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3566686"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Waterloo",
+        "lang:fr_CA": "Waterloo"
+      }
+    },
+    {
+      "id": "Q3567185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3567185"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Wellington—Halton Hills",
+        "lang:fr_CA": "Wellington--Halton Hills"
+      }
+    },
+    {
+      "id": "Q16967060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16967060"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Whitby",
+        "lang:fr_CA": "Whitby"
+      }
+    },
+    {
+      "id": "Q3569133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569133"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Willowdale",
+        "lang:fr_CA": "Willowdale"
+      }
+    },
+    {
+      "id": "Q3569303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569303"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Windsor West",
+        "lang:fr_CA": "Windsor-Ouest"
+      }
+    },
+    {
+      "id": "Q3569307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569307"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Windsor—Tecumseh",
+        "lang:fr_CA": "Windsor--Tecumseh"
+      }
+    },
+    {
+      "id": "Q3572587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572587"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "York Centre",
+        "lang:fr_CA": "York-Centre"
+      }
+    },
+    {
+      "id": "Q3572599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572599"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "York South—Weston",
+        "lang:fr_CA": "York-Sud--Weston"
+      }
+    },
+    {
+      "id": "Q3572619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:35119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572619"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "York—Simcoe",
+        "lang:fr_CA": "York--Simcoe"
+      }
+    },
+    {
+      "id": "Q2938039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:11001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2938039"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cardigan",
+        "lang:fr_CA": "Cardigan"
+      }
+    },
+    {
+      "id": "Q2961057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:11002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961057"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Charlottetown",
+        "lang:fr_CA": "Charlottetown"
+      }
+    },
+    {
+      "id": "Q3049209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:11003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3049209"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Egmont",
+        "lang:fr_CA": "Egmont"
+      }
+    },
+    {
+      "id": "Q513772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:11004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q513772"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Malpeque",
+        "lang:fr_CA": "Malpeque"
+      }
+    },
+    {
+      "id": "Q2821651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2821651"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Abitibi—Baie-James—Nunavik—Eeyou",
+        "lang:fr_CA": "Abitibi--Baie-James--Nunavik--Eeyou"
+      }
+    },
+    {
+      "id": "Q2821652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2821652"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Abitibi—Témiscamingue",
+        "lang:fr_CA": "Abitibi--Témiscamingue"
+      }
+    },
+    {
+      "id": "Q16826254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16826254"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ahuntsic-Cartierville",
+        "lang:fr_CA": "Ahuntsic-Cartierville"
+      }
+    },
+    {
+      "id": "Q2834924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2834924"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Alfred-Pellan",
+        "lang:fr_CA": "Alfred-Pellan"
+      }
+    },
+    {
+      "id": "Q16833613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16833613"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Argenteuil—La Petite-Nation",
+        "lang:fr_CA": "Argenteuil--La Petite-Nation"
+      }
+    },
+    {
+      "id": "Q16836105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16836105"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Avignon—La Mitis—Matane—Matapédia",
+        "lang:fr_CA": "Avignon--La Mitis--Matane--Matapédia"
+      }
+    },
+    {
+      "id": "Q2893126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2893126"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Beauce",
+        "lang:fr_CA": "Beauce"
+      }
+    },
+    {
+      "id": "Q528161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q528161"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Montmorency—Charlevoix—Haute-Côte-Nord",
+        "lang:fr_CA": "Beauport--Côte-de-Beaupré--Île d'Orléans--Charlevoix"
+      }
+    },
+    {
+      "id": "Q2893257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2893257"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Beauport—Limoilou",
+        "lang:fr_CA": "Beauport--Limoilou"
+      }
+    },
+    {
+      "id": "Q2886296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2886296"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Bas-Richelieu—Nicolet—Bécancour",
+        "lang:fr_CA": "Bécancour--Nicolet--Saurel"
+      }
+    },
+    {
+      "id": "Q3272022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3272022"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lévis—Bellechasse",
+        "lang:fr_CA": "Bellechasse--Les Etchemins--Lévis"
+      }
+    },
+    {
+      "id": "Q16840121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16840121"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Beloeil—Chambly",
+        "lang:fr_CA": "Beloeil--Chambly"
+      }
+    },
+    {
+      "id": "Q2899323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2899323"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Berthier—Maskinongé",
+        "lang:fr_CA": "Berthier--Maskinongé"
+      }
+    },
+    {
+      "id": "Q2922232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2922232"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Bourassa",
+        "lang:fr_CA": "Bourassa"
+      }
+    },
+    {
+      "id": "Q2926009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2926009"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brome—Missisquoi",
+        "lang:fr_CA": "Brome--Missisquoi"
+      }
+    },
+    {
+      "id": "Q16847474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16847474"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Brossard—Saint-Lambert",
+        "lang:fr_CA": "Brossard--Saint-Lambert"
+      }
+    },
+    {
+      "id": "Q429015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429015"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Charlesbourg—Haute-Saint-Charles",
+        "lang:fr_CA": "Charlesbourg--Haute-Saint-Charles"
+      }
+    },
+    {
+      "id": "Q16961180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16961180"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Châteauguay—Lacolle",
+        "lang:fr_CA": "Châteauguay--Lacolle"
+      }
+    },
+    {
+      "id": "Q2963421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2963421"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Chicoutimi—Le Fjord",
+        "lang:fr_CA": "Chicoutimi--Le Fjord"
+      }
+    },
+    {
+      "id": "Q2990889",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2990889"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Compton—Stanstead",
+        "lang:fr_CA": "Compton--Stanstead"
+      }
+    },
+    {
+      "id": "Q16962445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16962445"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Dorval—Lachine—LaSalle",
+        "lang:fr_CA": "Dorval--Lachine--LaSalle"
+      }
+    },
+    {
+      "id": "Q3040119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3040119"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Drummond",
+        "lang:fr_CA": "Drummond"
+      }
+    },
+    {
+      "id": "Q3098861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3098861"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Gaspésie—Îles-de-la-Madeleine",
+        "lang:fr_CA": "Gaspésie--Les Îles-de-la-Madeleine"
+      }
+    },
+    {
+      "id": "Q3098861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3098861"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Gaspésie—Îles-de-la-Madeleine",
+        "lang:fr_CA": "Gaspésie--Les Îles-de-la-Madeleine"
+      }
+    },
+    {
+      "id": "Q693762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q693762"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Gatineau",
+        "lang:fr_CA": "Gatineau"
+      }
+    },
+    {
+      "id": "Q3138926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3138926"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Hochelaga",
+        "lang:fr_CA": "Hochelaga"
+      }
+    },
+    {
+      "id": "Q3140203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3140203"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Honoré-Mercier",
+        "lang:fr_CA": "Honoré-Mercier"
+      }
+    },
+    {
+      "id": "Q3143028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3143028"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Hull—Aylmer",
+        "lang:fr_CA": "Hull--Aylmer"
+      }
+    },
+    {
+      "id": "Q3183138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3183138"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Joliette",
+        "lang:fr_CA": "Joliette"
+      }
+    },
+    {
+      "id": "Q3183620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3183620"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Jonquière",
+        "lang:fr_CA": "Jonquière"
+      }
+    },
+    {
+      "id": "Q3211775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24033"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3211775"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "La Pointe-de-l'Île",
+        "lang:fr_CA": "La Pointe-de-l'Île"
+      }
+    },
+    {
+      "id": "Q3217787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3217787"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "La Prairie",
+        "lang:fr_CA": "La Prairie"
+      }
+    },
+    {
+      "id": "Q3214650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3214650"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lac-Saint-Jean",
+        "lang:fr_CA": "Lac-Saint-Jean"
+      }
+    },
+    {
+      "id": "Q3214654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3214654"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lac-Saint-Louis",
+        "lang:fr_CA": "Lac-Saint-Louis"
+      }
+    },
+    {
+      "id": "Q16979970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24037"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979970"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "LaSalle—Émard—Verdun",
+        "lang:fr_CA": "LaSalle--Émard--Verdun"
+      }
+    },
+    {
+      "id": "Q3219613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24038"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3219613"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Laurentides—Labelle",
+        "lang:fr_CA": "Laurentides--Labelle"
+      }
+    },
+    {
+      "id": "Q3219676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24039"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3219676"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Laurier—Sainte-Marie",
+        "lang:fr_CA": "Laurier--Sainte-Marie"
+      }
+    },
+    {
+      "id": "Q3219763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3219763"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Laval—Les Îles",
+        "lang:fr_CA": "Laval--Les Îles"
+      }
+    },
+    {
+      "id": "Q3259970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3259970"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Lotbinière—Chutes-de-la-Chaudière",
+        "lang:fr_CA": "Lévis--Lotbinière"
+      }
+    },
+    {
+      "id": "Q16979600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24041"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979600"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Longueuil—Charles-LeMoyne",
+        "lang:fr_CA": "Longueuil--Charles-Lemoyne"
+      }
+    },
+    {
+      "id": "Q21027519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24043"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21027519"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Longueuil—Saint-Hubert",
+        "lang:fr_CA": "Longueuil--Saint-Hubert"
+      }
+    },
+    {
+      "id": "Q3260598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24044"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3260598"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Louis-Hébert",
+        "lang:fr_CA": "Louis-Hébert"
+      }
+    },
+    {
+      "id": "Q3260876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24045"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3260876"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Louis-Saint-Laurent",
+        "lang:fr_CA": "Louis-Saint-Laurent"
+      }
+    },
+    {
+      "id": "Q3285881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3285881"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Manicouagan",
+        "lang:fr_CA": "Manicouagan"
+      }
+    },
+    {
+      "id": "Q3285881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3285881"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Manicouagan",
+        "lang:fr_CA": "Manicouagan"
+      }
+    },
+    {
+      "id": "Q3285881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3285881"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Manicouagan",
+        "lang:fr_CA": "Manicouagan"
+      }
+    },
+    {
+      "id": "Q3287683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24065"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3287683"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Marc-Aurèle-Fortin",
+        "lang:fr_CA": "Marc-Aurèle-Fortin"
+      }
+    },
+    {
+      "id": "Q3332796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24047"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3332796"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mégantic—L'Érable",
+        "lang:fr_CA": "Mégantic--L'Érable"
+      }
+    },
+    {
+      "id": "Q16999883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24048"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999883"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mirabel",
+        "lang:fr_CA": "Mirabel"
+      }
+    },
+    {
+      "id": "Q16977815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24049"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977815"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Montarville",
+        "lang:fr_CA": "Montarville"
+      }
+    },
+    {
+      "id": "Q3322478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24050"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3322478"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Montcalm",
+        "lang:fr_CA": "Montcalm"
+      }
+    },
+    {
+      "id": "Q3322832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24051"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3322832"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Montmagny—L'Islet—Kamouraska—Rivière-du-Loup",
+        "lang:fr_CA": "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup"
+      }
+    },
+    {
+      "id": "Q3321616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24052"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3321616"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Mount Royal",
+        "lang:fr_CA": "Mont-Royal"
+      }
+    },
+    {
+      "id": "Q17044892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24053"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17044892"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Notre-Dame-de-Grâce—Westmount",
+        "lang:fr_CA": "Notre-Dame-de-Grâce--Westmount"
+      }
+    },
+    {
+      "id": "Q3358662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24054"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3358662"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Outremont",
+        "lang:fr_CA": "Outremont"
+      }
+    },
+    {
+      "id": "Q3362910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24055"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3362910"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Papineau",
+        "lang:fr_CA": "Papineau"
+      }
+    },
+    {
+      "id": "Q16845155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16845155"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Pierre-Boucher—Les Patriotes—Verchères",
+        "lang:fr_CA": "Pierre-Boucher--Les Patriotes--Verchères"
+      }
+    },
+    {
+      "id": "Q600123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24056"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q600123"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Pierrefonds—Dollard",
+        "lang:fr_CA": "Pierrefonds--Dollard"
+      }
+    },
+    {
+      "id": "Q3397734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24057"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3397734"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Pontiac",
+        "lang:fr_CA": "Pontiac"
+      }
+    },
+    {
+      "id": "Q3399336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24058"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3399336"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Portneuf—Jacques-Cartier",
+        "lang:fr_CA": "Portneuf--Jacques-Cartier"
+      }
+    },
+    {
+      "id": "Q3414825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24059"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3414825"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Québec",
+        "lang:fr_CA": "Québec"
+      }
+    },
+    {
+      "id": "Q3427232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24060"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3427232"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Repentigny",
+        "lang:fr_CA": "Repentigny"
+      }
+    },
+    {
+      "id": "Q3431483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24061"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3431483"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Richmond—Arthabaska",
+        "lang:fr_CA": "Richmond--Arthabaska"
+      }
+    },
+    {
+      "id": "Q3432128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3432128"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Rimouski-Neigette—Témiscouata—Les Basques",
+        "lang:fr_CA": "Rimouski-Neigette--Témiscouata--Les Basques"
+      }
+    },
+    {
+      "id": "Q3433602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24062"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433602"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Rivière-des-Mille-Îles",
+        "lang:fr_CA": "Rivière-des-Mille-Îles"
+      }
+    },
+    {
+      "id": "Q428070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24063"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q428070"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Rivière-du-Nord",
+        "lang:fr_CA": "Rivière-du-Nord"
+      }
+    },
+    {
+      "id": "Q7368487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24064"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7368487"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Rosemont—La Petite-Patrie",
+        "lang:fr_CA": "Rosemont--La Petite-Patrie"
+      }
+    },
+    {
+      "id": "Q3462434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24066"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462434"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Hyacinthe—Bagot",
+        "lang:fr_CA": "Saint-Hyacinthe--Bagot"
+      }
+    },
+    {
+      "id": "Q3462577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24067"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462577"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Jean",
+        "lang:fr_CA": "Saint-Jean"
+      }
+    },
+    {
+      "id": "Q3462835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24069"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462835"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Léonard—Saint-Michel",
+        "lang:fr_CA": "Saint-Léonard--Saint-Michel"
+      }
+    },
+    {
+      "id": "Q3462967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24070"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462967"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Maurice—Champlain",
+        "lang:fr_CA": "Saint-Maurice--Champlain"
+      }
+    },
+    {
+      "id": "Q16999438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24071"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16999438"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Salaberry—Suroît",
+        "lang:fr_CA": "Salaberry--Suroît"
+      }
+    },
+    {
+      "id": "Q3481722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24072"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3481722"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Shefford",
+        "lang:fr_CA": "Shefford"
+      }
+    },
+    {
+      "id": "Q3481908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24073"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3481908"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sherbrooke",
+        "lang:fr_CA": "Sherbrooke"
+      }
+    },
+    {
+      "id": "Q25246025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24075"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25246025"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Terrebonne",
+        "lang:fr_CA": "Terrebonne"
+      }
+    },
+    {
+      "id": "Q16842973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16842973"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Thérèse-De Blainville",
+        "lang:fr_CA": "Thérèse-De Blainville"
+      }
+    },
+    {
+      "id": "Q3539914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24076"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3539914"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Trois-Rivières",
+        "lang:fr_CA": "Trois-Rivières"
+      }
+    },
+    {
+      "id": "Q3555066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24074"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3555066"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vaudreuil-Soulanges",
+        "lang:fr_CA": "Vaudreuil--Soulanges"
+      }
+    },
+    {
+      "id": "Q16977201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24077"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977201"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ville-Marie—Le Sud-Ouest—Île-des-Soeurs",
+        "lang:fr_CA": "Ville-Marie--Le Sud-Ouest--Île-des-Surs"
+      }
+    },
+    {
+      "id": "Q16978570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:24078"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16978570"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Vimy",
+        "lang:fr_CA": "Vimy"
+      }
+    },
+    {
+      "id": "Q2891841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2891841"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Battlefords—Lloydminster",
+        "lang:fr_CA": "Battlefords--Lloydminster"
+      }
+    },
+    {
+      "id": "Q16985258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16985258"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Carlton Trail—Eagle Creek",
+        "lang:fr_CA": "Sentier Carlton--Eagle Creek"
+      }
+    },
+    {
+      "id": "Q3008864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3008864"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Cypress Hills—Grasslands",
+        "lang:fr_CA": "Cypress Hills--Grasslands"
+      }
+    },
+    {
+      "id": "Q3024533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3024533"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Desnethé—Missinippi—Churchill River",
+        "lang:fr_CA": "Desnethé--Missinippi--Rivière Churchill"
+      }
+    },
+    {
+      "id": "Q17037560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17037560"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Moose Jaw—Lake Centre—Lanigan",
+        "lang:fr_CA": "Moose Jaw--Lake Centre--Lanigan"
+      }
+    },
+    {
+      "id": "Q3403304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3403304"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Prince Albert",
+        "lang:fr_CA": "Prince Albert"
+      }
+    },
+    {
+      "id": "Q16990355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16990355"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Regina—Lewvan",
+        "lang:fr_CA": "Regina--Lewvan"
+      }
+    },
+    {
+      "id": "Q3423524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3423524"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Regina—Qu'Appelle",
+        "lang:fr_CA": "Regina--Qu'Appelle"
+      }
+    },
+    {
+      "id": "Q3423526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3423526"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Regina—Wascana",
+        "lang:fr_CA": "Regina--Wascana"
+      }
+    },
+    {
+      "id": "Q16990152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16990152"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saskatoon—Grasswood",
+        "lang:fr_CA": "Saskatoon--Grasswood"
+      }
+    },
+    {
+      "id": "Q16979773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979773"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saskatoon—University",
+        "lang:fr_CA": "Saskatoon--University"
+      }
+    },
+    {
+      "id": "Q3491962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3491962"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Souris—Moose Mountain",
+        "lang:fr_CA": "Souris--Moose Mountain"
+      }
+    },
+    {
+      "id": "Q3572613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:47014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572613"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Yorkton—Melville",
+        "lang:fr_CA": "Yorkton--Melville"
+      }
+    },
+    {
+      "id": "Q3573173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "fed-cons:60001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3573173"
+        }
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Yukon",
+        "lang:fr_CA": "Yukon"
+      }
     }
   ],
   "memberships": [
