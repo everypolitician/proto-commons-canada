@@ -13394,7 +13394,34 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Conservative Party of Canada",
+        "lang:fr_CA": "Parti conservateur du Canada"
+      },
+      "id": "Q488523",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q488523"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Independent Senators Group",
+        "lang:fr_CA": "Groupe des sénateurs indépendants"
+      },
+      "id": "Q28946329",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28946329"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -15625,6 +15652,8 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3063518-dcb39070-4d8c-efec-0410-8cd50a425bf1",
       "person_id": "Q3063518",
+      "on_behalf_of_id": "Q488523",
+      "area_id": "Q2003",
       "start_date": "2011-05-25",
       "role_code": "Q18524027",
       "role": {
@@ -18318,6 +18347,8 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1680169-AFCC5F12-0E8B-406D-B5F7-38943D051D63",
       "person_id": "Q1680169",
+      "on_behalf_of_id": "Q28946329",
+      "area_id": "Q1974",
       "start_date": "2005-08-02",
       "role_code": "Q18524027",
       "role": {
