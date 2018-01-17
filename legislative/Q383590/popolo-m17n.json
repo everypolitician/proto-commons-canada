@@ -206,160 +206,6 @@
       "parent_id": null
     },
     {
-      "name": {
-        "lang:en_CA": "Calgary Heritage",
-        "lang:fr_CA": "Calgary Heritage"
-      },
-      "id": "Q16850469",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16850469"
-        },
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:48007-2013"
-        }
-      ],
-      "type": {
-        "lang:en_CA": "federal electoral district of Canada",
-        "lang:fr_CA": "circonscription électorale fédérale canadienne"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Sturgeon River—Parkland",
-        "lang:fr_CA": "Sturgeon River—Parkland"
-      },
-      "id": "Q16977239",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16977239"
-        },
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:48033-2013"
-        }
-      ],
-      "type": {
-        "lang:en_CA": "federal electoral district of Canada",
-        "lang:fr_CA": "circonscription électorale fédérale canadienne"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Saint-Laurent—Cartierville",
-        "lang:fr_CA": "Saint-Laurent—Cartierville"
-      },
-      "id": "Q3462729",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3462729"
-        },
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:24068-2013"
-        }
-      ],
-      "type": {
-        "lang:en_CA": "federal electoral district of Canada",
-        "lang:fr_CA": "circonscription électorale fédérale canadienne"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Markham—Thornhill",
-        "lang:fr_CA": "Markham—Thornhill"
-      },
-      "id": "Q16977883",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16977883"
-        },
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:35055-2013"
-        }
-      ],
-      "type": {
-        "lang:en_CA": "federal electoral district of Canada",
-        "lang:fr_CA": "circonscription électorale fédérale canadienne"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Ottawa—Vanier",
-        "lang:fr_CA": "Ottawa—Vanier"
-      },
-      "id": "Q3357766",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3357766"
-        },
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:35078-2013"
-        }
-      ],
-      "type": {
-        "lang:en_CA": "federal electoral district of Canada",
-        "lang:fr_CA": "circonscription électorale fédérale canadienne"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Saskatoon West",
-        "lang:fr_CA": "Saskatoon-Ouest"
-      },
-      "id": "Q3473801",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3473801"
-        },
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:47012-2013"
-        }
-      ],
-      "type": {
-        "lang:en_CA": "federal electoral district of Canada",
-        "lang:fr_CA": "circonscription électorale fédérale canadienne"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Calgary Midnapore",
-        "lang:fr_CA": "Calgary Midnapore"
-      },
-      "id": "Q16850474",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16850474"
-        },
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:48008-2013"
-        }
-      ],
-      "type": {
-        "lang:en_CA": "federal electoral district of Canada",
-        "lang:fr_CA": "circonscription électorale fédérale canadienne"
-      },
-      "parent_id": "Q16"
-    },
-    {
       "id": "Q16837639",
       "identifiers": [
         {
@@ -506,6 +352,56 @@
       "name": {
         "lang:en_CA": "Calgary Forest Lawn",
         "lang:fr_CA": "Calgary Forest Lawn"
+      },
+      "parent_id": "Q1951"
+    },
+    {
+      "id": "Q16850469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:48007-2013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15964890"
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Heritage",
+        "lang:fr_CA": "Calgary Heritage"
+      },
+      "parent_id": "Q1951"
+    },
+    {
+      "id": "Q16850474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:48008-2013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16850474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15964890"
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Calgary Midnapore",
+        "lang:fr_CA": "Calgary Midnapore"
       },
       "parent_id": "Q1951"
     },
@@ -1106,6 +1002,31 @@
       "name": {
         "lang:en_CA": "St. Albert--Edmonton",
         "lang:fr_CA": "St. Albert--Edmonton"
+      },
+      "parent_id": "Q1951"
+    },
+    {
+      "id": "Q16977239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:48033-2013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15964890"
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Sturgeon River--Parkland",
+        "lang:fr_CA": "Sturgeon River--Parkland"
       },
       "parent_id": "Q1951"
     },
@@ -4835,6 +4756,31 @@
       "parent_id": "Q1904"
     },
     {
+      "id": "Q16977883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:35055-2013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16977883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15964890"
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Markham--Thornhill",
+        "lang:fr_CA": "Markham--Thornhill"
+      },
+      "parent_id": "Q1904"
+    },
+    {
       "id": "Q3294346",
       "identifiers": [
         {
@@ -5406,6 +5352,31 @@
       "name": {
         "lang:en_CA": "Ottawa West--Nepean",
         "lang:fr_CA": "Ottawa-Ouest--Nepean"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q3357766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:35078-2013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3357766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15964890"
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa--Vanier",
+        "lang:fr_CA": "Ottawa--Vanier"
       },
       "parent_id": "Q1904"
     },
@@ -8235,6 +8206,31 @@
       "parent_id": "Q176"
     },
     {
+      "id": "Q3462729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:24068-2013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15964890"
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Laurent",
+        "lang:fr_CA": "Saint-Laurent"
+      },
+      "parent_id": "Q176"
+    },
+    {
       "id": "Q3462835",
       "identifiers": [
         {
@@ -8731,6 +8727,31 @@
       "name": {
         "lang:en_CA": "Regina--Wascana",
         "lang:fr_CA": "Regina--Wascana"
+      },
+      "parent_id": "Q1989"
+    },
+    {
+      "id": "Q3473801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:47012-2013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3473801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15964890"
+      ],
+      "type": {
+        "lang:en_CA": "federal electoral district of Canada",
+        "lang:fr_CA": "circonscription électorale fédérale canadienne"
+      },
+      "name": {
+        "lang:en_CA": "Saskatoon West",
+        "lang:fr_CA": "Saskatoon-Ouest"
       },
       "parent_id": "Q1989"
     },
