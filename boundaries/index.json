@@ -11,5 +11,18 @@
             "lang:en_CA": "ENNAME",
             "lang:fr_CA": "FRNAME"
         }
+    },
+    {
+        "directory": "provinces",
+        "associations": [
+            {
+                "position_item_id": "Q18524027"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q2879",
+        "name_columns": {
+            "lang:en_CA": "name_en",
+            "lang:fr_CA": "name_fr"
+        }
     }
 ]
