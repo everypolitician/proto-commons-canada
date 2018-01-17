@@ -1,5 +1,14 @@
 [
     {
+        "directory": "country",
+        "area_type_wikidata_item_id": "Q6256",
+        "associations": [],
+        "name_columns": {
+            "lang:en_CA": "name_en",
+            "lang:fr_CA": "name_fr"
+        }
+    },
+    {
         "directory": "federal-constituencies",
         "associations": [
             {
