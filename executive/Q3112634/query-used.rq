@@ -1,4 +1,4 @@
-SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?district ?district_name_en ?district_name_fr ?role ?role_en ?role_fr ?start ?end ?superclass_role ?facebook WHERE {
+SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?district ?district_name_en ?district_name_fr ?role ?role_en ?role_fr ?start ?end ?role_superclass ?role_superclass_en ?role_superclass_fr ?facebook WHERE {
   VALUES ?role_superclass { wd:Q2505921 }
   BIND(wd:Q3112634 AS ?executive)
   ?item p:P39 ?statement ;
@@ -10,6 +10,9 @@ SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?
   FILTER(LANG(?role_en) = "en").
   FILTER(LANG(?role_fr) = "fr").
   ?role wdt:P279* ?role_superclass .
+  ?role_superclass rdfs:label ?role_superclass_en, ?role_superclass_fr .
+  FILTER(LANG(?role_superclass_en) = "en").
+  FILTER(LANG(?role_superclass_fr) = "fr").
   ?role wdt:P361 ?executive .
   OPTIONAL {
     ?role wdt:P1001 ?district .
