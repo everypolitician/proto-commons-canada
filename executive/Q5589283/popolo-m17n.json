@@ -2,38 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Oliver Mowat",
-        "lang:fr_CA": "Oliver Mowat"
-      },
-      "id": "Q1387837",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1387837"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "William Howard Hearst",
-        "lang:fr_CA": "William Hearst"
-      },
-      "id": "Q387764",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q387764"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Kathleen Wynne",
         "lang:fr_CA": "Kathleen Wynne"
       },
@@ -415,26 +383,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/q1387837-B85C72E2-20FB-4962-A265-233D1D6B9251",
-      "person_id": "Q1387837",
-      "area_id": "Q1904",
-      "role_code": "Q2560704",
-      "role": {
-        "lang:en_CA": "Premier of Ontario",
-        "lang:fr_CA": "Premier ministre de l'Ontario"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q387764-0D10CA37-6251-4738-98D2-A7E785E0DAFB",
-      "person_id": "Q387764",
-      "area_id": "Q1904",
-      "role_code": "Q2560704",
-      "role": {
-        "lang:en_CA": "Premier of Ontario",
-        "lang:fr_CA": "Premier ministre de l'Ontario"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/q3786221-13C93608-754B-42B8-B954-B1854CDE23E6",
       "person_id": "Q3786221",
