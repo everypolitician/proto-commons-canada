@@ -1,0 +1,24 @@
+SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?district ?district_name_en ?district_name_fr ?role ?role_en ?role_fr ?start ?end ?superclass_role ?facebook WHERE {
+  VALUES ?role_superclass { wd:Q2505921 }
+  BIND(wd:Q3112634 AS ?executive)
+  ?item p:P39 ?statement ;
+     rdfs:label ?name_en, ?name_fr .
+  FILTER(LANG(?name_en) = "en").
+  FILTER(LANG(?name_fr) = "fr").
+  ?statement ps:P39 ?role .
+  ?role rdfs:label ?role_en, ?role_fr .
+  FILTER(LANG(?role_en) = "en").
+  FILTER(LANG(?role_fr) = "fr").
+  ?role wdt:P279* ?role_superclass .
+  ?role wdt:P361 ?executive .
+  OPTIONAL {
+    ?role wdt:P1001 ?district .
+    ?district rdfs:label ?district_name_en, ?district_name_fr .
+    FILTER(LANG(?district_name_en) = "en").
+    FILTER(LANG(?district_name_fr) = "fr").
+  }
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+  FILTER(?end_or_sentinel >= NOW())
+}
