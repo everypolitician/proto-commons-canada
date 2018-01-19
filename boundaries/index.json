@@ -145,6 +145,19 @@
         }
     },
     {
+        "directory": "territory-yukon",
+        "associations": [
+            {
+                "comment": "Member of the Yukon Legislative Assembly",
+                "position_item_id": "Q18608478"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47454928",
+        "name_columns": {
+            "lang:en_CA": "Name"
+        }
+    },
+    {
         "directory": "province-ontario",
         "associations": [
             {
