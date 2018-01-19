@@ -80,6 +80,19 @@
         }
     },
     {
+        "directory": "province-newfoundland-and-labrador",
+        "associations": [
+            {
+                "comment": "Member of the Newfoundland and Labrador House of Assembly",
+                "position_item_id": "Q19403853"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47454980",
+        "name_columns": {
+            "lang:en_CA": "Name"
+        }
+    },
+    {
         "directory": "province-saskatchewan",
         "associations": [
             {
