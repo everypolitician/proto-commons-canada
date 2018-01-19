@@ -145,6 +145,19 @@
         }
     },
     {
+        "directory": "territory-nunavut",
+        "associations": [
+            {
+                "comment": "Member of the Legislative Assembly of Nunavut",
+                "position_item_id": "Q45308607"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47454933",
+        "name_columns": {
+            "lang:en_CA": "Name"
+        }
+    },
+    {
         "directory": "province-ontario",
         "associations": [
             {
