@@ -1,24 +1,44 @@
 SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?district ?district_name_en ?district_name_fr ?role ?role_en ?role_fr ?start ?end ?role_superclass ?role_superclass_en ?role_superclass_fr ?facebook WHERE {
   VALUES ?role_superclass { wd:Q2505921 }
   BIND(wd:Q3112634 AS ?executive)
-  ?item p:P39 ?statement ;
-     rdfs:label ?name_en, ?name_fr .
-  FILTER(LANG(?name_en) = "en").
-  FILTER(LANG(?name_fr) = "fr").
+  ?item p:P39 ?statement .
+  OPTIONAL {
+    ?item rdfs:label ?name_en
+    FILTER(LANG(?name_en) = "en")         
+  }
+  OPTIONAL {
+    ?item rdfs:label ?name_fr
+    FILTER(LANG(?name_fr) = "fr")         
+  }      
   ?statement ps:P39 ?role .
-  ?role rdfs:label ?role_en, ?role_fr .
-  FILTER(LANG(?role_en) = "en").
-  FILTER(LANG(?role_fr) = "fr").
+  OPTIONAL {
+    ?role rdfs:label ?role_en
+    FILTER(LANG(?role_en) = "en")
+  }
+  OPTIONAL {
+    ?role rdfs:label ?role_fr
+    FILTER(LANG(?role_fr) = "fr")
+  }
   ?role wdt:P279* ?role_superclass .
-  ?role_superclass rdfs:label ?role_superclass_en, ?role_superclass_fr .
-  FILTER(LANG(?role_superclass_en) = "en").
-  FILTER(LANG(?role_superclass_fr) = "fr").
+  OPTIONAL {
+    ?role_superclass rdfs:label ?role_superclass_en
+    FILTER(LANG(?role_superclass_en) = "en")
+  }
+  OPTIONAL {
+    ?role_superclass rdfs:label ?role_superclass_fr
+    FILTER(LANG(?role_superclass_fr) = "fr")
+  }
   ?role wdt:P361 ?executive .
   OPTIONAL {
     ?role wdt:P1001 ?district .
-    ?district rdfs:label ?district_name_en, ?district_name_fr .
-    FILTER(LANG(?district_name_en) = "en").
-    FILTER(LANG(?district_name_fr) = "fr").
+    OPTIONAL {
+      ?district rdfs:label ?district_name_en
+      FILTER(LANG(?district_name_en) = "en")
+    }
+    OPTIONAL {
+      ?district rdfs:label ?district_name_fr
+      FILTER(LANG(?district_name_fr) = "fr")
+    }
   }
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }

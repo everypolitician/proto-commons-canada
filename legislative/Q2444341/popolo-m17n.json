@@ -1,9 +1,77 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en_CA": "Joe Mihevc",
+        "lang:fr_CA": "Joe Mihevc"
+      },
+      "id": "Q6211354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6211354"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/joemihevc"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Kristyn Wong-Tam",
+        "lang:fr_CA": "Kristyn Wong-Tam"
+      },
+      "id": "Q6438493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6438493"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/KristynWongTamTO"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Neethan Shan"
+      },
+      "id": "Q28823469",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28823469"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CouncillorShan"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "New Democratic Party",
+        "lang:fr_CA": "Nouveau Parti démocratique"
+      },
+      "id": "Q130765",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130765"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -1045,6 +1113,36 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6211354-09cdcdb3-4fa0-c4b5-30c8-7a10d63eec6d",
+      "person_id": "Q6211354",
+      "area_id": "Q47455604",
+      "start_date": "2000-12-01",
+      "role_code": "Q45413990",
+      "role": {
+        "lang:en_CA": "Member of Toronto City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6438493-972c70eb-494f-381b-b283-c38f724b0954",
+      "person_id": "Q6438493",
+      "area_id": "Q47455610",
+      "start_date": "2010-12-01",
+      "role_code": "Q45413990",
+      "role": {
+        "lang:en_CA": "Member of Toronto City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28823469-596502c1-4f9c-c877-5a69-b9122de7eecc",
+      "person_id": "Q28823469",
+      "on_behalf_of_id": "Q130765",
+      "area_id": "Q47455625",
+      "start_date": "2017-02-13",
+      "role_code": "Q45413990",
+      "role": {
+        "lang:en_CA": "Member of Toronto City Council"
+      }
+    }
   ]
 }
