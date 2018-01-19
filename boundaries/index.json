@@ -80,6 +80,19 @@
         }
     },
     {
+        "directory": "province-saskatchewan",
+        "associations": [
+            {
+                "comment": "Member of the Legislative Assembly of Saskatchewan",
+                "position_item_id": "Q18675661"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q6596424",
+        "name_columns": {
+            "lang:en_CA": "Con_Name"
+        }
+    },
+    {
         "directory": "toronto-wards",
         "associations": [
             {
