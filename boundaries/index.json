@@ -106,6 +106,19 @@
         }
     },
     {
+        "directory": "province-prince-edward-island",
+        "associations": [
+            {
+                "comment": "Member of the Legislative Assembly of Prince Edward Island",
+                "position_item_id": "Q21010685"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q19823486",
+        "name_columns": {
+            "lang:en_CA": "Descriptio"
+        }
+    },
+    {
         "directory": "toronto-wards",
         "associations": [
             {
