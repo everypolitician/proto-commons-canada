@@ -52,5 +52,18 @@
         "name_columns": {
             "lang:en_CA": "EDName2010"
         }
+    },
+    {
+        "directory": "toronto-wards",
+        "associations": [
+            {
+                "comment": "Member of Toronto City Council",
+                "position_item_id": "Q45413990"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47455500",
+        "name_columns": {
+            "lang:en_CA": "NAME"
+        }
     }
 ]
