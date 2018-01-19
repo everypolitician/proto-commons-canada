@@ -4,12 +4,12 @@ SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?
   ?item p:P39 ?statement .
   OPTIONAL {
     ?item rdfs:label ?name_en
-    FILTER(LANG(?name_en) = "en")         
+    FILTER(LANG(?name_en) = "en")
   }
   OPTIONAL {
     ?item rdfs:label ?name_fr
-    FILTER(LANG(?name_fr) = "fr")         
-  }      
+    FILTER(LANG(?name_fr) = "fr")
+  }
   ?statement ps:P39 ?role .
   OPTIONAL {
     ?role rdfs:label ?role_en
