@@ -54,6 +54,19 @@
         }
     },
     {
+        "directory": "province-manitoba",
+        "associations": [
+            {
+                "comment": "member of the Legislative Assembly of Manitoba ",
+                "position_item_id": "Q19007867"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47455017",
+        "name_columns": {
+            "lang:en_CA": "ED"
+        }
+    },
+    {
         "directory": "toronto-wards",
         "associations": [
             {
