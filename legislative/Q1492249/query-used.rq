@@ -1,0 +1,38 @@
+SELECT ?statement
+       ?item ?name_en ?name_fr
+       ?party ?party_name_en ?party_name_fr
+       ?district ?district_name_en ?district_name_fr
+       ?role ?role_en ?role_fr
+       ?start ?end ?facebook
+WHERE {
+  BIND(wd:Q3305338 as ?role) .
+  ?item p:P39 ?statement ;
+        rdfs:label ?name_en, ?name_fr .
+  ?role rdfs:label ?role_en, ?role_fr .
+  FILTER(LANG(?role_en) = "en").
+  FILTER(LANG(?role_fr) = "fr").
+  ?statement ps:P39 ?role .
+  
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL {
+    ?statement pq:P768 ?district.
+    ?district rdfs:label ?district_name_en, ?district_name_fr .
+    FILTER(LANG(?district_name_en) = "en").
+    FILTER(LANG(?district_name_fr) = "fr").
+  }
+  OPTIONAL {
+    ?statement pq:P4100 ?party.
+    ?party rdfs:label ?party_name_en, ?party_name_fr .
+    FILTER(LANG(?party_name_en) = "en").
+    FILTER(LANG(?party_name_fr) = "fr").
+  }
+  OPTIONAL { ?item wdt:P2013 ?facebook }
+  FILTER(LANG(?name_en) = "en").
+  FILTER(LANG(?name_fr) = "fr").
+  BIND(COALESCE(?start, "1000-01-01T00:00:00Z"^^xsd:dateTime) AS ?start_or_sentinel)
+BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
+FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
+
+} ORDER BY ?name_en ?name_fr ?item
