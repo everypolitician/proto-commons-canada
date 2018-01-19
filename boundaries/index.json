@@ -169,5 +169,18 @@
         "name_columns": {
             "lang:en_CA": "ED_NAME"
         }
+    },
+    {
+        "directory": "province-new-brunswick",
+        "associations": [
+            {
+                "comment": "Member of the Legislative Assembly of New Brunswick",
+                "position_item_id": "Q18984329"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q6591764",
+        "name_columns": {
+            "lang:en_CA": "PED_Name_E"
+        }
     }
 ]
