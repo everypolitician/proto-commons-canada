@@ -1,0 +1,475 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q7069727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7069727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Nunakput"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6059367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6059367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Inuvik Boot Lake"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6059376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6059376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Inuvik Twin Lakes"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6724360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6724360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Mackenzie-Delta"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q7399745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Sahtu"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6959245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6959245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Nahendeh"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6899383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6899383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Monfwi"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q24190814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24190814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Tu Nedhé-Wiilideh"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3021281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3021281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Deh Cho"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q7777596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7777596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Thebacha"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q24190816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24190816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Yellowknife North"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5685858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5685858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Hay River South"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5685861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5685861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Hay River North"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q7292672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7292672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Range Lake"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3572144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Yellowknife South"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q17088445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17088445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Kam Lake"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5477888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5477888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Frame Lake"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q8051953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8051953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Yellowknife Centre"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5599968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5599968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Great Slave"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
