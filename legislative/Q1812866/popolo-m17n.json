@@ -12171,7 +12171,20 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Alberta New Democratic Party",
+        "lang:fr_CA": "Nouveau Parti démocratique de l'Alberta"
+      },
+      "id": "Q3345044",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3345044"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -16225,6 +16238,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19861370-11ba1e2e-4bd6-ce83-8921-3bd95f084cb3",
       "person_id": "Q19861370",
+      "on_behalf_of_id": "Q3345044",
       "area_id": "Q7619584",
       "start_date": "2015-05-05",
       "role_code": "Q15964815",

@@ -501,7 +501,20 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "British Columbia New Democratic Party",
+        "lang:fr_CA": "Nouveau Parti démocratique de la Colombie-Britannique"
+      },
+      "id": "Q919052",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q919052"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -2709,6 +2722,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6525470-aaecd0f6-452e-6edf-84ea-f72228209e16",
       "person_id": "Q6525470",
+      "on_behalf_of_id": "Q919052",
       "area_id": "Q10857025",
       "start_date": "2005-05-17",
       "role_code": "Q19004821",

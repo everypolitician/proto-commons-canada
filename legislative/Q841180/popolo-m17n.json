@@ -13425,6 +13425,20 @@
     },
     {
       "name": {
+        "lang:en_CA": "Senate Liberal Caucus",
+        "lang:fr_CA": "caucus des sénateurs libéraux"
+      },
+      "id": "Q21035865",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21035865"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Independent Senators Group",
         "lang:fr_CA": "Groupe des sénateurs indépendants"
       },
@@ -16341,6 +16355,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5596353-80D68CF1-889F-4592-9E8F-B200E28C4DA0",
       "person_id": "Q5596353",
+      "on_behalf_of_id": "Q21035865",
       "area_id": "Q1951",
       "start_date": "2005-03-24",
       "role_code": "Q18524027",
@@ -18488,6 +18503,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2402200-323E00B6-D3F5-43C2-AB3B-A7313664FCB5",
       "person_id": "Q2402200",
+      "on_behalf_of_id": "Q21035865",
       "area_id": "Q1989",
       "start_date": "2005-03-24",
       "role_code": "Q18524027",
@@ -19157,6 +19173,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6887337-928BDA78-B576-4672-99C2-E84C0F341E37",
       "person_id": "Q6887337",
+      "on_behalf_of_id": "Q21035865",
       "area_id": "Q1974",
       "start_date": "2001-06-13",
       "role_code": "Q18524027",
@@ -19719,6 +19736,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3383128-F6FD617D-E542-4149-A013-8507FEC1E019",
       "person_id": "Q3383128",
+      "on_behalf_of_id": "Q488523",
       "area_id": "Q176",
       "start_date": "2010-01-29",
       "role_code": "Q18524027",
@@ -20225,6 +20243,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7405355-E0B7B958-F601-4141-9BA7-E0902BB6A4C5",
       "person_id": "Q7405355",
+      "on_behalf_of_id": "Q488523",
       "area_id": "Q1904",
       "start_date": "2010-07-09",
       "role_code": "Q18524027",
