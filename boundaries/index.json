@@ -65,5 +65,18 @@
         "name_columns": {
             "lang:en_CA": "NAME"
         }
+    },
+    {
+        "directory": "calgary-wards",
+        "associations": [
+            {
+                "comment": "Member of Calgary City Council",
+                "position_item_id": "Q45414913"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47455759",
+        "name_columns": {
+            "lang:en_CA": "label"
+        }
     }
 ]
