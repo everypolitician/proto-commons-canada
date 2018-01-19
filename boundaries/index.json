@@ -39,5 +39,18 @@
             "lang:en_CA": "name_en",
             "lang:fr_CA": "name_fr"
         }
+    },
+    {
+        "directory": "province-alberta",
+        "associations": [
+            {
+                "comment": "member of Alberta Legislative Assembly",
+                "position_item_id": "Q15964815"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q4711861",
+        "name_columns": {
+            "lang:en_CA": "EDName2010"
+        }
     }
 ]
