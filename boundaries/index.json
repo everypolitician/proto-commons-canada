@@ -119,6 +119,45 @@
         }
     },
     {
+        "directory": "province-nova-scotia",
+        "associations": [
+            {
+                "comment": "member of the Nova Scotia House of Assembly",
+                "position_item_id": "Q18239264"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q6592593",
+        "name_columns": {
+            "lang:en_CA": "name"
+        }
+    },
+    {
+        "directory": "territory-northwest-territories",
+        "associations": [
+            {
+                "comment": "Member of the Legislative Assembly of the Northwest Territories",
+                "position_item_id": "Q45308871"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q15896168",
+        "name_columns": {
+            "lang:en_CA": "name"
+        }
+    },
+    {
+        "directory": "province-ontario",
+        "associations": [
+            {
+                "comment": "Member of Ontario Provincial Parliament",
+                "position_item_id": "Q3305347"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q6593033",
+        "name_columns": {
+            "lang:en_CA": "name"
+        }
+    },
+    {
         "directory": "toronto-wards",
         "associations": [
             {
