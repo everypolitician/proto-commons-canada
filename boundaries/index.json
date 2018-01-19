@@ -67,6 +67,19 @@
         }
     },
     {
+        "directory": "province-quebec",
+        "associations": [
+            {
+                "comment": "Member of the National Assembly of Quebec",
+                "position_item_id": "Q3305338"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q2973931",
+        "name_columns": {
+            "lang:fr_CA": "NM_CEP"
+        }
+    },
+    {
         "directory": "toronto-wards",
         "associations": [
             {
