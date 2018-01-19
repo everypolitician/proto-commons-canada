@@ -18725,6 +18725,20 @@
           "identifier": "Q950356"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Quebec Liberal Party",
+        "lang:fr_CA": "Parti libéral du Québec"
+      },
+      "id": "Q1631384",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1631384"
+        }
+      ]
     }
   ],
   "areas": [
@@ -31384,6 +31398,18 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21275152-c5be6380-40b3-bca8-b5fc-f861d582fa62",
       "person_id": "Q21275152",
+      "on_behalf_of_id": "Q1631384",
+      "area_id": "Q3567537",
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en_CA": "Member of the National Assembly of Quebec",
+        "lang:fr_CA": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21275152-4442becf-4b6e-2ca2-5df3-593b54e55558",
+      "person_id": "Q21275152",
+      "on_behalf_of_id": "Q1631384",
       "area_id": "Q3567537",
       "role_code": "Q3305338",
       "role": {
