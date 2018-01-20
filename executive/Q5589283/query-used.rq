@@ -44,4 +44,5 @@ SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?
   OPTIONAL { ?statement pq:P582 ?end }
   BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
   FILTER(?end_or_sentinel >= NOW())
+  OPTIONAL { ?item wdt:P2013 ?facebook }
 }
