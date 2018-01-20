@@ -1,0 +1,118 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_CA": "Naheed Nenshi",
+        "lang:fr_CA": "Naheed Nenshi"
+      },
+      "id": "Q2588612",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2588612"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/NaheedNenshi"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3520005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Toronto"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q36312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Calgary"
+      },
+      "parent_id": "Q1951"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2588612-c658ee6b-41c0-d404-3555-90b9a56f3812",
+      "person_id": "Q2588612",
+      "area_id": "Q36312",
+      "start_date": "2010-10-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en_CA": "mayor",
+        "lang:fr_CA": "maire"
+      },
+      "role_code": "Q47455744",
+      "role": {
+        "lang:en_CA": "Mayor of Calgary"
+      }
+    }
+  ]
+}
