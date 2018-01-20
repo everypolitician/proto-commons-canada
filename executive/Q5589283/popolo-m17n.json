@@ -21,7 +21,20 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Ontario Liberal Party",
+        "lang:fr_CA": "Parti libéral de l'Ontario"
+      },
+      "id": "Q1553186",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1553186"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -389,6 +402,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/q3786221-13C93608-754B-42B8-B954-B1854CDE23E6",
       "person_id": "Q3786221",
+      "on_behalf_of_id": "Q1553186",
       "area_id": "Q1904",
       "start_date": "2013-02-11",
       "role_superclass_code": "Q2505921",
