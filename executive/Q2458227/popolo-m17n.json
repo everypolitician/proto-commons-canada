@@ -1,0 +1,110 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_CA": "Justin Trudeau",
+        "lang:fr_CA": "Justin Trudeau"
+      },
+      "id": "Q3099714",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3099714"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JustinPJTrudeau"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en_CA": "Liberal Party of Canada",
+        "lang:fr_CA": "Parti libéral du Canada"
+      },
+      "id": "Q138345",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf",
+      "person_id": "Q3099714",
+      "on_behalf_of_id": "Q138345",
+      "area_id": "Q16",
+      "start_date": "2015-11-04",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en_CA": "prime minister",
+        "lang:fr_CA": "Premier ministre, président du gouvernement"
+      },
+      "role_code": "Q839078",
+      "role": {
+        "lang:en_CA": "Prime Minister of Canada",
+        "lang:fr_CA": "Premier ministre du Canada"
+      }
+    }
+  ]
+}
