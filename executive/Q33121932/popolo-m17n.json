@@ -1,0 +1,373 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Quebec",
+        "lang:fr_CA": "Québec"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Ontario"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "New Brunswick",
+        "lang:fr_CA": "Nouveau-Brunswick"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Nova Scotia",
+        "lang:fr_CA": "Nouvelle-Écosse"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Nunavut",
+        "lang:fr_CA": "Nunavut"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Manitoba"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:bc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "British Columbia",
+        "lang:fr_CA": "Colombie-Britannique"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Prince Edward Island",
+        "lang:fr_CA": "Île-du-Prince-Édouard"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:sk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Saskatchewan",
+        "lang:fr_CA": "Saskatchewan"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Alberta",
+        "lang:fr_CA": "Alberta"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Newfoundland and Labrador",
+        "lang:fr_CA": "Terre-Neuve et Labrador"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Northwest Territories",
+        "lang:fr_CA": "Territoires du Nord-Ouest"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Yukon"
+      },
+      "parent_id": "Q16"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
