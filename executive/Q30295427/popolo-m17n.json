@@ -1,9 +1,56 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en_CA": "Dan Miller",
+        "lang:fr_CA": "Dan Miller"
+      },
+      "id": "Q1159124",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1159124"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "John Horgan",
+        "lang:fr_CA": "John Horgan"
+      },
+      "id": "Q6239861",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6239861"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/johnhorganbc"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "British Columbia New Democratic Party",
+        "lang:fr_CA": "Nouveau Parti démocratique de la Colombie-Britannique"
+      },
+      "id": "Q919052",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q919052"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -368,6 +415,38 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/q1159124-7EFADCDE-2EC8-4B09-A3EE-0D9BF6D49F6F",
+      "person_id": "Q1159124",
+      "on_behalf_of_id": "Q919052",
+      "area_id": "Q1974",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en_CA": "premier",
+        "lang:fr_CA": "premier ministre du Canada"
+      },
+      "role_code": "Q7240349",
+      "role": {
+        "lang:en_CA": "Premier of British Columbia",
+        "lang:fr_CA": "premier ministre de la Colombie-Britannique"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6239861-ea3506b0-4dda-216e-f407-2317fc569159",
+      "person_id": "Q6239861",
+      "on_behalf_of_id": "Q919052",
+      "area_id": "Q1974",
+      "start_date": "2017-07-18",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en_CA": "premier",
+        "lang:fr_CA": "premier ministre du Canada"
+      },
+      "role_code": "Q7240349",
+      "role": {
+        "lang:en_CA": "Premier of British Columbia",
+        "lang:fr_CA": "premier ministre de la Colombie-Britannique"
+      }
+    }
   ]
 }
