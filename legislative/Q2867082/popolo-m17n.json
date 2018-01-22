@@ -115,6 +115,22 @@
     },
     {
       "name": {
+        "lang:en_CA": "Paul Quassa",
+        "lang:fr_CA": "Paul Quassa"
+      },
+      "id": "Q16151930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16151930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Pauloosie Keyootak"
       },
       "id": "Q20983369",
@@ -743,6 +759,25 @@
       "id": "http://www.wikidata.org/entity/statement/Q41540312-3490dc14-46e6-854e-d4b8-ccfb4d1e0b35",
       "person_id": "Q41540312",
       "area_id": "Q6441985",
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16151930-fb18c588-4369-b7f6-7470-ac68c1ac0ee4",
+      "person_id": "Q16151930",
+      "area_id": "Q16209592",
+      "start_date": "2013-10-28",
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16151930-7c845f03-4192-fa9f-9c99-bbda102f06e9",
+      "person_id": "Q16151930",
+      "area_id": "Q16209592",
       "role_code": "Q45308607",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
