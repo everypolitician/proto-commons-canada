@@ -22918,6 +22918,19 @@
     },
     {
       "name": {
+        "lang:en_CA": "Trillium Party of Ontario"
+      },
+      "id": "Q29467157",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29467157"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Progressive Conservative Party of Ontario",
         "lang:fr_CA": "Parti progressiste-conservateur de l'Ontario"
       },
@@ -31014,11 +31027,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6113811-2DD559E7-61A0-45E0-940A-6CA22E688BB1",
+      "id": "http://www.wikidata.org/entity/statement/Q6113811-02c87ee4-4304-c740-4690-cce32b812d3f",
       "person_id": "Q6113811",
-      "on_behalf_of_id": "Q826977",
+      "on_behalf_of_id": "Q29467157",
       "area_id": "Q5041265",
-      "start_date": "2011-10-06",
+      "start_date": "2017-05-28",
       "role_code": "Q3305347",
       "role": {
         "lang:en_CA": "Member of Ontario Provincial Parliament",
