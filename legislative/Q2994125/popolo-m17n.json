@@ -1,0 +1,590 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6360723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6360723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Kanata South",
+        "lang:fr_CA": "Kanata-Sud"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q4874163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4874163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Bay",
+        "lang:fr_CA": "Baie"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q14875376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14875376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Osgoode",
+        "lang:fr_CA": "Osgoode"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q4875947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4875947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Beacon Hill-Cyrville",
+        "lang:fr_CA": "Beacon Hill-Cyrville"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q5146574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5146574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "College",
+        "lang:fr_CA": "Collège"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q5572003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5572003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Gloucester-South Nepean",
+        "lang:fr_CA": "Gloucester-Nepean-Sud"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q6360719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6360719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Kanata North",
+        "lang:fr_CA": "Kanata-Nord"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q6423634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6423634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Knoxdale-Merivale",
+        "lang:fr_CA": "Knoxdale-Merivale"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7337950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7337950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "River",
+        "lang:fr_CA": "Rivière"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q5035684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5035684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Capital",
+        "lang:fr_CA": "Capitale"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q6418084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6418084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Kitchissippi",
+        "lang:fr_CA": "Kitchissippi"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q5572005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5572005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Gloucester-Southgate",
+        "lang:fr_CA": "Gloucester-Southgate"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q4736016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4736016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Alta Vista",
+        "lang:fr_CA": "Alta Vista"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7559914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7559914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Somerset",
+        "lang:fr_CA": "Somerset"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7617682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7617682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Stittsville",
+        "lang:fr_CA": "Stittsville"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7332561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7332561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Rideau-Vanier",
+        "lang:fr_CA": "Rideau-Vanier"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7332560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7332560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Rideau-Rockcliffe",
+        "lang:fr_CA": "Rideau-Rockcliffe"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q14875206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14875206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Innes",
+        "lang:fr_CA": "Innes"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7103343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7103343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Orléans",
+        "lang:fr_CA": "Orléans"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q5193981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5193981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Cumberland",
+        "lang:fr_CA": "Cumberland"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7332557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7332557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Rideau-Goulbourn",
+        "lang:fr_CA": "Rideau-Goulbourn"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q7984656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7984656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "West Carleton – March",
+        "lang:fr_CA": "West Carleton – March"
+      },
+      "parent_id": "Q1930"
+    },
+    {
+      "id": "Q4863461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4863461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47487122"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Ottawa"
+      },
+      "name": {
+        "lang:en_CA": "Barrhaven",
+        "lang:fr_CA": "Barrhaven"
+      },
+      "parent_id": "Q1930"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
