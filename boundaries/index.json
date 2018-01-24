@@ -229,6 +229,19 @@
         }
     },
     {
+        "directory": "edmonton-wards",
+        "associations": [
+            {
+                "comment": "Member of Edmonton City Council",
+                "position_item_id": "Q47490130"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47489972",
+        "name_columns": {
+            "lang:en_CA": "name"
+        }
+    },
+    {
         "directory": "cities",
         "associations": [
             {
