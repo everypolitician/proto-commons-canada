@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en_CA": "William Lyon Mackenzie",
+        "lang:fr_CA": "William Lyon Mackenzie"
+      },
+      "id": "Q182454",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q182454"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "John Tory",
         "lang:fr_CA": "John Tory"
       },
@@ -37,6 +53,20 @@
     }
   ],
   "organizations": [
+    {
+      "name": {
+        "lang:en_CA": "Clear Grits",
+        "lang:fr_CA": "Clear Grits"
+      },
+      "id": "Q2978753",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2978753"
+        }
+      ]
+    },
     {
       "name": {
         "lang:en_CA": "Progressive Conservative Party of Ontario",
@@ -77,6 +107,54 @@
         "lang:fr_CA": "Canada"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q2096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4811061"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton"
+      },
+      "parent_id": "Q1951"
+    },
+    {
+      "id": "Q1930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa"
+      },
+      "parent_id": "Q1904"
     },
     {
       "id": "Q172",
@@ -125,33 +203,25 @@
         "lang:en_CA": "Calgary"
       },
       "parent_id": "Q1951"
-    },
-    {
-      "id": "Q1930",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3506008"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1930"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
-      },
-      "name": {
-        "lang:en_CA": "Ottawa"
-      },
-      "parent_id": "Q1904"
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q182454-97C2DC7A-F30F-47F3-A792-75B6044D8DB4",
+      "person_id": "Q182454",
+      "on_behalf_of_id": "Q2978753",
+      "area_id": "Q172",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en_CA": "mayor",
+        "lang:fr_CA": "maire"
+      },
+      "role_code": "Q14927262",
+      "role": {
+        "lang:en_CA": "Mayor of Toronto",
+        "lang:fr_CA": "maire de Toronto"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q928118-1AF37B6D-2403-477B-971E-35A36F98D0A9",
       "person_id": "Q928118",
