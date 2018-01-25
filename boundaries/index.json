@@ -255,6 +255,19 @@
         }
     },
     {
+        "directory": "halifax-wards",
+        "associations": [
+            {
+                "comment": "Member of Halifax Regional Council",
+                "position_item_id": "Q47490131"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47489973",
+        "name_columns": {
+            "lang:en_CA": "DISTNAME"
+        }
+    },
+    {
         "directory": "cities",
         "associations": [
             {

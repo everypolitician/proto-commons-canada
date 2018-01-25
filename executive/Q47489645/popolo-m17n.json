@@ -150,6 +150,30 @@
         "lang:en_CA": "Calgary"
       },
       "parent_id": "Q1951"
+    },
+    {
+      "id": "Q2141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:1209034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Halifax"
+      },
+      "parent_id": "Q1952"
     }
   ],
   "memberships": [
