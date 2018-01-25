@@ -1,24 +1,6 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:en_CA": "Naheed Nenshi",
-        "lang:fr_CA": "Naheed Nenshi"
-      },
-      "id": "Q2588612",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2588612"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/NaheedNenshi"
-        }
-      ]
-    }
+
   ],
   "organizations": [
 
@@ -171,20 +153,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q2588612-c658ee6b-41c0-d404-3555-90b9a56f3812",
-      "person_id": "Q2588612",
-      "area_id": "Q36312",
-      "start_date": "2010-10-25",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
-      },
-      "role_code": "Q47455744",
-      "role": {
-        "lang:en_CA": "Mayor of Calgary"
-      }
-    }
+
   ]
 }

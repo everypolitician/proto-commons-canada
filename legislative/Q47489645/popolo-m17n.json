@@ -1,0 +1,383 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47490230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Fort Rouge - East Fort Garry"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Charleswood - Tuxedo - Whyte Ridge"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Mynarski"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "St. Charles"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "St. Boniface"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "St. Vital"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "South Winnipeg - St Norbert"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Transcona"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "North Kildonan"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Point Douglas"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "River Heights - Fort Garry"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Elmwood - East Kildonan"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Old Kildonan"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "Daniel McIntyre"
+      },
+      "parent_id": "Q2135"
+    },
+    {
+      "id": "Q47490226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490128"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Winnipeg"
+      },
+      "name": {
+        "lang:en_CA": "St. James - Brooklands - Weston"
+      },
+      "parent_id": "Q2135"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
