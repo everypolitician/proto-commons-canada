@@ -30,6 +30,102 @@
         "lang:fr_CA": "Canada"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q2096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4811061"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton"
+      },
+      "parent_id": "Q1951"
+    },
+    {
+      "id": "Q1930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3520005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Toronto"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q36312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Calgary"
+      },
+      "parent_id": "Q1951"
     }
   ],
   "memberships": [
