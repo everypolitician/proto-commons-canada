@@ -109,6 +109,30 @@
       "parent_id": null
     },
     {
+      "id": "Q2145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Quebec City"
+      },
+      "parent_id": "Q176"
+    },
+    {
       "id": "Q24639",
       "identifiers": [
         {

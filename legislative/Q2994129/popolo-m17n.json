@@ -1,0 +1,836 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:fr_CA": "Dominique Tanguay"
+      },
+      "id": "Q47494135",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47494135"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/dominique.tanguay.7"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:fr_CA": "Geneviève Hamelin"
+      },
+      "id": "Q47493593",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493593"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/genevieve.hamelin.733"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:fr_CA": "Jean Rousseau"
+      },
+      "id": "Q47493766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493766"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JRDemocratieQuebec"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:fr_CA": "Yvon Bussières"
+      },
+      "id": "Q47493921",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493921"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yvon.bussieres.1"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Alicia Despins"
+      },
+      "id": "Q47492856",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47492856"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/alicia.angeldespins"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Jean-François Gosselin",
+        "lang:fr_CA": "Jean-François Gosselin"
+      },
+      "id": "Q3165629",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3165629"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Rémy Normand"
+      },
+      "id": "Q47493909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493909"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Suzanne Verreault"
+      },
+      "id": "Q47494155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47494155"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/suzanne.verreault2"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Sylvain Légaré",
+        "lang:fr_CA": "Sylvain Légaré"
+      },
+      "id": "Q3507059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3507059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Émilie Villeneuve"
+      },
+      "id": "Q47493302",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493302"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en_CA": "Team Labeaume",
+        "lang:fr_CA": "Équipe Labeaume"
+      },
+      "id": "Q3589476",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3589476"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:fr_CA": "Démocratie Québec"
+      },
+      "id": "Q3043502",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3043502"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Québec 21",
+        "lang:fr_CA": "Québec 21"
+      },
+      "id": "Q47493291",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493291"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47490342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Cap-aux-Diamants"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Montcalm–Saint-Sacrement"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Saint-Roch–Saint-Sauveur"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Limoilou"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Maizerets-Lairet"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47493667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Vanier-Duberger"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Neufchâtel-Lebourgneuf"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47493684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47493684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Les Saules"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Saint-Louis–Sillery"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Le Plateau"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "La Pointe-de-Sainte-Foy"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Cap-Rouge–Laurentien"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Saint-Rodrigue"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Louis -XIV"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Les Monts"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Sainte-Thérèse-de-Lisieux"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "La Chute-Montmorency–Seigneurial"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Robert-Giffard"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Lac-Saint-Charles–Saint-Émile"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Loretteville-Les Châtels"
+      },
+      "parent_id": "Q2145"
+    },
+    {
+      "id": "Q47490364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2423027/district:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490318"
+      ],
+      "type": {
+        "lang:en_CA": "Municipal electoral districts of Quebec"
+      },
+      "name": {
+        "lang:fr_CA": "Val-Bélair"
+      },
+      "parent_id": "Q2145"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47494135-40b0d624-4636-2ca6-481f-682c360f6dfa",
+      "person_id": "Q47494135",
+      "on_behalf_of_id": "Q3589476",
+      "area_id": "Q47493684",
+      "start_date": "2013-11-03",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47493593-dff397ae-43a6-526a-d381-c5520f442645",
+      "person_id": "Q47493593",
+      "area_id": "Q47490346",
+      "start_date": "2009-11-01",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47493766-b046dc1d-4e29-ca79-eb5e-d697e9985179",
+      "person_id": "Q47493766",
+      "on_behalf_of_id": "Q3043502",
+      "area_id": "Q47490342",
+      "start_date": "2017-11-05",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47493921-6001f132-4f3d-bca9-c178-b5ee1ad76297",
+      "person_id": "Q47493921",
+      "area_id": "Q47490343",
+      "start_date": "1993-01-01",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47492856-ff0ac952-4242-9193-55f1-3240e65f23b8",
+      "person_id": "Q47492856",
+      "on_behalf_of_id": "Q3589476",
+      "area_id": "Q47493667",
+      "start_date": "2017-11-05",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3165629-7caa1a4a-445f-57da-2854-a52ceda76d1d",
+      "person_id": "Q3165629",
+      "on_behalf_of_id": "Q47493291",
+      "area_id": "Q47490359",
+      "start_date": "2017-11-05",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47493909-123c31e6-4a13-7e52-eb2e-0dd8607f7483",
+      "person_id": "Q47493909",
+      "on_behalf_of_id": "Q3589476",
+      "area_id": "Q47490351",
+      "start_date": "2017-11-05",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47494155-3613a97d-4717-35b6-c058-88ec41060125",
+      "person_id": "Q47494155",
+      "on_behalf_of_id": "Q3589476",
+      "area_id": "Q47490345",
+      "start_date": "2009-01-01",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3507059-588270bf-4e6e-d1ba-09c6-5f6c0a421e0d",
+      "person_id": "Q3507059",
+      "area_id": "Q47490364",
+      "start_date": "2009-11-01",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47493302-d521c0e5-4c42-7b55-a3f4-6f2921a22b7b",
+      "person_id": "Q47493302",
+      "on_behalf_of_id": "Q3589476",
+      "area_id": "Q47490350",
+      "start_date": "2017-11-05",
+      "role_code": "Q47490318",
+      "role": {
+        "lang:en_CA": "Member of Quebec City Council"
+      }
+    }
+  ]
+}
