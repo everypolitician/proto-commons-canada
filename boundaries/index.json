@@ -294,6 +294,32 @@
         }
     },
     {
+        "directory": "montreal-boroughs",
+        "associations": [
+            {
+                "comment": "Borough Mayor (Montreal)",
+                "position_item_id": "Q47450833"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q578521",
+        "name_columns": {
+            "lang:en_CA": "Name"
+        }
+    },
+    {
+        "directory": "montreal-districts",
+        "associations": [
+            {
+                "comment": "Montreal City Councillor",
+                "position_item_id": "Q45414411"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47456033",
+        "name_columns": {
+            "lang:en_CA": "Name"
+        }
+    },
+    {
         "directory": "cities",
         "associations": [
             {
