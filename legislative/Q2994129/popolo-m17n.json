@@ -201,6 +201,20 @@
     },
     {
       "name": {
+        "lang:en_CA": "independent politician",
+        "lang:fr_CA": "sans étiquette"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Québec 21",
         "lang:fr_CA": "Québec 21"
       },
@@ -739,6 +753,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q47493593-dff397ae-43a6-526a-d381-c5520f442645",
       "person_id": "Q47493593",
+      "on_behalf_of_id": "Q3589476",
       "area_id": "Q47490346",
       "start_date": "2009-11-01",
       "role_code": "Q47490318",
@@ -760,6 +775,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q47493921-6001f132-4f3d-bca9-c178-b5ee1ad76297",
       "person_id": "Q47493921",
+      "on_behalf_of_id": "Q327591",
       "area_id": "Q47490343",
       "start_date": "1993-01-01",
       "role_code": "Q47490318",
@@ -814,6 +830,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3507059-588270bf-4e6e-d1ba-09c6-5f6c0a421e0d",
       "person_id": "Q3507059",
+      "on_behalf_of_id": "Q3589476",
       "area_id": "Q47490364",
       "start_date": "2009-11-01",
       "role_code": "Q47490318",
