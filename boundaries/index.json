@@ -242,6 +242,19 @@
         }
     },
     {
+        "directory": "winnipeg-wards",
+        "associations": [
+            {
+                "comment": "Member of Winnipeg City Council",
+                "position_item_id": "Q47490128"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47489974",
+        "name_columns": {
+            "lang:en_CA": "name"
+        }
+    },
+    {
         "directory": "cities",
         "associations": [
             {

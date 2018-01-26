@@ -109,6 +109,30 @@
       "parent_id": null
     },
     {
+      "id": "Q2135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Winnipeg"
+      },
+      "parent_id": "Q1948"
+    },
+    {
       "id": "Q2096",
       "identifiers": [
         {
