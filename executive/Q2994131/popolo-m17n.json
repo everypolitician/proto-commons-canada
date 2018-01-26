@@ -2,33 +2,96 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Alexander Keith",
-        "lang:fr_CA": "Alexander Keith"
+        "lang:en_CA": "Jean Drapeau",
+        "lang:fr_CA": "Jean Drapeau"
       },
-      "id": "Q2833143",
+      "id": "Q979154",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q2833143"
+          "identifier": "Q979154"
         }
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Médéric Martin",
+        "lang:fr_CA": "Médéric Martin"
+      },
+      "id": "Q3332743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3332743"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Valérie Plante",
+        "lang:fr_CA": "Valérie Plante"
+      },
+      "id": "Q27959212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27959212"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MTL.ValeriePlante"
+        }
       ]
     }
   ],
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Progressive Conservative Association of Nova Scotia",
-        "lang:fr_CA": "Association progressiste-conservateur de la Nouvelle-Écosse"
+        "lang:en_CA": "Civic Action League",
+        "lang:fr_CA": "Ligue d'action civique"
       },
-      "id": "Q2868020",
+      "id": "Q3240324",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q2868020"
+          "identifier": "Q3240324"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Liberal Party of Canada",
+        "lang:fr_CA": "Parti libéral du Canada"
+      },
+      "id": "Q138345",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Projet Montréal",
+        "lang:fr_CA": "Projet Montréal"
+      },
+      "id": "Q3407213",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3407213"
         }
       ]
     }
@@ -278,19 +341,52 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q2833143-7994682F-AA2F-4E37-A480-885947B20415",
-      "person_id": "Q2833143",
-      "on_behalf_of_id": "Q2868020",
-      "area_id": "Q2141",
+      "id": "http://www.wikidata.org/entity/statement/q979154-36088532-41c1-4230-535b-e488b790bc97",
+      "person_id": "Q979154",
+      "on_behalf_of_id": "Q3240324",
+      "area_id": "Q340",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:en_CA": "mayor",
         "lang:fr_CA": "maire"
       },
-      "role_code": "Q18693083",
+      "role_code": "Q177645",
       "role": {
-        "lang:en_CA": "Mayor of Halifax",
-        "lang:fr_CA": "maire d'Halifax"
+        "lang:en_CA": "Mayor of Montreal",
+        "lang:fr_CA": "maire de Montréal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q3332743-61bb808e-4fd6-5d43-7516-0955cb9d1731",
+      "person_id": "Q3332743",
+      "on_behalf_of_id": "Q138345",
+      "area_id": "Q340",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en_CA": "mayor",
+        "lang:fr_CA": "maire"
+      },
+      "role_code": "Q177645",
+      "role": {
+        "lang:en_CA": "Mayor of Montreal",
+        "lang:fr_CA": "maire de Montréal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27959212-e0ca07f0-4b6b-198e-8bec-a556756db618",
+      "person_id": "Q27959212",
+      "on_behalf_of_id": "Q3407213",
+      "area_id": "Q340",
+      "start_date": "2017-11-16",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en_CA": "mayor",
+        "lang:fr_CA": "maire"
+      },
+      "role_code": "Q177645",
+      "role": {
+        "lang:en_CA": "Mayor of Montreal",
+        "lang:fr_CA": "maire de Montréal"
       }
     }
   ]

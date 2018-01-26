@@ -32,6 +32,30 @@
       "parent_id": null
     },
     {
+      "id": "Q340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Montreal"
+      },
+      "parent_id": "Q176"
+    },
+    {
       "id": "Q2145",
       "identifiers": [
         {
