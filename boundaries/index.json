@@ -268,6 +268,19 @@
         }
     },
     {
+        "directory": "vancouver-wards",
+        "associations": [
+            {
+                "comment": "Member of Vancouver City Council",
+                "position_item_id": "Q47490129"
+            }
+        ],
+        "area_type_wikidata_item_id": "Q47489971",
+        "name_columns": {
+            "lang:en_CA": "Name"
+        }
+    },
+    {
         "directory": "cities",
         "associations": [
             {
