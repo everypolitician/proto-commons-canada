@@ -2,25 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Alfred Moses",
-        "lang:fr_CA": "Alfred Moses"
-      },
-      "id": "Q4723182",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4723182"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/alfred.moses.100"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Caroline Cochrane-Johnson"
       },
       "id": "Q22277389",
@@ -39,24 +20,6 @@
     },
     {
       "name": {
-        "lang:en_CA": "Cory Vanthuyne"
-      },
-      "id": "Q23761321",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23761321"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/cory.vanthuyne"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Daniel McNeely"
       },
       "id": "Q22279154",
@@ -68,25 +31,6 @@
       ],
       "links": [
 
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Glen Abernethy",
-        "lang:fr_CA": "Glen Abernethy"
-      },
-      "id": "Q5567554",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5567554"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Glen-Abernethy-MLA-Great-Slave-533940360092655"
-        }
       ]
     },
     {
@@ -127,18 +71,20 @@
     },
     {
       "name": {
-        "lang:en_CA": "Michael Nadli",
-        "lang:fr_CA": "Michael Nadli"
+        "lang:en_CA": "Cory Vanthuyne"
       },
-      "id": "Q6833011",
+      "id": "Q23761321",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q6833011"
+          "identifier": "Q23761321"
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/cory.vanthuyne"
+        }
       ]
     },
     {
@@ -176,6 +122,60 @@
           "url": "https://www.facebook.com/Shane-Thompson-Nahendeh-MLA-1680351638951201"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Alfred Moses",
+        "lang:fr_CA": "Alfred Moses"
+      },
+      "id": "Q4723182",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4723182"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/alfred.moses.100"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Glen Abernethy",
+        "lang:fr_CA": "Glen Abernethy"
+      },
+      "id": "Q5567554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5567554"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Glen-Abernethy-MLA-Great-Slave-533940360092655"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Michael Nadli",
+        "lang:fr_CA": "Michael Nadli"
+      },
+      "id": "Q6833011",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6833011"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -208,15 +208,15 @@
       "parent_id": null
     },
     {
-      "id": "Q7069727",
+      "id": "Q17088445",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:1"
+          "identifier": "country:ca/territory:nt/ed:16"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q7069727"
+          "identifier": "Q17088445"
         }
       ],
       "associated_wikidata_positions": [
@@ -226,7 +226,191 @@
         "lang:en_CA": "territorial electoral district of the Northwest Territories"
       },
       "name": {
-        "lang:en_CA": "Nunakput"
+        "lang:en_CA": "Kam Lake"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q24190814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24190814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Tu Nedhé-Wiilideh"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q24190816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24190816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Yellowknife North"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q3021281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3021281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Deh Cho"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q3572144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Yellowknife South"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q5477888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5477888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Frame Lake"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q5599968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5599968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Great Slave"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q5685858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5685858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Hay River South"
+      },
+      "parent_id": "Q2007"
+    },
+    {
+      "id": "Q5685861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt/ed:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5685861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308871"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of the Northwest Territories"
+      },
+      "name": {
+        "lang:en_CA": "Hay River North"
       },
       "parent_id": "Q2007"
     },
@@ -300,15 +484,15 @@
       "parent_id": "Q2007"
     },
     {
-      "id": "Q7399745",
+      "id": "Q6899383",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:5"
+          "identifier": "country:ca/territory:nt/ed:7"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q7399745"
+          "identifier": "Q6899383"
         }
       ],
       "associated_wikidata_positions": [
@@ -318,7 +502,7 @@
         "lang:en_CA": "territorial electoral district of the Northwest Territories"
       },
       "name": {
-        "lang:en_CA": "Sahtu"
+        "lang:en_CA": "Monfwi"
       },
       "parent_id": "Q2007"
     },
@@ -346,15 +530,15 @@
       "parent_id": "Q2007"
     },
     {
-      "id": "Q6899383",
+      "id": "Q7069727",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:7"
+          "identifier": "country:ca/territory:nt/ed:1"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q6899383"
+          "identifier": "Q7069727"
         }
       ],
       "associated_wikidata_positions": [
@@ -364,145 +548,7 @@
         "lang:en_CA": "territorial electoral district of the Northwest Territories"
       },
       "name": {
-        "lang:en_CA": "Monfwi"
-      },
-      "parent_id": "Q2007"
-    },
-    {
-      "id": "Q24190814",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:8"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24190814"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Tu Nedhé-Wiilideh"
-      },
-      "parent_id": "Q2007"
-    },
-    {
-      "id": "Q3021281",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:9"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3021281"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Deh Cho"
-      },
-      "parent_id": "Q2007"
-    },
-    {
-      "id": "Q7777596",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:10"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7777596"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Thebacha"
-      },
-      "parent_id": "Q2007"
-    },
-    {
-      "id": "Q24190816",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:11"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24190816"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Yellowknife North"
-      },
-      "parent_id": "Q2007"
-    },
-    {
-      "id": "Q5685858",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:12"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5685858"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Hay River South"
-      },
-      "parent_id": "Q2007"
-    },
-    {
-      "id": "Q5685861",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:13"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5685861"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Hay River North"
+        "lang:en_CA": "Nunakput"
       },
       "parent_id": "Q2007"
     },
@@ -530,15 +576,15 @@
       "parent_id": "Q2007"
     },
     {
-      "id": "Q3572144",
+      "id": "Q7399745",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:15"
+          "identifier": "country:ca/territory:nt/ed:5"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q3572144"
+          "identifier": "Q7399745"
         }
       ],
       "associated_wikidata_positions": [
@@ -548,20 +594,20 @@
         "lang:en_CA": "territorial electoral district of the Northwest Territories"
       },
       "name": {
-        "lang:en_CA": "Yellowknife South"
+        "lang:en_CA": "Sahtu"
       },
       "parent_id": "Q2007"
     },
     {
-      "id": "Q17088445",
+      "id": "Q7777596",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:16"
+          "identifier": "country:ca/territory:nt/ed:10"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q17088445"
+          "identifier": "Q7777596"
         }
       ],
       "associated_wikidata_positions": [
@@ -571,30 +617,7 @@
         "lang:en_CA": "territorial electoral district of the Northwest Territories"
       },
       "name": {
-        "lang:en_CA": "Kam Lake"
-      },
-      "parent_id": "Q2007"
-    },
-    {
-      "id": "Q5477888",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:17"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5477888"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Frame Lake"
+        "lang:en_CA": "Thebacha"
       },
       "parent_id": "Q2007"
     },
@@ -620,41 +643,9 @@
         "lang:en_CA": "Yellowknife Centre"
       },
       "parent_id": "Q2007"
-    },
-    {
-      "id": "Q5599968",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt/ed:19"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5599968"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308871"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of the Northwest Territories"
-      },
-      "name": {
-        "lang:en_CA": "Great Slave"
-      },
-      "parent_id": "Q2007"
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4723182-fda6bcba-492b-556a-2e84-e862fd7de650",
-      "person_id": "Q4723182",
-      "area_id": "Q6059367",
-      "role_code": "Q45308871",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22277389-55009838-43c4-4768-de2c-a2fe0ae32e1f",
       "person_id": "Q22277389",
@@ -666,29 +657,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q23761321-044a2609-4d69-7825-a150-04d27700942e",
-      "person_id": "Q23761321",
-      "area_id": "Q24190816",
-      "start_date": "2015-11-23",
-      "role_code": "Q45308871",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q22279154-4bac5b5e-4ac8-f5a6-98dc-9d7318b329d3",
       "person_id": "Q22279154",
       "area_id": "Q7399745",
       "start_date": "2015-11-23",
-      "role_code": "Q45308871",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5567554-92665f42-4783-4505-d78a-94b18aac7ea1",
-      "person_id": "Q5567554",
-      "area_id": "Q5599968",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
@@ -714,9 +686,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6833011-ba826892-47bf-55e4-7f7d-45bc1b9d78df",
-      "person_id": "Q6833011",
-      "area_id": "Q3021281",
+      "id": "http://www.wikidata.org/entity/statement/Q23761321-044a2609-4d69-7825-a150-04d27700942e",
+      "person_id": "Q23761321",
+      "area_id": "Q24190816",
+      "start_date": "2015-11-23",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
@@ -737,6 +710,33 @@
       "person_id": "Q23761324",
       "area_id": "Q6959245",
       "start_date": "2015-11-23",
+      "role_code": "Q45308871",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4723182-fda6bcba-492b-556a-2e84-e862fd7de650",
+      "person_id": "Q4723182",
+      "area_id": "Q6059367",
+      "role_code": "Q45308871",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5567554-92665f42-4783-4505-d78a-94b18aac7ea1",
+      "person_id": "Q5567554",
+      "area_id": "Q5599968",
+      "role_code": "Q45308871",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6833011-ba826892-47bf-55e4-7f7d-45bc1b9d78df",
+      "person_id": "Q6833011",
+      "area_id": "Q3021281",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"

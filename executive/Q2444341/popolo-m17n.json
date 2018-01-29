@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en_CA": "Hiram E. McCallum",
+        "lang:fr_CA": "Hiram E. McCallum"
+      },
+      "id": "Q1274990",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1274990"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "William Lyon Mackenzie",
         "lang:fr_CA": "William Lyon Mackenzie"
       },
@@ -33,22 +49,6 @@
           "note": "facebook",
           "url": "https://www.facebook.com/johntoryTO"
         }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Hiram E. McCallum",
-        "lang:fr_CA": "Hiram E. McCallum"
-      },
-      "id": "Q1274990",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1274990"
-        }
-      ],
-      "links": [
-
       ]
     }
   ],
@@ -109,15 +109,15 @@
       "parent_id": null
     },
     {
-      "id": "Q340",
+      "id": "Q172",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023"
+          "identifier": "country:ca/csd:3520005"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q340"
+          "identifier": "Q172"
         }
       ],
       "associated_wikidata_positions": [
@@ -128,9 +128,105 @@
         "lang:fr_CA": "ville"
       },
       "name": {
-        "lang:en_CA": "Montreal"
+        "lang:en_CA": "Toronto"
       },
-      "parent_id": "Q176"
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q1930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q2096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4811061"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Edmonton"
+      },
+      "parent_id": "Q1951"
+    },
+    {
+      "id": "Q2135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4611040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Winnipeg"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:1209034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Halifax"
+      },
+      "parent_id": "Q1952"
     },
     {
       "id": "Q2145",
@@ -181,15 +277,15 @@
       "parent_id": "Q1974"
     },
     {
-      "id": "Q2135",
+      "id": "Q340",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4611040"
+          "identifier": "country:ca/csd:2466023"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2135"
+          "identifier": "Q340"
         }
       ],
       "associated_wikidata_positions": [
@@ -200,81 +296,9 @@
         "lang:fr_CA": "ville"
       },
       "name": {
-        "lang:en_CA": "Winnipeg"
+        "lang:en_CA": "Montreal"
       },
-      "parent_id": "Q1948"
-    },
-    {
-      "id": "Q2096",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4811061"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2096"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
-      },
-      "name": {
-        "lang:en_CA": "Edmonton"
-      },
-      "parent_id": "Q1951"
-    },
-    {
-      "id": "Q1930",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3506008"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1930"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
-      },
-      "name": {
-        "lang:en_CA": "Ottawa"
-      },
-      "parent_id": "Q1904"
-    },
-    {
-      "id": "Q172",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3520005"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q172"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
-      },
-      "name": {
-        "lang:en_CA": "Toronto"
-      },
-      "parent_id": "Q1904"
+      "parent_id": "Q176"
     },
     {
       "id": "Q36312",
@@ -299,33 +323,24 @@
         "lang:en_CA": "Calgary"
       },
       "parent_id": "Q1951"
-    },
-    {
-      "id": "Q2141",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:1209034"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2141"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
-      },
-      "name": {
-        "lang:en_CA": "Halifax"
-      },
-      "parent_id": "Q1952"
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1274990-6B24815C-57D5-418C-B44B-1B4A6B996444",
+      "person_id": "Q1274990",
+      "area_id": "Q172",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en_CA": "mayor",
+        "lang:fr_CA": "maire"
+      },
+      "role_code": "Q14927262",
+      "role": {
+        "lang:en_CA": "Mayor of Toronto",
+        "lang:fr_CA": "maire de Toronto"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q182454-97C2DC7A-F30F-47F3-A792-75B6044D8DB4",
       "person_id": "Q182454",
@@ -348,21 +363,6 @@
       "on_behalf_of_id": "Q826977",
       "area_id": "Q172",
       "start_date": "2014-12-01",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
-      },
-      "role_code": "Q14927262",
-      "role": {
-        "lang:en_CA": "Mayor of Toronto",
-        "lang:fr_CA": "maire de Toronto"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1274990-6B24815C-57D5-418C-B44B-1B4A6B996444",
-      "person_id": "Q1274990",
-      "area_id": "Q172",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:en_CA": "mayor",

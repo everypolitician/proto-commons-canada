@@ -2,20 +2,39 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Anne-Marie Sigouin",
-        "lang:fr_CA": "Anne-Marie Sigouin"
+        "lang:en_CA": "Magda Popeanu",
+        "lang:fr_CA": "Magda Popeanu"
       },
-      "id": "Q42740027",
+      "id": "Q16187268",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q42740027"
+          "identifier": "Q16187268"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/AMsigouin"
+          "url": "https://www.facebook.com/mpopeanu"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Suzanne Décarie",
+        "lang:fr_CA": "Suzanne Décarie"
+      },
+      "id": "Q16201113",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16201113"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/suzanne.decarie.7"
         }
       ]
     },
@@ -35,6 +54,59 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/mairessechristineblack"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Michel Bissonnet",
+        "lang:fr_CA": "Michel Bissonnet"
+      },
+      "id": "Q3309025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3309025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Anne-Marie Sigouin",
+        "lang:fr_CA": "Anne-Marie Sigouin"
+      },
+      "id": "Q42740027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42740027"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AMsigouin"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Maja Vodanovic"
+      },
+      "id": "Q45312548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45312548"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/maja.vodanovic.9"
         }
       ]
     },
@@ -75,43 +147,6 @@
     },
     {
       "name": {
-        "lang:en_CA": "Magda Popeanu",
-        "lang:fr_CA": "Magda Popeanu"
-      },
-      "id": "Q16187268",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16187268"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/mpopeanu"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Maja Vodanovic"
-      },
-      "id": "Q45312548",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q45312548"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/maja.vodanovic.9"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Manon Barbe",
         "lang:fr_CA": "Manon Barbe"
       },
@@ -147,41 +182,6 @@
     },
     {
       "name": {
-        "lang:en_CA": "Michel Bissonnet",
-        "lang:fr_CA": "Michel Bissonnet"
-      },
-      "id": "Q3309025",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3309025"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Suzanne Décarie",
-        "lang:fr_CA": "Suzanne Décarie"
-      },
-      "id": "Q16201113",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16201113"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/suzanne.decarie.7"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Émilie Thuillier"
       },
       "id": "Q8078328",
@@ -202,20 +202,6 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Projet Montréal",
-        "lang:fr_CA": "Projet Montréal"
-      },
-      "id": "Q3407213",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3407213"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Ensemble Montréal",
         "lang:fr_CA": "Ensemble Montréal"
       },
@@ -225,6 +211,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q15050564"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Projet Montréal",
+        "lang:fr_CA": "Projet Montréal"
+      },
+      "id": "Q3407213",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3407213"
         }
       ]
     },
@@ -268,52 +268,6 @@
         "lang:fr_CA": "Canada"
       },
       "parent_id": null
-    },
-    {
-      "id": "Q47455983",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:1.1"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455983"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Sault-au-Récollet"
-      },
-      "parent_id": "Q340"
-    },
-    {
-      "id": "Q47455982",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:1.2"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455982"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Saint-Sulpice"
-      },
-      "parent_id": "Q340"
     },
     {
       "id": "Q47455979",
@@ -362,15 +316,15 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47455987",
+      "id": "Q47455982",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:3.1"
+          "identifier": "country:ca/csd:2466023/district:1.2"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47455987"
+          "identifier": "Q47455982"
         }
       ],
       "associated_wikidata_positions": [
@@ -380,7 +334,30 @@
         "lang:en_CA": "municipal electoral district of Montreal"
       },
       "name": {
-        "lang:en_CA": "Darlington"
+        "lang:en_CA": "Saint-Sulpice"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:1.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Sault-au-Récollet"
       },
       "parent_id": "Q340"
     },
@@ -408,15 +385,15 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47455990",
+      "id": "Q47455987",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:3.3"
+          "identifier": "country:ca/csd:2466023/district:3.1"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47455990"
+          "identifier": "Q47455987"
         }
       ],
       "associated_wikidata_positions": [
@@ -426,30 +403,7 @@
         "lang:en_CA": "municipal electoral district of Montreal"
       },
       "name": {
-        "lang:en_CA": "Snowdon"
-      },
-      "parent_id": "Q340"
-    },
-    {
-      "id": "Q47455989",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:3.4"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455989"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Notre-Dame-de-Grâce"
+        "lang:en_CA": "Darlington"
       },
       "parent_id": "Q340"
     },
@@ -477,15 +431,15 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47455994",
+      "id": "Q47455989",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:5.1"
+          "identifier": "country:ca/csd:2466023/district:3.4"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47455994"
+          "identifier": "Q47455989"
         }
       ],
       "associated_wikidata_positions": [
@@ -495,7 +449,30 @@
         "lang:en_CA": "municipal electoral district of Montreal"
       },
       "name": {
-        "lang:en_CA": "Sault-Saint-Louis"
+        "lang:en_CA": "Notre-Dame-de-Grâce"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:3.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Snowdon"
       },
       "parent_id": "Q340"
     },
@@ -523,15 +500,15 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47456003",
+      "id": "Q47455994",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:7.1"
+          "identifier": "country:ca/csd:2466023/district:5.1"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47456003"
+          "identifier": "Q47455994"
         }
       ],
       "associated_wikidata_positions": [
@@ -541,20 +518,20 @@
         "lang:en_CA": "municipal electoral district of Montreal"
       },
       "name": {
-        "lang:en_CA": "Tétreaultville"
+        "lang:en_CA": "Sault-Saint-Louis"
       },
       "parent_id": "Q340"
     },
     {
-      "id": "Q47456002",
+      "id": "Q47455995",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:7.2"
+          "identifier": "country:ca/csd:2466023/district:11.2"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47456002"
+          "identifier": "Q47455995"
         }
       ],
       "associated_wikidata_positions": [
@@ -564,7 +541,99 @@
         "lang:en_CA": "municipal electoral district of Montreal"
       },
       "name": {
-        "lang:en_CA": "Maisonneuve—Longue-Pointe"
+        "lang:en_CA": "DeLorimier"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:11.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Jeanne-Mance"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:11.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Mile-End"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:16.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:16.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Paul—Émard"
       },
       "parent_id": "Q340"
     },
@@ -611,6 +680,52 @@
       },
       "name": {
         "lang:en_CA": "Louis-Riel"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:7.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Maisonneuve—Longue-Pointe"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:7.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Tétreaultville"
       },
       "parent_id": "Q340"
     },
@@ -707,75 +822,6 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47455997",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:11.1"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455997"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Mile-End"
-      },
-      "parent_id": "Q340"
-    },
-    {
-      "id": "Q47455995",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:11.2"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455995"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "DeLorimier"
-      },
-      "parent_id": "Q340"
-    },
-    {
-      "id": "Q47455996",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:11.3"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455996"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Jeanne-Mance"
-      },
-      "parent_id": "Q340"
-    },
-    {
       "id": "Q47456010",
       "identifiers": [
         {
@@ -845,29 +891,6 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47456015",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:13.1"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47456015"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Saint-Édouard"
-      },
-      "parent_id": "Q340"
-    },
-    {
       "id": "Q47456013",
       "identifiers": [
         {
@@ -891,29 +914,6 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47456017",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:13.3"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47456017"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Vieux-Rosemont"
-      },
-      "parent_id": "Q340"
-    },
-    {
       "id": "Q47456014",
       "identifiers": [
         {
@@ -933,6 +933,52 @@
       },
       "name": {
         "lang:en_CA": "Marie-Victorin"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:13.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Saint-Édouard"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:13.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Vieux-Rosemont"
       },
       "parent_id": "Q340"
     },
@@ -1029,15 +1075,15 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47455998",
+      "id": "Q47456023",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:16.1"
+          "identifier": "country:ca/csd:2466023/district:19.1"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47455998"
+          "identifier": "Q47456023"
         }
       ],
       "associated_wikidata_positions": [
@@ -1047,30 +1093,7 @@
         "lang:en_CA": "municipal electoral district of Montreal"
       },
       "name": {
-        "lang:en_CA": "Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles"
-      },
-      "parent_id": "Q340"
-    },
-    {
-      "id": "Q47455999",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:16.2"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455999"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Saint-Paul—Émard"
+        "lang:en_CA": "Saint-Michel"
       },
       "parent_id": "Q340"
     },
@@ -1190,29 +1213,6 @@
       "parent_id": "Q340"
     },
     {
-      "id": "Q47456023",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:19.1"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47456023"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Saint-Michel"
-      },
-      "parent_id": "Q340"
-    },
-    {
       "id": "Q47456029",
       "identifiers": [
         {
@@ -1232,29 +1232,6 @@
       },
       "name": {
         "lang:en_CA": "François-Perrault"
-      },
-      "parent_id": "Q340"
-    },
-    {
-      "id": "Q47456031",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023/district:19.3"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47456031"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414411"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
-      },
-      "name": {
-        "lang:en_CA": "Villeray"
       },
       "parent_id": "Q340"
     },
@@ -1280,14 +1257,49 @@
         "lang:en_CA": "Parc-Extension"
       },
       "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:19.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en_CA": "Villeray"
+      },
+      "parent_id": "Q340"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q42740027-45835176-41b8-d041-f70d-2cbb53387a43",
-      "person_id": "Q42740027",
+      "id": "http://www.wikidata.org/entity/statement/Q16187268-d75c3ea2-4d24-bcbb-530d-74950068ccba",
+      "person_id": "Q16187268",
       "on_behalf_of_id": "Q3407213",
-      "area_id": "Q47455999",
+      "area_id": "Q47455986",
+      "start_date": "2013-01-01",
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en_CA": "Montreal City Councillor",
+        "lang:fr_CA": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16201113-7b354342-467f-3987-d080-d3679c8213aa",
+      "person_id": "Q16201113",
+      "on_behalf_of_id": "Q15050564",
+      "area_id": "Q47456011",
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {
@@ -1301,6 +1313,42 @@
       "on_behalf_of_id": "Q15050564",
       "area_id": "Q1714436",
       "start_date": "2016-04-01",
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en_CA": "Montreal City Councillor",
+        "lang:fr_CA": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3309025-0cba9eab-4579-1435-0e02-b93c01e8c391",
+      "person_id": "Q3309025",
+      "on_behalf_of_id": "Q15050564",
+      "area_id": "Q1325316",
+      "start_date": "2013-11-03",
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en_CA": "Montreal City Councillor",
+        "lang:fr_CA": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42740027-45835176-41b8-d041-f70d-2cbb53387a43",
+      "person_id": "Q42740027",
+      "on_behalf_of_id": "Q3407213",
+      "area_id": "Q47455999",
+      "start_date": "2013-01-01",
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en_CA": "Montreal City Councillor",
+        "lang:fr_CA": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45312548-44eb3684-4213-296d-1a50-8ff32afa9eb4",
+      "person_id": "Q45312548",
+      "on_behalf_of_id": "Q3407213",
+      "area_id": "Q47455991",
+      "start_date": "2017-01-01",
       "role_code": "Q45414411",
       "role": {
         "lang:en_CA": "Montreal City Councillor",
@@ -1330,30 +1378,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16187268-d75c3ea2-4d24-bcbb-530d-74950068ccba",
-      "person_id": "Q16187268",
-      "on_behalf_of_id": "Q3407213",
-      "area_id": "Q47455986",
-      "start_date": "2013-01-01",
-      "role_code": "Q45414411",
-      "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q45312548-44eb3684-4213-296d-1a50-8ff32afa9eb4",
-      "person_id": "Q45312548",
-      "on_behalf_of_id": "Q3407213",
-      "area_id": "Q47455991",
-      "start_date": "2017-01-01",
-      "role_code": "Q45414411",
-      "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6751263-a0be61ab-4b00-aca6-c441-7b89f3dca1e6",
       "person_id": "Q6751263",
       "on_behalf_of_id": "Q47496204",
@@ -1370,30 +1394,6 @@
       "person_id": "Q6779315",
       "on_behalf_of_id": "Q15050564",
       "area_id": "Q47456030",
-      "start_date": "2013-01-01",
-      "role_code": "Q45414411",
-      "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3309025-0cba9eab-4579-1435-0e02-b93c01e8c391",
-      "person_id": "Q3309025",
-      "on_behalf_of_id": "Q15050564",
-      "area_id": "Q1325316",
-      "start_date": "2013-11-03",
-      "role_code": "Q45414411",
-      "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16201113-7b354342-467f-3987-d080-d3679c8213aa",
-      "person_id": "Q16201113",
-      "on_behalf_of_id": "Q15050564",
-      "area_id": "Q47456011",
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {

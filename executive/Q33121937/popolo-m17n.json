@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Eva Aariak",
-        "lang:fr_CA": "Eva Aariak"
-      },
-      "id": "Q466891",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q466891"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Paul Quassa",
         "lang:fr_CA": "Paul Quassa"
       },
@@ -26,6 +10,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16151930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Eva Aariak",
+        "lang:fr_CA": "Eva Aariak"
+      },
+      "id": "Q466891",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q466891"
         }
       ],
       "links": [
@@ -127,15 +127,15 @@
       "parent_id": "Q16"
     },
     {
-      "id": "Q1965",
+      "id": "Q1948",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/province:nb"
+          "identifier": "country:ca/province:mb"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1965"
+          "identifier": "Q1948"
         }
       ],
       "associated_wikidata_positions": [
@@ -147,8 +147,33 @@
         "lang:fr_CA": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "New Brunswick",
-        "lang:fr_CA": "Nouveau-Brunswick"
+        "lang:en_CA": "Manitoba"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Alberta",
+        "lang:fr_CA": "Alberta"
       },
       "parent_id": "Q16"
     },
@@ -179,15 +204,15 @@
       "parent_id": "Q16"
     },
     {
-      "id": "Q2023",
+      "id": "Q1965",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu"
+          "identifier": "country:ca/province:nb"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2023"
+          "identifier": "Q1965"
         }
       ],
       "associated_wikidata_positions": [
@@ -199,33 +224,8 @@
         "lang:fr_CA": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "Nunavut",
-        "lang:fr_CA": "Nunavut"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1948",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:mb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1948"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en_CA": "Manitoba"
+        "lang:en_CA": "New Brunswick",
+        "lang:fr_CA": "Nouveau-Brunswick"
       },
       "parent_id": "Q16"
     },
@@ -308,32 +308,6 @@
       "parent_id": "Q16"
     },
     {
-      "id": "Q1951",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ab"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1951"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en_CA": "Alberta",
-        "lang:fr_CA": "Alberta"
-      },
-      "parent_id": "Q16"
-    },
-    {
       "id": "Q2003",
       "identifiers": [
         {
@@ -409,14 +383,40 @@
         "lang:en_CA": "Yukon"
       },
       "parent_id": "Q16"
+    },
+    {
+      "id": "Q2023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Nunavut",
+        "lang:fr_CA": "Nunavut"
+      },
+      "parent_id": "Q16"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/q466891-8b15426f-47fc-9994-a528-0cfb123a8191",
-      "person_id": "Q466891",
-      "on_behalf_of_id": "Q3112578",
+      "id": "http://www.wikidata.org/entity/statement/Q16151930-23b15434-4ee2-71ac-6be8-e56f7104bea6",
+      "person_id": "Q16151930",
       "area_id": "Q2023",
+      "start_date": "2017-11-21",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
         "lang:en_CA": "premier",
@@ -429,10 +429,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16151930-23b15434-4ee2-71ac-6be8-e56f7104bea6",
-      "person_id": "Q16151930",
+      "id": "http://www.wikidata.org/entity/statement/q466891-8b15426f-47fc-9994-a528-0cfb123a8191",
+      "person_id": "Q466891",
+      "on_behalf_of_id": "Q3112578",
       "area_id": "Q2023",
-      "start_date": "2017-11-21",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
         "lang:en_CA": "premier",

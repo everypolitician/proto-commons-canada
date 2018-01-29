@@ -2,115 +2,21 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Adam Arreak-Lightstone"
+        "lang:en_CA": "Tony Akoak",
+        "lang:fr_CA": "Tony Akoak"
       },
-      "id": "Q42427188",
+      "id": "Q16145801",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q42427188"
+          "identifier": "Q16145801"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Adam-Arreak-Lightstone-MLA-For-Iqaluit-Manirajak-1937484636536815"
+          "url": "https://www.facebook.com/100010121023931"
         }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Allan Rumbolt",
-        "lang:fr_CA": "Allan Rumbolt"
-      },
-      "id": "Q2837763",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2837763"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Cathy Towtongie"
-      },
-      "id": "Q42427693",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q42427693"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/cathy.towtongie"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "George Hickes",
-        "lang:fr_CA": "George Hickes"
-      },
-      "id": "Q16244044",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16244044"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Joelie Kaernerk"
-      },
-      "id": "Q42427578",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q42427578"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Margaret Nakashuk"
-      },
-      "id": "Q42427576",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q42427576"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Mila Adjukak Kamingoak"
-      },
-      "id": "Q41540312",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q41540312"
-        }
-      ],
-      "links": [
-
       ]
     },
     {
@@ -123,6 +29,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16151930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "George Hickes",
+        "lang:fr_CA": "George Hickes"
+      },
+      "id": "Q16244044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16244044"
         }
       ],
       "links": [
@@ -146,20 +68,98 @@
     },
     {
       "name": {
-        "lang:en_CA": "Tony Akoak",
-        "lang:fr_CA": "Tony Akoak"
+        "lang:en_CA": "Allan Rumbolt",
+        "lang:fr_CA": "Allan Rumbolt"
       },
-      "id": "Q16145801",
+      "id": "Q2837763",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q16145801"
+          "identifier": "Q2837763"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Mila Adjukak Kamingoak"
+      },
+      "id": "Q41540312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41540312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Adam Arreak-Lightstone"
+      },
+      "id": "Q42427188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427188"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/100010121023931"
+          "url": "https://www.facebook.com/Adam-Arreak-Lightstone-MLA-For-Iqaluit-Manirajak-1937484636536815"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Margaret Nakashuk"
+      },
+      "id": "Q42427576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427576"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Joelie Kaernerk"
+      },
+      "id": "Q42427578",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427578"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Cathy Towtongie"
+      },
+      "id": "Q42427693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427693"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/cathy.towtongie"
         }
       ]
     }
@@ -194,29 +194,6 @@
       "parent_id": null
     },
     {
-      "id": "Q16209592",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:962"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16209592"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Aggu"
-      },
-      "parent_id": "Q2023"
-    },
-    {
       "id": "Q12626632",
       "identifiers": [
         {
@@ -240,15 +217,15 @@
       "parent_id": "Q2023"
     },
     {
-      "id": "Q4746949",
+      "id": "Q14501868",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:974"
+          "identifier": "country:ca/territory:nu/ed-tmp:971"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q4746949"
+          "identifier": "Q14501868"
         }
       ],
       "associated_wikidata_positions": [
@@ -258,7 +235,30 @@
         "lang:en_CA": "territorial electoral district of Nunavut"
       },
       "name": {
-        "lang:en_CA": "Amittuq"
+        "lang:en_CA": "Pangnirtung"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16209592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:962"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16209592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Aggu"
       },
       "parent_id": "Q2023"
     },
@@ -309,121 +309,6 @@
       "parent_id": "Q2023"
     },
     {
-      "id": "Q4849172",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:986"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4849172"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Baker Lake"
-      },
-      "parent_id": "Q2023"
-    },
-    {
-      "id": "Q5025357",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:980"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5025357"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Cambridge Bay"
-      },
-      "parent_id": "Q2023"
-    },
-    {
-      "id": "Q17067571",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:1001"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q17067571"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Gjoa Haven"
-      },
-      "parent_id": "Q2023"
-    },
-    {
-      "id": "Q613190",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:1004"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q613190"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Hudson Bay"
-      },
-      "parent_id": "Q2023"
-    },
-    {
-      "id": "Q17070798",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:1007"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q17070798"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Iqaluit-Manirajak"
-      },
-      "parent_id": "Q2023"
-    },
-    {
       "id": "Q16210212",
       "identifiers": [
         {
@@ -470,52 +355,6 @@
       "parent_id": "Q2023"
     },
     {
-      "id": "Q17070816",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:1016"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q17070816"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Iqaluit-Tasiluk"
-      },
-      "parent_id": "Q2023"
-    },
-    {
-      "id": "Q6441985",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:983"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6441985"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Kugluktuk"
-      },
-      "parent_id": "Q2023"
-    },
-    {
       "id": "Q16211071",
       "identifiers": [
         {
@@ -535,52 +374,6 @@
       },
       "name": {
         "lang:en_CA": "Netsilik"
-      },
-      "parent_id": "Q2023"
-    },
-    {
-      "id": "Q14501868",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:971"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q14501868"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Pangnirtung"
-      },
-      "parent_id": "Q2023"
-    },
-    {
-      "id": "Q7273020",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu/ed-tmp:965"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7273020"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45308607"
-      ],
-      "type": {
-        "lang:en_CA": "territorial electoral district of Nunavut"
-      },
-      "name": {
-        "lang:en_CA": "Quttiktuq"
       },
       "parent_id": "Q2023"
     },
@@ -627,6 +420,213 @@
       },
       "name": {
         "lang:en_CA": "Rankin Inlet South"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q17067571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17067571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Gjoa Haven"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q17070798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17070798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Iqaluit-Manirajak"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q17070816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17070816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Iqaluit-Tasiluk"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q4746949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:974"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4746949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Amittuq"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q4849172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:986"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4849172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Baker Lake"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q5025357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:980"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5025357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Cambridge Bay"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q613190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q613190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Hudson Bay"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q6441985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:983"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6441985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Kugluktuk"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q7273020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:965"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7273020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en_CA": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en_CA": "Quttiktuq"
       },
       "parent_id": "Q2023"
     },
@@ -702,63 +702,18 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q42427188-f8b80541-4ebc-5d89-febd-f784ba20404f",
-      "person_id": "Q42427188",
-      "area_id": "Q17070798",
+      "id": "http://www.wikidata.org/entity/statement/Q16145801-80d3119c-4d1b-b11f-e429-60d375c95094",
+      "person_id": "Q16145801",
+      "area_id": "Q17067571",
       "role_code": "Q45308607",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q2837763-8916f788-41ec-90e1-ed47-fcdae59f9052",
-      "person_id": "Q2837763",
-      "area_id": "Q613190",
-      "role_code": "Q45308607",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q42427693-0bd2d942-469f-f957-cc3f-3fe354f1a649",
-      "person_id": "Q42427693",
-      "area_id": "Q16211482",
-      "role_code": "Q45308607",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16244044-88a1a8f1-4943-84bf-605d-349e2ddd98e1",
-      "person_id": "Q16244044",
-      "area_id": "Q17070816",
-      "role_code": "Q45308607",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q42427578-b893c6ee-4f88-d3cb-ffe7-c3f3e41b1954",
-      "person_id": "Q42427578",
-      "area_id": "Q4746949",
-      "role_code": "Q45308607",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q42427576-7fc25678-49d3-f06d-3837-855bcfe4d3d3",
-      "person_id": "Q42427576",
-      "area_id": "Q14501868",
-      "role_code": "Q45308607",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q41540312-3490dc14-46e6-854e-d4b8-ccfb4d1e0b35",
-      "person_id": "Q41540312",
-      "area_id": "Q6441985",
+      "id": "http://www.wikidata.org/entity/statement/Q16151930-7c845f03-4192-fa9f-9c99-bbda102f06e9",
+      "person_id": "Q16151930",
+      "area_id": "Q16209592",
       "role_code": "Q45308607",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
@@ -775,9 +730,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16151930-7c845f03-4192-fa9f-9c99-bbda102f06e9",
-      "person_id": "Q16151930",
-      "area_id": "Q16209592",
+      "id": "http://www.wikidata.org/entity/statement/Q16244044-88a1a8f1-4943-84bf-605d-349e2ddd98e1",
+      "person_id": "Q16244044",
+      "area_id": "Q17070816",
       "role_code": "Q45308607",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
@@ -793,9 +748,54 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16145801-80d3119c-4d1b-b11f-e429-60d375c95094",
-      "person_id": "Q16145801",
-      "area_id": "Q17067571",
+      "id": "http://www.wikidata.org/entity/statement/Q2837763-8916f788-41ec-90e1-ed47-fcdae59f9052",
+      "person_id": "Q2837763",
+      "area_id": "Q613190",
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41540312-3490dc14-46e6-854e-d4b8-ccfb4d1e0b35",
+      "person_id": "Q41540312",
+      "area_id": "Q6441985",
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427188-f8b80541-4ebc-5d89-febd-f784ba20404f",
+      "person_id": "Q42427188",
+      "area_id": "Q17070798",
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427576-7fc25678-49d3-f06d-3837-855bcfe4d3d3",
+      "person_id": "Q42427576",
+      "area_id": "Q14501868",
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427578-b893c6ee-4f88-d3cb-ffe7-c3f3e41b1954",
+      "person_id": "Q42427578",
+      "area_id": "Q4746949",
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427693-0bd2d942-469f-f957-cc3f-3fe354f1a649",
+      "person_id": "Q42427693",
+      "area_id": "Q16211482",
       "role_code": "Q45308607",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of Nunavut"

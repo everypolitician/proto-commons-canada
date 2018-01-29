@@ -2,24 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Druh Farrell"
-      },
-      "id": "Q22277744",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q22277744"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/DruhFarrellCalgary"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Joe Magliocca"
       },
       "id": "Q21066770",
@@ -33,6 +15,24 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/joe.magliocca.calgary"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Druh Farrell"
+      },
+      "id": "Q22277744",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22277744"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DruhFarrellCalgary"
         }
       ]
     }
@@ -67,15 +67,15 @@
       "parent_id": null
     },
     {
-      "id": "Q47455796",
+      "id": "Q47455783",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:4"
+          "identifier": "country:ca/csd:4806016/ward:1"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47455796"
+          "identifier": "Q47455783"
         }
       ],
       "associated_wikidata_positions": [
@@ -85,53 +85,7 @@
         "lang:en_CA": "municipal electoral district of Calgary"
       },
       "name": {
-        "lang:en_CA": "Ward 4 (Calgary)"
-      },
-      "parent_id": "Q36312"
-    },
-    {
-      "id": "Q47455803",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:11"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455803"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414913"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
-      },
-      "name": {
-        "lang:en_CA": "Ward 11 (Calgary)"
-      },
-      "parent_id": "Q36312"
-    },
-    {
-      "id": "Q47455800",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:8"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455800"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414913"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
-      },
-      "name": {
-        "lang:en_CA": "Ward 8 (Calgary)"
+        "lang:en_CA": "Ward 1 (Calgary)"
       },
       "parent_id": "Q36312"
     },
@@ -159,121 +113,6 @@
       "parent_id": "Q36312"
     },
     {
-      "id": "Q47455805",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:13"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455805"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414913"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
-      },
-      "name": {
-        "lang:en_CA": "Ward 13 (Calgary)"
-      },
-      "parent_id": "Q36312"
-    },
-    {
-      "id": "Q47455798",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:6"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455798"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414913"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
-      },
-      "name": {
-        "lang:en_CA": "Ward 6 (Calgary)"
-      },
-      "parent_id": "Q36312"
-    },
-    {
-      "id": "Q47455783",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:1"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455783"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414913"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
-      },
-      "name": {
-        "lang:en_CA": "Ward 1 (Calgary)"
-      },
-      "parent_id": "Q36312"
-    },
-    {
-      "id": "Q47455804",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:12"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455804"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414913"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
-      },
-      "name": {
-        "lang:en_CA": "Ward 12 (Calgary)"
-      },
-      "parent_id": "Q36312"
-    },
-    {
-      "id": "Q47455802",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:10"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47455802"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q45414913"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
-      },
-      "name": {
-        "lang:en_CA": "Ward 10 (Calgary)"
-      },
-      "parent_id": "Q36312"
-    },
-    {
       "id": "Q47455795",
       "identifiers": [
         {
@@ -297,15 +136,15 @@
       "parent_id": "Q36312"
     },
     {
-      "id": "Q47455801",
+      "id": "Q47455796",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:9"
+          "identifier": "country:ca/csd:4806016/ward:4"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47455801"
+          "identifier": "Q47455796"
         }
       ],
       "associated_wikidata_positions": [
@@ -315,7 +154,7 @@
         "lang:en_CA": "municipal electoral district of Calgary"
       },
       "name": {
-        "lang:en_CA": "Ward 9 (Calgary)"
+        "lang:en_CA": "Ward 4 (Calgary)"
       },
       "parent_id": "Q36312"
     },
@@ -343,15 +182,15 @@
       "parent_id": "Q36312"
     },
     {
-      "id": "Q47455806",
+      "id": "Q47455798",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016/ward:14"
+          "identifier": "country:ca/csd:4806016/ward:6"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q47455806"
+          "identifier": "Q47455798"
         }
       ],
       "associated_wikidata_positions": [
@@ -361,7 +200,7 @@
         "lang:en_CA": "municipal electoral district of Calgary"
       },
       "name": {
-        "lang:en_CA": "Ward 14 (Calgary)"
+        "lang:en_CA": "Ward 6 (Calgary)"
       },
       "parent_id": "Q36312"
     },
@@ -387,24 +226,185 @@
         "lang:en_CA": "Ward 7 (Calgary)"
       },
       "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en_CA": "Ward 8 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en_CA": "Ward 9 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en_CA": "Ward 10 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en_CA": "Ward 11 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en_CA": "Ward 12 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en_CA": "Ward 13 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en_CA": "Ward 14 (Calgary)"
+      },
+      "parent_id": "Q36312"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q22277744-9731a8ac-4c3c-4418-d334-8bb2aaa2808a",
-      "person_id": "Q22277744",
-      "area_id": "Q47455799",
-      "start_date": "2001-10-01",
+      "id": "http://www.wikidata.org/entity/statement/Q21066770-66283de7-4fee-0af1-8ada-e4c141eff26b",
+      "person_id": "Q21066770",
+      "area_id": "Q47455793",
+      "start_date": "2013-10-21",
       "role_code": "Q45414913",
       "role": {
         "lang:en_CA": "Member of Calgary City Council"
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q21066770-66283de7-4fee-0af1-8ada-e4c141eff26b",
-      "person_id": "Q21066770",
-      "area_id": "Q47455793",
-      "start_date": "2013-10-21",
+      "id": "http://www.wikidata.org/entity/statement/Q22277744-9731a8ac-4c3c-4418-d334-8bb2aaa2808a",
+      "person_id": "Q22277744",
+      "area_id": "Q47455799",
+      "start_date": "2001-10-01",
       "role_code": "Q45414913",
       "role": {
         "lang:en_CA": "Member of Calgary City Council"

@@ -32,6 +32,29 @@
       "parent_id": null
     },
     {
+      "id": "Q47490202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4811061/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47490202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47490130"
+      ],
+      "type": {
+        "lang:en_CA": "municipal electoral district of Edmonton"
+      },
+      "name": {
+        "lang:en_CA": "WARD 12"
+      },
+      "parent_id": "Q2096"
+    },
+    {
       "id": "Q47490237",
       "identifiers": [
         {
@@ -281,29 +304,6 @@
       },
       "name": {
         "lang:en_CA": "WARD 11"
-      },
-      "parent_id": "Q2096"
-    },
-    {
-      "id": "Q47490202",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4811061/ward:12"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47490202"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q47490130"
-      ],
-      "type": {
-        "lang:en_CA": "municipal electoral district of Edmonton"
-      },
-      "name": {
-        "lang:en_CA": "WARD 12"
       },
       "parent_id": "Q2096"
     }

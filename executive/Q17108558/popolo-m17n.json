@@ -144,15 +144,15 @@
       "parent_id": "Q16"
     },
     {
-      "id": "Q1965",
+      "id": "Q1948",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/province:nb"
+          "identifier": "country:ca/province:mb"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1965"
+          "identifier": "Q1948"
         }
       ],
       "associated_wikidata_positions": [
@@ -164,8 +164,33 @@
         "lang:fr_CA": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "New Brunswick",
-        "lang:fr_CA": "Nouveau-Brunswick"
+        "lang:en_CA": "Manitoba"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Alberta",
+        "lang:fr_CA": "Alberta"
       },
       "parent_id": "Q16"
     },
@@ -196,15 +221,15 @@
       "parent_id": "Q16"
     },
     {
-      "id": "Q2023",
+      "id": "Q1965",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu"
+          "identifier": "country:ca/province:nb"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2023"
+          "identifier": "Q1965"
         }
       ],
       "associated_wikidata_positions": [
@@ -216,33 +241,8 @@
         "lang:fr_CA": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "Nunavut",
-        "lang:fr_CA": "Nunavut"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1948",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:mb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1948"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en_CA": "Manitoba"
+        "lang:en_CA": "New Brunswick",
+        "lang:fr_CA": "Nouveau-Brunswick"
       },
       "parent_id": "Q16"
     },
@@ -325,32 +325,6 @@
       "parent_id": "Q16"
     },
     {
-      "id": "Q1951",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ab"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1951"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en_CA": "Alberta",
-        "lang:fr_CA": "Alberta"
-      },
-      "parent_id": "Q16"
-    },
-    {
       "id": "Q2003",
       "identifiers": [
         {
@@ -424,6 +398,32 @@
       },
       "name": {
         "lang:en_CA": "Yukon"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Nunavut",
+        "lang:fr_CA": "Nunavut"
       },
       "parent_id": "Q16"
     }
