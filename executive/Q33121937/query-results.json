@@ -73,6 +73,10 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16151930-23b15434-4ee2-71ac-6be8-e56f7104bea6"
       },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2023"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -147,6 +151,10 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/q466891-8b15426f-47fc-9994-a528-0cfb123a8191"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2023"
       },
       "party" : {
         "type" : "uri",

@@ -92,6 +92,10 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/q3786221-13C93608-754B-42B8-B954-B1854CDE23E6"
       },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
