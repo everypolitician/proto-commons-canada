@@ -4,8 +4,21 @@ SELECT ?statement
        ?district ?district_name_en ?district_name_fr
        ?role ?role_en ?role_fr
        ?start ?end ?facebook
+       ?org ?org_en ?org_fr ?org_jurisdiction
 WHERE {
   BIND(wd:Q3305347 as ?role) .
+  BIND(wd:Q1809086 as ?org) .
+  OPTIONAL {
+    ?org rdfs:label ?org_en
+    FILTER(LANG(?org_en) = "en")
+  }
+  OPTIONAL {
+    ?org rdfs:label ?org_fr
+    FILTER(LANG(?org_fr) = "fr")
+  }
+  OPTIONAL {
+    ?org wdt:P1001 ?org_jurisdiction
+  }
   ?item p:P39 ?statement .
   OPTIONAL {
     ?item rdfs:label ?name_en
