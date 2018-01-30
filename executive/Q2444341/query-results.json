@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook" ]
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook", "org", "org_en", "org_fr", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -60,9 +60,27 @@
         "type" : "literal",
         "value" : "Hiram E. McCallum"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2444341"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Toronto (Conseil municipal)"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toronto City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1274990-6B24815C-57D5-418C-B44B-1B4A6B996444"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172"
       }
     }, {
       "district" : {
@@ -121,9 +139,27 @@
         "type" : "literal",
         "value" : "William Lyon Mackenzie"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2444341"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Toronto (Conseil municipal)"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toronto City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q182454-97C2DC7A-F30F-47F3-A792-75B6044D8DB4"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172"
       },
       "party" : {
         "type" : "uri",
@@ -196,9 +232,27 @@
         "type" : "literal",
         "value" : "John Tory"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2444341"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Toronto (Conseil municipal)"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toronto City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q928118-1AF37B6D-2403-477B-971E-35A36F98D0A9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172"
       },
       "party" : {
         "type" : "uri",

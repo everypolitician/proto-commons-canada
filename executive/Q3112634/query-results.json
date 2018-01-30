@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook" ]
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook", "org", "org_en", "org_fr", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -73,6 +73,20 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Philippe Couillard"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3112634"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Gouvernement du Québec"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Government of Quebec"
       },
       "statement" : {
         "type" : "uri",

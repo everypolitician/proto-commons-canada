@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook" ]
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook", "org", "org_en", "org_fr", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -69,9 +69,22 @@
         "type" : "literal",
         "value" : "Elmer Ernest Roper"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q14915630-253495B6-0C5E-4D03-965B-21364450D72D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -125,9 +138,22 @@
         "type" : "literal",
         "value" : "Herbert Charles Wilson"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q14949662-9296D553-9465-4FF8-9F43-EC35C267F036"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -181,9 +207,22 @@
         "type" : "literal",
         "value" : "Ivor Dent"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16018408-DC0FBD07-0361-4257-A5A1-56A53409929B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -251,9 +290,22 @@
         "type" : "literal",
         "value" : "David Milwyn Duggan"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3402814-DE7960AB-DCDB-42AC-ACBF-9F3BDE7F1595"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -321,9 +373,22 @@
         "type" : "literal",
         "value" : "Ambrose Bury"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -391,9 +456,22 @@
         "type" : "literal",
         "value" : "Ambrose Bury"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -447,9 +525,22 @@
         "type" : "literal",
         "value" : "Cec Purves"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5055849-E26187B2-AF92-4C9A-BA72-B6EB534DA284"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -503,9 +594,22 @@
         "type" : "literal",
         "value" : "Charles May"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5080743-EA4301BD-21FE-4E87-8420-18415E9F0988"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -559,9 +663,22 @@
         "type" : "literal",
         "value" : "Cornelius Gallagher"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5171364-76054E37-58ED-4D18-8D11-EF3FB296C5FE"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -624,9 +741,22 @@
         "type" : "literal",
         "value" : "Dan Knott"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5213821-A2300BDD-73F3-4086-B231-5A825491ABD9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -680,9 +810,22 @@
         "type" : "literal",
         "value" : "Don Iveson"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5292823-75c8e36e-4e53-c511-f5f1-a7f6edcc72fa"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -755,9 +898,22 @@
         "type" : "literal",
         "value" : "Frederick John Mitchell"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5498157-9EF5DC34-8DBA-46E1-9265-4EECDABD09EB"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -811,9 +967,22 @@
         "type" : "literal",
         "value" : "George S. Armstrong"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5544136-0FD95F1C-FD13-4791-A04F-DBE3C4214361"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -867,9 +1036,22 @@
         "type" : "literal",
         "value" : "Harry Ainlay"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5666838-73D8778F-B428-4FBF-BAD1-3131E3F53CFC"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -923,9 +1105,22 @@
         "type" : "literal",
         "value" : "Harry Marshall Erskine Evans"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5670896-C382621D-D3D6-47FB-A24F-C908BF2A5C6D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -993,9 +1188,22 @@
         "type" : "literal",
         "value" : "James McCrie Douglas"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6139247-D6B38883-01C7-4B34-8A19-D04B6225E704"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -1049,9 +1257,22 @@
         "type" : "literal",
         "value" : "Jan Reimer"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6149793-3E297D85-262B-4209-896E-708C5466D670"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -1105,9 +1326,22 @@
         "type" : "literal",
         "value" : "John Alexander McDougall"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6218609-01608AFF-87E1-4A01-9F0B-40C7B8904EFA"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -1161,9 +1395,22 @@
         "type" : "literal",
         "value" : "John Wesley Fry"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6263543-E424CF82-CC15-41AA-AD5F-DCDE2CCC1118"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1226,9 +1473,22 @@
         "type" : "literal",
         "value" : "Joseph Clarke"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1296,9 +1556,22 @@
         "type" : "literal",
         "value" : "Joseph Clarke"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -1352,9 +1625,22 @@
         "type" : "literal",
         "value" : "Kenneth W. MacKenzie"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6390782-CE65D27C-808E-4865-96D5-48CB00DF8391"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1422,9 +1708,22 @@
         "type" : "literal",
         "value" : "Kenny Blatchford"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6390978-2C688A73-230E-43AF-A60C-9704517BB8AF"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1492,9 +1791,22 @@
         "type" : "literal",
         "value" : "Laurence Decore"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6500565-2CEE4CFA-9DB7-47F5-AB9D-80C0690D1F63"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1562,9 +1874,22 @@
         "type" : "literal",
         "value" : "Matthew McCauley"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6790939-042C6226-0203-4981-AEF5-B9563B6A4A46"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -1618,9 +1943,22 @@
         "type" : "literal",
         "value" : "Robert Lee"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7346789-37E45080-16D7-4205-8BF0-4ADF61ECD175"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -1674,9 +2012,22 @@
         "type" : "literal",
         "value" : "Sidney Parsons"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7509270-161FAB6B-3961-4608-B7FE-6A4E27ECF798"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -1730,9 +2081,22 @@
         "type" : "literal",
         "value" : "Terry Cavanagh"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7704210-FFF544B4-8153-46AA-ACEC-F716601F8BEF"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1800,9 +2164,22 @@
         "type" : "literal",
         "value" : "Vincent Dantzer"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7931744-2B92C187-1D67-40F3-A97F-711B8D45881B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1870,9 +2247,22 @@
         "type" : "literal",
         "value" : "William Antrobus Griesbach"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -1940,9 +2330,22 @@
         "type" : "literal",
         "value" : "William Antrobus Griesbach"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -2010,9 +2413,22 @@
         "type" : "literal",
         "value" : "William Hawrelak"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8011042-9C8E029E-5679-4CAC-AA9B-35D2AF25F89F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -2066,9 +2482,22 @@
         "type" : "literal",
         "value" : "William J. McNamara"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8013291-3F9E83C0-5F85-49E6-83DE-8995363058A8"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -2122,9 +2551,22 @@
         "type" : "literal",
         "value" : "William S. Edmiston"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8017931-6C870420-0A81-48C3-8E71-A1063E1C330B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "item" : {
@@ -2178,9 +2620,22 @@
         "type" : "literal",
         "value" : "William Short"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8018413-A60D9513-C685-4429-8645-01C4D6141319"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     }, {
       "party" : {
@@ -2248,9 +2703,22 @@
         "type" : "literal",
         "value" : "William Thomas Henry"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5339025"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edmonton City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8019319-601CBFB8-6756-4F53-A32A-EDDF4A9A440F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2096"
       }
     } ]
   }

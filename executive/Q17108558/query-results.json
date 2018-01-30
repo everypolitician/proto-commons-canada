@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook" ]
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook", "org", "org_en", "org_fr", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -74,9 +74,22 @@
         "type" : "literal",
         "value" : "Sandy Silver"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17108558"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislature of Yukon"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1841565-b78dbead-4bf3-8a62-4fb4-8d96f3f00685"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2009"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -158,9 +171,22 @@
         "type" : "literal",
         "value" : "Darrell Pasloski"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17108558"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislature of Yukon"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/q3016474-1B72FEFE-DE21-4A05-A518-E4F755C2E708"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2009"
       }
     } ]
   }

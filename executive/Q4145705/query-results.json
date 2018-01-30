@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook" ]
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "role_superclass", "role_superclass_en", "role_superclass_fr", "facebook", "org", "org_en", "org_fr", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -55,9 +55,27 @@
         "type" : "literal",
         "value" : "Naheed Nenshi"
       },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4145705"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "consesi de calgary"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Calgary City Council"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2588612-c658ee6b-41c0-d404-3555-90b9a56f3812"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36312"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
