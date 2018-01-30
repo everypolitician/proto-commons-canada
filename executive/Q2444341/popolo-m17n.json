@@ -55,6 +55,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Toronto City Council",
+        "lang:fr_CA": "Toronto (Conseil municipal)"
+      },
+      "id": "Q2444341",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2444341"
+        }
+      ],
+      "area_id": "Q172"
+    },
+    {
+      "name": {
         "lang:en_CA": "Clear Grits",
         "lang:fr_CA": "Clear Grits"
       },
@@ -329,6 +344,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1274990-6B24815C-57D5-418C-B44B-1B4A6B996444",
       "person_id": "Q1274990",
+      "organization_id": "Q2444341",
       "area_id": "Q172",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -345,6 +361,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q182454-97C2DC7A-F30F-47F3-A792-75B6044D8DB4",
       "person_id": "Q182454",
       "on_behalf_of_id": "Q2978753",
+      "organization_id": "Q2444341",
       "area_id": "Q172",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -361,6 +378,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q928118-1AF37B6D-2403-477B-971E-35A36F98D0A9",
       "person_id": "Q928118",
       "on_behalf_of_id": "Q826977",
+      "organization_id": "Q2444341",
       "area_id": "Q172",
       "start_date": "2014-12-01",
       "role_superclass_code": "Q30185",

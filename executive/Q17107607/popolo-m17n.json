@@ -20,6 +20,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Halifax Regional Council",
+        "lang:fr_CA": "Région de Halifax"
+      },
+      "id": "Q17107607",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17107607"
+        }
+      ],
+      "area_id": "Q2141"
+    },
+    {
+      "name": {
         "lang:en_CA": "Progressive Conservative Association of Nova Scotia",
         "lang:fr_CA": "Association progressiste-conservateur de la Nouvelle-Écosse"
       },
@@ -281,6 +296,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q2833143-7994682F-AA2F-4E37-A480-885947B20415",
       "person_id": "Q2833143",
       "on_behalf_of_id": "Q2868020",
+      "organization_id": "Q17107607",
       "area_id": "Q2141",
       "role_superclass_code": "Q30185",
       "role_superclass": {

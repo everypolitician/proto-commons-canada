@@ -179,7 +179,21 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Legislative Assembly of the Northwest Territories",
+        "lang:fr_CA": "Assemblée législative des Territoires du Nord-Ouest"
+      },
+      "id": "Q2867078",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2867078"
+        }
+      ],
+      "area_id": "Q2007"
+    }
   ],
   "areas": [
     {
@@ -649,6 +663,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22277389-55009838-43c4-4768-de2c-a2fe0ae32e1f",
       "person_id": "Q22277389",
+      "organization_id": "Q2867078",
       "area_id": "Q7292672",
       "start_date": "2015-11-23",
       "role_code": "Q45308871",
@@ -659,6 +674,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22279154-4bac5b5e-4ac8-f5a6-98dc-9d7318b329d3",
       "person_id": "Q22279154",
+      "organization_id": "Q2867078",
       "area_id": "Q7399745",
       "start_date": "2015-11-23",
       "role_code": "Q45308871",
@@ -669,6 +685,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22279355-3f431173-4dbc-075d-013e-1ebf4515009e",
       "person_id": "Q22279355",
+      "organization_id": "Q2867078",
       "area_id": "Q7069727",
       "start_date": "2015-11-23",
       "role_code": "Q45308871",
@@ -679,6 +696,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22279500-6032e421-4265-e87e-aa9e-a5e40b9f3bee",
       "person_id": "Q22279500",
+      "organization_id": "Q2867078",
       "area_id": "Q5477888",
       "role_code": "Q45308871",
       "role": {
@@ -688,6 +706,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23761321-044a2609-4d69-7825-a150-04d27700942e",
       "person_id": "Q23761321",
+      "organization_id": "Q2867078",
       "area_id": "Q24190816",
       "start_date": "2015-11-23",
       "role_code": "Q45308871",
@@ -698,6 +717,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23761322-1290038c-4ac0-861d-8587-486aa1d3916e",
       "person_id": "Q23761322",
+      "organization_id": "Q2867078",
       "area_id": "Q5685861",
       "start_date": "2015-11-23",
       "role_code": "Q45308871",
@@ -708,6 +728,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23761324-b0b287d1-4414-8e25-fe72-f4c706ad92ff",
       "person_id": "Q23761324",
+      "organization_id": "Q2867078",
       "area_id": "Q6959245",
       "start_date": "2015-11-23",
       "role_code": "Q45308871",
@@ -718,6 +739,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4723182-fda6bcba-492b-556a-2e84-e862fd7de650",
       "person_id": "Q4723182",
+      "organization_id": "Q2867078",
       "area_id": "Q6059367",
       "role_code": "Q45308871",
       "role": {
@@ -727,6 +749,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5567554-92665f42-4783-4505-d78a-94b18aac7ea1",
       "person_id": "Q5567554",
+      "organization_id": "Q2867078",
       "area_id": "Q5599968",
       "role_code": "Q45308871",
       "role": {
@@ -736,6 +759,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6833011-ba826892-47bf-55e4-7f7d-45bc1b9d78df",
       "person_id": "Q6833011",
+      "organization_id": "Q2867078",
       "area_id": "Q3021281",
       "role_code": "Q45308871",
       "role": {

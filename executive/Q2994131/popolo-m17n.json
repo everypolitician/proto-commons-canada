@@ -55,6 +55,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Montreal City Council",
+        "lang:fr_CA": "Conseil municipal de Montréal"
+      },
+      "id": "Q2994131",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2994131"
+        }
+      ],
+      "area_id": "Q340"
+    },
+    {
+      "name": {
         "lang:en_CA": "Liberal Party of Canada",
         "lang:fr_CA": "Parti libéral du Canada"
       },
@@ -344,6 +359,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q27959212-e0ca07f0-4b6b-198e-8bec-a556756db618",
       "person_id": "Q27959212",
       "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2017-11-16",
       "role_superclass_code": "Q30185",
@@ -361,6 +377,7 @@
       "id": "http://www.wikidata.org/entity/statement/q3332743-61bb808e-4fd6-5d43-7516-0955cb9d1731",
       "person_id": "Q3332743",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q2994131",
       "area_id": "Q340",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -377,6 +394,7 @@
       "id": "http://www.wikidata.org/entity/statement/q979154-36088532-41c1-4230-535b-e488b790bc97",
       "person_id": "Q979154",
       "on_behalf_of_id": "Q3240324",
+      "organization_id": "Q2994131",
       "area_id": "Q340",
       "role_superclass_code": "Q30185",
       "role_superclass": {

@@ -23,6 +23,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Government of Quebec",
+        "lang:fr_CA": "Gouvernement du Québec"
+      },
+      "id": "Q3112634",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3112634"
+        }
+      ],
+      "area_id": "Q176"
+    },
+    {
+      "name": {
         "lang:en_CA": "Quebec Liberal Party",
         "lang:fr_CA": "Parti libéral du Québec"
       },
@@ -403,6 +418,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3379654-d080d9ef-4d4f-dd39-b5e9-f56a0472945b",
       "person_id": "Q3379654",
       "on_behalf_of_id": "Q1631384",
+      "organization_id": "Q3112634",
       "area_id": "Q176",
       "start_date": "2014-04-23",
       "role_superclass_code": "Q2505921",

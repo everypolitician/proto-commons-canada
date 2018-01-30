@@ -36,6 +36,20 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Government of Nunavut"
+      },
+      "id": "Q33121937",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33121937"
+        }
+      ],
+      "area_id": "Q2023"
+    },
+    {
+      "name": {
         "lang:en_CA": "consensus government in Canada",
         "lang:fr_CA": "gouvernement de consensus"
       },
@@ -415,6 +429,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16151930-23b15434-4ee2-71ac-6be8-e56f7104bea6",
       "person_id": "Q16151930",
+      "organization_id": "Q33121937",
       "area_id": "Q2023",
       "start_date": "2017-11-21",
       "role_superclass_code": "Q2505921",
@@ -432,6 +447,7 @@
       "id": "http://www.wikidata.org/entity/statement/q466891-8b15426f-47fc-9994-a528-0cfb123a8191",
       "person_id": "Q466891",
       "on_behalf_of_id": "Q3112578",
+      "organization_id": "Q33121937",
       "area_id": "Q2023",
       "role_superclass_code": "Q2505921",
       "role_superclass": {

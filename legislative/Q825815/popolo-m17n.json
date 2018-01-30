@@ -50,7 +50,21 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Legislative Assembly of Prince Edward Island",
+        "lang:fr_CA": "Assemblée législative de l'Île-du-Prince-Édouard"
+      },
+      "id": "Q825815",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q825815"
+        }
+      ],
+      "area_id": "Q1979"
+    }
   ],
   "areas": [
     {
@@ -704,6 +718,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3372552-7ae0f76d-4aee-48c4-06bf-3775777cee02",
       "person_id": "Q3372552",
+      "organization_id": "Q825815",
       "area_id": "Q3546076",
       "start_date": "2007-05-28",
       "role_code": "Q21010685",
@@ -715,6 +730,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3435932-996c05b0-4dec-8afd-1e50-932d3e15fe69",
       "person_id": "Q3435932",
+      "organization_id": "Q825815",
       "area_id": "Q2961051",
       "start_date": "2007-06-12",
       "role_code": "Q21010685",
@@ -726,6 +742,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q656467-54d451d9-4cb9-8599-2520-8092eaa00c15",
       "person_id": "Q656467",
+      "organization_id": "Q825815",
       "area_id": "Q3503686",
       "start_date": "2007-03-28",
       "role_code": "Q21010685",

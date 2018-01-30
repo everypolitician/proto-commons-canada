@@ -226,6 +226,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "House of Commons",
+        "lang:fr_CA": "chambre des communes du Canada"
+      },
+      "id": "Q383590",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q383590"
+        }
+      ],
+      "area_id": "Q16"
+    },
+    {
+      "name": {
         "lang:en_CA": "New Democratic Party",
         "lang:fr_CA": "Nouveau Parti démocratique"
       },
@@ -8749,6 +8764,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q21714336-c23956e4-47d0-d632-88d4-ee28d356f2d1",
       "person_id": "Q21714336",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q383590",
       "area_id": "Q3320478",
       "start_date": "2017-08-28",
       "role_code": "Q15964890",
@@ -8761,6 +8777,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q22132668-4230768f-4cdc-83be-be8a-ad233038da9b",
       "person_id": "Q22132668",
       "on_behalf_of_id": "Q130765",
+      "organization_id": "Q383590",
       "area_id": "Q16979413",
       "start_date": "2015-10-19",
       "role_code": "Q15964890",
@@ -8773,6 +8790,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q22277033-2fbbe2d7-4bec-6b64-0225-361f75270eb8",
       "person_id": "Q22277033",
       "on_behalf_of_id": "Q130765",
+      "organization_id": "Q383590",
       "area_id": "Q3473801",
       "start_date": "2015-10-19",
       "role_code": "Q15964890",
@@ -8785,6 +8803,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q29138522-fe814daf-4369-74ca-1181-962ab0223bbf",
       "person_id": "Q29138522",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q383590",
       "area_id": "Q3357766",
       "start_date": "2017-04-03",
       "role_code": "Q15964890",
@@ -8797,6 +8816,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q29139192-ed849f3e-4b47-c93a-198d-460d1cdc5c22",
       "person_id": "Q29139192",
       "on_behalf_of_id": "Q488523",
+      "organization_id": "Q383590",
       "area_id": "Q16850469",
       "start_date": "2017-04-03",
       "role_code": "Q15964890",
@@ -8809,6 +8829,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q29139548-a5b9fff0-4285-97bc-c20c-c2c5ae522199",
       "person_id": "Q29139548",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q383590",
       "area_id": "Q16977883",
       "start_date": "2017-04-03",
       "role_code": "Q15964890",
@@ -8821,6 +8842,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q29139551-1494e595-4f82-32b0-c213-665ba93f155a",
       "person_id": "Q29139551",
       "on_behalf_of_id": "Q488523",
+      "organization_id": "Q383590",
       "area_id": "Q16850474",
       "start_date": "2017-04-03",
       "role_code": "Q15964890",
@@ -8833,6 +8855,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q29139554-29c40df1-4106-6763-4d61-371f9a65acd3",
       "person_id": "Q29139554",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q383590",
       "area_id": "Q3462729",
       "start_date": "2017-04-03",
       "role_code": "Q15964890",
@@ -8845,6 +8868,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3386636-3D3C1DAA-2309-4118-B135-8736D478FB27",
       "person_id": "Q3386636",
       "on_behalf_of_id": "Q488523",
+      "organization_id": "Q383590",
       "area_id": "Q2939078",
       "start_date": "2017-08-30",
       "role_code": "Q15964890",
@@ -8857,6 +8881,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3441480-643a3914-4b99-00be-dba1-95e21442ad67",
       "person_id": "Q3441480",
       "on_behalf_of_id": "Q488523",
+      "organization_id": "Q383590",
       "area_id": "Q16977239",
       "start_date": "2015-12-03",
       "end_date": "2017-07-04",
@@ -8870,6 +8895,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q42308688-977fc21a-41c6-90b6-7c18-81fc10b0f796",
       "person_id": "Q42308688",
       "on_behalf_of_id": "Q488523",
+      "organization_id": "Q383590",
       "area_id": "Q16977239",
       "start_date": "2017-10-23",
       "role_code": "Q15964890",
@@ -8882,6 +8908,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q4740296-7ee010ee-4ebc-a99b-1b5f-970e55c3cd47",
       "person_id": "Q4740296",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q383590",
       "area_id": "Q16974434",
       "start_date": "2015-11-04",
       "role_code": "Q15964890",

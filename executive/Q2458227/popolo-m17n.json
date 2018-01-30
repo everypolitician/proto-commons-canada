@@ -23,6 +23,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Cabinet of Canada",
+        "lang:fr_CA": "Cabinet du Canada"
+      },
+      "id": "Q2458227",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2458227"
+        }
+      ],
+      "area_id": "Q16"
+    },
+    {
+      "name": {
         "lang:en_CA": "Liberal Party of Canada",
         "lang:fr_CA": "Parti libéral du Canada"
       },
@@ -93,6 +108,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf",
       "person_id": "Q3099714",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q2458227",
       "area_id": "Q16",
       "start_date": "2015-11-04",
       "role_superclass_code": "Q14212",

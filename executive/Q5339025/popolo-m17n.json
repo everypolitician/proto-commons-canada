@@ -532,6 +532,20 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Edmonton City Council"
+      },
+      "id": "Q5339025",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5339025"
+        }
+      ],
+      "area_id": "Q2096"
+    },
+    {
+      "name": {
         "lang:en_CA": "Progressive Conservative Party of Canada",
         "lang:fr_CA": "Parti progressiste-conservateur du Canada"
       },
@@ -876,6 +890,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q14915630-253495B6-0C5E-4D03-965B-21364450D72D",
       "person_id": "Q14915630",
       "on_behalf_of_id": "Q3345044",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -890,6 +905,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q14949662-9296D553-9465-4FF8-9F43-EC35C267F036",
       "person_id": "Q14949662",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -904,6 +920,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16018408-DC0FBD07-0361-4257-A5A1-56A53409929B",
       "person_id": "Q16018408",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -919,6 +936,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3402814-DE7960AB-DCDB-42AC-ACBF-9F3BDE7F1595",
       "person_id": "Q3402814",
       "on_behalf_of_id": "Q1518057",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -934,6 +952,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7",
       "person_id": "Q4741767",
       "on_behalf_of_id": "Q1518057",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -949,6 +968,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7",
       "person_id": "Q4741767",
       "on_behalf_of_id": "Q909827",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -963,6 +983,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5055849-E26187B2-AF92-4C9A-BA72-B6EB534DA284",
       "person_id": "Q5055849",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -977,6 +998,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5080743-EA4301BD-21FE-4E87-8420-18415E9F0988",
       "person_id": "Q5080743",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -991,6 +1013,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5171364-76054E37-58ED-4D18-8D11-EF3FB296C5FE",
       "person_id": "Q5171364",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1006,6 +1029,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5213821-A2300BDD-73F3-4086-B231-5A825491ABD9",
       "person_id": "Q5213821",
       "on_behalf_of_id": "Q6467545",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1020,6 +1044,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5292823-75c8e36e-4e53-c511-f5f1-a7f6edcc72fa",
       "person_id": "Q5292823",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "start_date": "2013-10-29",
       "role_superclass_code": "Q30185",
@@ -1036,6 +1061,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5498157-9EF5DC34-8DBA-46E1-9265-4EECDABD09EB",
       "person_id": "Q5498157",
       "on_behalf_of_id": "Q1518057",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1050,6 +1076,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5544136-0FD95F1C-FD13-4791-A04F-DBE3C4214361",
       "person_id": "Q5544136",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1064,6 +1091,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5666838-73D8778F-B428-4FBF-BAD1-3131E3F53CFC",
       "person_id": "Q5666838",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1078,6 +1106,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5670896-C382621D-D3D6-47FB-A24F-C908BF2A5C6D",
       "person_id": "Q5670896",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1093,6 +1122,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6139247-D6B38883-01C7-4B34-8A19-D04B6225E704",
       "person_id": "Q6139247",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1107,6 +1137,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6149793-3E297D85-262B-4209-896E-708C5466D670",
       "person_id": "Q6149793",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1121,6 +1152,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6218609-01608AFF-87E1-4A01-9F0B-40C7B8904EFA",
       "person_id": "Q6218609",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1135,6 +1167,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6263543-E424CF82-CC15-41AA-AD5F-DCDE2CCC1118",
       "person_id": "Q6263543",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1150,6 +1183,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9",
       "person_id": "Q6282145",
       "on_behalf_of_id": "Q6467545",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1165,6 +1199,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9",
       "person_id": "Q6282145",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1179,6 +1214,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6390782-CE65D27C-808E-4865-96D5-48CB00DF8391",
       "person_id": "Q6390782",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1194,6 +1230,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6390978-2C688A73-230E-43AF-A60C-9704517BB8AF",
       "person_id": "Q6390978",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1209,6 +1246,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6500565-2CEE4CFA-9DB7-47F5-AB9D-80C0690D1F63",
       "person_id": "Q6500565",
       "on_behalf_of_id": "Q939248",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1224,6 +1262,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6790939-042C6226-0203-4981-AEF5-B9563B6A4A46",
       "person_id": "Q6790939",
       "on_behalf_of_id": "Q939248",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1238,6 +1277,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7346789-37E45080-16D7-4205-8BF0-4ADF61ECD175",
       "person_id": "Q7346789",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1252,6 +1292,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7509270-161FAB6B-3961-4608-B7FE-6A4E27ECF798",
       "person_id": "Q7509270",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1266,6 +1307,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7704210-FFF544B4-8153-46AA-ACEC-F716601F8BEF",
       "person_id": "Q7704210",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1281,6 +1323,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7931744-2B92C187-1D67-40F3-A97F-711B8D45881B",
       "person_id": "Q7931744",
       "on_behalf_of_id": "Q1292617",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1296,6 +1339,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264",
       "person_id": "Q8004499",
       "on_behalf_of_id": "Q1518057",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1311,6 +1355,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264",
       "person_id": "Q8004499",
       "on_behalf_of_id": "Q909827",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1326,6 +1371,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q8011042-9C8E029E-5679-4CAC-AA9B-35D2AF25F89F",
       "person_id": "Q8011042",
       "on_behalf_of_id": "Q138345",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1340,6 +1386,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8013291-3F9E83C0-5F85-49E6-83DE-8995363058A8",
       "person_id": "Q8013291",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1354,6 +1401,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8017931-6C870420-0A81-48C3-8E71-A1063E1C330B",
       "person_id": "Q8017931",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1368,6 +1416,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8018413-A60D9513-C685-4429-8645-01C4D6141319",
       "person_id": "Q8018413",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -1383,6 +1432,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q8019319-601CBFB8-6756-4F53-A32A-EDDF4A9A440F",
       "person_id": "Q8019319",
       "on_behalf_of_id": "Q939248",
+      "organization_id": "Q5339025",
       "area_id": "Q2096",
       "role_superclass_code": "Q30185",
       "role_superclass": {

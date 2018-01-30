@@ -503,6 +503,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Legislative Assembly of British Columbia",
+        "lang:fr_CA": "Assemblée législative de la Colombie-Britannique"
+      },
+      "id": "Q1323479",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1323479"
+        }
+      ],
+      "area_id": "Q1974"
+    },
+    {
+      "name": {
         "lang:en_CA": "British Columbia New Democratic Party",
         "lang:fr_CA": "Nouveau Parti démocratique de la Colombie-Britannique"
       },
@@ -2548,6 +2563,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16025218-AF24BFF1-3E5F-40F3-818E-7DAFAA92BA1D",
       "person_id": "Q16025218",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2557,6 +2573,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16058986-53B194FE-907C-4878-880C-C7177AAFED63",
       "person_id": "Q16058986",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2566,6 +2583,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16244253-d10c2701-4d1f-00f1-f290-6682f6b82b85",
       "person_id": "Q16244253",
+      "organization_id": "Q1323479",
       "area_id": "Q5099089",
       "start_date": "2013-01-01",
       "role_code": "Q19004821",
@@ -2577,6 +2595,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1646953-AE78FF7F-57E4-4DD6-AC2A-4AF840F9D151",
       "person_id": "Q1646953",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2586,6 +2605,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18808810-D27C7805-CF33-4BDC-AC1F-DC609ABCABB2",
       "person_id": "Q18808810",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2595,6 +2615,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19359507-3234ebcc-4e23-44c2-58ca-7d5e95a19093",
       "person_id": "Q19359507",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2604,6 +2625,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2939901-458CC2A5-A892-46C9-8FBC-74FC5C51D707",
       "person_id": "Q2939901",
+      "organization_id": "Q1323479",
       "area_id": "Q7926516",
       "start_date": "2005-05-17",
       "role_code": "Q19004821",
@@ -2615,6 +2637,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3132705-F97E8CE1-A3D9-4795-907B-85C88AC6D9D9",
       "person_id": "Q3132705",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2624,6 +2647,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4497218-3F3D02FF-38A5-4389-813F-95AC20636B1B",
       "person_id": "Q4497218",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2633,6 +2657,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4684482-16C82AE6-BDFB-4661-B2DC-223685606DA5",
       "person_id": "Q4684482",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2642,6 +2667,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4757930-EBEB9CFE-4746-4935-AC08-61F2FEDA8E9A",
       "person_id": "Q4757930",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2651,6 +2677,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5467247-D78E8512-72D3-4B3E-94C0-3F804CB7D355",
       "person_id": "Q5467247",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2660,6 +2687,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5480042-881A3622-3ADC-44F5-AF24-32FE75F4B71E",
       "person_id": "Q5480042",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2669,6 +2697,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5482783-678F4A0D-5AF8-48A8-BF26-F986A8686300",
       "person_id": "Q5482783",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2678,6 +2707,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5537079-807F01DC-4EA3-4C56-B34C-BB9B7504F9BD",
       "person_id": "Q5537079",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2687,6 +2717,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5538168-7F092900-E1C1-4C91-A264-112FF2692C02",
       "person_id": "Q5538168",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2696,6 +2727,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5543392-B86CA104-1CF8-4045-9205-770B67AAD905",
       "person_id": "Q5543392",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2705,6 +2737,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5650383-F7AF2203-D58F-4B6F-8FEE-B3CFE307DAAB",
       "person_id": "Q5650383",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2714,6 +2747,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5930901-77134DC4-1C95-4FA5-A5D4-F7298E6A472D",
       "person_id": "Q5930901",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2723,6 +2757,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6132037-43D001FD-3E2D-4965-B462-4A72A5747ECE",
       "person_id": "Q6132037",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2732,6 +2767,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6139854-DD59559B-CB26-4EBA-87F7-55CDA3F3673D",
       "person_id": "Q6139854",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2742,6 +2778,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6525470-aaecd0f6-452e-6edf-84ea-f72228209e16",
       "person_id": "Q6525470",
       "on_behalf_of_id": "Q919052",
+      "organization_id": "Q1323479",
       "area_id": "Q10857025",
       "start_date": "2005-05-17",
       "role_code": "Q19004821",
@@ -2753,6 +2790,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6904157-4D9AA2A3-4D2F-4873-A9DF-93190D13A88F",
       "person_id": "Q6904157",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2762,6 +2800,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7327305-b01d1443-4b53-3c44-3524-84609fe59a3a",
       "person_id": "Q7327305",
+      "organization_id": "Q1323479",
       "area_id": "Q4999593",
       "start_date": "2001-05-16",
       "role_code": "Q19004821",
@@ -2773,6 +2812,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7348767-A902AD99-0CEF-40D7-B0EE-4CFAAFCB6794",
       "person_id": "Q7348767",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2782,6 +2822,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7448400-032DBC7D-3636-4530-923B-571E373AE593",
       "person_id": "Q7448400",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2791,6 +2832,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7791517-C2E8D578-8234-49CD-9B55-E93A319E4B71",
       "person_id": "Q7791517",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2800,6 +2842,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7817905-545E50E8-E977-4A23-9B4C-8A4746E57FC7",
       "person_id": "Q7817905",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2809,6 +2852,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8007622-70709DB5-F7D0-478B-8F08-BE4261FAF11B",
       "person_id": "Q8007622",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2818,6 +2862,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8009366-8E47C759-88F0-4EA9-A69C-708BC553CC10",
       "person_id": "Q8009366",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",
@@ -2827,6 +2872,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8020618-830686AF-7595-43C9-806C-090768ED7155",
       "person_id": "Q8020618",
+      "organization_id": "Q1323479",
       "role_code": "Q19004821",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of British Columbia",

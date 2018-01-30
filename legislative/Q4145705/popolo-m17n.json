@@ -38,7 +38,21 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Calgary City Council",
+        "lang:fr_CA": "consesi de calgary"
+      },
+      "id": "Q4145705",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4145705"
+        }
+      ],
+      "area_id": "Q36312"
+    }
   ],
   "areas": [
     {
@@ -393,6 +407,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21066770-66283de7-4fee-0af1-8ada-e4c141eff26b",
       "person_id": "Q21066770",
+      "organization_id": "Q4145705",
       "area_id": "Q47455793",
       "start_date": "2013-10-21",
       "role_code": "Q45414913",
@@ -403,6 +418,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22277744-9731a8ac-4c3c-4418-d334-8bb2aaa2808a",
       "person_id": "Q22277744",
+      "organization_id": "Q4145705",
       "area_id": "Q47455799",
       "start_date": "2001-10-01",
       "role_code": "Q45414913",

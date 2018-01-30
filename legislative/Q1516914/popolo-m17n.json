@@ -9360,7 +9360,21 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Legislative Assembly of New Brunswick",
+        "lang:fr_CA": "Assemblée législative du Nouveau-Brunswick"
+      },
+      "id": "Q1516914",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1516914"
+        }
+      ],
+      "area_id": "Q1965"
+    }
   ],
   "areas": [
     {
@@ -10520,6 +10534,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1349835-49EB8B8E-49C2-4A83-8539-7CF1DA373434",
       "person_id": "Q1349835",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10529,6 +10544,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q14948885-D8C0A250-7B0E-4A41-A66C-F6AD071109BF",
       "person_id": "Q14948885",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10538,6 +10554,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q14949581-62847E63-2484-48DD-B1D6-696A3106742B",
       "person_id": "Q14949581",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10547,6 +10564,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q15427309-582D09FC-CD80-4B0F-A669-0A4B89C6CB85",
       "person_id": "Q15427309",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10556,6 +10574,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q15485536-FF8E4A1A-1E54-497A-A702-A62904E4B2E6",
       "person_id": "Q15485536",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10565,6 +10584,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16003692-882ABA58-FF31-4D3A-9BD0-8787CEAF4421",
       "person_id": "Q16003692",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10574,6 +10594,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16007339-901764FC-81C8-41FF-9E75-63483B391EFC",
       "person_id": "Q16007339",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10583,6 +10604,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16015296-BAE7415A-8157-429E-8162-5991CA253427",
       "person_id": "Q16015296",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10592,6 +10614,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16030330-766C07C2-7B47-4FED-872C-9AA670FCDA7E",
       "person_id": "Q16030330",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10601,6 +10624,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16031274-3EBCB679-5106-4533-87EA-99546C63A601",
       "person_id": "Q16031274",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10610,6 +10634,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16031808-3422E2B9-F872-4D61-BC2C-D087D1D088F0",
       "person_id": "Q16031808",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10619,6 +10644,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16059154-FAC0C8ED-7B92-4AAD-A437-58260796AD43",
       "person_id": "Q16059154",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10628,6 +10654,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16059505-2E389843-9D3F-4C26-AABF-AADFB1ED0BE2",
       "person_id": "Q16059505",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10637,6 +10664,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16063359-CD487514-506D-4A09-A665-F40A7713B411",
       "person_id": "Q16063359",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10646,6 +10674,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16066608-DF939AC7-98BF-49A3-9431-F540757191DF",
       "person_id": "Q16066608",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10655,6 +10684,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16067676-80F120B4-4F56-435F-9C1B-E83E22F52BE9",
       "person_id": "Q16067676",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10664,6 +10694,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16072663-902FA9D3-D137-482E-A09E-C2136EA93F9E",
       "person_id": "Q16072663",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10673,6 +10704,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16097427-C0759C56-F4AD-4CD2-B43D-986A76B6C34E",
       "person_id": "Q16097427",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10682,6 +10714,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16105604-9444B6EC-E06D-408E-A77A-19C2E41B0E36",
       "person_id": "Q16105604",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10691,6 +10724,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16114502-049643AD-C39C-4AB6-BC4E-D432B2EA9BCF",
       "person_id": "Q16114502",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10700,6 +10734,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16120596-C4BE0754-218F-4488-8A1D-FCFBF5EA86B9",
       "person_id": "Q16120596",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10709,6 +10744,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16186234-42E80B8B-B0B0-4DBC-A83A-B8F9DC8BBF27",
       "person_id": "Q16186234",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10718,6 +10754,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16199532-2B55FF5C-D11E-4764-B899-CFDF7E4CB9FB",
       "person_id": "Q16199532",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10727,6 +10764,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16228559-A2429E3B-2E44-4EBD-83ED-4F803600E2EC",
       "person_id": "Q16228559",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10736,6 +10774,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16979833-8B9D4C67-F8EC-40E8-997D-584B85C578A3",
       "person_id": "Q16979833",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10745,6 +10784,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17108218-C0710DCF-7425-4236-85DA-F409361EF83B",
       "person_id": "Q17108218",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10754,6 +10794,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17117232-831D01AE-D2E2-49FD-9C10-C453AA0B7D70",
       "person_id": "Q17117232",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10763,6 +10804,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1783010-3CE0A8F4-E853-4CA9-B1E7-F653B53C84DA",
       "person_id": "Q1783010",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10772,6 +10814,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18149182-A18AA19F-EFEB-49DF-8701-6E877BE5FC14",
       "person_id": "Q18149182",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10781,6 +10824,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18149585-F671B8A7-8B34-476D-BC64-B9334821CEC2",
       "person_id": "Q18149585",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10790,6 +10834,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18149828-2AED2E7D-1921-46A3-81C7-61AF4E667CFB",
       "person_id": "Q18149828",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10799,6 +10844,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18149930-3E993B9D-BBD0-4D43-8DF8-1D68CBB3DC37",
       "person_id": "Q18149930",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10808,6 +10854,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18150265-09215A68-B531-4800-B560-FD792A650F49",
       "person_id": "Q18150265",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10817,6 +10864,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18164931-BA9EB33B-CF31-4E0F-8962-A2962CA3467E",
       "person_id": "Q18164931",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10826,6 +10874,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18164963-67D2BF3F-17D2-49D0-A371-938F7723BE59",
       "person_id": "Q18164963",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10835,6 +10884,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18164964-AA38F2B6-CCEF-49DF-BD2E-34258DE9241C",
       "person_id": "Q18164964",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10844,6 +10894,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18165005-0C3B81CC-16A7-4614-99D6-A3A1C7B3821E",
       "person_id": "Q18165005",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10853,6 +10904,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18165064-BA1E3453-3E53-49B4-B189-B04C0691C204",
       "person_id": "Q18165064",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10862,6 +10914,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18165066-AFE5B6EB-B3B9-4466-B4B0-5FDBD9A0FFF3",
       "person_id": "Q18165066",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10871,6 +10924,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18165811-C723EF24-CCA7-4CEB-985B-86192EE65289",
       "person_id": "Q18165811",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10880,6 +10934,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18165829-A2D4D48F-9F89-4E82-8A1F-96675048851E",
       "person_id": "Q18165829",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10889,6 +10944,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18167937-D8C818A0-1CD2-4C73-8EC5-924B79BEBDEE",
       "person_id": "Q18167937",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10898,6 +10954,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18167984-E793D68B-1E14-41D7-86A4-F516BCBDFBF0",
       "person_id": "Q18167984",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10907,6 +10964,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18168015-EF1747A3-BA87-4268-B753-EF20E7AF652E",
       "person_id": "Q18168015",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10916,6 +10974,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18168022-11D36254-A3D8-41B2-A081-481860551EA0",
       "person_id": "Q18168022",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10925,6 +10984,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18168023-D7C1738D-005F-4ED4-87B3-E8DC9FE1A7B8",
       "person_id": "Q18168023",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10934,6 +10994,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18168079-35D5942A-D630-4F74-A0D3-DF081618888B",
       "person_id": "Q18168079",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10943,6 +11004,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19873493-A22F0EAE-E359-40BD-9580-7F4B99FCAAF6",
       "person_id": "Q19873493",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10952,6 +11014,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19877324-1E13B527-D3ED-4C92-BFAD-B06CDAEA987C",
       "person_id": "Q19877324",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10961,6 +11024,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19878263-D3A83918-D269-416F-9386-8B63B06BA827",
       "person_id": "Q19878263",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10970,6 +11034,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19878658-F93AE93C-ED1B-435D-8510-DFD8EE286363",
       "person_id": "Q19878658",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10979,6 +11044,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19878901-919BFDA5-1E07-4EB3-9376-6F7256BECC62",
       "person_id": "Q19878901",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10988,6 +11054,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19896141-008C8C30-396B-4E3C-9156-5744E0B871C8",
       "person_id": "Q19896141",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -10997,6 +11064,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19896293-F0D00D7B-07B7-41C4-9D9C-450AD78B0489",
       "person_id": "Q19896293",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11006,6 +11074,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20738032-1529909E-06F2-4951-ADDD-ED1FAB34077F",
       "person_id": "Q20738032",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11015,6 +11084,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20738236-6EA40956-1BEB-4732-8210-7653012508C4",
       "person_id": "Q20738236",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11024,6 +11094,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20985660-E97E7F57-11DA-47D2-86E9-2EADB1FEE809",
       "person_id": "Q20985660",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11033,6 +11104,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20985707-21286C7C-AE1A-4970-AF84-8DA50CB77FD2",
       "person_id": "Q20985707",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11042,6 +11114,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21519751-91BDACC3-C530-4BBC-9105-CF6D66071305",
       "person_id": "Q21519751",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11051,6 +11124,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21597897-ED81DD92-41AF-4F94-B305-E6B96D775D72",
       "person_id": "Q21597897",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11060,6 +11134,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21598183-714BF2FB-D5F9-4CD8-9A16-FDC1ADBB736F",
       "person_id": "Q21598183",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11069,6 +11144,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21598184-1D37A007-A4F3-45D1-BF28-DBF0EC8A6DF5",
       "person_id": "Q21598184",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11078,6 +11154,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21598189-66C7DA36-C798-4835-8012-3596790D0F4F",
       "person_id": "Q21598189",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11087,6 +11164,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21598289-8416872C-E269-42FB-B381-01E9177719B1",
       "person_id": "Q21598289",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11096,6 +11174,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22006228-18853107-C1F6-4C5B-83F9-A5982881F30C",
       "person_id": "Q22006228",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11105,6 +11184,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22277736-C3E58E8D-648B-4747-BFC6-69CEB4D07BC3",
       "person_id": "Q22277736",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11114,6 +11194,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2403484-4677D07D-C270-43B1-83AE-4E39CC847CDE",
       "person_id": "Q2403484",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11123,6 +11204,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2404127-5D025A75-85CE-49A5-9807-EA289ED40B50",
       "person_id": "Q2404127",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11132,6 +11214,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q24192005-20A4F439-1D53-471C-A695-1F24CE556DD6",
       "person_id": "Q24192005",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11141,6 +11224,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28037652-0512C19F-9A2B-47E4-AEDC-5D6C13F0B33F",
       "person_id": "Q28037652",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11150,6 +11234,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28043369-5142D732-2068-45C2-BE9B-A0FD6EAE3EDF",
       "person_id": "Q28043369",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11159,6 +11244,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047776-C5E1E637-AAF2-45A4-977B-CF2039C05806",
       "person_id": "Q28047776",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11168,6 +11254,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047780-6B67DF11-0795-4493-B621-D089BC0FAB1C",
       "person_id": "Q28047780",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11177,6 +11264,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047784-FBBD2FDF-E1BD-462B-81A3-C759894A656B",
       "person_id": "Q28047784",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11186,6 +11274,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047786-9D457766-D6EB-4377-8ACC-FFAE1CDE1EB7",
       "person_id": "Q28047786",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11195,6 +11284,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047790-A191CDD1-4B18-4164-9FD2-156F96928D41",
       "person_id": "Q28047790",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11204,6 +11294,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047791-BE2374BE-4ED3-467B-A71E-B86028327311",
       "person_id": "Q28047791",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11213,6 +11304,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047815-22386574-36CE-4264-9C05-A5E631B3EF36",
       "person_id": "Q28047815",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11222,6 +11314,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047819-A7D3FD12-73D7-43CF-91DF-CA2A7C83AE4D",
       "person_id": "Q28047819",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11231,6 +11324,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047824-FA9623A3-6C1B-47BF-970B-B5E36BFB2D2A",
       "person_id": "Q28047824",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11240,6 +11334,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047841-31FB1277-2340-42D0-A4BA-0FD5ADC0C51E",
       "person_id": "Q28047841",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11249,6 +11344,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047850-1901CD99-4CA8-4D25-8A56-C8744D979DA7",
       "person_id": "Q28047850",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11258,6 +11354,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28047927-0AC5C7CF-8647-447F-BB72-CC741D332AF5",
       "person_id": "Q28047927",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11267,6 +11364,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051482-743B9A1C-4745-481E-B34D-15BD972EF7FA",
       "person_id": "Q28051482",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11276,6 +11374,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051487-369A23AD-3F5B-4624-9F76-954EFB90C715",
       "person_id": "Q28051487",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11285,6 +11384,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051488-5382AFE6-6C34-4BCB-83CD-862B3F6526A1",
       "person_id": "Q28051488",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11294,6 +11394,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051490-D2DCF6E2-344B-4C19-ABB3-EB2275B9F96E",
       "person_id": "Q28051490",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11303,6 +11404,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051492-A857C41F-797E-430F-B063-4389FC03EB84",
       "person_id": "Q28051492",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11312,6 +11414,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051528-2B1B1F52-6FE0-4A58-A238-9A4115EAB434",
       "person_id": "Q28051528",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11321,6 +11424,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051529-5F7ADBEC-D9E2-4A5C-A4FD-EB6D7E09599C",
       "person_id": "Q28051529",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11330,6 +11434,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051530-54033229-D0D6-4392-8A81-65E59D6BBFC1",
       "person_id": "Q28051530",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11339,6 +11444,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051531-53BCBECF-DF15-427B-9858-60F9736EF095",
       "person_id": "Q28051531",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11348,6 +11454,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051534-F778121C-2965-4BBC-8F9B-257DBD8B36AA",
       "person_id": "Q28051534",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11357,6 +11464,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051535-0E2CC0E6-D865-48AC-AB88-DD2CF4156087",
       "person_id": "Q28051535",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11366,6 +11474,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051536-05EE4712-0E78-4307-B123-B07B0D1AB9D0",
       "person_id": "Q28051536",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11375,6 +11484,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051538-4A1D79D4-5AA7-4194-B775-B2D6C0E9B708",
       "person_id": "Q28051538",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11384,6 +11494,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051541-4D947D2E-9CA0-46D4-9AE5-393CF5D65F94",
       "person_id": "Q28051541",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11393,6 +11504,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051542-680BC371-1A9C-4F24-9EF1-B9D05D3A3199",
       "person_id": "Q28051542",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11402,6 +11514,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051547-5462FC6C-62D9-4E7F-8AA8-286DF000461B",
       "person_id": "Q28051547",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11411,6 +11524,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051553-0BE71ADD-A66A-4C30-83FD-3C068852D8C6",
       "person_id": "Q28051553",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11420,6 +11534,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051555-C305E976-77F6-49C6-B825-65E5A7AE5CE3",
       "person_id": "Q28051555",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11429,6 +11544,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051569-6F6E47F7-9B99-4BD0-858F-0C86D95649FA",
       "person_id": "Q28051569",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11438,6 +11554,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051585-6CDB7757-E165-42BE-9961-987E1E657D22",
       "person_id": "Q28051585",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11447,6 +11564,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051598-AB41AFF0-59C8-4021-AB74-2977648B380A",
       "person_id": "Q28051598",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11456,6 +11574,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051604-451D7154-DB4E-4625-ACF6-73B6F1ABB7E7",
       "person_id": "Q28051604",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11465,6 +11584,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051605-DCAFC201-7002-4AE9-94E3-6093B6191459",
       "person_id": "Q28051605",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11474,6 +11594,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051609-23AB1526-47C6-4B61-B811-BC30DBCA1E83",
       "person_id": "Q28051609",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11483,6 +11604,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051610-1B9B14E3-AF1B-4B42-89D7-1F0D52354504",
       "person_id": "Q28051610",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11492,6 +11614,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051613-C8A5F0A5-DF89-41F7-8B31-A05A41329E84",
       "person_id": "Q28051613",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11501,6 +11624,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051635-30307E36-EF26-4348-A948-FBAEC2F99BC0",
       "person_id": "Q28051635",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11510,6 +11634,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051639-DE47ED0B-980E-4954-896D-683AB4583335",
       "person_id": "Q28051639",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11519,6 +11644,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051650-77C1A608-C0FB-4FC4-BB7D-1BAD50D92BB1",
       "person_id": "Q28051650",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11528,6 +11654,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051654-E5C42143-6C73-48EE-BC8C-7AF96E2876DE",
       "person_id": "Q28051654",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11537,6 +11664,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051659-713E69E9-61C1-41DD-8C8E-981CFB6064A2",
       "person_id": "Q28051659",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11546,6 +11674,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28051664-0D6B7AFF-005F-4F03-9BD1-90E5B4EC1726",
       "person_id": "Q28051664",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11555,6 +11684,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054080-6979E0FF-EEB7-4775-BD4E-3C8D388F0172",
       "person_id": "Q28054080",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11564,6 +11694,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054082-03DB6064-8C6C-4644-A7ED-A7DDF7EBCC9C",
       "person_id": "Q28054082",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11573,6 +11704,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054088-A9BF1D5D-491E-4C47-B361-67BB9F80ED6C",
       "person_id": "Q28054088",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11582,6 +11714,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054100-3083B8CE-A18C-4486-BE1C-BF1ACE4941C6",
       "person_id": "Q28054100",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11591,6 +11724,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054102-4021DD50-6402-4AD9-93FD-083891290A7E",
       "person_id": "Q28054102",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11600,6 +11734,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054107-1680F808-5B50-44C2-B07B-E55188A0D237",
       "person_id": "Q28054107",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11609,6 +11744,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054113-42206814-4DB4-4222-8380-DE6D72211012",
       "person_id": "Q28054113",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11618,6 +11754,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054117-DDD89F8C-0566-42D9-8255-B4D49EB009EF",
       "person_id": "Q28054117",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11627,6 +11764,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054130-E025B9C1-4BDE-45E3-8F2C-C871AA44C5A9",
       "person_id": "Q28054130",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11636,6 +11774,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054151-BF033107-C9C2-4F42-94CB-BDDBFFE4722F",
       "person_id": "Q28054151",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11645,6 +11784,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054170-2F187F6B-F06C-4DD7-A1D6-66C632BF86D2",
       "person_id": "Q28054170",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11654,6 +11794,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054179-D90417E5-1053-4F2D-ABB0-1153955F467D",
       "person_id": "Q28054179",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11663,6 +11804,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054189-162C2E65-1987-444C-80E8-B46BD693DADD",
       "person_id": "Q28054189",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11672,6 +11814,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28054223-1FCB9479-2D91-49B6-8B31-F6D675D0D4CB",
       "person_id": "Q28054223",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11681,6 +11824,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28067830-89D30DC4-B109-464C-B7DA-654EFD034FDC",
       "person_id": "Q28067830",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11690,6 +11834,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28070424-822ECB9B-6F7A-45D4-9A3B-620D5CABC844",
       "person_id": "Q28070424",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11699,6 +11844,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28070425-14C3DF3F-C7E2-4566-913A-EF95651A8639",
       "person_id": "Q28070425",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11708,6 +11854,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076249-866FDEB6-80E2-4858-9065-B0E71E7D5FC5",
       "person_id": "Q28076249",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11717,6 +11864,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076306-6F00768B-CC8B-432C-9F93-20E0DBA87087",
       "person_id": "Q28076306",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11726,6 +11874,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076310-6CCDE7BE-55E7-4157-B067-239432F0C3F1",
       "person_id": "Q28076310",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11735,6 +11884,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076320-7417082D-9439-4826-AD41-763222523A5B",
       "person_id": "Q28076320",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11744,6 +11894,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076337-77162B2A-D834-48B1-8F03-AADE79CA4E18",
       "person_id": "Q28076337",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11753,6 +11904,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076396-15077CC3-7FDB-44E3-A0E4-6603D014C14A",
       "person_id": "Q28076396",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11762,6 +11914,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076456-6E7906F3-1C34-4481-BBC7-9D5927E77AF2",
       "person_id": "Q28076456",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11771,6 +11924,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076458-A9AE623E-2184-4F03-85C8-3D7D5839AA50",
       "person_id": "Q28076458",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11780,6 +11934,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28076468-4F987BBE-7725-4148-8C58-7A0418FC50E4",
       "person_id": "Q28076468",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11789,6 +11944,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28077828-29AE2451-EA2B-4F07-9BC8-D44958A691CF",
       "person_id": "Q28077828",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11798,6 +11954,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28077842-04EFF882-3A81-4338-84E8-58A98E077253",
       "person_id": "Q28077842",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11807,6 +11964,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28086179-3601212E-AAF2-4079-AA30-22D6CAE241A2",
       "person_id": "Q28086179",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11816,6 +11974,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28162523-1B2447A0-F721-4AB8-9DCD-D07FCB845F89",
       "person_id": "Q28162523",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11825,6 +11984,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28208248-FFBBE519-FF3B-407E-B1F5-B6244254B236",
       "person_id": "Q28208248",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11834,6 +11994,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28208252-82D52920-DA0E-4D75-A830-AC9DDA4C1804",
       "person_id": "Q28208252",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11843,6 +12004,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28208257-6164B6A0-EF0B-4D4D-B56F-92B98D0DC672",
       "person_id": "Q28208257",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11852,6 +12014,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28208264-61EEBCD1-CF10-4DF8-A206-1503B62E0969",
       "person_id": "Q28208264",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11861,6 +12024,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28208267-4E0F0153-672E-4D08-9D2B-75A5B955C002",
       "person_id": "Q28208267",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11870,6 +12034,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28208286-D458EB4A-F1A2-480D-A284-B17EE979B6D4",
       "person_id": "Q28208286",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11879,6 +12044,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28208296-89481A3C-73E3-4F28-8E1C-5C77293B4940",
       "person_id": "Q28208296",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11888,6 +12054,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2821526-92BFE0C3-326F-4104-A831-D05F30F2BFEA",
       "person_id": "Q2821526",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11897,6 +12064,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2821675-93F2BD10-7151-48CE-9862-B10C5BCB0163",
       "person_id": "Q2821675",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11906,6 +12074,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28223006-C5BF6F72-9915-4B59-9875-52B256FED314",
       "person_id": "Q28223006",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11915,6 +12084,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28223019-F012D28B-E26F-41FF-A420-34694EE83397",
       "person_id": "Q28223019",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11924,6 +12094,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28223021-11E06D6E-D851-46C1-AC98-0F3435D572B4",
       "person_id": "Q28223021",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11933,6 +12104,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28223023-943E1A86-1833-411A-97DA-150FD358CA46",
       "person_id": "Q28223023",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11942,6 +12114,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28227560-2B1ECA39-841B-4EBD-A8A6-8CE513583090",
       "person_id": "Q28227560",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11951,6 +12124,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2830577-1630F2B9-660E-49A7-89EB-00CDD9DE833B",
       "person_id": "Q2830577",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11960,6 +12134,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2831125-5AA5D3DB-7152-4C90-8463-715545234495",
       "person_id": "Q2831125",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11969,6 +12144,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312893-7A36B91F-F030-4409-93E9-5B11A9CD284D",
       "person_id": "Q28312893",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11978,6 +12154,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312895-99A2ABE9-F27F-4A93-B00A-03AC791DEBA4",
       "person_id": "Q28312895",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11987,6 +12164,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312900-F0380742-EC3A-4A29-996D-4769F13DEF83",
       "person_id": "Q28312900",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -11996,6 +12174,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312910-886C9624-5374-4D73-AF3F-DA29306DC377",
       "person_id": "Q28312910",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12005,6 +12184,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312915-8C7F15EE-4351-40C9-9ADD-1299A494CAFA",
       "person_id": "Q28312915",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12014,6 +12194,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312924-E3C528AA-FE2F-4902-BB6A-E46E4B437420",
       "person_id": "Q28312924",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12023,6 +12204,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312926-2069E82B-C7B7-4792-AD84-D697FA98AD15",
       "person_id": "Q28312926",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12032,6 +12214,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312931-5BD93800-B32D-4C2C-B129-31DE7E5BB3D6",
       "person_id": "Q28312931",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12041,6 +12224,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312933-748B5EEE-FA0C-46C5-8863-FE64E3A9CBD5",
       "person_id": "Q28312933",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12050,6 +12234,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312939-967CBC2B-013D-48ED-9CA6-983EECF34B75",
       "person_id": "Q28312939",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12059,6 +12244,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312941-0F545CF8-7E9C-41D1-92C7-DBEAC752DEC2",
       "person_id": "Q28312941",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12068,6 +12254,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312943-FA3BA0E3-ED09-4FA7-B678-6D28C2F297E2",
       "person_id": "Q28312943",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12077,6 +12264,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312946-D4107F50-5197-47C8-8424-D866EBB1FED8",
       "person_id": "Q28312946",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12086,6 +12274,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312948-47673CF3-367C-4472-8534-FC705D2B4620",
       "person_id": "Q28312948",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12095,6 +12284,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312950-68AA8ECD-61C2-4F69-9429-03679AAC4993",
       "person_id": "Q28312950",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12104,6 +12294,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28312966-EE4E2DBE-873D-4F5C-B1D3-9849F55FB3BC",
       "person_id": "Q28312966",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12113,6 +12304,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28313543-9A6B645F-73B8-47D8-A182-E28B6221CB43",
       "person_id": "Q28313543",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12122,6 +12314,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28313546-734831CC-0067-46B2-9C0E-211E195DFF8D",
       "person_id": "Q28313546",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12131,6 +12324,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2833121-2F16749A-873E-404C-9843-8174F9021BD8",
       "person_id": "Q2833121",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12140,6 +12334,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28343504-F52FC000-E2E7-4C12-85E0-09BC17D96DCD",
       "person_id": "Q28343504",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12149,6 +12344,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28343516-16BEDA4F-7D0E-4A57-98AC-397095202DF4",
       "person_id": "Q28343516",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12158,6 +12354,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28343613-BF90140E-7A94-41A3-B0E6-8FEF64814307",
       "person_id": "Q28343613",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12167,6 +12364,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28343617-C936B6AB-7DEE-4FBE-8300-F4EF81492FA7",
       "person_id": "Q28343617",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12176,6 +12374,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2835215-98EC70FE-79FA-4750-B1A5-9424665543F1",
       "person_id": "Q2835215",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12185,6 +12384,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28373987-19207C37-42B2-4548-934C-AAABAA21E60B",
       "person_id": "Q28373987",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12194,6 +12394,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28378336-7B79AD69-4A7C-4E34-AC5F-FEB8D607ECCC",
       "person_id": "Q28378336",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12203,6 +12404,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2839713-CC121282-FA3B-41A1-937E-D979B61EA186",
       "person_id": "Q2839713",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12212,6 +12414,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2846607-01687A5C-654E-49BC-A375-9A7F1F7A89D1",
       "person_id": "Q2846607",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12221,6 +12424,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2846607-64581372-2BC8-4558-97D2-74F4EABDEBB6",
       "person_id": "Q2846607",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12230,6 +12434,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2846708-9EB4EDFE-AC3B-49A9-844A-0DFB8EC94558",
       "person_id": "Q2846708",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12239,6 +12444,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2854002-0D367479-8F36-472E-9E03-E35D779B4148",
       "person_id": "Q2854002",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12248,6 +12454,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2854185-4872EB09-72A5-45B3-B88C-AB0D3FE8296B",
       "person_id": "Q2854185",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12257,6 +12464,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2861957-0F106DEF-86A1-4FE5-B7D9-DA5670C55AE8",
       "person_id": "Q2861957",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12266,6 +12474,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2865007-52E4CEA5-3960-4207-9A0C-7C2909C07DF4",
       "person_id": "Q2865007",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12275,6 +12484,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2865061-C1D55A53-01C8-455B-8C77-F734065475B7",
       "person_id": "Q2865061",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12284,6 +12494,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2865147-E350F2D6-3990-4789-85A0-64DD90EACE90",
       "person_id": "Q2865147",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12293,6 +12504,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2871077-C7090887-09DE-4668-88E9-9E27298A2528",
       "person_id": "Q2871077",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12302,6 +12514,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2871302-F4890D87-2152-4580-95C5-A84FA0A91728",
       "person_id": "Q2871302",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12311,6 +12524,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2872111-ABB225AE-1607-40FF-A192-B6DA272DC939",
       "person_id": "Q2872111",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12320,6 +12534,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2875196-60A4E3F4-8189-4E23-89CC-4EB7ED0FDBF6",
       "person_id": "Q2875196",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12329,6 +12544,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28784529-466E996C-6C03-43AD-B192-E4F5E6B5F63D",
       "person_id": "Q28784529",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12338,6 +12554,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28794081-4791265F-3F6A-4AAA-B940-00DD29D91368",
       "person_id": "Q28794081",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12347,6 +12564,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28794100-DE74BC60-3600-45B8-8428-D9B8CAA58B26",
       "person_id": "Q28794100",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12356,6 +12574,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28800332-9BFD2CE9-F8D2-4C38-AD37-F405841883F6",
       "person_id": "Q28800332",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12365,6 +12584,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28800412-60DFFC30-4691-4438-8BD5-DCA2B727B840",
       "person_id": "Q28800412",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12374,6 +12594,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28800882-1FB9426E-8E84-44B4-8921-7F472588E684",
       "person_id": "Q28800882",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12383,6 +12604,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28816482-C08FD41D-EBA6-403E-8C28-0F9C915F62D4",
       "person_id": "Q28816482",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12392,6 +12614,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2896080-26D05CAC-0732-461D-8FA9-316FF4777D5A",
       "person_id": "Q2896080",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12401,6 +12624,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2896607-11A42303-5F2E-4A4E-B790-DF6AF235347B",
       "person_id": "Q2896607",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12410,6 +12634,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2898106-30D7C913-1D96-4D1A-91BF-DDB58B7DC468",
       "person_id": "Q2898106",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12419,6 +12644,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2898195-3CCE36F4-A0A2-43D4-8F97-B7F5EE24CA9A",
       "person_id": "Q2898195",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12428,6 +12654,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2898528-49442099-76F3-46CC-8161-A7B8632A321A",
       "person_id": "Q2898528",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12437,6 +12664,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2898674-5A222757-41C2-4791-BAE8-1452853EB3CA",
       "person_id": "Q2898674",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12446,6 +12674,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2898698-76EE008F-CECA-4BEB-BF88-37AE6D44BEF4",
       "person_id": "Q2898698",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12455,6 +12684,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2899609-A3815C83-49C6-475C-8D04-C04F7D670EDB",
       "person_id": "Q2899609",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12464,6 +12694,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2903215-b78f144e-42dd-ee37-6623-3e16641965ad",
       "person_id": "Q2903215",
+      "organization_id": "Q1516914",
       "area_id": "Q3315872",
       "start_date": "2006-01-01",
       "role_code": "Q18984329",
@@ -12475,6 +12706,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2903285-2D6B7975-7D7C-4BB5-95D8-DC74F9263A75",
       "person_id": "Q2903285",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12484,6 +12716,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2905723-00EB37EB-795E-41A8-BBEE-6055B5D8BA5F",
       "person_id": "Q2905723",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12493,6 +12726,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2924409-D41CF6EE-0FCB-4BAE-ABFF-7D214B9C318E",
       "person_id": "Q2924409",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12502,6 +12736,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2924893-038CF323-EF1A-49A1-9B29-9E9284337AE6",
       "person_id": "Q2924893",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12511,6 +12746,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2924935-d996efb1-40d2-27b6-9ba9-b00769c606dc",
       "person_id": "Q2924935",
+      "organization_id": "Q1516914",
       "area_id": "Q2891243",
       "start_date": "2003-01-01",
       "role_code": "Q18984329",
@@ -12522,6 +12758,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2924947-188D4988-4A5B-4EDB-9B13-A569B9370271",
       "person_id": "Q2924947",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12531,6 +12768,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2926414-61284F3F-9033-432E-8614-6F59B86A9833",
       "person_id": "Q2926414",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12540,6 +12778,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2926463-F419621E-EA23-42D6-8BC5-FD6A65D795C5",
       "person_id": "Q2926463",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12549,6 +12788,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2927483-72245C38-5198-45F7-BCDE-54616BF8170C",
       "person_id": "Q2927483",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12558,6 +12798,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2928628-0A4A9C0E-E86D-4094-96BF-B82C6FD6AA0C",
       "person_id": "Q2928628",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12567,6 +12808,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2935085-E557C580-205E-4D17-BE7F-93128FABB55C",
       "person_id": "Q2935085",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12576,6 +12818,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2938946-2C9099F9-7A80-4FD6-8D5B-C6F97CF7E8E3",
       "person_id": "Q2938946",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12585,6 +12828,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2939005-A127CDA7-3BAB-4988-B9C0-DEEE176FC034",
       "person_id": "Q2939005",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12594,6 +12838,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2939546-1539391B-DF3F-4569-A5FE-C0E00130EF5C",
       "person_id": "Q2939546",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12603,6 +12848,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2958562-ADC8E97E-4314-4369-BB25-77791FA837E7",
       "person_id": "Q2958562",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12612,6 +12858,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2959013-1B056EF6-BAAE-4BED-9488-D1D7D1A28E54",
       "person_id": "Q2959013",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12621,6 +12868,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2959492-F03A3CB4-E0C8-4340-8D09-5CB577F0787D",
       "person_id": "Q2959492",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12630,6 +12878,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2962817-D473C1F9-990A-4B70-B1F0-8327AC2B52F1",
       "person_id": "Q2962817",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12639,6 +12888,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2975539-4214745C-D655-4732-8AB6-785912AF6732",
       "person_id": "Q2975539",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12648,6 +12898,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2975548-A79436B6-E409-49C8-A37E-6DB23F82BB6C",
       "person_id": "Q2975548",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12657,6 +12908,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2978279-4BC38AB8-9030-4892-BACD-929D788C63F3",
       "person_id": "Q2978279",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12666,6 +12918,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2993601-A2EEA601-903D-464B-AF26-4FD985C5DF97",
       "person_id": "Q2993601",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12675,6 +12928,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3002033-D31EB0DD-8F8A-4627-8ABB-78D5202A4E20",
       "person_id": "Q3002033",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12684,6 +12938,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3007815-B54E3846-F32E-4646-A53F-1D5D6680DEBC",
       "person_id": "Q3007815",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12693,6 +12948,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3008023-4789C3C2-934B-4E11-B69B-6E881F803F8C",
       "person_id": "Q3008023",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12702,6 +12958,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3008886-44046577-DD39-44E8-872B-ED2B3EFA03D9",
       "person_id": "Q3008886",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12711,6 +12968,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3012300-1955F30B-2B88-42EF-A085-D6AE6BCE1DE4",
       "person_id": "Q3012300",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12720,6 +12978,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3013901-635ED0EA-94EF-4672-AB33-78B40CDFA925",
       "person_id": "Q3013901",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12729,6 +12988,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3014356-679862D8-C771-443B-BC34-91AC9C9228E9",
       "person_id": "Q3014356",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12738,6 +12998,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3017325-D05B5B1E-3B13-49BE-838F-6AB9592FAC84",
       "person_id": "Q3017325",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12747,6 +13008,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3022774-A23B53F7-F347-4BD8-96A5-93AFB514B1DF",
       "person_id": "Q3022774",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12756,6 +13018,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3022800-3696A1AF-7135-45AE-A298-C6EE274A0B59",
       "person_id": "Q3022800",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12765,6 +13028,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3035986-570B2361-C6DA-466F-B5B6-AD4D6B602F8E",
       "person_id": "Q3035986",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12774,6 +13038,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3037187-97936698-FFA0-4C17-A5BA-1386383E9A8D",
       "person_id": "Q3037187",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12783,6 +13048,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3037970-A42C457A-CFE9-4BD1-BDF7-FD3032045B94",
       "person_id": "Q3037970",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12792,6 +13058,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3047163-4C20E2B4-3665-450B-8C8C-940C407E504A",
       "person_id": "Q3047163",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12801,6 +13068,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3047450-2D70A9CF-92F9-4149-8026-DD606AB571C8",
       "person_id": "Q3047450",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12810,6 +13078,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3047754-171FA96B-8F3E-4D0F-A3BA-090D7EF98C0B",
       "person_id": "Q3047754",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12819,6 +13088,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q305109-373E9990-1825-4074-8AC3-2127FC1608C5",
       "person_id": "Q305109",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12828,6 +13098,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3051287-3765A996-9566-4CA7-BC89-9B93D1FC3511",
       "person_id": "Q3051287",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12837,6 +13108,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3051859-1D809D75-4508-4986-9ADF-40F88DA90F96",
       "person_id": "Q3051859",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12846,6 +13118,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3057163-E53EFC4F-BC19-4BC9-86FE-4A5E1EC03B5B",
       "person_id": "Q3057163",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12855,6 +13128,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3059569-3D32D415-0A99-47A8-BD2F-9C8BAFC09417",
       "person_id": "Q3059569",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12864,6 +13138,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3061447-088AA4E6-B5D8-4BAB-AD94-C66E85BA1032",
       "person_id": "Q3061447",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12873,6 +13148,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3069137-74E8C907-8001-4329-9F28-F23221449658",
       "person_id": "Q3069137",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12882,6 +13158,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3069283-89EBC090-B9B0-48A5-919B-067B6E45AE2C",
       "person_id": "Q3069283",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12891,6 +13168,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3082517-D2293A2B-92D8-47B7-A65B-25CAF2F73F8B",
       "person_id": "Q3082517",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12900,6 +13178,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3082526-6B9D39A2-AB9F-4947-B06E-406B65522A85",
       "person_id": "Q3082526",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12909,6 +13188,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3082781-76569142-BF64-489B-8ECB-52091F170A9F",
       "person_id": "Q3082781",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12918,6 +13198,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3086954-DA806BE5-8811-4F83-9B61-E53E5CA4EA47",
       "person_id": "Q3086954",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12927,6 +13208,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3101447-955B2606-44D0-43F4-BCE6-FA68D5568408",
       "person_id": "Q3101447",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12936,6 +13218,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3101552-0EFA9D7B-5CA8-47F9-A4D1-7B692E3D00DC",
       "person_id": "Q3101552",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12945,6 +13228,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3101730-DF94D2B0-66B8-41F8-8601-C03C08D360D3",
       "person_id": "Q3101730",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12954,6 +13238,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3101886-7F652098-D23F-46DB-9E18-1EB0F7133AD6",
       "person_id": "Q3101886",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12963,6 +13248,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3101953-FFB2F28C-86AE-4B1A-A44E-795D216121A9",
       "person_id": "Q3101953",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12972,6 +13258,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3102008-27B61D6A-E192-4315-A553-FCAC6A52F2BE",
       "person_id": "Q3102008",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12981,6 +13268,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3102648-17492655-7339-44D3-88A4-9E307023AC31",
       "person_id": "Q3102648",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12990,6 +13278,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3108698-255C6A54-D904-4895-903D-995C40CCDC7C",
       "person_id": "Q3108698",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -12999,6 +13288,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3108822-D97B1769-9312-4EDF-8E99-78872869D020",
       "person_id": "Q3108822",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13008,6 +13298,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3110893-00B1CD3F-5FC5-46CF-BF43-2A909633D972",
       "person_id": "Q3110893",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13017,6 +13308,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3116191-71DFF536-DC3A-45FA-AD7B-293856907C3F",
       "person_id": "Q3116191",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13026,6 +13318,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3116205-AD95F772-FE6A-46E1-AA17-F58D5982047A",
       "person_id": "Q3116205",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13035,6 +13328,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3116382-89C9E0F2-D575-4BEF-B31C-FEA9C23D332B",
       "person_id": "Q3116382",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13044,6 +13338,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3123604-155AE229-A5B8-4F4B-BAD7-D51536254B91",
       "person_id": "Q3123604",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13053,6 +13348,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3129331-FE6874EC-FB36-4967-955C-1196D1EB2A5F",
       "person_id": "Q3129331",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13062,6 +13358,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3133014-CC00FBF0-C91D-47BA-90B2-BDC073CF5F6F",
       "person_id": "Q3133014",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13071,6 +13368,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3134631-BFE5DDA7-C14B-40D3-B829-B1EE63BCE90C",
       "person_id": "Q3134631",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13080,6 +13378,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3135293-357B379B-BEF5-43C1-95B7-CE2F113E6525",
       "person_id": "Q3135293",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13089,6 +13388,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3142247-971937B6-AED0-49AF-A5F4-AF442ABBF5EB",
       "person_id": "Q3142247",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13098,6 +13398,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3144572-FB372433-CB0A-49D8-BE6C-D3736D7E83F3",
       "person_id": "Q3144572",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13107,6 +13408,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3144653-8EAEDA97-9CD7-4172-9B05-54494DE6CB6E",
       "person_id": "Q3144653",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13116,6 +13418,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3155152-4D366927-7506-4A69-9393-96A37837F15C",
       "person_id": "Q3155152",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13125,6 +13428,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3156779-30FDA6D7-9F46-4A14-A7C3-BA878385416A",
       "person_id": "Q3156779",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13134,6 +13438,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3157141-89D87781-2E76-47C7-BCA9-0B035F98A427",
       "person_id": "Q3157141",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13143,6 +13448,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3157231-81FA3777-607F-40FF-87F6-C1C58A002B84",
       "person_id": "Q3157231",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13152,6 +13458,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3160637-27D3564A-ABE9-4FE1-A1A9-BCB4C4055FC4",
       "person_id": "Q3160637",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13161,6 +13468,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3161055-813167F6-7EB5-4454-87BF-DAA53B2AD839",
       "person_id": "Q3161055",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13170,6 +13478,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3161376-67B312DA-8F01-443C-8E6C-25EC835C190F",
       "person_id": "Q3161376",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13179,6 +13488,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3161850-8E08D70D-DB7E-484E-ABF0-FCDCA32789A5",
       "person_id": "Q3161850",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13188,6 +13498,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3163991-B10D2039-539A-4CDD-BBBF-571D29D8093B",
       "person_id": "Q3163991",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13197,6 +13508,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3167911-9B118323-77A8-4447-9EB1-9420391043FE",
       "person_id": "Q3167911",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13206,6 +13518,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3169622-995933FB-577B-4CA1-90E9-8911D5BD72BC",
       "person_id": "Q3169622",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13215,6 +13528,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3172257-3065B927-1777-4C61-A9B0-5102E668EB9C",
       "person_id": "Q3172257",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13224,6 +13538,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3172276-B7F59CC9-29EC-4007-A7B8-E5DDFC1E21A8",
       "person_id": "Q3172276",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13233,6 +13548,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3176300-72623AE3-3446-4522-AC6E-976223152330",
       "person_id": "Q3176300",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13242,6 +13558,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3178912-09CFD048-C130-4252-A18D-F1C10D3184C0",
       "person_id": "Q3178912",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13251,6 +13568,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3179600-75C047FA-A812-470C-B187-8F14EBB2B8FA",
       "person_id": "Q3179600",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13260,6 +13578,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3179947-E57C8443-05EF-417A-8111-9C52792E347A",
       "person_id": "Q3179947",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13269,6 +13588,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3181495-E3E4B479-F305-4363-AE71-BDAC0BD47C61",
       "person_id": "Q3181495",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13278,6 +13598,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3181595-6519699B-5D85-4922-A0D1-AE57BD541AE7",
       "person_id": "Q3181595",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13287,6 +13608,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3181822-C8FF6413-4663-4418-9ADF-517F96DCB451",
       "person_id": "Q3181822",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13296,6 +13618,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3182026-B669EB9C-42C2-414B-ABF4-7F4E74438D01",
       "person_id": "Q3182026",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13305,6 +13628,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3182126-A0A4E95D-2DC5-4092-90FA-809F6FBAEA1B",
       "person_id": "Q3182126",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13314,6 +13638,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3182775-B153EDF9-A626-452D-A3D7-F96F1B8363A2",
       "person_id": "Q3182775",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13323,6 +13648,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3184235-521922D0-0506-476F-8A73-747894D1040E",
       "person_id": "Q3184235",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13332,6 +13658,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3184276-FB36ED41-461E-4C68-8EE8-0650C11A554C",
       "person_id": "Q3184276",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13341,6 +13668,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3185249-E1089007-397F-4A4C-9858-5737807D8436",
       "person_id": "Q3185249",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13350,6 +13678,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3185506-1B32A8D4-1784-4F66-9564-289222D53F68",
       "person_id": "Q3185506",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13359,6 +13688,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3185803-4A488CB0-480B-4E21-9606-FCD300A3EA02",
       "person_id": "Q3185803",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13368,6 +13698,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3194724-B5027B87-A857-4A61-A472-A14D28D68977",
       "person_id": "Q3194724",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13377,6 +13708,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3194903-264F4C97-CB40-4F42-B93A-0A0859B960DD",
       "person_id": "Q3194903",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13386,6 +13718,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3195156-70DFFEC2-6DC7-45B7-9B09-245755DFD26B",
       "person_id": "Q3195156",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13395,6 +13728,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3197380-02B9AD4D-458E-4B53-8C18-6AD603DAFE73",
       "person_id": "Q3197380",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13404,6 +13738,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3218069-835F50C2-7CF6-4976-80EB-007BEBAA1C81",
       "person_id": "Q3218069",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13413,6 +13748,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3219669-1DA3EB46-6D83-4882-A9D7-FEA7B8DF2A77",
       "person_id": "Q3219669",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13422,6 +13758,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3265499-77DBCE95-F97D-4F35-836E-192950A192AE",
       "person_id": "Q3265499",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13431,6 +13768,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3275639-39301F7C-AA54-495E-B289-2FD45F003C24",
       "person_id": "Q3275639",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13440,6 +13778,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3289567-356579CA-07D8-4163-87A3-FC39D4D237F6",
       "person_id": "Q3289567",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13449,6 +13788,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3290456-3C9347DA-B0C3-4DD4-8019-4F3D2155E511",
       "person_id": "Q3290456",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13458,6 +13798,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3291709-F0E79DCB-6917-4FB4-AFEE-1C8D11B8F4A3",
       "person_id": "Q3291709",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13467,6 +13808,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3293093-C2A02A33-E6FA-4607-BCEE-B2D4255EBFAD",
       "person_id": "Q3293093",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13476,6 +13818,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3295763-B0D7BD5D-B86D-4A36-A5AA-7C317B2FC327",
       "person_id": "Q3295763",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13485,6 +13828,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3296241-C11255ED-7696-44E2-832F-6FF17E36ED1F",
       "person_id": "Q3296241",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13494,6 +13838,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3298590-DF6C887F-655F-44F2-A035-7523A7889C32",
       "person_id": "Q3298590",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13503,6 +13848,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3307982-D4738AA0-8695-483C-9112-A91DFCCC88EC",
       "person_id": "Q3307982",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13512,6 +13858,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3308377-8A7644E5-0C2B-437E-BA5D-85CACD101166",
       "person_id": "Q3308377",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13521,6 +13868,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3313484-E7431FAA-7593-4394-A1B1-19EA4CCE2D10",
       "person_id": "Q3313484",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13530,6 +13878,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3335609-F668D6B7-AEB3-49F5-A5C4-E0255D9769C8",
       "person_id": "Q3335609",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13539,6 +13888,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3343524-CA50FEDC-68BD-40F0-82AC-19A231CFA56A",
       "person_id": "Q3343524",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13548,6 +13898,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3343702-738DC511-DDBB-4CE2-894D-BA263A5A3504",
       "person_id": "Q3343702",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13557,6 +13908,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3351157-AF3C0767-F62A-4B45-B731-6D441B6681E7",
       "person_id": "Q3351157",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13566,6 +13918,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3352005-DFC4A00B-40A8-466A-9AD1-C8F03ACC709A",
       "person_id": "Q3352005",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13575,6 +13928,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3352729-B3AF372F-6E06-4E45-9E4B-42B80E2EE989",
       "person_id": "Q3352729",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13584,6 +13938,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3357787-AB65B790-969B-4853-93ED-3B49097CACFE",
       "person_id": "Q3357787",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13593,6 +13948,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3361752-968D417D-2131-4197-AF06-9C0A2F14770D",
       "person_id": "Q3361752",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13602,6 +13958,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3371121-58D0EB0A-5B65-4888-BB50-295FAF469864",
       "person_id": "Q3371121",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13611,6 +13968,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3376932-D5E5CF03-426E-4C62-B96A-0AEA18302CD8",
       "person_id": "Q3376932",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13620,6 +13978,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3382797-EAB8B84D-7475-4472-AA28-359793E4EE8B",
       "person_id": "Q3382797",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13629,6 +13988,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3388877-2192640F-EE33-4517-9510-CF84DAB6BA6E",
       "person_id": "Q3388877",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13638,6 +13998,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3407801-8D2D7D53-AA94-4C80-B83C-CB386DB00EEA",
       "person_id": "Q3407801",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13647,6 +14008,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3420591-315F192A-7DDD-45B8-AE04-509E0105BBCC",
       "person_id": "Q3420591",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13656,6 +14018,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3420782-CB59CC8E-52BB-4203-BE87-78D9FEF1553B",
       "person_id": "Q3420782",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13665,6 +14028,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3423514-FD9B9EE4-3EBF-407F-92EF-E0839B2E44B8",
       "person_id": "Q3423514",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13674,6 +14038,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3431533-8AE157F4-B5FE-4E6C-A791-A79676D08523",
       "person_id": "Q3431533",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13683,6 +14048,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3431542-FAC590BA-3EA4-47B8-A4A4-C3B656050C1E",
       "person_id": "Q3431542",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13692,6 +14058,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3431581-5D783BCE-79FE-4D54-970F-147639725D0D",
       "person_id": "Q3431581",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13701,6 +14068,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3434520-9B41AC93-DC7D-4002-B786-E72EE3B8302F",
       "person_id": "Q3434520",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13710,6 +14078,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3434843-64788E1F-B255-45FF-B550-107EC8FA77C0",
       "person_id": "Q3434843",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13719,6 +14088,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3436432-48C38646-6296-459A-BB90-E8A46CED894A",
       "person_id": "Q3436432",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13728,6 +14098,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3436538-5A9992D7-217C-484E-854A-4475AA6A0263",
       "person_id": "Q3436538",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13737,6 +14108,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3438241-A80D5F74-33EB-4D3B-9524-7D74F69D6CFA",
       "person_id": "Q3438241",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13746,6 +14118,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3439119-B82724CF-3DC4-4879-AD1F-49EAD61DC55F",
       "person_id": "Q3439119",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13755,6 +14128,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3439270-B31DFA40-895E-490E-95D5-AB88B241EB64",
       "person_id": "Q3439270",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13764,6 +14138,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3439947-17B5E018-3F3A-4722-A011-3F14E112DC89",
       "person_id": "Q3439947",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13773,6 +14148,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3440094-9D1FB2C3-2F60-49ED-A7B9-1B8FB593EBE2",
       "person_id": "Q3440094",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13782,6 +14158,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3440543-5051E804-D3A6-4DC7-B938-E138E3C87576",
       "person_id": "Q3440543",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13791,6 +14168,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3441543-1B42AF4E-6483-41E2-962C-6A398E39E45C",
       "person_id": "Q3441543",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13800,6 +14178,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3442344-1BB529B5-850F-40EC-89DA-CC8C2B35CD4D",
       "person_id": "Q3442344",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13809,6 +14188,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3442799-100C4FEA-EFAE-4AC9-8601-4728BB757628",
       "person_id": "Q3442799",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13818,6 +14198,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3445749-79C5747C-74CA-49B4-A1F7-49C64F5996D6",
       "person_id": "Q3445749",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13827,6 +14208,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3453846-37F40570-19A5-4C70-864F-A514CEC53D41",
       "person_id": "Q3453846",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13836,6 +14218,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3479517-4E6CED8D-83AF-4620-9AD2-ACB4CE42C241",
       "person_id": "Q3479517",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13845,6 +14228,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3481980-99D8B22F-7F77-4F8A-9C61-870111B9371B",
       "person_id": "Q3481980",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13854,6 +14238,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3500810-74F9F4E2-6CB0-4A96-9C7B-5E42194C54B8",
       "person_id": "Q3500810",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13863,6 +14248,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3505612-6C399FA4-B08C-4279-B989-A6233F3B6647",
       "person_id": "Q3505612",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13872,6 +14258,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3511939-BB692521-E662-4D40-9ABA-1EDC393C54A4",
       "person_id": "Q3511939",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13881,6 +14268,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3524848-330FC2E9-C6F7-4158-9A96-442C405CC24F",
       "person_id": "Q3524848",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13890,6 +14278,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3525246-19EFAD5B-6616-4180-A5F0-0389B280EE63",
       "person_id": "Q3525246",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13899,6 +14288,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3527287-33EBB13F-3E5A-4770-9BC1-A6C3224D4E65",
       "person_id": "Q3527287",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13908,6 +14298,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3531786-189C58F7-3178-4886-BE8C-7C615346F94E",
       "person_id": "Q3531786",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13917,6 +14308,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3538587-36C38C42-AAD3-4A31-9E5A-084C37AB8487",
       "person_id": "Q3538587",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13926,6 +14318,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3541031-738EB4A5-418A-486F-B20E-C7521BE432E3",
       "person_id": "Q3541031",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13935,6 +14328,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3552168-A540CC05-7BC2-424C-BFC3-DA3713D432F8",
       "person_id": "Q3552168",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13944,6 +14338,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3557177-DFC31DEE-13A6-4FFD-A4F0-8E86F3EC3E91",
       "person_id": "Q3557177",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13953,6 +14348,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3565559-D3AE96A2-647A-458E-9C51-27B6E69F239C",
       "person_id": "Q3565559",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13962,6 +14358,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3566864-B48D77DF-8C65-4C26-B336-3AD1268FBD6E",
       "person_id": "Q3566864",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13971,6 +14368,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3567365-3CC978CB-0433-46CC-ADAD-868E900939D9",
       "person_id": "Q3567365",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13980,6 +14378,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3568395-3EAC3972-03E8-4517-AD0B-0DF92E08AD26",
       "person_id": "Q3568395",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13989,6 +14388,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3568629-5F4A827F-3D7C-4415-85B3-6C5A099EA874",
       "person_id": "Q3568629",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -13998,6 +14398,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3568736-1AD4F9D5-357F-459D-AF90-5CA5EF0EC3F4",
       "person_id": "Q3568736",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14007,6 +14408,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3568974-C3BF6502-843B-41D1-A229-5208E0D6CEF6",
       "person_id": "Q3568974",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14016,6 +14418,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3574081-9C27D7A0-F35E-4C44-A6BA-B3F6C1DFDEB9",
       "person_id": "Q3574081",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14025,6 +14428,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3574145-6FF519E9-A8AB-410C-B7A2-4A1BE06E512B",
       "person_id": "Q3574145",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14034,6 +14438,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3579946-43924DA9-8940-40EB-AABE-5336019FFC05",
       "person_id": "Q3579946",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14043,6 +14448,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q386669-9C2059C2-59FE-40B4-B645-82868E13FBCC",
       "person_id": "Q386669",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14052,6 +14458,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4647738-52065DFE-5068-45C8-B47A-2FE282C04051",
       "person_id": "Q4647738",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14061,6 +14468,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4648353-FCFB3437-BA4A-4BEA-80DF-CF7562FFA967",
       "person_id": "Q4648353",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14070,6 +14478,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4678711-6760F99F-0F9B-4822-9430-3DE8BA114A33",
       "person_id": "Q4678711",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14079,6 +14488,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4710958-269427BD-E7BA-4495-9D1B-695DDF91468B",
       "person_id": "Q4710958",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14088,6 +14498,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4714039-5769A324-D337-4CFF-9CE7-1C2E2BD5B8C2",
       "person_id": "Q4714039",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14097,6 +14508,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4718782-0FA5A04F-78DA-4035-9AAA-003D57669719",
       "person_id": "Q4718782",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14106,6 +14518,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4730447-DF2E1FE3-7B74-4607-B4A2-E50ED37A89C7",
       "person_id": "Q4730447",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14115,6 +14528,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4730571-426128C5-CD0D-4135-8871-39EB4CEB432A",
       "person_id": "Q4730571",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14124,6 +14538,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4740376-F97B4DB2-66FA-424C-B8AB-45A7B16BD029",
       "person_id": "Q4740376",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14133,6 +14548,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4741777-8487F904-A5F8-4C71-8B7D-07C6F49F9B2B",
       "person_id": "Q4741777",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14142,6 +14558,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4766281-2767168A-FEBB-4931-B6E7-3C033DCA21C7",
       "person_id": "Q4766281",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14151,6 +14568,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4786350-D783BF38-E9F5-4EDF-8699-3FF5332E0DB1",
       "person_id": "Q4786350",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14160,6 +14578,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4798822-BB9A27A1-491E-4904-BF11-74ECA5CCCC07",
       "person_id": "Q4798822",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14169,6 +14588,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4800295-2D18C77B-54C4-4A07-A9AF-6B0840F6EED5",
       "person_id": "Q4800295",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14178,6 +14598,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4834010-32D814B0-9CE6-4802-9890-63737E0F09D9",
       "person_id": "Q4834010",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14187,6 +14608,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4899483-4709AF6C-D239-4266-A697-A6035167AADB",
       "person_id": "Q4899483",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14196,6 +14618,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4953961-333EA330-466E-4A08-9A83-8442094D895D",
       "person_id": "Q4953961",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14205,6 +14628,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4960677-8B322E1A-67A8-4A9F-96F3-A2D817F70706",
       "person_id": "Q4960677",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14214,6 +14638,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4961563-742F4010-5A3C-41BB-A9D2-29389CED7172",
       "person_id": "Q4961563",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14223,6 +14648,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q49631-C2B5AE57-1B5C-4E0E-93AA-3BCF2C2FB03F",
       "person_id": "Q49631",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14232,6 +14658,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4977087-EFB4683A-E9B8-4B8A-BBE1-43DCF168B246",
       "person_id": "Q4977087",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14241,6 +14668,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5006397-29A0BB82-A75B-4D61-9EA6-87C98AA292E2",
       "person_id": "Q5006397",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14250,6 +14678,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5006970-470B35F5-0FD7-43A1-AF5B-D374928CB530",
       "person_id": "Q5006970",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14259,6 +14688,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5040561-65E17AF9-C87E-4DCF-BD4B-57ACCA555C1F",
       "person_id": "Q5040561",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14268,6 +14698,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5044693-B3B8344D-F699-4F0B-9059-299F0D63094D",
       "person_id": "Q5044693",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14277,6 +14708,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5045281-C545ACB3-F5DA-4088-BDEC-A360B7EF71FA",
       "person_id": "Q5045281",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14286,6 +14718,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5075302-070D4A47-937B-4722-8896-51F98C2FDAE3",
       "person_id": "Q5075302",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14295,6 +14728,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5075315-FAE8DA56-CE86-416A-8665-9E193855CB44",
       "person_id": "Q5075315",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14304,6 +14738,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5078528-1F492646-1D3A-4842-8B3A-F5F9D1C6D79E",
       "person_id": "Q5078528",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14313,6 +14748,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5078589-E84BFC85-E048-4FC8-B77E-692D4E04B528",
       "person_id": "Q5078589",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14322,6 +14758,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5079374-7C4BBA2D-DFBA-41D3-BBE4-4F08DF6138B1",
       "person_id": "Q5079374",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14331,6 +14768,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5079984-CB8ACCF9-2D68-47D0-B114-373EAB46BF73",
       "person_id": "Q5079984",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14340,6 +14778,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5128786-407D3168-3755-45F7-B3D1-0F8E38A4E171",
       "person_id": "Q5128786",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14349,6 +14788,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5200872-E05544FB-BDEA-42C7-9CCC-C2CCA18D84C9",
       "person_id": "Q5200872",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14358,6 +14798,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5203773-8832DF98-BA33-4343-8924-DB5E314F679C",
       "person_id": "Q5203773",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14367,6 +14808,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5220204-7925F504-D2BF-4B34-86F8-C3ED269A806C",
       "person_id": "Q5220204",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14376,6 +14818,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5220382-95EB7CB5-E62F-476B-90C4-FCD4B4FEB8D6",
       "person_id": "Q5220382",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14385,6 +14828,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5228534-A10A8A51-69BB-4683-A8FA-FC1C5DD66ED4",
       "person_id": "Q5228534",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14394,6 +14838,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5232319-FE7A1D87-C01A-4853-9276-AD9FB53A9B76",
       "person_id": "Q5232319",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14403,6 +14848,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5237425-94E67442-B022-4BC7-B942-C9B7807AD876",
       "person_id": "Q5237425",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14412,6 +14858,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5238839-44C5C8EC-0575-4205-9BB7-F86F86E5DA1D",
       "person_id": "Q5238839",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14421,6 +14868,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5258286-35D342DE-13DF-4739-ACCF-2FA75D7F9B94",
       "person_id": "Q5258286",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14430,6 +14878,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5258436-B6DB2E11-0266-4414-BDD8-C486E8AAEE84",
       "person_id": "Q5258436",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14439,6 +14888,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5287178-E2656DD1-B5A7-4F65-90CD-136A4A3E1FD5",
       "person_id": "Q5287178",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14448,6 +14898,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5294213-BDE72E66-E661-47C1-B6F8-54AC37DFB1F4",
       "person_id": "Q5294213",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14457,6 +14908,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5294644-63AA3991-11AA-40B4-A6C6-DF1DDCB289E2",
       "person_id": "Q5294644",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14466,6 +14918,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5294906-FC930547-FA34-479D-8036-51179976BC4E",
       "person_id": "Q5294906",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14475,6 +14928,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5300973-D69D16F7-43A8-40B6-B50E-9760A58F6F07",
       "person_id": "Q5300973",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14484,6 +14938,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5301626-00F3CFCF-C84A-49BE-AABE-2B066B96C38B",
       "person_id": "Q5301626",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14493,6 +14948,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5321712-14AF41BF-FE44-4352-8E7C-3B051F9801D5",
       "person_id": "Q5321712",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14502,6 +14958,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5343687-C0053385-5C43-4928-AB8A-59CFC7DAC876",
       "person_id": "Q5343687",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14511,6 +14968,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5346431-71D8145F-8727-4BE6-BD8D-BD86CE2F7AC6",
       "person_id": "Q5346431",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14520,6 +14978,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5366888-A7B388D6-43F6-4A27-BF37-5B778B2C6F5E",
       "person_id": "Q5366888",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14529,6 +14988,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5386006-60709A5D-A997-4E44-B706-05E02EB4EE0F",
       "person_id": "Q5386006",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14538,6 +14998,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5387017-BA0D17E9-3CF5-4AB1-AE71-1019DEBDB95C",
       "person_id": "Q5387017",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14547,6 +15008,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5387615-981D2BB3-3391-466D-A90B-1E069E497880",
       "person_id": "Q5387615",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14556,6 +15018,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5392660-B0925985-04C5-4F09-923D-8454CD7E04CD",
       "person_id": "Q5392660",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14565,6 +15028,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5393960-DDB50DA3-B747-4C52-8CFF-B84AB76EBB4A",
       "person_id": "Q5393960",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14574,6 +15038,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5481431-7A509703-0EBF-4370-8DD3-129015AFF9F8",
       "person_id": "Q5481431",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14583,6 +15048,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5481440-1DF9A203-F62D-4244-848C-48E78C9CCC10",
       "person_id": "Q5481440",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14592,6 +15058,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5482843-BC82F7D9-3D7F-4945-BB91-A6B38CB1E4CC",
       "person_id": "Q5482843",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14601,6 +15068,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5485952-52465D98-3C1D-4355-8DDE-E26859307125",
       "person_id": "Q5485952",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14610,6 +15078,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5497100-EB5DDE32-20EC-44E9-98B4-18465F67AA78",
       "person_id": "Q5497100",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14619,6 +15088,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5497480-E39BBCFC-861B-471B-8A3E-0A00FE0A6B1D",
       "person_id": "Q5497480",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14628,6 +15098,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5497484-2B36A219-81E8-4F47-A70D-336EF9F5AAC8",
       "person_id": "Q5497484",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14637,6 +15108,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5498504-274004C3-824C-41A8-9011-A09408A7F5BC",
       "person_id": "Q5498504",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14646,6 +15118,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5498813-37E45511-03D8-4BF2-9310-D2E4A645561D",
       "person_id": "Q5498813",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14655,6 +15128,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5498898-62C65233-38AC-46E1-A630-91A59A3AF869",
       "person_id": "Q5498898",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14664,6 +15138,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5498961-949DFAD9-D186-42E3-8024-B34B18A82BD4",
       "person_id": "Q5498961",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14673,6 +15148,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5499097-3C04CEAC-FCEF-4554-BCAC-8AB8DC7DED3C",
       "person_id": "Q5499097",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14682,6 +15158,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q549918-21CD4A3A-293E-40B6-995E-5947ACE459E1",
       "person_id": "Q549918",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14691,6 +15168,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5515622-C5A4DBC7-CD23-498B-B911-6300BBDDECE0",
       "person_id": "Q5515622",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14700,6 +15178,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5517474-98C9CBE7-4806-446C-8D8B-7190B8FA68A4",
       "person_id": "Q5517474",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14709,6 +15188,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5526751-271D7A05-28C5-4563-829A-121551C208AE",
       "person_id": "Q5526751",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14718,6 +15198,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5531178-6BCC50BE-9126-4BCB-AE7B-5AECB8DC1314",
       "person_id": "Q5531178",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14727,6 +15208,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5536012-7F47499F-B5BD-48C5-9FA6-6DBFEE8F094E",
       "person_id": "Q5536012",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14736,6 +15218,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5538762-68F93998-AAF6-4A65-9692-AE7782EDD941",
       "person_id": "Q5538762",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14745,6 +15228,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5539053-D316A6AA-F812-48D1-8DC1-C6230E51F18A",
       "person_id": "Q5539053",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14754,6 +15238,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5539106-B852D80D-7DBB-4EAF-94C8-B192C685EDC0",
       "person_id": "Q5539106",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14763,6 +15248,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5539107-928B09F6-F8AD-4F5E-B1C7-2F3C6BFFB315",
       "person_id": "Q5539107",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14772,6 +15258,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5539562-9C1C7EA9-1A7D-42AD-941D-974137B1BC1F",
       "person_id": "Q5539562",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14781,6 +15268,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5540040-8CCB3033-7D83-4910-B5F6-398FBE91C98A",
       "person_id": "Q5540040",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14790,6 +15278,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5541478-D4E9A8DD-2CBB-4B42-BB3F-93E62DDFA642",
       "person_id": "Q5541478",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14799,6 +15288,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5543646-4A6C5A51-5FB9-49DF-8F8C-1970CA4FC392",
       "person_id": "Q5543646",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14808,6 +15298,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5544157-809ECB20-9990-4DB5-A1A1-3D64F61B216F",
       "person_id": "Q5544157",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14817,6 +15308,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5545775-5C7D4574-4DDA-4E1E-8A46-B3BDCF3676B4",
       "person_id": "Q5545775",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14826,6 +15318,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5605658-EAF8C0DE-1127-4AC0-A964-57890D393511",
       "person_id": "Q5605658",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14835,6 +15328,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5628293-4F0F3A3D-580A-432A-B5C1-64A6B1B13BFE",
       "person_id": "Q5628293",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14844,6 +15338,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5628507-6C5BFA30-47B4-4690-8E71-D7AB568F1B33",
       "person_id": "Q5628507",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14853,6 +15348,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5659884-A90A4A52-7812-4DE9-A8AC-CD779AA6AEED",
       "person_id": "Q5659884",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14862,6 +15358,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5660646-8908B3A2-BFB7-4C66-BC1A-04CDB8D44A4A",
       "person_id": "Q5660646",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14871,6 +15368,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5666766-3D6ECED3-4607-4E34-A66A-91D8EEB5354A",
       "person_id": "Q5666766",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14880,6 +15378,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5671344-BEBFB0BD-E8DF-4A5C-9899-73B18C6D50E6",
       "person_id": "Q5671344",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14889,6 +15388,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5723600-D3DC70DB-9164-495D-9886-0D70A61A24DC",
       "person_id": "Q5723600",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14898,6 +15398,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q581686-BF8AC88B-3A2A-4D39-B291-63EAA50E1199",
       "person_id": "Q581686",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14907,6 +15408,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5927607-F8A04C8A-B858-4783-B1C0-293666711BE5",
       "person_id": "Q5927607",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14916,6 +15418,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5930998-7F9F702D-9479-4693-A9F6-567DAB636118",
       "person_id": "Q5930998",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14925,6 +15428,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q594145-949F054C-60B1-469B-84F0-1A022DEF8F12",
       "person_id": "Q594145",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14934,6 +15438,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q597536-05C6C006-54FA-424F-8B10-B6D484990DA1",
       "person_id": "Q597536",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14943,6 +15448,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6104606-AC857084-D25F-4D8D-AE81-72F4AFE3F48F",
       "person_id": "Q6104606",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14952,6 +15458,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6107143-36FF944D-40D0-4D61-9420-5208BF168314",
       "person_id": "Q6107143",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14961,6 +15468,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6112414-FA1DF9AB-B67A-4E54-8604-3CFFD4C66A0B",
       "person_id": "Q6112414",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14970,6 +15478,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6129373-6F42CA9F-3D24-4618-ABBB-4BAF81E60E16",
       "person_id": "Q6129373",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14979,6 +15488,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6132188-0D2634C2-49E6-452F-9CE6-42E17542AC65",
       "person_id": "Q6132188",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14988,6 +15498,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6132815-A436BAF6-8938-4F12-8E8F-726DC62E90AE",
       "person_id": "Q6132815",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -14997,6 +15508,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6136997-FDD4843F-43E1-4F04-A7CF-388942F59240",
       "person_id": "Q6136997",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15006,6 +15518,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6137069-561279F6-19B1-4F1E-9A1E-7BFCEAC21A70",
       "person_id": "Q6137069",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15015,6 +15528,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6169034-21701D13-2D60-41FD-8183-27997915DDBA",
       "person_id": "Q6169034",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15024,6 +15538,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6169319-468D5FF0-35DC-4180-BDBB-5EDB37A1671E",
       "person_id": "Q6169319",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15033,6 +15548,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6170639-858855AB-1107-4FB4-B862-2B9C9F525F25",
       "person_id": "Q6170639",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15042,6 +15558,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6205193-673CEF1C-83C5-4392-84A4-ED69F81A71C3",
       "person_id": "Q6205193",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15051,6 +15568,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6213235-31FC2D13-4881-41BC-9D5B-3ED8C87BAA90",
       "person_id": "Q6213235",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15060,6 +15578,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6217740-7643BC69-E481-4787-A35A-91F651A09196",
       "person_id": "Q6217740",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15069,6 +15588,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6220017-214E4671-063C-44D2-8B05-09CF8F4E716E",
       "person_id": "Q6220017",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15078,6 +15598,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6224936-3D938A5E-CB17-4B7C-8DC3-FE59946EF026",
       "person_id": "Q6224936",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15087,6 +15608,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6232455-28F824B1-0C70-4CDB-8E3C-9997804575D1",
       "person_id": "Q6232455",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15096,6 +15618,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6239036-689D5523-C4A5-4761-9F16-DE167680BB84",
       "person_id": "Q6239036",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15105,6 +15628,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6247953-6E40ABF7-B805-4CFA-8CB4-E071E055888D",
       "person_id": "Q6247953",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15114,6 +15638,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6248095-795BB975-E45E-480F-BD35-D2FFE18FDB98",
       "person_id": "Q6248095",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15123,6 +15648,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6252544-46B91E78-4F13-44FC-AC3F-E8CC1397BA8E",
       "person_id": "Q6252544",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15132,6 +15658,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6256047-5E9FFF1A-F0D9-4B5D-BAA9-79FD293C0A10",
       "person_id": "Q6256047",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15141,6 +15668,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6256217-56DEEC82-64A3-46CC-8000-337A366BB513",
       "person_id": "Q6256217",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15150,6 +15678,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6256319-C700977D-96AB-48C7-A24C-4DEEB9D91311",
       "person_id": "Q6256319",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15159,6 +15688,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6282375-7873EC5A-2BB3-4AC8-A363-5459065FEC93",
       "person_id": "Q6282375",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15168,6 +15698,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6285601-AD0D6845-2A53-4D64-B084-BAB90E0A24FF",
       "person_id": "Q6285601",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15177,6 +15708,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6304238-BAE067E9-9218-4E71-974D-1B1E4B5775C2",
       "person_id": "Q6304238",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15186,6 +15718,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6390253-D820E56C-7BF2-4C52-8B3D-63EB313991C9",
       "person_id": "Q6390253",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15195,6 +15728,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6390278-81361555-836A-4BB3-96C7-19A9A8D4D936",
       "person_id": "Q6390278",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15204,6 +15738,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6390615-3BDEC7BB-C68A-44F4-8F79-E79D4CD336DE",
       "person_id": "Q6390615",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15213,6 +15748,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q639772-20448FD7-F17E-4D58-BD35-5F12B2429F8A",
       "person_id": "Q639772",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15222,6 +15758,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6408855-C5994A2B-9ED0-4670-9F30-FE507EDFA9E5",
       "person_id": "Q6408855",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15231,6 +15768,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6498177-1740C7ED-CB49-41D7-8C65-1394A5618247",
       "person_id": "Q6498177",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15240,6 +15778,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6499705-402140A0-1199-41C9-A147-B2F27B29278F",
       "person_id": "Q6499705",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15249,6 +15788,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6504085-3F19FD87-ABCD-433F-AB7E-C285159DAEF8",
       "person_id": "Q6504085",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15258,6 +15798,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6506412-8208BDC4-787C-41BC-8A10-9182D72DA0D3",
       "person_id": "Q6506412",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15267,6 +15808,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6532023-E27E0364-3FCD-4595-A8A0-9A55F5D8A220",
       "person_id": "Q6532023",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15276,6 +15818,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q658758-B1C0CB67-637D-4A5B-A668-13A76DA1B624",
       "person_id": "Q658758",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15285,6 +15828,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6681420-AF341BBB-DA16-4CAD-A087-CF53274A7BF3",
       "person_id": "Q6681420",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15294,6 +15838,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6681467-84224A23-A0E1-43AD-A39C-DC013F97CBA3",
       "person_id": "Q6681467",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15303,6 +15848,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6686512-64761D4E-8A05-4E59-A169-18689D0B52FE",
       "person_id": "Q6686512",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15312,6 +15858,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6721428-AD0FC769-F31C-4277-B0D5-2B1B5E6179E9",
       "person_id": "Q6721428",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15321,6 +15868,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6742464-E240641F-C6D2-41DB-AE30-F7CFB6DA9510",
       "person_id": "Q6742464",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15330,6 +15878,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6832464-D2D8541F-7818-4DBB-8B38-4042C9B5FDB8",
       "person_id": "Q6832464",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15339,6 +15888,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q683966-6EA91A13-1003-44BB-B454-7E7B787B4D6B",
       "person_id": "Q683966",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15348,6 +15898,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6861456-B737EDEA-4591-4E0E-8F07-FF07176EA77D",
       "person_id": "Q6861456",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15357,6 +15908,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6913933-B4E501DB-D839-4FC5-90F1-DB39AF920F7D",
       "person_id": "Q6913933",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15366,6 +15918,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7051969-4B91E17E-5791-4755-963A-D9C98FC8EA4A",
       "person_id": "Q7051969",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15375,6 +15928,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7052019-8B0D5A63-9100-4EA9-9B75-AE143CFBF482",
       "person_id": "Q7052019",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15384,6 +15938,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7138309-49C8FD3D-5AC2-47F0-9DD7-E9A1A5C8FB08",
       "person_id": "Q7138309",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15393,6 +15948,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7143342-5137BD8B-D3AE-4C4E-AAE2-04B1B9081C63",
       "person_id": "Q7143342",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15402,6 +15958,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7146536-D585CD9A-FFAF-465F-AD69-612EB210F3D0",
       "person_id": "Q7146536",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15411,6 +15968,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7175391-4E87B23F-7042-41BF-A061-3EF15F9ACC95",
       "person_id": "Q7175391",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15420,6 +15978,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7175857-F478378A-5392-4A6F-9654-6B1ED451BDE2",
       "person_id": "Q7175857",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15429,6 +15988,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7192253-B7365BC0-0084-4027-AC84-7B873847DD3D",
       "person_id": "Q7192253",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15438,6 +15998,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q729262-37AB7C2E-7F2B-4658-A46B-1C8CEA5D1844",
       "person_id": "Q729262",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15447,6 +16008,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7308900-43EA1435-619F-4ED4-9452-4E351F559063",
       "person_id": "Q7308900",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15456,6 +16018,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7313743-D241A98B-82CA-4406-A684-D5010B2528EA",
       "person_id": "Q7313743",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15465,6 +16028,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7324085-7D8125E2-374B-4645-A33B-0EF65AC731E4",
       "person_id": "Q7324085",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15474,6 +16038,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7326727-7F7DDA46-3A40-4F04-9759-04C22334557C",
       "person_id": "Q7326727",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15483,6 +16048,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7329482-73CD125E-A7C1-44B3-B54C-331FA79BD943",
       "person_id": "Q7329482",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15492,6 +16058,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7341754-63B49C5A-BB1E-4D7E-B94D-1B28018B9665",
       "person_id": "Q7341754",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15501,6 +16068,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7345910-FA197BFC-3F6A-49DA-920A-01D29D5481AB",
       "person_id": "Q7345910",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15510,6 +16078,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7347375-62B6CF00-48A8-406C-8739-B2D1CCA3A57C",
       "person_id": "Q7347375",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15519,6 +16088,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7347452-2A597C0B-40FB-4D89-8BD5-4B4042BF0C55",
       "person_id": "Q7347452",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15528,6 +16098,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7347489-CC221746-89D0-4511-9210-E225D47C9EB0",
       "person_id": "Q7347489",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15537,6 +16108,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7351320-B4244253-E4C9-4504-8FD0-26AA5BABB7F3",
       "person_id": "Q7351320",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15546,6 +16118,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7381620-E5157229-4E4C-49CF-B966-751F33B94391",
       "person_id": "Q7381620",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15555,6 +16128,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7386115-6E7621C6-EDA6-479C-9967-3259139A2CCF",
       "person_id": "Q7386115",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15564,6 +16138,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7437349-C4B67F8D-BE07-4C64-B215-D5F90C2D373A",
       "person_id": "Q7437349",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15573,6 +16148,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7493526-22EFCBAA-C5F1-407E-9E69-A491EF6A99C1",
       "person_id": "Q7493526",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15582,6 +16158,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q749772-38088C47-AE20-4455-A3CC-2386CE2F02F3",
       "person_id": "Q749772",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15591,6 +16168,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7514096-4D62D1A7-DD89-4C52-A211-6A7E9460A345",
       "person_id": "Q7514096",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15600,6 +16178,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7615777-A293C553-794E-46B7-A2E5-FDA2D0717049",
       "person_id": "Q7615777",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15609,6 +16188,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7668160-8D02C4AE-9487-41E4-90DE-776FC1163228",
       "person_id": "Q7668160",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15618,6 +16198,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7781534-7640099A-A5DE-4B69-8DB0-DDA974FB97AE",
       "person_id": "Q7781534",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15627,6 +16208,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7788423-23A0238E-93C3-439F-8C88-A9B6A0D0C196",
       "person_id": "Q7788423",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15636,6 +16218,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7788551-6DAA29A8-E4CD-4958-B7C1-6FAFBBD0F3EB",
       "person_id": "Q7788551",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15645,6 +16228,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7788634-17FCD5CD-8080-42DE-AA6C-4D0AD8748F1E",
       "person_id": "Q7788634",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15654,6 +16238,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7789426-B560F699-700E-4087-8806-EAE1A695C41E",
       "person_id": "Q7789426",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15663,6 +16248,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7789449-BE443318-A13C-497B-92D7-B08F452EB43D",
       "person_id": "Q7789449",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15672,6 +16258,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7789458-C7D25EB0-BD75-42CD-AB40-6791EF3D4192",
       "person_id": "Q7789458",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15681,6 +16268,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7790648-9BBCDDD3-3A86-4DBC-BC8E-A20D24B37333",
       "person_id": "Q7790648",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15690,6 +16278,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7793156-72FEE731-3CA0-4F1F-A120-786FE337E078",
       "person_id": "Q7793156",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15699,6 +16288,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q780032-7D6BFCA7-5EE4-4B2A-BE05-5BF4D1AC7ABD",
       "person_id": "Q780032",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15708,6 +16298,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7945168-E6363D87-9FB0-4887-9E6A-1E19974EC74C",
       "person_id": "Q7945168",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15717,6 +16308,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7946086-DDE1FFE8-4979-4588-9C4F-085182019CD3",
       "person_id": "Q7946086",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15726,6 +16318,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7964467-E23F9E1B-8E7C-476C-8CAC-7A13C73D1219",
       "person_id": "Q7964467",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15735,6 +16328,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7965864-3777CB20-602F-4B58-AD8F-D280BA1F47D0",
       "person_id": "Q7965864",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15744,6 +16338,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7970201-97EE8AD8-C126-4AEA-9194-7B8BADE9FDFF",
       "person_id": "Q7970201",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15753,6 +16348,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8001882-5F47098B-AE6A-4F85-9FAA-5F6C347D5FA5",
       "person_id": "Q8001882",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15762,6 +16358,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8004030-7309FA9F-A865-4D34-B642-A22F185BD160",
       "person_id": "Q8004030",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15771,6 +16368,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8005597-9CFF5EA9-EB42-49C6-B4BA-DE8A12CA815B",
       "person_id": "Q8005597",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15780,6 +16378,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8008293-BE416F8D-914B-4BEB-BA5C-D7223951AAC6",
       "person_id": "Q8008293",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15789,6 +16388,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8013372-07A09515-F9D0-4E10-8569-2AC5465CFABD",
       "person_id": "Q8013372",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15798,6 +16398,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8014575-CA9F694F-1650-4E1E-93DA-63D85996A6EB",
       "person_id": "Q8014575",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15807,6 +16408,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8017207-0316075E-10DD-4BB6-942F-811969792A06",
       "person_id": "Q8017207",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15816,6 +16418,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8018705-1F49464E-15D2-41A3-A316-3CC206B80C71",
       "person_id": "Q8018705",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15825,6 +16428,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8019078-C4CCCD2A-26DA-40E2-AD49-388757C19636",
       "person_id": "Q8019078",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15834,6 +16438,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8020436-2E17149E-08EA-4A4F-9459-7630DA6F8DF2",
       "person_id": "Q8020436",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15843,6 +16448,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q950184-97EE2B21-6E0F-4977-9BCF-3A66CDDDA6BF",
       "person_id": "Q950184",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",
@@ -15852,6 +16458,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q950337-ECBAAC87-6267-4131-BFC1-18A2174B1AA3",
       "person_id": "Q950337",
+      "organization_id": "Q1516914",
       "role_code": "Q18984329",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of New Brunswick",

@@ -39,6 +39,20 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Legislature of Yukon"
+      },
+      "id": "Q17108558",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17108558"
+        }
+      ],
+      "area_id": "Q2009"
+    },
+    {
+      "name": {
         "lang:en_CA": "Yukon Liberal Party",
         "lang:fr_CA": "Parti libéral du Yukon"
       },
@@ -433,6 +447,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q1841565-b78dbead-4bf3-8a62-4fb4-8d96f3f00685",
       "person_id": "Q1841565",
       "on_behalf_of_id": "Q3366503",
+      "organization_id": "Q17108558",
       "area_id": "Q2009",
       "start_date": "2016-12-03",
       "role_superclass_code": "Q2505921",
@@ -450,6 +465,7 @@
       "id": "http://www.wikidata.org/entity/statement/q3016474-1B72FEFE-DE21-4A05-A518-E4F755C2E708",
       "person_id": "Q3016474",
       "on_behalf_of_id": "Q739885",
+      "organization_id": "Q17108558",
       "area_id": "Q2009",
       "role_superclass_code": "Q2505921",
       "role_superclass": {

@@ -151,6 +151,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Legislative Assembly of Manitoba",
+        "lang:fr_CA": "Assemblée législative du Manitoba"
+      },
+      "id": "Q1517320",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1517320"
+        }
+      ],
+      "area_id": "Q1948"
+    },
+    {
+      "name": {
         "lang:en_CA": "Progressive Conservative Party of Manitoba",
         "lang:fr_CA": "Parti progressiste-conservateur du Manitoba"
       },
@@ -1506,6 +1521,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2924976-5CEAEF1A-0610-4348-8601-BFBE8823CF1B",
       "person_id": "Q2924976",
+      "organization_id": "Q1517320",
       "area_id": "Q3078105",
       "start_date": "2012-09-04",
       "role_code": "Q19007867",
@@ -1517,6 +1533,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3195738-933787D9-B3AA-4CEA-A88C-6D84746FB916",
       "person_id": "Q3195738",
+      "organization_id": "Q1517320",
       "role_code": "Q19007867",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of Manitoba",
@@ -1527,6 +1544,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q4923968-5ce09504-4aa3-5dec-257a-dfeb4b812504",
       "person_id": "Q4923968",
       "on_behalf_of_id": "Q3366633",
+      "organization_id": "Q1517320",
       "area_id": "Q668552",
       "start_date": "2016-04-19",
       "role_code": "Q19007867",
@@ -1539,6 +1557,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q4923968-ecad7366-4bc0-3e78-07a3-eb5bf62cd959",
       "person_id": "Q4923968",
       "on_behalf_of_id": "Q3366633",
+      "organization_id": "Q1517320",
       "area_id": "Q668552",
       "role_code": "Q19007867",
       "role": {
@@ -1549,6 +1568,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5300705-3DE475DD-72AF-41CF-9AA3-C9AA7D311C76",
       "person_id": "Q5300705",
+      "organization_id": "Q1517320",
       "role_code": "Q19007867",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of Manitoba",
@@ -1558,6 +1578,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6028722-c18e6c6c-48ec-516a-57a9-e849758d98dd",
       "person_id": "Q6028722",
+      "organization_id": "Q1517320",
       "role_code": "Q19007867",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of Manitoba",
@@ -1567,6 +1588,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6260655-0156d65a-4c7e-04ce-4c5a-83c98390a8f5",
       "person_id": "Q6260655",
+      "organization_id": "Q1517320",
       "role_code": "Q19007867",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of Manitoba",
@@ -1576,6 +1598,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q649428-501F81E4-E01B-45B2-AEE1-172AEFF2F1BF",
       "person_id": "Q649428",
+      "organization_id": "Q1517320",
       "area_id": "Q3433487",
       "start_date": "1999-09-21",
       "role_code": "Q19007867",
@@ -1587,6 +1610,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7597905-8F15DC51-09CA-40D0-AB37-45A42B43F6F5",
       "person_id": "Q7597905",
+      "organization_id": "Q1517320",
       "area_id": "Q3017030",
       "start_date": "2011-10-04",
       "role_code": "Q19007867",
@@ -1598,6 +1622,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7782889-6DFEA0E3-BCAC-4369-9CC5-C28C1C978F2B",
       "person_id": "Q7782889",
+      "organization_id": "Q1517320",
       "role_code": "Q19007867",
       "role": {
         "lang:en_CA": "member of the Legislative Assembly of Manitoba",

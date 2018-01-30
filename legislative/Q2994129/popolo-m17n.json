@@ -177,6 +177,21 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Quebec City Council",
+        "lang:fr_CA": "Québec (Conseil municipal)"
+      },
+      "id": "Q2994129",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2994129"
+        }
+      ],
+      "area_id": "Q2145"
+    },
+    {
+      "name": {
         "lang:fr_CA": "Démocratie Québec"
       },
       "id": "Q3043502",
@@ -746,6 +761,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3165629-7caa1a4a-445f-57da-2854-a52ceda76d1d",
       "person_id": "Q3165629",
       "on_behalf_of_id": "Q47493291",
+      "organization_id": "Q2994129",
       "area_id": "Q47490359",
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
@@ -757,6 +773,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3507059-588270bf-4e6e-d1ba-09c6-5f6c0a421e0d",
       "person_id": "Q3507059",
       "on_behalf_of_id": "Q3589476",
+      "organization_id": "Q2994129",
       "area_id": "Q47490364",
       "start_date": "2009-11-01",
       "role_code": "Q47490318",
@@ -768,6 +785,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47492856-ff0ac952-4242-9193-55f1-3240e65f23b8",
       "person_id": "Q47492856",
       "on_behalf_of_id": "Q3589476",
+      "organization_id": "Q2994129",
       "area_id": "Q47493667",
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
@@ -779,6 +797,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47493302-d521c0e5-4c42-7b55-a3f4-6f2921a22b7b",
       "person_id": "Q47493302",
       "on_behalf_of_id": "Q3589476",
+      "organization_id": "Q2994129",
       "area_id": "Q47490350",
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
@@ -790,6 +809,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47493593-dff397ae-43a6-526a-d381-c5520f442645",
       "person_id": "Q47493593",
       "on_behalf_of_id": "Q3589476",
+      "organization_id": "Q2994129",
       "area_id": "Q47490346",
       "start_date": "2009-11-01",
       "role_code": "Q47490318",
@@ -801,6 +821,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47493766-b046dc1d-4e29-ca79-eb5e-d697e9985179",
       "person_id": "Q47493766",
       "on_behalf_of_id": "Q3043502",
+      "organization_id": "Q2994129",
       "area_id": "Q47490342",
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
@@ -812,6 +833,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47493909-123c31e6-4a13-7e52-eb2e-0dd8607f7483",
       "person_id": "Q47493909",
       "on_behalf_of_id": "Q3589476",
+      "organization_id": "Q2994129",
       "area_id": "Q47490351",
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
@@ -823,6 +845,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47493921-6001f132-4f3d-bca9-c178-b5ee1ad76297",
       "person_id": "Q47493921",
       "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2994129",
       "area_id": "Q47490343",
       "start_date": "1993-01-01",
       "role_code": "Q47490318",
@@ -834,6 +857,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47494135-40b0d624-4636-2ca6-481f-682c360f6dfa",
       "person_id": "Q47494135",
       "on_behalf_of_id": "Q3589476",
+      "organization_id": "Q2994129",
       "area_id": "Q47493684",
       "start_date": "2013-11-03",
       "role_code": "Q47490318",
@@ -845,6 +869,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q47494155-3613a97d-4717-35b6-c058-88ec41060125",
       "person_id": "Q47494155",
       "on_behalf_of_id": "Q3589476",
+      "organization_id": "Q2994129",
       "area_id": "Q47490345",
       "start_date": "2009-01-01",
       "role_code": "Q47490318",

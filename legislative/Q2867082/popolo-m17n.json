@@ -165,7 +165,21 @@
     }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en_CA": "Legislative Assembly of Nunavut",
+        "lang:fr_CA": "Assemblée législative du Nunavut"
+      },
+      "id": "Q2867082",
+      "classification": "legislative",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2867082"
+        }
+      ],
+      "area_id": "Q2023"
+    }
   ],
   "areas": [
     {
@@ -704,6 +718,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16145801-80d3119c-4d1b-b11f-e429-60d375c95094",
       "person_id": "Q16145801",
+      "organization_id": "Q2867082",
       "area_id": "Q17067571",
       "role_code": "Q45308607",
       "role": {
@@ -713,6 +728,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16151930-7c845f03-4192-fa9f-9c99-bbda102f06e9",
       "person_id": "Q16151930",
+      "organization_id": "Q2867082",
       "area_id": "Q16209592",
       "role_code": "Q45308607",
       "role": {
@@ -722,6 +738,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16151930-fb18c588-4369-b7f6-7470-ac68c1ac0ee4",
       "person_id": "Q16151930",
+      "organization_id": "Q2867082",
       "area_id": "Q16209592",
       "start_date": "2013-10-28",
       "role_code": "Q45308607",
@@ -732,6 +749,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16244044-88a1a8f1-4943-84bf-605d-349e2ddd98e1",
       "person_id": "Q16244044",
+      "organization_id": "Q2867082",
       "area_id": "Q17070816",
       "role_code": "Q45308607",
       "role": {
@@ -741,6 +759,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20983369-3c777e75-4831-fb84-0c53-b7ef9a9a935d",
       "person_id": "Q20983369",
+      "organization_id": "Q2867082",
       "area_id": "Q7899516",
       "role_code": "Q45308607",
       "role": {
@@ -750,6 +769,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2837763-8916f788-41ec-90e1-ed47-fcdae59f9052",
       "person_id": "Q2837763",
+      "organization_id": "Q2867082",
       "area_id": "Q613190",
       "role_code": "Q45308607",
       "role": {
@@ -759,6 +779,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q41540312-3490dc14-46e6-854e-d4b8-ccfb4d1e0b35",
       "person_id": "Q41540312",
+      "organization_id": "Q2867082",
       "area_id": "Q6441985",
       "role_code": "Q45308607",
       "role": {
@@ -768,6 +789,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q42427188-f8b80541-4ebc-5d89-febd-f784ba20404f",
       "person_id": "Q42427188",
+      "organization_id": "Q2867082",
       "area_id": "Q17070798",
       "role_code": "Q45308607",
       "role": {
@@ -777,6 +799,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q42427576-7fc25678-49d3-f06d-3837-855bcfe4d3d3",
       "person_id": "Q42427576",
+      "organization_id": "Q2867082",
       "area_id": "Q14501868",
       "role_code": "Q45308607",
       "role": {
@@ -786,6 +809,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q42427578-b893c6ee-4f88-d3cb-ffe7-c3f3e41b1954",
       "person_id": "Q42427578",
+      "organization_id": "Q2867082",
       "area_id": "Q4746949",
       "role_code": "Q45308607",
       "role": {
@@ -795,6 +819,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q42427693-0bd2d942-469f-f957-cc3f-3fe354f1a649",
       "person_id": "Q42427693",
+      "organization_id": "Q2867082",
       "area_id": "Q16211482",
       "role_code": "Q45308607",
       "role": {

@@ -39,6 +39,20 @@
   "organizations": [
     {
       "name": {
+        "lang:en_CA": "Government of Alberta"
+      },
+      "id": "Q33121932",
+      "classification": "executive",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33121932"
+        }
+      ],
+      "area_id": "Q1951"
+    },
+    {
+      "name": {
         "lang:en_CA": "Alberta Social Credit Party",
         "lang:fr_CA": "Parti Crédit social de l'Alberta"
       },
@@ -433,6 +447,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7279347-503ba6ee-4e45-cee0-6311-7038a35171ad",
       "person_id": "Q7279347",
       "on_behalf_of_id": "Q3345044",
+      "organization_id": "Q33121932",
       "area_id": "Q1951",
       "start_date": "2015-05-24",
       "role_superclass_code": "Q2505921",
@@ -450,6 +465,7 @@
       "id": "http://www.wikidata.org/entity/statement/q180079-C48D3191-DB5A-4814-9016-9DC5489F9A13",
       "person_id": "Q180079",
       "on_behalf_of_id": "Q1518382",
+      "organization_id": "Q33121932",
       "area_id": "Q1951",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
