@@ -51,4 +51,4 @@ WHERE {
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
   
-} ORDER BY ?name_en ?name_fr ?item
+} ORDER BY ?item ?role ?term ?start ?end

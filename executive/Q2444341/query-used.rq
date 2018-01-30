@@ -61,4 +61,4 @@ SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?
     FILTER(?party_end_or_sentinel >= NOW())
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-}
+} ORDER BY ?item ?role ?start ?end
