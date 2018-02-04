@@ -1,14 +1,29 @@
 # frozen_string_literal: true
 
 def date_condition(start_date, end_date)
-  return '' unless start_date
-  end_date ||= '9999-12-31'
-  <<~DATE_CONDITION
-    BIND(COALESCE(?start, "1000-01-01T00:00:00Z"^^xsd:dateTime) AS ?start_or_sentinel)
-    BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
-    FILTER (?end_or_sentinel >= "#{start_date}"^^xsd:dateTime)
-    FILTER (?start_or_sentinel <= "#{end_date}"^^xsd:dateTime)
+  if start_date
+    # If there's a start date, then we're selecting based on the start
+    # and end dates overlapping with the membership dates. However, if
+    # a P39 has no P580 qualifier, then basically it doesn't have
+    # useful date information, so require that.
+    end_date ||= '9999-12-31'
+    <<~DATE_CONDITION
+      ?statement pq:P580 ?start
+      OPTIONAL { ?statement pq:P582 ?end }
+      BIND(COALESCE(?start, "1000-01-01T00:00:00Z"^^xsd:dateTime) AS ?start_or_sentinel)
+      BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+      FILTER (?end_or_sentinel >= "#{start_date}"^^xsd:dateTime)
+      FILTER (?start_or_sentinel <= "#{end_date}"^^xsd:dateTime)
 DATE_CONDITION
+  else
+    # If there's no start date, then we're selecting people based on
+    # the term item, so don't insist on start and end dates, just
+    # record them.
+    <<~DATE_CONDITION
+      OPTIONAL { ?statement pq:P580 ?start }
+      OPTIONAL { ?statement pq:P582 ?end }
+DATE_CONDITION
+  end
 end
 
 def term_condition(term_item_id)
@@ -61,8 +76,6 @@ def query_legislative(position_item_id:, house_item_id:, term_item_id: nil, star
         FILTER(LANG(?role_fr) = "fr")
       }
       #{term_condition(term_item_id)}
-      OPTIONAL { ?statement pq:P580 ?start }
-      OPTIONAL { ?statement pq:P582 ?end }
       OPTIONAL {
         ?statement pq:P768 ?district.
         OPTIONAL {
@@ -147,7 +160,7 @@ def query_executive(executive_item_id:, positions:, **_)
           FILTER(LANG(?district_name_fr) = "fr")
         }
       }
-      OPTIONAL { ?statement pq:P580 ?start }
+      ?statement pq:P580 ?start .
       OPTIONAL { ?statement pq:P582 ?end }
       BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
       FILTER(?end_or_sentinel >= NOW())
