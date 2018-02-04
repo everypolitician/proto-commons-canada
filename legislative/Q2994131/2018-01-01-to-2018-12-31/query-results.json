@@ -73,6 +73,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -81,11 +86,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Magda Popeanu"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -161,6 +161,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -169,11 +174,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Suzanne Décarie"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -249,6 +249,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-04-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -257,11 +262,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Christine Black"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-04-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -337,6 +337,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-11-03T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -345,11 +350,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Michel Bissonnet"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-11-03T00:00:00Z"
       }
     }, {
       "party" : {
@@ -421,6 +421,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -429,11 +434,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Anne-Marie Sigouin"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -509,14 +509,14 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q340"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-01-01T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
       },
       "facebook" : {
         "type" : "literal",
@@ -592,6 +592,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -601,79 +606,9 @@
         "type" : "literal",
         "value" : "Frantz Benjamin"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-01-01T00:00:00Z"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "frantz.benjamin.10"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6555742-776c7a9c-4bb1-e13d-813b-9552312ec92b"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47455987"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Darlington"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Darlington"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45414411"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller de la ville"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal City Councillor"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6555742"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lionel Perez"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994131"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Montréal"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q340"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Lionel Perez"
       }
     }, {
       "party" : {
@@ -745,6 +680,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -753,11 +693,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Manon Barbe"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-01-01T00:00:00Z"
       }
     }, {
       "party" : {
@@ -829,6 +764,11 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q340"
@@ -837,11 +777,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Mary Deros"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -917,14 +852,14 @@
         "type" : "literal",
         "value" : "Montreal City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q340"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2009-11-01T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
       },
       "facebook" : {
         "type" : "literal",

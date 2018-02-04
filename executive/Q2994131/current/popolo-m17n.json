@@ -18,38 +18,6 @@
           "url": "https://www.facebook.com/MTL.ValeriePlante"
         }
       ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Médéric Martin",
-        "lang:fr_CA": "Médéric Martin"
-      },
-      "id": "Q3332743",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3332743"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Jean Drapeau",
-        "lang:fr_CA": "Jean Drapeau"
-      },
-      "id": "Q979154",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q979154"
-        }
-      ],
-      "links": [
-
-      ]
     }
   ],
   "organizations": [
@@ -67,34 +35,6 @@
         }
       ],
       "area_id": "Q340"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Liberal Party of Canada",
-        "lang:fr_CA": "Parti libéral du Canada"
-      },
-      "id": "Q138345",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q138345"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Civic Action League",
-        "lang:fr_CA": "Ligue d'action civique"
-      },
-      "id": "Q3240324",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3240324"
-        }
-      ]
     },
     {
       "name": {
@@ -362,40 +302,6 @@
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2017-11-16",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
-      },
-      "role_code": "Q177645",
-      "role": {
-        "lang:en_CA": "Mayor of Montreal",
-        "lang:fr_CA": "maire de Montréal"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q3332743-61bb808e-4fd6-5d43-7516-0955cb9d1731",
-      "person_id": "Q3332743",
-      "on_behalf_of_id": "Q138345",
-      "organization_id": "Q2994131",
-      "area_id": "Q340",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
-      },
-      "role_code": "Q177645",
-      "role": {
-        "lang:en_CA": "Mayor of Montreal",
-        "lang:fr_CA": "maire de Montréal"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q979154-36088532-41c1-4230-535b-e488b790bc97",
-      "person_id": "Q979154",
-      "on_behalf_of_id": "Q3240324",
-      "organization_id": "Q2994131",
-      "area_id": "Q340",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:en_CA": "mayor",

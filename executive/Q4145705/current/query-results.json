@@ -73,14 +73,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2588612-c658ee6b-41c0-d404-3555-90b9a56f3812"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36312"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2010-10-25T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36312"
       },
       "facebook" : {
         "type" : "literal",

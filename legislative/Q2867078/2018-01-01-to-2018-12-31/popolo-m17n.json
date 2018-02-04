@@ -53,24 +53,6 @@
     },
     {
       "name": {
-        "lang:en_CA": "Kevin O'Reilly"
-      },
-      "id": "Q22279500",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q22279500"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/kevin.oreilly.982"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Cory Vanthuyne"
       },
       "id": "Q23761321",
@@ -121,60 +103,6 @@
           "note": "facebook",
           "url": "https://www.facebook.com/Shane-Thompson-Nahendeh-MLA-1680351638951201"
         }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Alfred Moses",
-        "lang:fr_CA": "Alfred Moses"
-      },
-      "id": "Q4723182",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4723182"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/alfred.moses.100"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Glen Abernethy",
-        "lang:fr_CA": "Glen Abernethy"
-      },
-      "id": "Q5567554",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5567554"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Glen-Abernethy-MLA-Great-Slave-533940360092655"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Michael Nadli",
-        "lang:fr_CA": "Michael Nadli"
-      },
-      "id": "Q6833011",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6833011"
-        }
-      ],
-      "links": [
-
       ]
     }
   ],
@@ -694,16 +622,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q22279500-6032e421-4265-e87e-aa9e-a5e40b9f3bee",
-      "person_id": "Q22279500",
-      "organization_id": "Q2867078",
-      "area_id": "Q5477888",
-      "role_code": "Q45308871",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q23761321-044a2609-4d69-7825-a150-04d27700942e",
       "person_id": "Q23761321",
       "organization_id": "Q2867078",
@@ -731,36 +649,6 @@
       "organization_id": "Q2867078",
       "area_id": "Q6959245",
       "start_date": "2015-11-23",
-      "role_code": "Q45308871",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4723182-fda6bcba-492b-556a-2e84-e862fd7de650",
-      "person_id": "Q4723182",
-      "organization_id": "Q2867078",
-      "area_id": "Q6059367",
-      "role_code": "Q45308871",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5567554-92665f42-4783-4505-d78a-94b18aac7ea1",
-      "person_id": "Q5567554",
-      "organization_id": "Q2867078",
-      "area_id": "Q5599968",
-      "role_code": "Q45308871",
-      "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6833011-ba826892-47bf-55e4-7f7d-45bc1b9d78df",
-      "person_id": "Q6833011",
-      "organization_id": "Q2867078",
-      "area_id": "Q3021281",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"

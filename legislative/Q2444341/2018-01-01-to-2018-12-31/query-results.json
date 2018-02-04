@@ -63,14 +63,14 @@
         "type" : "literal",
         "value" : "Toronto City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q172"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-02-13T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172"
       },
       "facebook" : {
         "type" : "literal",
@@ -122,14 +122,14 @@
         "type" : "literal",
         "value" : "Toronto City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q172"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2000-12-01T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172"
       },
       "facebook" : {
         "type" : "literal",
@@ -186,14 +186,14 @@
         "type" : "literal",
         "value" : "Toronto City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q172"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2010-12-01T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172"
       },
       "facebook" : {
         "type" : "literal",

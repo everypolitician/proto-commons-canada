@@ -18,22 +18,6 @@
           "url": "https://www.facebook.com/sydnysilver"
         }
       ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Darrell Pasloski",
-        "lang:fr_CA": "Darrell Pasloski"
-      },
-      "id": "Q3016474",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3016474"
-        }
-      ],
-      "links": [
-
-      ]
     }
   ],
   "organizations": [
@@ -62,20 +46,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3366503"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Yukon Party",
-        "lang:fr_CA": "Parti du Yukon"
-      },
-      "id": "Q739885",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q739885"
         }
       ]
     }
@@ -450,23 +420,6 @@
       "organization_id": "Q17108558",
       "area_id": "Q2009",
       "start_date": "2016-12-03",
-      "role_superclass_code": "Q2505921",
-      "role_superclass": {
-        "lang:en_CA": "premier",
-        "lang:fr_CA": "premier ministre du Canada"
-      },
-      "role_code": "Q12270260",
-      "role": {
-        "lang:en_CA": "Premier of Yukon",
-        "lang:fr_CA": "premier ministre du Yukon"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q3016474-1B72FEFE-DE21-4A05-A518-E4F755C2E708",
-      "person_id": "Q3016474",
-      "on_behalf_of_id": "Q739885",
-      "organization_id": "Q17108558",
-      "area_id": "Q2009",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
         "lang:en_CA": "premier",

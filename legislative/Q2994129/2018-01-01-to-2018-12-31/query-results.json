@@ -58,6 +58,11 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-11-05T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
@@ -66,11 +71,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Jean-François Gosselin"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-05T00:00:00Z"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -132,6 +132,11 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-11-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
@@ -140,11 +145,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Sylvain Légaré"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2009-11-01T00:00:00Z"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -206,14 +206,14 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-05T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2145"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -279,14 +279,14 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-05T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2145"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -348,6 +348,11 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-11-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
@@ -356,11 +361,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Geneviève Hamelin"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2009-11-01T00:00:00Z"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -421,6 +421,11 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-11-05T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
@@ -429,11 +434,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Jean Rousseau"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-05T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -494,14 +494,14 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-05T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2145"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -563,6 +563,11 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-01T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
@@ -571,11 +576,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Yvon Bussières"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1993-01-01T00:00:00Z"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -641,6 +641,11 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-11-03T00:00:00Z"
+      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
@@ -649,11 +654,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Dominique Tanguay"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-11-03T00:00:00Z"
       },
       "party_name_en" : {
         "xml:lang" : "en",
@@ -719,14 +719,14 @@
         "type" : "literal",
         "value" : "Quebec City Council"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2009-01-01T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2145"
       },
       "party_name_en" : {
         "xml:lang" : "en",

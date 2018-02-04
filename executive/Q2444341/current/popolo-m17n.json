@@ -2,38 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Hiram E. McCallum",
-        "lang:fr_CA": "Hiram E. McCallum"
-      },
-      "id": "Q1274990",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1274990"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "William Lyon Mackenzie",
-        "lang:fr_CA": "William Lyon Mackenzie"
-      },
-      "id": "Q182454",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q182454"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "John Tory",
         "lang:fr_CA": "John Tory"
       },
@@ -67,20 +35,6 @@
         }
       ],
       "area_id": "Q172"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Clear Grits",
-        "lang:fr_CA": "Clear Grits"
-      },
-      "id": "Q2978753",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2978753"
-        }
-      ]
     },
     {
       "name": {
@@ -341,39 +295,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1274990-6B24815C-57D5-418C-B44B-1B4A6B996444",
-      "person_id": "Q1274990",
-      "organization_id": "Q2444341",
-      "area_id": "Q172",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
-      },
-      "role_code": "Q14927262",
-      "role": {
-        "lang:en_CA": "Mayor of Toronto",
-        "lang:fr_CA": "maire de Toronto"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q182454-97C2DC7A-F30F-47F3-A792-75B6044D8DB4",
-      "person_id": "Q182454",
-      "on_behalf_of_id": "Q2978753",
-      "organization_id": "Q2444341",
-      "area_id": "Q172",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
-      },
-      "role_code": "Q14927262",
-      "role": {
-        "lang:en_CA": "Mayor of Toronto",
-        "lang:fr_CA": "maire de Toronto"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q928118-1AF37B6D-2403-477B-971E-35A36F98D0A9",
       "person_id": "Q928118",

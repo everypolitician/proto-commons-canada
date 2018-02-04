@@ -15,22 +15,6 @@
       "links": [
 
       ]
-    },
-    {
-      "name": {
-        "lang:en_CA": "Eva Aariak",
-        "lang:fr_CA": "Eva Aariak"
-      },
-      "id": "Q466891",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q466891"
-        }
-      ],
-      "links": [
-
-      ]
     }
   ],
   "organizations": [
@@ -47,20 +31,6 @@
         }
       ],
       "area_id": "Q2023"
-    },
-    {
-      "name": {
-        "lang:en_CA": "consensus government in Canada",
-        "lang:fr_CA": "gouvernement de consensus"
-      },
-      "id": "Q3112578",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3112578"
-        }
-      ]
     }
   ],
   "areas": [
@@ -432,23 +402,6 @@
       "organization_id": "Q33121937",
       "area_id": "Q2023",
       "start_date": "2017-11-21",
-      "role_superclass_code": "Q2505921",
-      "role_superclass": {
-        "lang:en_CA": "premier",
-        "lang:fr_CA": "premier ministre du Canada"
-      },
-      "role_code": "Q4377222",
-      "role": {
-        "lang:en_CA": "Premier of Nunavut",
-        "lang:fr_CA": "Premier ministre du Nunavut"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q466891-8b15426f-47fc-9994-a528-0cfb123a8191",
-      "person_id": "Q466891",
-      "on_behalf_of_id": "Q3112578",
-      "organization_id": "Q33121937",
-      "area_id": "Q2023",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
         "lang:en_CA": "premier",

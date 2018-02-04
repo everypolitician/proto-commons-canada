@@ -92,14 +92,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf"
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-11-04T00:00:00Z"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
       },
       "facebook" : {
         "type" : "literal",
