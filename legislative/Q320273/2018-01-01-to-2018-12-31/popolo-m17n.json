@@ -21,6 +21,25 @@
     },
     {
       "name": {
+        "lang:en_CA": "Patricia Arab",
+        "lang:fr_CA": "Patricia Arab"
+      },
+      "id": "Q15285300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15285300"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/PatriciaArab"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Suzanne Lohnes-Croft",
         "lang:fr_CA": "Suzanne Lohnes-Croft"
       },
@@ -123,6 +142,25 @@
     },
     {
       "name": {
+        "lang:en_CA": "Barbara Adams",
+        "lang:fr_CA": "Barbara Adams"
+      },
+      "id": "Q30123085",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30123085"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BarbaraAdamsFORColeHarbourEasternPassage"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Stephen McNeil",
         "lang:fr_CA": "Stephen McNeil"
       },
@@ -189,6 +227,25 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Keith Bain",
+        "lang:fr_CA": "Keith Bain"
+      },
+      "id": "Q6384010",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6384010"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/keith.bain.334"
+        }
       ]
     },
     {
@@ -1485,6 +1542,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q15285300-F782471C-0545-4920-A0A1-8E7492778E2A",
+      "person_id": "Q15285300",
+      "on_behalf_of_id": "Q3366494",
+      "organization_id": "Q320273",
+      "area_id": "Q16975633",
+      "start_date": "2017-05-30",
+      "role_code": "Q18239264",
+      "role": {
+        "lang:en_CA": "member of the Nova Scotia House of Assembly",
+        "lang:fr_CA": "membre de la Chambre d'assemblée de la Nouvelle-Écosse"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q15294036-73B8AB67-1632-4359-ABDE-51A65819DE38",
       "person_id": "Q15294036",
       "on_behalf_of_id": "Q3366494",
@@ -1560,6 +1630,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30123085-aa47a48b-4940-a086-c538-9fd21fee9f29",
+      "person_id": "Q30123085",
+      "on_behalf_of_id": "Q2868020",
+      "organization_id": "Q320273",
+      "area_id": "Q5142651",
+      "start_date": "2017-05-30",
+      "role_code": "Q18239264",
+      "role": {
+        "lang:en_CA": "member of the Nova Scotia House of Assembly",
+        "lang:fr_CA": "membre de la Chambre d'assemblée de la Nouvelle-Écosse"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3498613-07A158F0-BA22-4DF6-A12D-CC5FCC021DA8",
       "person_id": "Q3498613",
       "organization_id": "Q320273",
@@ -1603,6 +1686,19 @@
       "organization_id": "Q320273",
       "area_id": "Q5142099",
       "start_date": "2006-06-13",
+      "role_code": "Q18239264",
+      "role": {
+        "lang:en_CA": "member of the Nova Scotia House of Assembly",
+        "lang:fr_CA": "membre de la Chambre d'assemblée de la Nouvelle-Écosse"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6384010-BBBA238D-0017-400A-9A64-10F5D0AD0819",
+      "person_id": "Q6384010",
+      "on_behalf_of_id": "Q2868020",
+      "organization_id": "Q320273",
+      "area_id": "Q7926536",
+      "start_date": "2017-05-30",
       "role_code": "Q18239264",
       "role": {
         "lang:en_CA": "member of the Nova Scotia House of Assembly",
