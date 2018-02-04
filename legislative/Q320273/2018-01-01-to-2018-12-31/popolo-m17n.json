@@ -1614,6 +1614,37 @@
     },
     {
       "name": {
+        "lang:en_CA": "Rafah DiCostanzo"
+      },
+      "id": "Q30094708",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30094708"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Kim Masland",
+        "lang:fr_CA": "Kim Masland"
+      },
+      "id": "Q30094960",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30094960"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Claudia Chender"
       },
       "id": "Q30096861",
@@ -1628,6 +1659,21 @@
           "note": "facebook",
           "url": "https://www.facebook.com/ClaudiaChenderMLA"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Tammy Martin"
+      },
+      "id": "Q30096963",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30096963"
+        }
+      ],
+      "links": [
+
       ]
     },
     {
@@ -13868,11 +13914,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30094708-42605f31-4edb-64a0-2312-b1b71fb88c5e",
+      "person_id": "Q30094708",
+      "organization_id": "Q320273",
+      "area_id": "Q16258528",
+      "start_date": "2017-05-30",
+      "role_code": "Q18239264",
+      "role": {
+        "lang:en_CA": "member of the Nova Scotia House of Assembly",
+        "lang:fr_CA": "membre de la Chambre d'assemblée de la Nouvelle-Écosse"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30094960-2f96ed68-4a43-3633-a31d-c2249e0c05c3",
+      "person_id": "Q30094960",
+      "organization_id": "Q320273",
+      "area_id": "Q17092609",
+      "start_date": "2017-05-30",
+      "role_code": "Q18239264",
+      "role": {
+        "lang:en_CA": "member of the Nova Scotia House of Assembly",
+        "lang:fr_CA": "membre de la Chambre d'assemblée de la Nouvelle-Écosse"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q30096861-f22aad22-43a1-b663-f747-77e630ce5163",
       "person_id": "Q30096861",
       "on_behalf_of_id": "Q3345047",
       "organization_id": "Q320273",
       "area_id": "Q5225726",
+      "start_date": "2017-05-30",
+      "role_code": "Q18239264",
+      "role": {
+        "lang:en_CA": "member of the Nova Scotia House of Assembly",
+        "lang:fr_CA": "membre de la Chambre d'assemblée de la Nouvelle-Écosse"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30096963-3a5235b5-4e68-c164-29e6-c182c760c098",
+      "person_id": "Q30096963",
+      "organization_id": "Q320273",
+      "area_id": "Q5034603",
       "start_date": "2017-05-30",
       "role_code": "Q18239264",
       "role": {
