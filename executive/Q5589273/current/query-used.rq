@@ -51,7 +51,7 @@ SELECT ?statement ?item ?name_en ?name_fr ?party ?party_name_en ?party_name_fr ?
       FILTER(LANG(?district_name_fr) = "fr")
     }
   }
-  OPTIONAL { ?statement pq:P580 ?start }
+  ?statement pq:P580 ?start .
   OPTIONAL { ?statement pq:P582 ?end }
   BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
   FILTER(?end_or_sentinel >= NOW())

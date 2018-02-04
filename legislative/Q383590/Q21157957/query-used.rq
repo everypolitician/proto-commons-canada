@@ -38,8 +38,6 @@ WHERE {
     FILTER(LANG(?role_fr) = "fr")
   }
   ?statement pq:P2937 wd:Q21157957 .
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
@@ -63,5 +61,7 @@ WHERE {
     }
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-  
+  OPTIONAL { ?statement pq:P580 ?start }
+OPTIONAL { ?statement pq:P582 ?end }
+
 } ORDER BY ?item ?role ?term ?start ?end
