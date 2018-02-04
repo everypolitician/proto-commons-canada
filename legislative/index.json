@@ -3,174 +3,274 @@
         "comment": "The House of Commons of Canada",
         "house_item_id": "Q383590",
         "position_item_id": "Q15964890",
-        "term_item_id": "Q21157957"
+        "terms":  [
+            {
+                "term_item_id": "Q21157957"
+            }
+        ]
     },
     {
         "comment": "The Senate of Canada",
         "house_item_id": "Q841180",
         "position_item_id": "Q18524027",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of Alberta",
         "house_item_id": "Q1812866",
         "position_item_id": "Q15964815",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of Manitoba",
         "house_item_id": "Q1517320",
         "position_item_id": "Q19007867",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "National Assembly of Quebec",
         "house_item_id": "Q1492249",
         "position_item_id": "Q3305338",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Newfoundland and Labrador House of Assembly",
         "house_item_id": "Q258843",
         "position_item_id": "Q19403853",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of Saskatchewan",
         "house_item_id": "Q1537375",
         "position_item_id": "Q18675661",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of Prince Edward Island",
         "house_item_id": "Q825815",
         "position_item_id": "Q21010685",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Nova Scotia House of Assembly",
         "house_item_id": "Q320273",
         "position_item_id": "Q18239264",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of the Northwest Territories",
         "house_item_id": "Q2867078",
         "position_item_id": "Q45308871",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of Nunavut",
         "house_item_id": "Q2867082",
         "position_item_id": "Q45308607",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Yukon Legislative Assembly",
         "house_item_id": "Q908022",
         "position_item_id": "Q18608478",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of Ontario",
         "house_item_id": "Q1809086",
         "position_item_id": "Q3305347",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Toronto City Council",
         "house_item_id": "Q2444341",
         "position_item_id": "Q45413990",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Calgary City Council",
         "house_item_id": "Q4145705",
         "position_item_id": "Q45414913",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Ottawa City Council",
         "house_item_id": "Q2994125",
         "position_item_id": "Q47487122",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Edmonton City Council",
         "house_item_id": "Q5339025",
         "position_item_id": "Q47490130",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Winnipeg City Council",
         "house_item_id": "Q47489645",
         "position_item_id": "Q47490128",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Halifax Regional Council",
         "house_item_id": "Q17107607",
         "position_item_id": "Q47490131",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Vancouver City Council",
         "house_item_id": "Q47489643",
         "position_item_id": "Q47490129",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Quebec City Council",
         "house_item_id": "Q2994129",
         "position_item_id": "Q47490318",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Montreal City Council",
         "house_item_id": "Q2994131",
         "position_item_id": "Q47450833",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Montreal City Council",
         "house_item_id": "Q2994131",
         "position_item_id": "Q45414411",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of British Columbia",
         "house_item_id": "Q1323479",
         "position_item_id": "Q19004821",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Legislative Assembly of New Brunswick",
         "house_item_id": "Q1516914",
         "position_item_id": "Q18984329",
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     }
 ]
