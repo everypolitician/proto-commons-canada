@@ -1,361 +1,361 @@
 [
-    {
-        "directory": "country",
-        "area_type_wikidata_item_id": "Q6256",
-        "associations": [
-            {
-                "comment": "prime minister",
-                "position_item_id": "Q14212"
-            }
-        ],
-        "name_columns": {
-            "lang:en_CA": "name_en",
-            "lang:fr_CA": "name_fr"
-        }
-    },
-    {
-        "directory": "federal-constituencies",
-        "associations": [
-            {
-                "comment": "member of the House of Commons of Canada",
-                "position_item_id": "Q15964890"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q17202187",
-        "name_columns": {
-            "lang:en_CA": "ENNAME",
-            "lang:fr_CA": "FRNAME"
-        }
-    },
-    {
-        "directory": "provinces",
-        "associations": [
-            {
-                "comment": "Member of the Senate of Canada",
-                "position_item_id": "Q18524027"
-            },
-            {
-                "comment": "head of government of a Canadian province or territory",
-                "position_item_id": "Q2505921"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q2879",
-        "name_columns": {
-            "lang:en_CA": "name_en",
-            "lang:fr_CA": "name_fr"
-        }
-    },
-    {
-        "directory": "province-alberta",
-        "associations": [
-            {
-                "comment": "member of Alberta Legislative Assembly",
-                "position_item_id": "Q15964815"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q4711861",
-        "name_columns": {
-            "lang:en_CA": "EDName2010"
-        }
-    },
-    {
-        "directory": "province-manitoba",
-        "associations": [
-            {
-                "comment": "member of the Legislative Assembly of Manitoba ",
-                "position_item_id": "Q19007867"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47455017",
-        "name_columns": {
-            "lang:en_CA": "ED"
-        }
-    },
-    {
-        "directory": "province-quebec",
-        "associations": [
-            {
-                "comment": "Member of the National Assembly of Quebec",
-                "position_item_id": "Q3305338"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q2973931",
-        "name_columns": {
-            "lang:fr_CA": "NM_CEP"
-        }
-    },
-    {
-        "directory": "province-newfoundland-and-labrador",
-        "associations": [
-            {
-                "comment": "Member of the Newfoundland and Labrador House of Assembly",
-                "position_item_id": "Q19403853"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47454980",
-        "name_columns": {
-            "lang:en_CA": "Name"
-        }
-    },
-    {
-        "directory": "province-saskatchewan",
-        "associations": [
-            {
-                "comment": "Member of the Legislative Assembly of Saskatchewan",
-                "position_item_id": "Q18675661"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q6596424",
-        "name_columns": {
-            "lang:en_CA": "Con_Name"
-        }
-    },
-    {
-        "directory": "province-prince-edward-island",
-        "associations": [
-            {
-                "comment": "Member of the Legislative Assembly of Prince Edward Island",
-                "position_item_id": "Q21010685"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q19823486",
-        "name_columns": {
-            "lang:en_CA": "Descriptio"
-        }
-    },
-    {
-        "directory": "province-nova-scotia",
-        "associations": [
-            {
-                "comment": "member of the Nova Scotia House of Assembly",
-                "position_item_id": "Q18239264"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q6592593",
-        "name_columns": {
-            "lang:en_CA": "name"
-        }
-    },
-    {
-        "directory": "territory-northwest-territories",
-        "associations": [
-            {
-                "comment": "Member of the Legislative Assembly of the Northwest Territories",
-                "position_item_id": "Q45308871"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q15896168",
-        "name_columns": {
-            "lang:en_CA": "name"
-        }
-    },
-    {
-        "directory": "territory-nunavut",
-        "associations": [
-            {
-                "comment": "Member of the Legislative Assembly of Nunavut",
-                "position_item_id": "Q45308607"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47454933",
-        "name_columns": {
-            "lang:en_CA": "Name"
-        }
-    },
-    {
-        "directory": "territory-yukon",
-        "associations": [
-            {
-                "comment": "Member of the Yukon Legislative Assembly",
-                "position_item_id": "Q18608478"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47454928",
-        "name_columns": {
-            "lang:en_CA": "Name"
-        }
-    },
-    {
-        "directory": "province-ontario",
-        "associations": [
-            {
-                "comment": "Member of Ontario Provincial Parliament",
-                "position_item_id": "Q3305347"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q6593033",
-        "name_columns": {
-            "lang:en_CA": "name"
-        }
-    },
-    {
-        "directory": "toronto-wards",
-        "associations": [
-            {
-                "comment": "Member of Toronto City Council",
-                "position_item_id": "Q45413990"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47455500",
-        "name_columns": {
-            "lang:en_CA": "NAME"
-        }
-    },
-    {
-        "directory": "calgary-wards",
-        "associations": [
-            {
-                "comment": "Member of Calgary City Council",
-                "position_item_id": "Q45414913"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47455759",
-        "name_columns": {
-            "lang:en_CA": "label"
-        }
-    },
-    {
-        "directory": "ottawa-wards",
-        "associations": [
-            {
-                "comment": "Member of Ottawa City Council",
-                "position_item_id": "Q47487122"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47486824",
-        "name_columns": {
-            "lang:en_CA": "WARD_NAME_",
-            "lang:fr_CA": "WARD_NAME1"
-        }
-    },
-    {
-        "directory": "edmonton-wards",
-        "associations": [
-            {
-                "comment": "Member of Edmonton City Council",
-                "position_item_id": "Q47490130"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47489972",
-        "name_columns": {
-            "lang:en_CA": "name"
-        }
-    },
-    {
-        "directory": "winnipeg-wards",
-        "associations": [
-            {
-                "comment": "Member of Winnipeg City Council",
-                "position_item_id": "Q47490128"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47489974",
-        "name_columns": {
-            "lang:en_CA": "name"
-        }
-    },
-    {
-        "directory": "halifax-wards",
-        "associations": [
-            {
-                "comment": "Member of Halifax Regional Council",
-                "position_item_id": "Q47490131"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47489973",
-        "name_columns": {
-            "lang:en_CA": "DISTNAME"
-        }
-    },
-    {
-        "directory": "vancouver-wards",
-        "associations": [
-            {
-                "comment": "Member of Vancouver City Council",
-                "position_item_id": "Q47490129"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47489971",
-        "name_columns": {
-            "lang:en_CA": "Name"
-        }
-    },
-    {
-        "directory": "quebec-city-wards",
-        "associations": [
-            {
-                "comment": "Member of Quebec City Council",
-                "position_item_id": "Q47490318"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q6936314",
-        "name_columns": {
-            "lang:fr_CA": "NOM"
-        }
-    },
-    {
-        "directory": "montreal-boroughs",
-        "associations": [
-            {
-                "comment": "Borough Mayor (Montreal)",
-                "position_item_id": "Q47450833"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q578521",
-        "name_columns": {
-            "lang:en_CA": "Name"
-        }
-    },
-    {
-        "directory": "montreal-districts",
-        "associations": [
-            {
-                "comment": "Montreal City Councillor",
-                "position_item_id": "Q45414411"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q47456033",
-        "name_columns": {
-            "lang:en_CA": "Name"
-        }
-    },
-    {
-        "directory": "cities",
-        "associations": [
-            {
-                "comment": "Mayor",
-                "position_item_id": "Q30185"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q515",
-        "name_columns": {
-            "lang:en_CA": "NAME"
-        }
-    },
-    {
-        "directory": "province-british-columbia",
-        "associations": [
-            {
-                "comment": "Member of the Legislative Assembly of British Columbia",
-                "position_item_id": "Q19004821"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q6564784",
-        "name_columns": {
-            "lang:en_CA": "ED_NAME"
-        }
-    },
-    {
-        "directory": "province-new-brunswick",
-        "associations": [
-            {
-                "comment": "Member of the Legislative Assembly of New Brunswick",
-                "position_item_id": "Q18984329"
-            }
-        ],
-        "area_type_wikidata_item_id": "Q6591764",
-        "name_columns": {
-            "lang:en_CA": "PED_Name_E"
-        }
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "prime minister",
+        "position_item_id": "Q14212"
+      }
+    ],
+    "name_columns": {
+      "lang:en_CA": "name_en",
+      "lang:fr_CA": "name_fr"
     }
+  },
+  {
+    "directory": "federal-constituencies",
+    "associations": [
+      {
+        "comment": "member of the House of Commons of Canada",
+        "position_item_id": "Q15964890"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q17202187",
+    "name_columns": {
+      "lang:en_CA": "ENNAME",
+      "lang:fr_CA": "FRNAME"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "head of government of a Canadian province or territory",
+        "position_item_id": "Q2505921"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en_CA": "name_en",
+      "lang:fr_CA": "name_fr"
+    }
+  },
+  {
+    "directory": "province-alberta",
+    "associations": [
+      {
+        "comment": "member of Alberta Legislative Assembly",
+        "position_item_id": "Q15964815"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q4711861",
+    "name_columns": {
+      "lang:en_CA": "EDName2010"
+    }
+  },
+  {
+    "directory": "province-manitoba",
+    "associations": [
+      {
+        "comment": "member of the Legislative Assembly of Manitoba ",
+        "position_item_id": "Q19007867"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47455017",
+    "name_columns": {
+      "lang:en_CA": "ED"
+    }
+  },
+  {
+    "directory": "province-quebec",
+    "associations": [
+      {
+        "comment": "Member of the National Assembly of Quebec",
+        "position_item_id": "Q3305338"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2973931",
+    "name_columns": {
+      "lang:fr_CA": "NM_CEP"
+    }
+  },
+  {
+    "directory": "province-newfoundland-and-labrador",
+    "associations": [
+      {
+        "comment": "Member of the Newfoundland and Labrador House of Assembly",
+        "position_item_id": "Q19403853"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47454980",
+    "name_columns": {
+      "lang:en_CA": "Name"
+    }
+  },
+  {
+    "directory": "province-saskatchewan",
+    "associations": [
+      {
+        "comment": "Member of the Legislative Assembly of Saskatchewan",
+        "position_item_id": "Q18675661"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6596424",
+    "name_columns": {
+      "lang:en_CA": "Con_Name"
+    }
+  },
+  {
+    "directory": "province-prince-edward-island",
+    "associations": [
+      {
+        "comment": "Member of the Legislative Assembly of Prince Edward Island",
+        "position_item_id": "Q21010685"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q19823486",
+    "name_columns": {
+      "lang:en_CA": "Descriptio"
+    }
+  },
+  {
+    "directory": "province-nova-scotia",
+    "associations": [
+      {
+        "comment": "member of the Nova Scotia House of Assembly",
+        "position_item_id": "Q18239264"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6592593",
+    "name_columns": {
+      "lang:en_CA": "name"
+    }
+  },
+  {
+    "directory": "territory-northwest-territories",
+    "associations": [
+      {
+        "comment": "Member of the Legislative Assembly of the Northwest Territories",
+        "position_item_id": "Q45308871"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q15896168",
+    "name_columns": {
+      "lang:en_CA": "name"
+    }
+  },
+  {
+    "directory": "territory-nunavut",
+    "associations": [
+      {
+        "comment": "Member of the Legislative Assembly of Nunavut",
+        "position_item_id": "Q45308607"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47454933",
+    "name_columns": {
+      "lang:en_CA": "Name"
+    }
+  },
+  {
+    "directory": "territory-yukon",
+    "associations": [
+      {
+        "comment": "Member of the Yukon Legislative Assembly",
+        "position_item_id": "Q18608478"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47454928",
+    "name_columns": {
+      "lang:en_CA": "Name"
+    }
+  },
+  {
+    "directory": "province-ontario",
+    "associations": [
+      {
+        "comment": "Member of Ontario Provincial Parliament",
+        "position_item_id": "Q3305347"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6593033",
+    "name_columns": {
+      "lang:en_CA": "name"
+    }
+  },
+  {
+    "directory": "toronto-wards",
+    "associations": [
+      {
+        "comment": "Member of Toronto City Council",
+        "position_item_id": "Q45413990"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47455500",
+    "name_columns": {
+      "lang:en_CA": "NAME"
+    }
+  },
+  {
+    "directory": "calgary-wards",
+    "associations": [
+      {
+        "comment": "Member of Calgary City Council",
+        "position_item_id": "Q45414913"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47455759",
+    "name_columns": {
+      "lang:en_CA": "label"
+    }
+  },
+  {
+    "directory": "ottawa-wards",
+    "associations": [
+      {
+        "comment": "Member of Ottawa City Council",
+        "position_item_id": "Q47487122"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47486824",
+    "name_columns": {
+      "lang:en_CA": "WARD_NAME_",
+      "lang:fr_CA": "WARD_NAME1"
+    }
+  },
+  {
+    "directory": "edmonton-wards",
+    "associations": [
+      {
+        "comment": "Member of Edmonton City Council",
+        "position_item_id": "Q47490130"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47489972",
+    "name_columns": {
+      "lang:en_CA": "name"
+    }
+  },
+  {
+    "directory": "winnipeg-wards",
+    "associations": [
+      {
+        "comment": "Member of Winnipeg City Council",
+        "position_item_id": "Q47490128"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47489974",
+    "name_columns": {
+      "lang:en_CA": "name"
+    }
+  },
+  {
+    "directory": "halifax-wards",
+    "associations": [
+      {
+        "comment": "Member of Halifax Regional Council",
+        "position_item_id": "Q47490131"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47489973",
+    "name_columns": {
+      "lang:en_CA": "DISTNAME"
+    }
+  },
+  {
+    "directory": "vancouver-wards",
+    "associations": [
+      {
+        "comment": "Member of Vancouver City Council",
+        "position_item_id": "Q47490129"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47489971",
+    "name_columns": {
+      "lang:en_CA": "Name"
+    }
+  },
+  {
+    "directory": "quebec-city-wards",
+    "associations": [
+      {
+        "comment": "Member of Quebec City Council",
+        "position_item_id": "Q47490318"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6936314",
+    "name_columns": {
+      "lang:fr_CA": "NOM"
+    }
+  },
+  {
+    "directory": "montreal-boroughs",
+    "associations": [
+      {
+        "comment": "Borough Mayor (Montreal)",
+        "position_item_id": "Q47450833"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q578521",
+    "name_columns": {
+      "lang:en_CA": "Name"
+    }
+  },
+  {
+    "directory": "montreal-districts",
+    "associations": [
+      {
+        "comment": "Montreal City Councillor",
+        "position_item_id": "Q45414411"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47456033",
+    "name_columns": {
+      "lang:en_CA": "Name"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor",
+        "position_item_id": "Q30185"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en_CA": "NAME"
+    }
+  },
+  {
+    "directory": "province-british-columbia",
+    "associations": [
+      {
+        "comment": "Member of the Legislative Assembly of British Columbia",
+        "position_item_id": "Q19004821"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6564784",
+    "name_columns": {
+      "lang:en_CA": "ED_NAME"
+    }
+  },
+  {
+    "directory": "province-new-brunswick",
+    "associations": [
+      {
+        "comment": "Member of the Legislative Assembly of New Brunswick",
+        "position_item_id": "Q18984329"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6591764",
+    "name_columns": {
+      "lang:en_CA": "PED_Name_E"
+    }
+  }
 ]
