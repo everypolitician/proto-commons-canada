@@ -53,6 +53,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-10-28T00:00:00Z"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -167,15 +172,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Paul Quassa"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-10-28T00:00:00Z"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Paul Quassa"
       }
     }, {
       "district" : {
@@ -226,6 +231,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-10-28T00:00:00Z"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -282,6 +292,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-02-09T00:00:00Z"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -336,6 +351,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-10-27T00:00:00Z"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -396,6 +416,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-10-30T00:00:00Z"
       }
     }, {
       "district" : {
@@ -446,6 +471,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-10-30T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -500,6 +530,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-10-30T00:00:00Z"
       },
       "district_name_fr" : {
         "xml:lang" : "fr",
@@ -556,6 +591,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-10-30T00:00:00Z"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -610,6 +650,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2023"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-10-30T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",

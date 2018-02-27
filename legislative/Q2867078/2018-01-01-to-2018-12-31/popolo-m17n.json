@@ -245,6 +245,32 @@
       "parent_id": "Q2007"
     },
     {
+      "id": "Q2007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Northwest Territories",
+        "lang:fr_CA": "Territoires du Nord-Ouest"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q24190814",
       "identifiers": [
         {
@@ -698,6 +724,7 @@
       "person_id": "Q22279500",
       "organization_id": "Q2867078",
       "area_id": "Q5477888",
+      "start_date": "2015-11-23",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
@@ -741,6 +768,7 @@
       "person_id": "Q4723182",
       "organization_id": "Q2867078",
       "area_id": "Q6059367",
+      "start_date": "2007-10-03",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
@@ -751,6 +779,7 @@
       "person_id": "Q5567554",
       "organization_id": "Q2867078",
       "area_id": "Q5599968",
+      "start_date": "2007-10-01",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"
@@ -761,6 +790,7 @@
       "person_id": "Q6833011",
       "organization_id": "Q2867078",
       "area_id": "Q3021281",
+      "start_date": "2011-10-03",
       "role_code": "Q45308871",
       "role": {
         "lang:en_CA": "Member of the Legislative Assembly of the Northwest Territories"

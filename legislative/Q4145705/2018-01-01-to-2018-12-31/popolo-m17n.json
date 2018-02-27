@@ -81,6 +81,56 @@
       "parent_id": null
     },
     {
+      "id": "Q1951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Alberta",
+        "lang:fr_CA": "Alberta"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q36312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Calgary"
+      },
+      "parent_id": "Q1951"
+    },
+    {
       "id": "Q47455783",
       "identifiers": [
         {

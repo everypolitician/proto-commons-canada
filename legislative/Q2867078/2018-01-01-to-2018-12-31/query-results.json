@@ -53,14 +53,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "CarolineRangeLake"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "CarolineRangeLake"
       }
     }, {
       "district" : {
@@ -167,14 +167,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "HerbNakimayakMLA"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "HerbNakimayakMLA"
       }
     }, {
       "district" : {
@@ -225,6 +225,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-11-23T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -280,14 +285,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "cory.vanthuyne"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "cory.vanthuyne"
       }
     }, {
       "district" : {
@@ -339,14 +344,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "RJSimpsonMLA"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "RJSimpsonMLA"
       },
       "district_name_fr" : {
         "xml:lang" : "fr",
@@ -403,14 +408,14 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Shane-Thompson-Nahendeh-MLA-1680351638951201"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-11-23T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Shane-Thompson-Nahendeh-MLA-1680351638951201"
       }
     }, {
       "district" : {
@@ -461,6 +466,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-10-03T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -521,6 +531,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-10-01T00:00:00Z"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "Glen-Abernethy-MLA-Great-Slave-533940360092655"
@@ -579,6 +594,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2007"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-10-03T00:00:00Z"
       },
       "district_name_fr" : {
         "xml:lang" : "fr",

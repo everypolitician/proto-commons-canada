@@ -32,36 +32,6 @@
         }
       ],
       "area_id": "Q2003"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Newfoundland and Labrador House of Assembly",
-        "lang:fr_CA": "chambre d'Assemblée de Terre-Neuve-et-Labrador"
-      },
-      "id": "Q258843",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q258843"
-        }
-      ],
-      "area_id": "Q38610"
-    },
-    {
-      "name": {
-        "lang:en_CA": "Newfoundland and Labrador House of Assembly",
-        "lang:fr_CA": "chambre d'Assemblée de Terre-Neuve-et-Labrador"
-      },
-      "id": "Q258843",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q258843"
-        }
-      ],
-      "area_id": "Q2984260"
     }
   ],
   "areas": [
@@ -112,6 +82,32 @@
         "lang:en_CA": "Mount Pearl North"
       },
       "parent_id": "Q2003"
+    },
+    {
+      "id": "Q2003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Newfoundland and Labrador",
+        "lang:fr_CA": "Terre-Neuve et Labrador"
+      },
+      "parent_id": "Q16"
     },
     {
       "id": "Q20647435",

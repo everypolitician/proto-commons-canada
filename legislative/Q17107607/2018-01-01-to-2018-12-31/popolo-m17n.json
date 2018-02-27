@@ -32,6 +32,56 @@
       "parent_id": null
     },
     {
+      "id": "Q1952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Nova Scotia",
+        "lang:fr_CA": "Nouvelle-Écosse"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:1209034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Halifax"
+      },
+      "parent_id": "Q1952"
+    },
+    {
       "id": "Q47490204",
       "identifiers": [
         {
