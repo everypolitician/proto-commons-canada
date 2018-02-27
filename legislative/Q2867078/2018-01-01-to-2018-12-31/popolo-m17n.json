@@ -245,6 +245,32 @@
       "parent_id": "Q2007"
     },
     {
+      "id": "Q2007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Northwest Territories",
+        "lang:fr_CA": "Territoires du Nord-Ouest"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q24190814",
       "identifiers": [
         {

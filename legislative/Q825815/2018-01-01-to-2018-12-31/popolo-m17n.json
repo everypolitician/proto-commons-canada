@@ -93,6 +93,32 @@
       "parent_id": null
     },
     {
+      "id": "Q1979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Prince Edward Island",
+        "lang:fr_CA": "Île-du-Prince-Édouard"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q2831855",
       "identifiers": [
         {

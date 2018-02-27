@@ -18735,6 +18735,32 @@
       "parent_id": null
     },
     {
+      "id": "Q176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Quebec",
+        "lang:fr_CA": "Québec"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q2377768",
       "identifiers": [
         {

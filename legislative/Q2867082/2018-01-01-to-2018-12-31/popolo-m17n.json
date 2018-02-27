@@ -183,31 +183,6 @@
   ],
   "areas": [
     {
-      "id": "Q16",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q14212"
-      ],
-      "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
-      },
-      "name": {
-        "lang:en_CA": "Canada",
-        "lang:fr_CA": "Canada"
-      },
-      "parent_id": null
-    },
-    {
       "id": "Q12626632",
       "identifiers": [
         {
@@ -252,6 +227,31 @@
         "lang:en_CA": "Pangnirtung"
       },
       "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
     },
     {
       "id": "Q16209592",
@@ -505,6 +505,32 @@
         "lang:en_CA": "Iqaluit-Tasiluk"
       },
       "parent_id": "Q2023"
+    },
+    {
+      "id": "Q2023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Nunavut",
+        "lang:fr_CA": "Nunavut"
+      },
+      "parent_id": "Q16"
     },
     {
       "id": "Q4746949",

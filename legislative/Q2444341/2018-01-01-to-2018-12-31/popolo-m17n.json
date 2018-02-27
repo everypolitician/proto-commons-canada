@@ -115,6 +115,55 @@
       "parent_id": null
     },
     {
+      "id": "Q172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3520005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Toronto"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Ontario"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q47455533",
       "identifiers": [
         {

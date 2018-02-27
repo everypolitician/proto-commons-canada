@@ -1492,6 +1492,31 @@
       "parent_id": "Q2009"
     },
     {
+      "id": "Q2009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Yukon"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q3197896",
       "identifiers": [
         {

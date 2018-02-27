@@ -7,31 +7,6 @@
   ],
   "areas": [
     {
-      "id": "Q16",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q14212"
-      ],
-      "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
-      },
-      "name": {
-        "lang:en_CA": "Canada",
-        "lang:fr_CA": "Canada"
-      },
-      "parent_id": null
-    },
-    {
       "id": "Q14875206",
       "identifiers": [
         {
@@ -78,6 +53,80 @@
         "lang:fr_CA": "Osgoode"
       },
       "parent_id": "Q1930"
+    },
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Ontario"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q1930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3506008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Ottawa"
+      },
+      "parent_id": "Q1904"
     },
     {
       "id": "Q4736016",

@@ -12027,6 +12027,32 @@
       "parent_id": "Q1952"
     },
     {
+      "id": "Q1952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Nova Scotia",
+        "lang:fr_CA": "Nouvelle-Écosse"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q4767958",
       "identifiers": [
         {

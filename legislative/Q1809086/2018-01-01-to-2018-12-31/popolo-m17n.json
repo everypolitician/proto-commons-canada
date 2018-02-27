@@ -22975,31 +22975,6 @@
   ],
   "areas": [
     {
-      "id": "Q16",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q14212"
-      ],
-      "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
-      },
-      "name": {
-        "lang:en_CA": "Canada",
-        "lang:fr_CA": "Canada"
-      },
-      "parent_id": null
-    },
-    {
       "id": "Q13403992",
       "identifiers": [
         {
@@ -23960,6 +23935,31 @@
       "parent_id": "Q1904"
     },
     {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en_CA": "country",
+        "lang:fr_CA": "pays"
+      },
+      "name": {
+        "lang:en_CA": "Canada",
+        "lang:fr_CA": "Canada"
+      },
+      "parent_id": null
+    },
+    {
       "id": "Q16860714",
       "identifiers": [
         {
@@ -24150,6 +24150,31 @@
         "lang:en_CA": "Timmins—James Bay"
       },
       "parent_id": "Q1904"
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "Ontario"
+      },
+      "parent_id": "Q16"
     },
     {
       "id": "Q2391317",

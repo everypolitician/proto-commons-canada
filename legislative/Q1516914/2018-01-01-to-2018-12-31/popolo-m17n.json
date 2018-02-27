@@ -9840,6 +9840,32 @@
       "parent_id": "Q1965"
     },
     {
+      "id": "Q1965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "New Brunswick",
+        "lang:fr_CA": "Nouveau-Brunswick"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q281399",
       "identifiers": [
         {

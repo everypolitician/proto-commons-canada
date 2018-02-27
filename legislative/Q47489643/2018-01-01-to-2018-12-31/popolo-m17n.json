@@ -32,6 +32,56 @@
       "parent_id": null
     },
     {
+      "id": "Q1974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:bc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en_CA": "province or territory of Canada",
+        "lang:fr_CA": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en_CA": "British Columbia",
+        "lang:fr_CA": "Colombie-Britannique"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q24639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:5915022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en_CA": "city",
+        "lang:fr_CA": "ville"
+      },
+      "name": {
+        "lang:en_CA": "Vancouver"
+      },
+      "parent_id": "Q1974"
+    },
+    {
       "id": "Q47490166",
       "identifiers": [
         {
