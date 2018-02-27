@@ -4,24 +4,136 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
+        "value" : "http://www.wikidata.org/entity/Q3197139"
       },
-      "party_name_fr" : {
+      "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "Parti libéral du Canada"
+        "value" : "Kingston and the Islands"
       },
-      "party_name_en" : {
+      "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Liberal Party of Canada"
+        "value" : "Kingston and the Islands"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21714336-c23956e4-47d0-d632-88d4-ee28d356f2d1"
+        "value" : "http://www.wikidata.org/entity/statement/Q16215273-A7D388B2-D357-41F4-A526-798C237B1B15"
       },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15964890"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député de la Chambre des communes du Canada"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Commons of Canada"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16215273"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Mark Gerretsen"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mark Gerretsen"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q383590"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre des communes du Canada"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3566686"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Waterloo"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Waterloo"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21402871-BE489E51-D4F4-4EBD-8529-C15CEFFA4430"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15964890"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député de la Chambre des communes du Canada"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Commons of Canada"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21402871"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Bardish Chagger"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bardish Chagger"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q383590"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre des communes du Canada"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3320478"
@@ -35,6 +147,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Moncton--Riverview--Dieppe"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21714336-c23956e4-47d0-d632-88d4-ee28d356f2d1"
       },
       "role" : {
         "type" : "uri",
@@ -82,6 +198,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138345"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -92,24 +222,6 @@
         "value" : "ginetteptaylor"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q130765"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Nouveau Parti démocratique"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Democratic Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22132668-4230768f-4cdc-83be-be8a-ad233038da9b"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16979413"
@@ -123,6 +235,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Nanaimo--Ladysmith"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q22132668-4230768f-4cdc-83be-be8a-ad233038da9b"
       },
       "role" : {
         "type" : "uri",
@@ -170,16 +286,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-10-19T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "SheilaMalcolmsonNDP"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q130765"
@@ -194,10 +300,16 @@
         "type" : "literal",
         "value" : "New Democratic Party"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22277033-2fbbe2d7-4bec-6b64-0225-361f75270eb8"
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-10-19T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "SheilaMalcolmsonNDP"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3473801"
@@ -211,6 +323,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Saskatoon West"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q22277033-2fbbe2d7-4bec-6b64-0225-361f75270eb8"
       },
       "role" : {
         "type" : "uri",
@@ -258,6 +374,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130765"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Democratic Party"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -268,24 +398,71 @@
         "value" : "sheribensonndp"
       }
     }, {
-      "party" : {
+      "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
+        "value" : "http://www.wikidata.org/entity/Q16977201"
       },
-      "party_name_fr" : {
+      "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "Parti libéral du Canada"
+        "value" : "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs"
       },
-      "party_name_en" : {
+      "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Liberal Party of Canada"
+        "value" : "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29138522-fe814daf-4369-74ca-1181-962ab0223bbf"
+        "value" : "http://www.wikidata.org/entity/statement/Q22279214-D3C2B22E-404E-40D9-8431-3DD8F04412AA"
       },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15964890"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député de la Chambre des communes du Canada"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Commons of Canada"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22279214"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Marc Miller"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marc Miller"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q383590"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre des communes du Canada"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3357766"
@@ -299,6 +476,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ottawa--Vanier"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29138522-fe814daf-4369-74ca-1181-962ab0223bbf"
       },
       "role" : {
         "type" : "uri",
@@ -346,30 +527,26 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138345"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-04-03T00:00:00Z"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q488523"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti conservateur du Canada"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative Party of Canada"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29139192-ed849f3e-4b47-c93a-198d-460d1cdc5c22"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16850469"
@@ -383,6 +560,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Calgary Heritage"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29139192-ed849f3e-4b47-c93a-198d-460d1cdc5c22"
       },
       "role" : {
         "type" : "uri",
@@ -430,6 +611,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q488523"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti conservateur du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conservative Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -440,24 +635,6 @@
         "value" : "BobBenzen"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29139548-a5b9fff0-4285-97bc-c20c-c2c5ae522199"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16977883"
@@ -471,6 +648,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Markham--Thornhill"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29139548-a5b9fff0-4285-97bc-c20c-c2c5ae522199"
       },
       "role" : {
         "type" : "uri",
@@ -518,6 +699,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138345"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -528,24 +723,6 @@
         "value" : "maryngMarkhamThornhill"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q488523"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti conservateur du Canada"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative Party of Canada"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29139551-1494e595-4f82-32b0-c213-665ba93f155a"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16850474"
@@ -559,6 +736,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Calgary Midnapore"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29139551-1494e595-4f82-32b0-c213-665ba93f155a"
       },
       "role" : {
         "type" : "uri",
@@ -606,6 +787,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q488523"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti conservateur du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conservative Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -616,24 +811,6 @@
         "value" : "stephaniekusiepolitician"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29139554-29c40df1-4106-6763-4d61-371f9a65acd3"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3462729"
@@ -647,6 +824,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Saint-Laurent"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29139554-29c40df1-4106-6763-4d61-371f9a65acd3"
       },
       "role" : {
         "type" : "uri",
@@ -694,6 +875,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138345"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -704,24 +899,71 @@
         "value" : "emlambropoulos"
       }
     }, {
-      "party" : {
+      "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q488523"
+        "value" : "http://www.wikidata.org/entity/Q3486212"
       },
-      "party_name_fr" : {
+      "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "Parti conservateur du Canada"
+        "value" : "Skeena--Bulkley Valley"
       },
-      "party_name_en" : {
+      "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Conservative Party of Canada"
+        "value" : "Skeena--Bulkley Valley"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3386636-3D3C1DAA-2309-4118-B135-8736D478FB27"
+        "value" : "http://www.wikidata.org/entity/statement/Q3336713-213AB5C7-E80E-4619-9236-25E4F78883F1"
       },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15964890"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député de la Chambre des communes du Canada"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Commons of Canada"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3336713"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nathan Cullen"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nathan Cullen"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q383590"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre des communes du Canada"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2939078"
@@ -735,6 +977,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Carleton"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3386636-3D3C1DAA-2309-4118-B135-8736D478FB27"
       },
       "role" : {
         "type" : "uri",
@@ -782,16 +1028,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-08-30T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "PierrePoilievreMP"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q488523"
@@ -806,10 +1042,16 @@
         "type" : "literal",
         "value" : "Conservative Party of Canada"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3441480-643a3914-4b99-00be-dba1-95e21442ad67"
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-08-30T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "PierrePoilievreMP"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16977239"
@@ -823,6 +1065,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sturgeon River--Parkland"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3441480-643a3914-4b99-00be-dba1-95e21442ad67"
       },
       "role" : {
         "type" : "uri",
@@ -870,17 +1116,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-12-03T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-07-04T00:00:00Z"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q488523"
@@ -895,10 +1130,17 @@
         "type" : "literal",
         "value" : "Conservative Party of Canada"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q42308688-977fc21a-41c6-90b6-7c18-81fc10b0f796"
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-12-03T00:00:00Z"
       },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-07-04T00:00:00Z"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16977239"
@@ -912,6 +1154,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sturgeon River--Parkland"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q42308688-977fc21a-41c6-90b6-7c18-81fc10b0f796"
       },
       "role" : {
         "type" : "uri",
@@ -959,6 +1205,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q488523"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti conservateur du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conservative Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -969,24 +1229,6 @@
         "value" : "dane.lloyd.58"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4740296-7ee010ee-4ebc-a99b-1b5f-970e55c3cd47"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16974434"
@@ -1000,6 +1242,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Edmonton Mill Woods"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4740296-7ee010ee-4ebc-a99b-1b5f-970e55c3cd47"
       },
       "role" : {
         "type" : "uri",
@@ -1047,6 +1293,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138345"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral du Canada"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Canada"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -1055,6 +1315,71 @@
       "facebook" : {
         "type" : "literal",
         "value" : "AmarjeetSohiYEG"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3569370"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Winnipeg South"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Winnipeg South"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7704329-C597D1E9-FAE8-4AA0-867E-6C9D64CA6C39"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15964890"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député de la Chambre des communes du Canada"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Commons of Canada"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7704329"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Terry Duguid"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Terry Duguid"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q383590"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre des communes du Canada"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
       }
     } ]
   }

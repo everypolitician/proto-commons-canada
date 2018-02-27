@@ -2,6 +2,38 @@
   "persons": [
     {
       "name": {
+        "lang:en_CA": "Mark Gerretsen",
+        "lang:fr_CA": "Mark Gerretsen"
+      },
+      "id": "Q16215273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16215273"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Bardish Chagger",
+        "lang:fr_CA": "Bardish Chagger"
+      },
+      "id": "Q21402871",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21402871"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Ginette Petitpas Taylor",
         "lang:fr_CA": "Ginette Petitpas Taylor"
       },
@@ -55,6 +87,22 @@
           "note": "facebook",
           "url": "https://www.facebook.com/sheribensonndp"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Marc Miller",
+        "lang:fr_CA": "Marc Miller"
+      },
+      "id": "Q22279214",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22279214"
+        }
+      ],
+      "links": [
+
       ]
     },
     {
@@ -151,6 +199,22 @@
     },
     {
       "name": {
+        "lang:en_CA": "Nathan Cullen",
+        "lang:fr_CA": "Nathan Cullen"
+      },
+      "id": "Q3336713",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3336713"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Pierre Poilievre",
         "lang:fr_CA": "Pierre Poilievre"
       },
@@ -220,6 +284,22 @@
           "note": "facebook",
           "url": "https://www.facebook.com/AmarjeetSohiYEG"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Terry Duguid",
+        "lang:fr_CA": "Terry Duguid"
+      },
+      "id": "Q7704329",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7704329"
+        }
+      ],
+      "links": [
+
       ]
     }
   ],
@@ -9096,6 +9176,28 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16215273-A7D388B2-D357-41F4-A526-798C237B1B15",
+      "person_id": "Q16215273",
+      "organization_id": "Q383590",
+      "area_id": "Q3197139",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21402871-BE489E51-D4F4-4EBD-8529-C15CEFFA4430",
+      "person_id": "Q21402871",
+      "organization_id": "Q383590",
+      "area_id": "Q3566686",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21714336-c23956e4-47d0-d632-88d4-ee28d356f2d1",
       "person_id": "Q21714336",
       "on_behalf_of_id": "Q138345",
@@ -9128,6 +9230,17 @@
       "organization_id": "Q383590",
       "area_id": "Q3473801",
       "start_date": "2015-10-19",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22279214-D3C2B22E-404E-40D9-8431-3DD8F04412AA",
+      "person_id": "Q22279214",
+      "organization_id": "Q383590",
+      "area_id": "Q16977201",
       "role_code": "Q15964890",
       "role": {
         "lang:en_CA": "member of the House of Commons of Canada",
@@ -9200,6 +9313,17 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3336713-213AB5C7-E80E-4619-9236-25E4F78883F1",
+      "person_id": "Q3336713",
+      "organization_id": "Q383590",
+      "area_id": "Q3486212",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3386636-3D3C1DAA-2309-4118-B135-8736D478FB27",
       "person_id": "Q3386636",
       "on_behalf_of_id": "Q488523",
@@ -9246,6 +9370,17 @@
       "organization_id": "Q383590",
       "area_id": "Q16974434",
       "start_date": "2015-11-04",
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en_CA": "member of the House of Commons of Canada",
+        "lang:fr_CA": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7704329-C597D1E9-FAE8-4AA0-867E-6C9D64CA6C39",
+      "person_id": "Q7704329",
+      "organization_id": "Q383590",
+      "area_id": "Q3569370",
       "role_code": "Q15964890",
       "role": {
         "lang:en_CA": "member of the House of Commons of Canada",
