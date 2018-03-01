@@ -1714,6 +1714,38 @@
     },
     {
       "name": {
+        "lang:en_CA": "Monique Sauvé",
+        "lang:fr_CA": "Monique Sauvé"
+      },
+      "id": "Q21512056",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21512056"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Paul Busque",
+        "lang:fr_CA": "Paul Busque"
+      },
+      "id": "Q22277229",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22277229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Joseph-Achille Francoeur",
         "lang:fr_CA": "Joseph-Achille Francoeur"
       },
@@ -10904,6 +10936,22 @@
     },
     {
       "name": {
+        "lang:en_CA": "Véronyque Tremblay",
+        "lang:fr_CA": "Véronyque Tremblay"
+      },
+      "id": "Q3564393",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3564393"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Wallace McDonald",
         "lang:fr_CA": "Wallace Reginald McDonald"
       },
@@ -11616,6 +11664,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q386897"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Geneviève Guilbault",
+        "lang:fr_CA": "Geneviève Guilbault"
+      },
+      "id": "Q41545405",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41545405"
         }
       ],
       "links": [
@@ -12720,6 +12784,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5026634"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Julie Bouley"
+      },
+      "id": "Q50276278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50276278"
         }
       ],
       "links": [
@@ -15776,6 +15855,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q660646"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Gabriel Nadeau-Dubois",
+        "lang:fr_CA": "Gabriel Nadeau-Dubois"
+      },
+      "id": "Q664086",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q664086"
         }
       ],
       "links": [
@@ -21986,6 +22081,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q15965478-7CEF619D-64AA-4FCD-87D3-456801B2FFFC",
       "person_id": "Q15965478",
       "organization_id": "Q1492249",
+      "area_id": "Q3211644",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22408,6 +22504,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16188600-42CF9603-AADE-4727-8582-06D695FE5C64",
       "person_id": "Q16188600",
       "organization_id": "Q1492249",
+      "area_id": "Q3514032",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22428,6 +22525,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16205644-49D6DF75-4E9D-4F66-A89C-9A754FEDC447",
       "person_id": "Q16205644",
       "organization_id": "Q1492249",
+      "area_id": "Q3010893",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22450,6 +22548,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16232138-1241021A-92DB-4F62-A532-11DA9AFAD35B",
       "person_id": "Q16232138",
       "organization_id": "Q1492249",
+      "area_id": "Q3464415",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22512,6 +22611,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16243956-E9D4B148-09C2-4901-BB33-44B11E57ED12",
       "person_id": "Q16243956",
       "organization_id": "Q1492249",
+      "area_id": "Q3397735",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22554,6 +22654,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16244101-528EF56F-D21F-4C82-B7FD-BB09F1436DB9",
       "person_id": "Q16244101",
       "organization_id": "Q1492249",
+      "area_id": "Q2910794",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22624,6 +22725,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16244543-411B2502-6C1E-4E98-A5BC-1B67B9AC8488",
       "person_id": "Q16244543",
       "organization_id": "Q1492249",
+      "area_id": "Q600540",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22644,6 +22746,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16244616-DA175697-3885-4C15-86CA-4FC262D9D2C5",
       "person_id": "Q16244616",
       "organization_id": "Q1492249",
+      "area_id": "Q3462431",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22674,6 +22777,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16540298-C7B2C5DB-7380-41E3-AA80-C8D9C592E8CD",
       "person_id": "Q16540298",
       "organization_id": "Q1492249",
+      "area_id": "Q3117289",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22706,6 +22810,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16729638-6A282413-5611-4286-A7CC-7233F2A0E928",
       "person_id": "Q16729638",
       "organization_id": "Q1492249",
+      "area_id": "Q3462187",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -22852,6 +22957,28 @@
       "on_behalf_of_id": "Q1631384",
       "organization_id": "Q1492249",
       "area_id": "Q3567537",
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en_CA": "Member of the National Assembly of Quebec",
+        "lang:fr_CA": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21512056-8083522A-0D67-4C16-9FB1-FC651E57578E",
+      "person_id": "Q21512056",
+      "organization_id": "Q1492249",
+      "area_id": "Q3063783",
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en_CA": "Member of the National Assembly of Quebec",
+        "lang:fr_CA": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22277229-5086039E-9172-4FF7-90A9-45A36D1D00E9",
+      "person_id": "Q22277229",
+      "organization_id": "Q1492249",
+      "area_id": "Q2893119",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -23019,6 +23146,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q2826998-0B7D51BA-204A-4E23-AAC3-F6FE8FC4AE4C",
       "person_id": "Q2826998",
       "organization_id": "Q1492249",
+      "area_id": "Q3515928",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -23271,6 +23399,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q2847668-AE685F4A-3C22-47ED-9070-5976497CD8DB",
       "person_id": "Q2847668",
       "organization_id": "Q1492249",
+      "area_id": "Q3166585",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -23663,6 +23792,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q2939910-340739B1-CDFC-4F87-808B-9CAB5F5FCD79",
       "person_id": "Q2939910",
       "organization_id": "Q1492249",
+      "area_id": "Q3138924",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -24734,6 +24864,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3085147-61C51508-6A8E-4359-B3D1-06A4B8509882",
       "person_id": "Q3085147",
       "organization_id": "Q1492249",
+      "area_id": "Q3202478",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -24925,6 +25056,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3104104-EDB5A4FB-0101-41DB-8AD0-00AB9052771E",
       "person_id": "Q3104104",
       "organization_id": "Q1492249",
+      "area_id": "Q3593522",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -24935,6 +25067,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3104353-7EEEE3EB-1A9F-484E-9586-F4E853897F92",
       "person_id": "Q3104353",
       "organization_id": "Q1492249",
+      "area_id": "Q3219660",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -25155,6 +25288,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3121940-296CF63C-5E72-4F3C-A3FD-355CC3B6999F",
       "person_id": "Q3121940",
       "organization_id": "Q1492249",
+      "area_id": "Q2893182",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -25495,6 +25629,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3158487-A9751089-B36B-4DA2-8C14-8BFD54EC4AAA",
       "person_id": "Q3158487",
       "organization_id": "Q1492249",
+      "area_id": "Q3567542",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -25645,6 +25780,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3165748-2B763B74-8E63-4320-9C83-363F62CBBBC9",
       "person_id": "Q3165748",
       "organization_id": "Q1492249",
+      "area_id": "Q9648145",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -26887,6 +27023,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3287884-C2DDC212-6B23-4883-B8AF-A9C10ADB5A07",
       "person_id": "Q3287884",
       "organization_id": "Q1492249",
+      "area_id": "Q2957545",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -26897,6 +27034,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3288328-6D9A0A0D-2539-4985-B238-4BCFF25C838F",
       "person_id": "Q3288328",
       "organization_id": "Q1492249",
+      "area_id": "Q2967723",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -26907,6 +27045,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3288424-7E70DD6B-F168-41B5-B4C5-E4AD173FB355",
       "person_id": "Q3288424",
       "organization_id": "Q1492249",
+      "area_id": "Q3206243",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -27079,6 +27218,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3296332-F22862CA-FD67-4352-B7FA-77E29AD91F53",
       "person_id": "Q3296332",
       "organization_id": "Q1492249",
+      "area_id": "Q3143016",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -27089,6 +27229,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3298889-2B209FFA-F8FB-493A-A8D7-3F713C3BF33B",
       "person_id": "Q3298889",
       "organization_id": "Q1492249",
+      "area_id": "Q3518684",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -27430,6 +27571,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3343510-8EDB0BF6-7C3E-4BCA-89D1-31EBC9EA83EF",
       "person_id": "Q3343510",
       "organization_id": "Q1492249",
+      "area_id": "Q3010622",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -28523,6 +28665,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3510271-899D3F0A-D03F-418E-ACA2-2D26FADEC9DB",
       "person_id": "Q3510271",
       "organization_id": "Q1492249",
+      "area_id": "Q3170034",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -28645,6 +28788,17 @@
       "organization_id": "Q1492249",
       "area_id": "Q3183136",
       "start_date": "2008-12-08",
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en_CA": "Member of the National Assembly of Quebec",
+        "lang:fr_CA": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3564393-FA992B27-669A-416B-A372-7C971E6EB23A",
+      "person_id": "Q3564393",
+      "organization_id": "Q1492249",
+      "area_id": "Q2961704",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -29095,6 +29249,17 @@
       "id": "http://www.wikidata.org/entity/statement/Q386897-2CBEACDA-CF6A-4146-AE8F-082A505313BC",
       "person_id": "Q386897",
       "organization_id": "Q1492249",
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en_CA": "Member of the National Assembly of Quebec",
+        "lang:fr_CA": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41545405-7D1C81F3-A72B-448B-BE4F-B175DA10DF78",
+      "person_id": "Q41545405",
+      "organization_id": "Q1492249",
+      "area_id": "Q3260600",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -29786,6 +29951,17 @@
       "id": "http://www.wikidata.org/entity/statement/Q5026634-0BD0DB91-28E0-4106-9B93-9D10D11D4198",
       "person_id": "Q5026634",
       "organization_id": "Q1492249",
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en_CA": "Member of the National Assembly of Quebec",
+        "lang:fr_CA": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50276278-02FF3B09-24C8-477E-975C-3FB6A683C486",
+      "person_id": "Q50276278",
+      "organization_id": "Q1492249",
+      "area_id": "Q3219830",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",
@@ -31698,6 +31874,17 @@
       "id": "http://www.wikidata.org/entity/statement/Q660646-5BA6F2F5-0853-4320-AC9F-E45342FFE002",
       "person_id": "Q660646",
       "organization_id": "Q1492249",
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en_CA": "Member of the National Assembly of Quebec",
+        "lang:fr_CA": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q664086-BFE37CD3-B2EF-4F11-A6B7-4138AE8CB38B",
+      "person_id": "Q664086",
+      "organization_id": "Q1492249",
+      "area_id": "Q3111624",
       "role_code": "Q3305338",
       "role": {
         "lang:en_CA": "Member of the National Assembly of Quebec",

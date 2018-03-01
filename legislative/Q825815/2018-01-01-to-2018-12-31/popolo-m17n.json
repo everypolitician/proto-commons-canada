@@ -2,6 +2,85 @@
   "persons": [
     {
       "name": {
+        "lang:en_CA": "Heath MacDonald",
+        "lang:fr_CA": "Heath MacDonald"
+      },
+      "id": "Q19966780",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19966780"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Brad Trivers",
+        "lang:fr_CA": "Brad Trivers"
+      },
+      "id": "Q19966785",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19966785"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Chris Palmer"
+      },
+      "id": "Q28059507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28059507"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Bush Dumville",
+        "lang:fr_CA": "Bush Dumville"
+      },
+      "id": "Q2928710",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2928710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_CA": "Kathleen Casey",
+        "lang:fr_CA": "Kathleen Casey"
+      },
+      "id": "Q3194059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3194059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en_CA": "Paula Biggar",
         "lang:fr_CA": "Paula Biggar"
       },
@@ -741,6 +820,61 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19966780-D16BE2FF-0FDC-44F4-8F2A-31BA3A2D1347",
+      "person_id": "Q19966780",
+      "organization_id": "Q825815",
+      "area_id": "Q2997600",
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19966785-F0E2C607-9BE3-436F-8776-9B7290BC468E",
+      "person_id": "Q19966785",
+      "organization_id": "Q825815",
+      "area_id": "Q3453561",
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28059507-7064D700-CAAB-4E57-838A-9D4BDECAB8B6",
+      "person_id": "Q28059507",
+      "organization_id": "Q825815",
+      "area_id": "Q3503686",
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2928710-114C9BD9-2625-4CC3-8CCA-C29C8636488A",
+      "person_id": "Q2928710",
+      "organization_id": "Q825815",
+      "area_id": "Q3567444",
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3194059-B018C789-7772-4DCB-ACFE-20EEFA49B81E",
+      "person_id": "Q3194059",
+      "organization_id": "Q825815",
+      "area_id": "Q2961049",
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q3372552-7ae0f76d-4aee-48c4-06bf-3775777cee02",
       "person_id": "Q3372552",
