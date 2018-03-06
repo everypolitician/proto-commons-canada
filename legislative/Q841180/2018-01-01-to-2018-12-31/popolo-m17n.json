@@ -1074,22 +1074,6 @@
     },
     {
       "name": {
-        "lang:en_CA": "Tobias Enverga",
-        "lang:fr_CA": "Tobias Enverga"
-      },
-      "id": "Q16186656",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16186656"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en_CA": "Horatio Clarence Hocken",
         "lang:fr_CA": "Horatio Clarence Hocken"
       },
@@ -14504,16 +14488,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16186656-8F9B12E1-E9C7-40BA-B33A-501CD512B7DD",
-      "person_id": "Q16186656",
-      "organization_id": "Q841180",
-      "role_code": "Q18524027",
-      "role": {
-        "lang:en_CA": "Member of the Senate of Canada",
-        "lang:fr_CA": "membre du Sénat du Canada"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q1627975-26043BFA-2A21-4CF8-9F75-DE5AB4DD3AAD",
       "person_id": "Q1627975",
       "organization_id": "Q841180",
@@ -15841,6 +15815,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q3179583-A284FED7-673F-443C-AD08-5159C3C83362",
       "person_id": "Q3179583",
       "organization_id": "Q841180",
+      "start_date": "1998-09-17",
+      "end_date": "2018-02-02",
       "role_code": "Q18524027",
       "role": {
         "lang:en_CA": "Member of the Senate of Canada",
