@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -62,6 +62,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -128,6 +133,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -192,6 +202,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -258,6 +273,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -322,6 +342,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -388,6 +413,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -452,6 +482,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -518,6 +553,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -583,6 +623,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -647,6 +692,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -718,6 +768,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -788,6 +843,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -853,6 +913,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -917,6 +982,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -988,6 +1058,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -1053,6 +1128,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -1117,6 +1197,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -1177,6 +1262,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -1243,6 +1333,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -1307,6 +1402,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -1367,6 +1467,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -1438,6 +1543,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -1507,6 +1617,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -1578,6 +1693,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -1642,6 +1762,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -1708,6 +1833,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -1772,6 +1902,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -1838,6 +1973,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -1902,6 +2042,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -1962,6 +2107,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -2033,6 +2183,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -2097,6 +2252,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -2163,6 +2323,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -2227,6 +2392,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -2293,6 +2463,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -2358,6 +2533,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -2422,6 +2602,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -2482,6 +2667,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -2542,6 +2732,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -2608,6 +2803,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -2672,6 +2872,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -2738,6 +2943,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -2802,6 +3012,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -2862,6 +3077,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -2928,6 +3148,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -2993,6 +3218,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -3057,6 +3287,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -3117,6 +3352,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -3177,6 +3417,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -3243,6 +3488,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -3308,6 +3558,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -3372,6 +3627,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -3447,6 +3707,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -3511,6 +3776,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -3600,6 +3870,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -3664,6 +3939,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -3724,6 +4004,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -3794,6 +4079,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -3854,6 +4144,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -3914,6 +4209,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -3979,6 +4279,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -4039,6 +4344,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -4105,6 +4415,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -4169,6 +4484,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -4229,6 +4549,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -4289,6 +4614,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -4349,6 +4679,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -4409,6 +4744,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -4474,6 +4814,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -4534,6 +4879,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -4600,6 +4950,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -4664,6 +5019,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -4730,6 +5090,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -4794,6 +5159,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -4860,6 +5230,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -4924,6 +5299,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -4984,6 +5364,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -5044,6 +5429,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -5104,6 +5494,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -5169,6 +5564,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -5240,6 +5640,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -5309,6 +5714,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -5374,6 +5784,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -5438,6 +5853,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -5527,6 +5947,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -5592,6 +6017,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -5656,6 +6086,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -5716,6 +6151,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -5776,6 +6216,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -5864,6 +6309,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -5924,6 +6374,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -5984,6 +6439,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6044,6 +6504,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6104,6 +6569,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6164,6 +6634,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6224,6 +6699,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6284,6 +6764,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -6349,6 +6834,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6409,6 +6899,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6469,6 +6964,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6529,6 +7029,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6589,6 +7094,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -6655,6 +7165,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -6719,6 +7234,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6779,6 +7299,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -6845,6 +7370,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -6909,6 +7439,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -6969,6 +7504,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7029,6 +7569,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7089,6 +7634,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -7155,6 +7705,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -7219,6 +7774,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7279,6 +7839,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7339,6 +7904,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7399,6 +7969,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7459,6 +8034,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7519,6 +8099,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7579,6 +8164,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7639,6 +8229,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7699,6 +8294,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7759,6 +8359,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -7819,6 +8424,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -7885,6 +8495,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -7949,6 +8564,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -8015,6 +8635,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -8080,6 +8705,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -8144,6 +8774,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -8204,6 +8839,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -8264,6 +8904,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -8330,6 +8975,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -8394,6 +9044,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -8460,6 +9115,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -8525,6 +9185,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -8589,6 +9254,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -8649,6 +9319,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -8709,6 +9384,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -8774,6 +9454,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -8834,6 +9519,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -8900,6 +9590,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -8964,6 +9659,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -9035,6 +9735,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -9099,6 +9804,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -9165,6 +9875,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -9229,6 +9944,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -9295,6 +10015,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -9359,6 +10084,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -9443,6 +10173,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -9532,6 +10267,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -9619,6 +10359,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -9708,6 +10453,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -9796,6 +10546,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -9860,6 +10615,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -9926,6 +10686,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -9990,6 +10755,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -10056,6 +10826,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10120,6 +10895,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -10186,6 +10966,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10250,6 +11035,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -10316,6 +11106,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10381,6 +11176,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10445,6 +11245,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -10516,6 +11321,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10580,6 +11390,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -10646,6 +11461,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10710,6 +11530,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -10776,6 +11601,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10840,6 +11670,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -10916,6 +11751,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -10980,6 +11820,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11046,6 +11891,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -11110,6 +11960,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11176,6 +12031,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -11240,6 +12100,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11315,6 +12180,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -11379,6 +12249,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11445,6 +12320,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -11509,6 +12389,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11575,6 +12460,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -11639,6 +12529,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11705,6 +12600,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -11769,6 +12669,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11835,6 +12740,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -11899,6 +12809,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -11965,6 +12880,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12029,6 +12949,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -12095,6 +13020,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12159,6 +13089,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -12225,6 +13160,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12289,6 +13229,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -12355,6 +13300,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12419,6 +13369,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -12485,6 +13440,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12549,6 +13509,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -12615,6 +13580,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12679,6 +13649,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -12745,6 +13720,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12809,6 +13789,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -12875,6 +13860,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -12939,6 +13929,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13005,6 +14000,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -13069,6 +14069,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13158,6 +14163,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -13222,6 +14232,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13292,6 +14307,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13382,6 +14402,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -13446,6 +14471,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13512,6 +14542,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -13576,6 +14611,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13642,6 +14682,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -13706,6 +14751,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13772,6 +14822,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -13836,6 +14891,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -13902,6 +14962,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -13966,6 +15031,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -14055,6 +15125,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -14119,6 +15194,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -14185,6 +15265,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -14249,6 +15334,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -14319,6 +15409,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -14383,6 +15478,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -14449,6 +15549,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -14494,7 +15599,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q48770789-615A39DA-7794-4678-9B45-DE3BC05836CC"
+        "value" : "http://www.wikidata.org/entity/statement/Q48746674-78BE500F-6763-46BF-9F8C-214CE956FEDA"
       },
       "role" : {
         "type" : "uri",
@@ -14512,7 +15617,7 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48770789"
+        "value" : "http://www.wikidata.org/entity/Q48746674"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -14536,6 +15641,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Karen Ludwig"
       }
     }, {
       "district" : {
@@ -14596,6 +15711,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -14662,6 +15782,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -14727,6 +15852,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -14791,6 +15921,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -14851,6 +15986,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       }
     }, {
       "district" : {
@@ -14911,6 +16051,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -14977,6 +16122,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15041,6 +16191,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -15107,6 +16262,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15171,6 +16331,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -15237,6 +16402,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15301,6 +16471,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -15367,6 +16542,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15431,6 +16611,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -15497,6 +16682,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15561,6 +16751,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -15627,6 +16822,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15691,6 +16891,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -15757,6 +16962,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15821,6 +17031,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -15887,6 +17102,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -15951,6 +17171,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -16017,6 +17242,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -16081,6 +17311,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -16147,6 +17382,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -16159,7 +17399,7 @@
       },
       "end" : {
         "type" : "bnode",
-        "value" : "t823301574"
+        "value" : "t825900179"
       }
     }, {
       "district" : {
@@ -16220,6 +17460,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -16286,6 +17531,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -16350,6 +17600,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -16416,6 +17671,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -16480,6 +17740,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -16546,6 +17811,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -16610,6 +17880,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -16676,6 +17951,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -16741,6 +18021,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -16805,6 +18090,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "338"
       },
       "name_fr" : {
         "xml:lang" : "fr",

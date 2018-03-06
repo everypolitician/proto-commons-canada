@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -61,6 +61,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -136,6 +141,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -210,6 +220,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -283,6 +298,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -351,6 +371,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -425,6 +450,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -498,6 +528,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -566,6 +601,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
       },
       "name_fr" : {
         "xml:lang" : "fr",
@@ -645,6 +685,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
       },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
@@ -722,6 +767,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
