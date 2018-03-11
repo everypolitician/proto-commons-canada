@@ -3458,6 +3458,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "49"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Eric Kipping"
       }
     }, {
       "statement" : {
