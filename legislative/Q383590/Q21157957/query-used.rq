@@ -3,6 +3,7 @@ SELECT ?statement
        ?party ?party_name_en ?party_name_fr
        ?district ?district_name_en ?district_name_fr
        ?role ?role_en ?role_fr
+       ?role_superclass ?role_superclass_en ?role_superclass_fr
        ?start ?end ?facebook
        ?org ?org_en ?org_fr ?org_jurisdiction ?org_seat_count
 WHERE {
@@ -40,6 +41,18 @@ OPTIONAL {
           ?role rdfs:label ?role_fr
           FILTER(LANG(?role_fr) = "fr")
         }
+  OPTIONAL {
+    ?role p:P279/ps:P279 ?role_superclass .
+    ?role_superclass p:P279/ps:P279* wd:Q4175034
+    OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_en
+          FILTER(LANG(?role_superclass_en) = "en")
+        }
+OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_fr
+          FILTER(LANG(?role_superclass_fr) = "fr")
+        }
+  }
   ?statement pq:P2937 wd:Q21157957 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
