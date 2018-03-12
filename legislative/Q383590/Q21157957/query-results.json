@@ -7257,7 +7257,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22278827-8EC5392F-D34A-4C00-80AD-989EC064B015"
+        "value" : "http://www.wikidata.org/entity/statement/Q22278827-29EC17DA-9E2A-4910-BF2B-031EFBC63762"
       },
       "role" : {
         "type" : "uri",
@@ -7327,7 +7327,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22278827-29EC17DA-9E2A-4910-BF2B-031EFBC63762"
+        "value" : "http://www.wikidata.org/entity/statement/Q22278827-8EC5392F-D34A-4C00-80AD-989EC064B015"
       },
       "role" : {
         "type" : "uri",
@@ -15134,6 +15134,11 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Rosemarie Falk"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-12-11T00:00:00Z"
       }
     }, {
       "district" : {
@@ -15344,6 +15349,11 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Jean Yip"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-12-11T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -17399,7 +17409,7 @@
       },
       "end" : {
         "type" : "bnode",
-        "value" : "t825900179"
+        "value" : "t828977657"
       }
     }, {
       "district" : {
