@@ -22,6 +22,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15054353-75D49464-5F87-4182-A3C5-2A96EEF03A00"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -91,6 +105,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15300563-0AF7E0CE-7AF3-48C3-8E77-17871F192B7E"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -162,6 +190,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1566929-BB83B9B9-4866-4438-9339-09F109017BDE"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -231,6 +273,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16187047-21FCE260-1254-437C-B4BD-20B3A874CD9A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -302,6 +358,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16192760-A6E693C9-501A-446F-9F9C-98FBE370EBC4"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -371,6 +441,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16215273-A7D388B2-D357-41F4-A526-798C237B1B15"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -442,6 +526,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q17305669-D8310C42-3274-4812-BD98-C954FAE37063"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -511,6 +609,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q17513253-3E3AE05E-A0F5-42A0-8736-B774D1B99940"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -582,6 +694,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1840895-1411A573-269E-41E5-B136-79AFF359990D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -651,6 +777,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1892814-988c3211-4050-1687-faf1-622df6b97fb4"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -727,6 +867,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19428856-fe16ac92-4d62-a87b-8c7e-24727bb8e033"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -802,6 +956,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19428900-906152e4-4d52-aa28-d725-80d27f14e8d1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -872,6 +1040,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q20676568-04E78C75-CF86-49C4-898C-C801C45655B7"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -941,6 +1123,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2070905-7c9c0f55-48da-87f3-2541-46c2af5a3ec2"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -1017,6 +1213,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21064615-2F6B4DE0-5E7B-420B-A2F0-CECA9D3D5B49"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -1086,6 +1296,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21155044-127FA39D-9A4F-4825-B6E0-9965D5EBD79A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -1157,6 +1381,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21156165-6C467578-6523-4605-896C-A6885C8DE5D9"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -1221,6 +1459,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21156200-4E974349-1DFE-4A42-8921-34B800B13835"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -1292,6 +1544,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21159821-4B0AC380-46AC-486A-AFF1-BB6133D67288"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -1362,6 +1628,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21160212-AD4804DE-A413-49AE-BC70-74808E24ED21"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -1426,6 +1706,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21162694-9e1aa294-401a-4e1b-50fa-bd92455b71ec"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -1502,6 +1796,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21174009-54e4f8b3-450e-a891-1304-a93c6bae3589"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -1576,6 +1884,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21175197-a9f84816-4540-dba5-299b-542ab186dac4"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -1652,6 +1974,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21175255-B933F0FE-3507-490A-A759-6030B6F7A9B1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -1721,6 +2057,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21210275-4E7873FE-3B1E-4B44-B2A4-CCB00EB7ABF8"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -1792,6 +2142,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21228464-E6F870E3-D424-409A-97AE-98DB4978721D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -1861,6 +2225,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21281905-7B2A4A3C-0BD7-4D1D-836B-06AC1FA38544"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -1932,6 +2310,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21336060-022F7082-3027-4476-AA6F-9D5F2F5DEFC3"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2002,6 +2394,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21336208-915E142F-6BE7-4F8A-85F8-590E9E6953AE"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2066,6 +2472,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21336246-d36c44d2-4324-c208-dead-525691131b29"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -2142,6 +2562,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21356553-D54C2E5A-8F5B-4552-B8EF-DF5FA01EC612"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2211,6 +2645,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21384927-BFC454F1-A037-49CE-B1DE-B8DE0356C56E"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -2282,6 +2730,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21402871-BE489E51-D4F4-4EBD-8529-C15CEFFA4430"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2351,6 +2813,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21470126-4A0854F5-C2B8-41AD-A95A-8427597AE1C7"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -2422,6 +2898,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21471154-0C815C3B-2019-4943-A01D-F99935835A60"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2491,6 +2981,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21471154-6F95026D-36F2-46FA-A930-433A9A7C3612"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -2562,6 +3066,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21572835-C8051558-B38F-4DDD-B89B-8AB09BA68F96"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2627,6 +3145,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21572837-6A2B6087-9AD6-4262-A8AC-598FFAFF83C0"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2691,6 +3223,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21572911-C783312B-D695-4529-BBB1-9D46A792069F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -2762,6 +3308,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21572925-BC0BA32A-7CA4-4AC3-B700-443BFFE32E00"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2831,6 +3391,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21572945-275C72BA-6B87-4F1A-BA0D-5955461F0480"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -2902,6 +3476,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21573510-578BA352-BF72-42A8-ACAC-3CC987639CEC"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -2972,6 +3560,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21642319-C3252FF8-0994-4C24-BE9C-46172E34B116"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3036,6 +3638,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21642395-49B8784E-503D-476D-B001-650FCC368E9A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -3107,6 +3723,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21642395-5356E2B9-8AAA-4CD7-8473-CB7981F833B5"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3176,6 +3806,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21642488-03CC2AFD-D65D-44C1-A85C-8F7EE2802B4A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -3247,6 +3891,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21642492-DEC71208-8423-4E71-9576-428BB0DE225C"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3312,6 +3970,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21642653-AFDD8EE3-EF85-47C5-8119-A1AA04F54F5E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3376,6 +4048,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21642848-C9AE0052-B5E5-42F0-BF19-5AB1227A226D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -3447,6 +4133,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21662882-3A13226D-C4CD-4656-85AF-2ADC30CDE4E1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3517,6 +4217,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21713409-91EDCECB-CC7E-4CE4-A9E6-FB8FA3294C0C"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3586,6 +4300,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21713417-33c2b99a-4e65-48f5-e448-adf659a0d4a0"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -3666,6 +4394,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21714076-810CF382-1B13-4F2E-ACB9-150AA6EF7D5B"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3735,6 +4477,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21714336-c23956e4-47d0-d632-88d4-ee28d356f2d1"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -3829,6 +4585,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21714343-EAFA1B8A-81D8-4B8F-9591-2C07FAD0019C"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3899,6 +4669,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21716242-3C4FE648-7CA3-40A1-AB41-8287B9D26591"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -3963,6 +4747,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21716260-125c7904-472d-b720-b0a2-aa6f2af91c57"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -4039,6 +4837,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21716310-B0077B85-33DF-4298-B52E-0385BDE41BC1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4104,6 +4916,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21872800-F1D4B920-9A34-4958-B328-05779EA875CD"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4168,6 +4994,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22003106-5B9C0981-BA8F-4DE2-9A0A-20D3FC07F152"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -4239,6 +5079,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22003182-E73950E6-8715-480C-A23C-F2E214C242F0"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4303,6 +5157,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22003332-DC7CE420-634F-40CB-BBE0-C2EC7AD3B9B8"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -4374,6 +5242,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22003456-4F873762-29FB-4EC5-8407-58A1ADE3DE59"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4444,6 +5326,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22004200-553628EF-3775-46A7-92EA-03EC857975F9"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4508,6 +5404,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22004200-C520F10E-B8A4-4AFE-8E87-8D03B7C709B7"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -4574,6 +5484,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22004241-FE74732A-1259-4AAB-9A21-C770EC7DB09A"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4639,6 +5563,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22004363-E472670D-368C-4AF2-A016-78409A60B360"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4703,6 +5641,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22004431-AC338A4A-C5BA-49E6-B7B0-54B1142F2DB4"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -4774,6 +5726,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22004772-F30F9CC0-CF07-4201-A0C0-6C9AC461AD40"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4838,6 +5804,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22005483-15CFF83A-0E00-4D71-BD3D-98201B445833"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -4909,6 +5889,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22005676-203068BB-47CF-4A3C-9EBF-EB6200F33848"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -4978,6 +5972,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22006757-F4AECF56-721A-437E-8613-ED9897FCBCB4"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -5049,6 +6057,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22007401-93F1F744-6C76-45D2-A60F-643D8BF2EAA1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5118,6 +6140,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22080847-A72E506C-7685-4988-BF4C-DF2455B541F9"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -5189,6 +6225,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22086204-1A039803-5F62-4273-9A54-562C9CA8C76E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5259,6 +6309,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22096449-EA70C699-124D-45B7-8510-26ED0D76C1DE"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5323,6 +6387,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22096924-C7BFE607-17E9-415F-9FC0-EC56C764CD5E"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -5389,6 +6467,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22096931-AB48CFF8-7337-471A-AFE8-E5872C034D37"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5453,6 +6545,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22114010-7df8055d-4de9-dd5d-c934-e93e63feab4f"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -5523,6 +6629,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22114152-95d8b4cd-4e74-2faf-96d5-1aa473f76576"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -5599,6 +6719,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22116843-8E236769-0933-4A92-8CE8-7F29A8D8AAC1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5673,6 +6807,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22116845-F7E17037-8DAE-47CF-92BB-CC96C213F2D6"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5743,6 +6891,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22116845-A51F292C-87BC-4F75-A797-652BD12C517B"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5812,6 +6974,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22132668-4230768f-4cdc-83be-be8a-ad233038da9b"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -5906,6 +7082,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22276751-FF63E5FF-E098-47BE-BC8C-B080CA4A196F"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -5975,6 +7165,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22276800-83F5AC93-2F28-4B87-A75F-40F0E2174C7A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -6046,6 +7250,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22276872-B38F2FEA-349C-4D74-9311-2212526009B4"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6111,6 +7329,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22276923-E0EFF2E3-CA64-4D44-970E-8D85BBAB2A99"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6175,6 +7407,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22277033-2fbbe2d7-4bec-6b64-0225-361f75270eb8"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -6269,6 +7515,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22277334-BC4E6132-34BC-4746-A38B-21BF3450A78D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6333,6 +7593,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22277495-20F0494E-C9D5-449E-B512-AC6999E43F8D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -6399,6 +7673,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22277600-6EB2B485-00B1-4731-BF57-E324703182AE"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6463,6 +7751,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22277646-16EBFC1E-D2B7-40B6-B5EC-476A3D1B36BE"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -6529,6 +7831,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22277949-3C1860AA-DAD8-411B-8286-6F7CE0F99221"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6593,6 +7909,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278025-1E0577AF-6211-4D6D-BC7D-750BD26AD3F6"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -6659,6 +7989,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278124-C37E0A5B-8E6F-4A88-8FCC-61D1EB602E5A"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6723,6 +8067,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278145-71C5127F-C141-46E7-A802-3DE4EC91393E"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -6794,6 +8152,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278424-2B022DB5-8DC8-4A51-BBC3-A07F377459AE"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6858,6 +8230,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278440-E3F9419E-6768-4747-A6AF-12EE4AE99FCB"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -6924,6 +8310,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278561-463CDE26-4107-4288-BF90-269075DD2C16"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -6989,6 +8389,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278589-5D377014-CBD4-40B6-83BA-1780B7B016DE"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7053,6 +8467,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278594-683C45AD-64B0-4707-A8C0-94ADF130DB5C"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -7124,6 +8552,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278635-2B54EF29-8F86-40A4-B340-484B97801785"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7194,6 +8636,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278649-35B1A73F-8350-4A20-A87F-1304B8916907"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7258,6 +8714,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278827-29EC17DA-9E2A-4910-BF2B-031EFBC63762"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -7329,6 +8799,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278827-8EC5392F-D34A-4C00-80AD-989EC064B015"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7399,6 +8883,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278896-0FFD9D8A-5D1F-4782-8EFB-3D403800BC74"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7463,6 +8961,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22278956-D50103CA-9AC1-4215-B891-F3BDF59C647B"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -7529,6 +9041,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22279147-E88423B0-2233-4148-A057-306AC5A116B2"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7593,6 +9119,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22279214-D3C2B22E-404E-40D9-8431-3DD8F04412AA"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -7664,6 +9204,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22279481-8BB1C732-DF10-4542-9B52-8D27AEBE3D49"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7734,6 +9288,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22279906-6879A78D-F8EB-4BB8-A686-5926041E901C"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7798,6 +9366,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280158-009B4429-5485-41FD-859A-BA1C1EA07EFE"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -7864,6 +9446,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280158-0F8117CF-C5FA-45D5-A13F-6CF8B703B4C1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -7928,6 +9524,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280164-3D8C6D7E-E526-4D85-916B-8455DA1EB95A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -7994,6 +9604,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280186-0C5C765B-6F16-4046-BDCE-3FF4FBD885D2"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8058,6 +9682,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280268-A712DFA6-F160-46F4-9F5B-015F8E5BB02D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -8124,6 +9762,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280309-C2A852EF-A27E-4D13-9AF8-010C04B7819B"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8188,6 +9840,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280358-5786D9BD-7889-4CBB-ABA3-493C15611235"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -8254,6 +9920,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22280366-BD822627-9F6E-4A6F-A05B-D434805BD67A"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8319,6 +9999,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22282329-F0C209E8-6EEB-4E23-8147-131EA2413882"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8383,6 +10077,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22282385-8811448A-C4A4-41B9-879C-9465251E760F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -8454,6 +10162,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22704261-FC0891A1-5B54-4ACD-8361-21E1DD182F7F"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8523,6 +10245,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22704263-A096960F-4DF9-4907-ADEB-55A40ABA11A8"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -8594,6 +10330,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22704264-BF40651B-2929-4EA6-B3E5-554B9AF6483A"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8663,6 +10413,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22704264-A8D536BC-E61E-4CCF-B9F7-655495FAF812"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -8734,6 +10498,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22704269-5ADB8415-1299-4C66-A353-D07C20972C4C"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8799,6 +10577,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22704271-D1832EBE-076C-4944-A614-C43E36441765"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -8863,6 +10655,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22770985-A0B05342-C39E-4E3C-9A8C-D04F7DBFA46F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -8934,6 +10740,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22770987-F19ED1C7-B6CE-4A05-8512-7B389BED78D4"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9003,6 +10823,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22770988-67FCCEE0-A2A5-4B97-BF07-797A354A8585"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -9074,6 +10908,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22770989-8CE70F22-0C00-4B82-980F-069E972789C7"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9143,6 +10991,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22811360-F253800F-5F9E-4D49-9608-CD5125A3D2A0"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -9214,6 +11076,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22811363-A3C1ED92-B8C5-4163-BF50-EC9BAAB57837"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9279,6 +11155,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22811363-D712D309-8CE9-4BB1-B5D1-A09BA201F38E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9343,6 +11233,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2403422-C5A0D2D9-7745-4F27-8F94-68F4AB447020"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -9414,6 +11318,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27663754-044EA725-FB26-4348-9EA4-78CEEB9BCF7C"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9478,6 +11396,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2833301-A5933F76-7636-483A-B418-87B8F4211448"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -9549,6 +11481,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2833494-7E644D12-1122-44DE-89D8-3B9DAE0A6576"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9618,6 +11564,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2846724-4F35264E-0027-42C4-8FA1-551A49C04266"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -9694,6 +11654,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2852943-ABB20C12-F332-4C18-8EE8-B99B6A728A72"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9763,6 +11737,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2900366-CADABA83-34C5-4A3F-BB08-CE99DCDF8BB5"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -9834,6 +11822,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2903153-8BCD93AC-FD87-468D-A9A8-39C3F072ECC1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -9903,6 +11905,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2905717-7AC05D58-D8B5-4DBB-B831-82232894783B"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -9974,6 +11990,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2905842-31BBE5C4-8688-4515-9814-A5323EC51433"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -10043,6 +12073,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q29138522-fe814daf-4369-74ca-1181-962ab0223bbf"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -10132,6 +12176,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q29139192-ed849f3e-4b47-c93a-198d-460d1cdc5c22"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -10226,6 +12284,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q29139548-a5b9fff0-4285-97bc-c20c-c2c5ae522199"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -10318,6 +12390,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q29139551-1494e595-4f82-32b0-c213-665ba93f155a"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -10412,6 +12498,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q29139554-29c40df1-4106-6763-4d61-371f9a65acd3"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -10505,6 +12605,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2923494-9BE7D5D9-23FE-4EE7-A098-3223CD3E2C91"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -10574,6 +12688,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2926478-99EFFDA5-48A2-45E7-83FC-C787AB70CDB0"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -10645,6 +12773,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2936261-AD3A416F-BF79-40F0-9056-3F5F6BC149A7"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -10714,6 +12856,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2942205-3B751561-41A3-44DB-86B5-D7D97DA019FE"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -10785,6 +12941,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2960818-3A6A7B7F-B8E9-4CD6-AB86-FE76EAA4CD39"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -10854,6 +13024,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2962814-AD7B448F-F2C0-4BE8-BDE2-34B9CF4C1F29"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -10925,6 +13109,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2982579-AA40339C-AE1D-422B-9C60-122A07931CA4"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -10994,6 +13192,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3013003-D1D909B3-DB7A-4641-85C4-E65AEB271333"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -11065,6 +13277,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3017193-A83D1BC3-D10D-48C9-AD39-69EE33B3BFCB"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -11135,6 +13361,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3017287-148F6E31-6216-46BF-B4BE-F1C8C1E348E1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -11204,6 +13444,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3017380-8B84DD4E-00AA-4C06-9126-DA432D724DEF"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -11280,6 +13534,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3017669-8006E1AB-AD9A-4ADE-885F-A70FF366CB6B"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -11349,6 +13617,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3018407-4B246A0B-3F2F-44AA-9F2D-05080FB85418"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -11420,6 +13702,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3018841-6B5A0A9E-7B0A-431C-8700-EF04F2C51DA3"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -11489,6 +13785,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3018882-9A9C2626-E302-45C4-AFAD-69FCDA0166C7"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -11560,6 +13870,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3020613-26888601-4FA2-44FE-A587-720284E736B5"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -11629,6 +13953,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3022854-589CEDC9-CDF2-4EBF-9225-6E646AC9457F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -11710,6 +14048,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3026209-AC4849F3-5211-4A63-A899-F9C989BA61EB"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -11779,6 +14131,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3034854-8FA10DB8-6F10-456F-9E71-7E06634966F3"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -11850,6 +14216,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3035763-17EEAD91-B095-4B78-B1C0-7AF6080723F5"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -11919,6 +14299,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3046379-A48AB256-F826-4E45-B1BD-FFF09B4E8214"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -11990,6 +14384,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3047171-79A79E6B-7B1D-4B94-989A-E05E478E71B1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -12059,6 +14467,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3099714-e11f7149-4e14-fc40-217b-4a4070b646a1"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -12139,6 +14561,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3101057-FEEFCA18-C416-492C-8295-9BE949C85ED9"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -12208,6 +14644,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3121631-BB41BF15-222F-49ED-84BA-5AD3DAF941C4"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -12279,6 +14729,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3121921-BE6D442B-5703-40E6-AE0F-8E390A18C17D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -12348,6 +14812,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3129348-035B195A-F878-4FC9-B50E-AA94C53EE7AC"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -12419,6 +14897,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3144797-70FF79E8-176E-4747-B0E1-5EAD80A8202F"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -12488,6 +14980,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3154320-B10A0A2E-1C49-4C7A-95EC-11828AAB8718"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -12559,6 +15065,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3160939-DABF9B1D-5918-4162-8B88-5C2602ABB0F0"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -12628,6 +15148,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3182063-C73703B6-57FC-4FB6-A9BE-C2DF5619FEB2"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -12699,6 +15233,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3188045-5182AD5F-3F2F-4067-999E-68CA75FCA681"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -12768,6 +15316,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3195160-452CA468-AEF9-4065-8F0F-5943A20243B7"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -12839,6 +15401,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3195738-D3648795-E443-4C06-98D9-D4B0957F6D40"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -12908,6 +15484,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3195810-17EB5B4D-A691-4E6E-B885-B49D5EC8DF3D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -12979,6 +15569,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3197422-A3B280E6-1B19-45B8-B177-A52008B6852E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -13048,6 +15652,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3218085-56970D4D-EF76-4DF3-8461-6A711723142E"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -13119,6 +15737,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3219913-4316A1E1-6FB1-4A69-83BA-9ED51925EA03"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -13188,6 +15820,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3241331-988D07D9-574B-4F62-A868-FC3918583F22"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -13259,6 +15905,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3293930-E393D2F8-C4AF-4859-87A2-E96F5F33AADD"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -13328,6 +15988,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3294068-64DB179B-DC1C-4D73-8FFF-5DF57E1964AF"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -13399,6 +16073,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3294109-877F9218-2584-4D69-9FE0-3353A08DC6B7"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -13468,6 +16156,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3308109-E625BE29-B72B-4957-BBEE-8555F57B6A35"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -13539,6 +16241,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3311457-5D1131D9-F458-4248-B667-F08501B2E47E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -13608,6 +16324,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3313399-FAE752DF-DFBF-4651-A650-7EE9BA997419"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -13679,6 +16409,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3336713-213AB5C7-E80E-4619-9236-25E4F78883F1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -13748,6 +16492,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3337237-B96C13A5-EB4D-4300-9443-DD627550DC98"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -13819,6 +16577,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3341504-6D41E1FA-0AC5-4516-B1E3-795082C79D06"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -13888,6 +16660,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3376681-92C2939C-C8C8-4C26-941E-9AFBF9294EAC"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -13959,6 +16745,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3376692-83CBA3CD-9CDD-49FE-9CB2-C08B8F12FF0E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -14028,6 +16828,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3386636-3D3C1DAA-2309-4118-B135-8736D478FB27"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -14122,6 +16936,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3418804-4F04C54F-76AB-46D2-B206-CCAA1CD0A2FF"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -14191,6 +17019,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3438181-78f01b3b-4b8c-504c-a896-3786f3ee1c34"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -14266,6 +17108,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3441480-643a3914-4b99-00be-dba1-95e21442ad67"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -14361,6 +17217,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3476240-3424E9CB-4CCB-4C98-A389-DEF0AFE500E2"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -14430,6 +17300,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3476307-BA2D4D2C-FE8F-4F87-AE78-4A3D0726781B"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -14501,6 +17385,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3476701-8CC477AA-B697-4F60-866C-B919E53D784D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -14570,6 +17468,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q349836-97192AFC-F554-49C3-BECC-5FE770980386"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -14641,6 +17553,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3503377-547C5635-DF16-4672-B621-3187F8F1446A"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -14710,6 +17636,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3530781-6B47ABAF-05FF-4674-8AFE-2232582F7148"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -14781,6 +17721,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3531723-7582BB90-6EF1-40F5-BCBE-D38CF9871BC1"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -14850,6 +17804,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3566825-EE375913-7908-467E-8D91-788851DADD28"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -14921,6 +17889,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3571913-1CA210D8-4B58-4480-A0EF-364D2331389D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -14990,6 +17972,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q42308688-977fc21a-41c6-90b6-7c18-81fc10b0f796"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -15084,6 +18080,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q42666524-3501A35E-32DC-4192-8262-1AB0CBA7257E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15159,6 +18169,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q445620-1bafb441-4822-872a-0448-ab2102c9c757"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15229,6 +18253,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q45311068-99D8B8FC-FEBB-4743-A9A3-AAA5D31A220D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15298,6 +18336,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q45311888-DE82E17B-413F-4AC4-8420-D2A426BD418D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -15378,6 +18430,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4679921-3EABCF51-9E27-4071-9EEF-ED915750F836"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15448,6 +18514,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4726162-C1DAAFA8-D4C3-4CF1-B51A-6122F537F185"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15517,6 +18597,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4740296-7ee010ee-4ebc-a99b-1b5f-970e55c3cd47"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -15611,6 +18705,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q48746674-78BE500F-6763-46BF-9F8C-214CE956FEDA"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15680,6 +18788,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4908168-165C39CB-9867-4720-AAD8-468BB5C49CC6"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -15751,6 +18873,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4931915-2CAAC769-7374-47B0-AC52-F97C262C1EF9"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15820,6 +18956,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4934493-46228F73-41BE-468E-A65B-A7AEE769DFC9"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -15891,6 +19041,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50251548-DAEC4F1A-7168-4A2E-B004-CD71E261B184"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -15956,6 +19120,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50251548-F7616460-3683-4148-AF01-CFC1EEC72FCB"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -16020,6 +19198,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q513969-499891E6-1050-4DF5-8B20-3A78C152935F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -16091,6 +19283,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5214525-56204FE2-4DFF-43E7-824B-C8B5D870669A"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -16160,6 +19366,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5225530-0E96BE21-065E-40E0-A14B-492D1D5D3CF0"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -16231,6 +19451,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q529968-5D672467-3628-4C93-9540-4FD965B6C080"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -16300,6 +19534,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5389236-5A9D4EBA-6665-473E-A070-8085922EB92A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -16371,6 +19619,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5449316-36F7C85C-AA00-4162-BE4B-0E53A5D5CCFA"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -16440,6 +19702,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5585302-031783D0-64C8-44DB-949D-359532E2F838"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -16511,6 +19787,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6179373-BD4B73DA-B287-44B3-BF1F-0E2C0E4BEC97"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -16580,6 +19870,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6211786-D6E717DB-C05B-4C17-BE17-EAEB4A69BAA1"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -16651,6 +19955,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6369875-C3FD3685-E882-48BD-9C97-26CC05258EEE"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -16720,6 +20038,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6385949-50F9E89D-6F8F-4A7D-89FD-7A6C5D2A95B8"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -16791,6 +20123,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6391762-55E7BBC6-447C-45CF-9A84-8B138EF40A71"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -16860,6 +20206,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6490735-D77694BC-CD67-4E46-BB58-D822A0B779F5"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -16931,6 +20291,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6522015-689B52F7-8B86-4B30-9170-03B82AEB680A"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17000,6 +20374,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6558350-03E331A7-A353-43F0-A457-B08F99FC9093"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -17071,6 +20459,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6778737-3D744E36-9CBD-4551-82A0-3A47E3BCA808"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17140,6 +20542,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6788847-C28214AC-528E-4A87-B17F-A6617908A6AB"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -17211,6 +20627,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6832752-10E5B77B-A48A-4DB9-8410-6090E2018A5D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17281,6 +20711,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6939423-D7F60C89-A202-4CBE-AFA3-8C2BC4E3C14E"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17350,6 +20794,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q703321-3157AE0E-ACAD-48A8-9208-2CD193D8CB8C"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -17430,6 +20888,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7174026-3FABDD06-8B64-4274-AB8E-FE7F0D1F9AAA"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17499,6 +20971,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7182163-F610A261-3652-4CE7-81C8-DBBBFF6590F3"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -17570,6 +21056,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7340436-583DA6A6-2A7A-4A00-B74A-54DC9D31F47D"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17639,6 +21139,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7349921-C8CB213E-F587-428E-B813-5AAEB4C32CFD"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -17710,6 +21224,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7364077-8B8CE468-7495-4C11-ABA7-578ACDB63114"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17779,6 +21307,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7704329-C597D1E9-FAE8-4AA0-867E-6C9D64CA6C39"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -17850,6 +21392,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q771878-1DEFD7DF-0ADF-4BEB-B109-BD6FA0D82822"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -17919,6 +21475,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8062466-0A1C812E-402E-4254-953C-A6BBA9F7048C"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
@@ -17990,6 +21560,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q952017-D0AF9779-64DB-48BC-A84F-3C1177854065"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15964890"
@@ -18059,6 +21643,20 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q955143-2A05A2B2-622F-4855-9F3E-6D469B5A3FCD"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "député"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
       },
       "role" : {
         "type" : "uri",
