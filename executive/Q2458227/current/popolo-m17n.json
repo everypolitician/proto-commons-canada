@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Justin Trudeau",
-        "lang:fr_CA": "Justin Trudeau"
+        "lang:en": "Justin Trudeau",
+        "lang:fr": "Justin Trudeau"
       },
       "id": "Q3099714",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Cabinet of Canada",
-        "lang:fr_CA": "Cabinet du Canada"
+        "lang:en": "Cabinet of Canada",
+        "lang:fr": "Cabinet du Canada"
       },
       "id": "Q2458227",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Liberal Party of Canada",
-        "lang:fr_CA": "Parti libéral du Canada"
+        "lang:en": "Liberal Party of Canada",
+        "lang:fr": "Parti libéral du Canada"
       },
       "id": "Q138345",
       "classification": "party",
@@ -68,8 +68,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -88,13 +88,13 @@
       "start_date": "2015-11-04",
       "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:en_CA": "prime minister",
-        "lang:fr_CA": "Premier ministre, président du gouvernement"
+        "lang:en": "prime minister",
+        "lang:fr": "Premier ministre, président du gouvernement"
       },
       "role_code": "Q839078",
       "role": {
-        "lang:en_CA": "Prime Minister of Canada",
-        "lang:fr_CA": "Premier ministre du Canada"
+        "lang:en": "Prime Minister of Canada",
+        "lang:fr": "Premier ministre du Canada"
       }
     }
   ]

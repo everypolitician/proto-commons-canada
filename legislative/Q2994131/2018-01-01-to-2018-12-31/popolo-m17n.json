@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Magda Popeanu",
-        "lang:fr_CA": "Magda Popeanu"
+        "lang:en": "Magda Popeanu",
+        "lang:fr": "Magda Popeanu"
       },
       "id": "Q16187268",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Suzanne Décarie",
-        "lang:fr_CA": "Suzanne Décarie"
+        "lang:en": "Suzanne Décarie",
+        "lang:fr": "Suzanne Décarie"
       },
       "id": "Q16201113",
       "identifiers": [
@@ -40,8 +40,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Christine Black",
-        "lang:fr_CA": "Christine Black"
+        "lang:en": "Christine Black",
+        "lang:fr": "Christine Black"
       },
       "id": "Q29889392",
       "identifiers": [
@@ -59,8 +59,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Michel Bissonnet",
-        "lang:fr_CA": "Michel Bissonnet"
+        "lang:en": "Michel Bissonnet",
+        "lang:fr": "Michel Bissonnet"
       },
       "id": "Q3309025",
       "identifiers": [
@@ -75,8 +75,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Anne-Marie Sigouin",
-        "lang:fr_CA": "Anne-Marie Sigouin"
+        "lang:en": "Anne-Marie Sigouin",
+        "lang:fr": "Anne-Marie Sigouin"
       },
       "id": "Q42740027",
       "identifiers": [
@@ -94,7 +94,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Maja Vodanovic"
+        "lang:en": "Maja Vodanovic"
       },
       "id": "Q45312548",
       "identifiers": [
@@ -112,8 +112,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Frantz Benjamin",
-        "lang:fr_CA": "Frantz Benjamin"
+        "lang:en": "Frantz Benjamin",
+        "lang:fr": "Frantz Benjamin"
       },
       "id": "Q5492631",
       "identifiers": [
@@ -131,8 +131,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Lionel Perez",
-        "lang:fr_CA": "Lionel Perez"
+        "lang:en": "Lionel Perez",
+        "lang:fr": "Lionel Perez"
       },
       "id": "Q6555742",
       "identifiers": [
@@ -147,8 +147,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Manon Barbe",
-        "lang:fr_CA": "Manon Barbe"
+        "lang:en": "Manon Barbe",
+        "lang:fr": "Manon Barbe"
       },
       "id": "Q6751263",
       "identifiers": [
@@ -163,8 +163,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Mary Deros",
-        "lang:fr_CA": "Mary Deros"
+        "lang:en": "Mary Deros",
+        "lang:fr": "Mary Deros"
       },
       "id": "Q6779315",
       "identifiers": [
@@ -182,7 +182,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Émilie Thuillier"
+        "lang:en": "Émilie Thuillier"
       },
       "id": "Q8078328",
       "identifiers": [
@@ -202,8 +202,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Montreal City Council",
-        "lang:fr_CA": "Conseil municipal de Montréal"
+        "lang:en": "Montreal City Council",
+        "lang:fr": "Conseil municipal de Montréal"
       },
       "id": "Q2994131",
       "classification": "branch",
@@ -220,8 +220,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Ensemble Montréal",
-        "lang:fr_CA": "Ensemble Montréal"
+        "lang:en": "Ensemble Montréal",
+        "lang:fr": "Ensemble Montréal"
       },
       "id": "Q15050564",
       "classification": "party",
@@ -234,8 +234,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Projet Montréal",
-        "lang:fr_CA": "Projet Montréal"
+        "lang:en": "Projet Montréal",
+        "lang:fr": "Projet Montréal"
       },
       "id": "Q3407213",
       "classification": "party",
@@ -248,8 +248,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Équipe Barbe Team",
-        "lang:fr_CA": "Équipe Barbe Team"
+        "lang:en": "Équipe Barbe Team",
+        "lang:fr": "Équipe Barbe Team"
       },
       "id": "Q47496204",
       "classification": "party",
@@ -278,8 +278,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -304,8 +304,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Quebec",
@@ -329,8 +329,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Montreal"
@@ -353,7 +353,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Ahuntsic"
@@ -376,7 +376,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Bordeaux-Cartierville"
@@ -399,7 +399,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Sulpice"
@@ -422,7 +422,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Sault-au-Récollet"
@@ -445,7 +445,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Côte-des-Neiges"
@@ -468,7 +468,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Darlington"
@@ -491,7 +491,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Loyola"
@@ -514,7 +514,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Notre-Dame-de-Grâce"
@@ -537,7 +537,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Snowdon"
@@ -560,7 +560,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Cecil-P.-Newman"
@@ -583,7 +583,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Sault-Saint-Louis"
@@ -606,7 +606,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "DeLorimier"
@@ -629,7 +629,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Jeanne-Mance"
@@ -652,7 +652,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Mile-End"
@@ -675,7 +675,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles"
@@ -698,7 +698,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Paul—Émard"
@@ -721,7 +721,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Hochelaga"
@@ -744,7 +744,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Louis-Riel"
@@ -767,7 +767,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Maisonneuve—Longue-Pointe"
@@ -790,7 +790,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Tétreaultville"
@@ -813,7 +813,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Marie-Clarac"
@@ -836,7 +836,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Ovide-Clermont"
@@ -859,7 +859,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Bois-de-Liesse"
@@ -882,7 +882,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Cap-Saint-Jacques"
@@ -905,7 +905,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "La Pointe-aux-Prairies"
@@ -928,7 +928,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Pointe-aux-Trembles"
@@ -951,7 +951,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Rivière-des-Prairies"
@@ -974,7 +974,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Étienne-Desmarteau"
@@ -997,7 +997,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Marie-Victorin"
@@ -1020,7 +1020,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Édouard"
@@ -1043,7 +1043,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Vieux-Rosemont"
@@ -1066,7 +1066,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Côte-de-Liesse"
@@ -1089,7 +1089,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Norman-McLaren"
@@ -1112,7 +1112,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Léonard-Est"
@@ -1135,7 +1135,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Léonard-Ouest"
@@ -1158,7 +1158,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Michel"
@@ -1181,7 +1181,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Champlain—L'Île-des-Soeurs"
@@ -1204,7 +1204,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Desmarchais-Crawford"
@@ -1227,7 +1227,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Peter-McGill"
@@ -1250,7 +1250,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Saint-Jacques"
@@ -1273,7 +1273,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Sainte-Marie"
@@ -1296,7 +1296,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "François-Perrault"
@@ -1319,7 +1319,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Parc-Extension"
@@ -1342,7 +1342,7 @@
         "Q45414411"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Montreal"
+        "lang:en": "municipal electoral district of Montreal"
       },
       "name": {
         "lang:en_CA": "Villeray"
@@ -1360,8 +1360,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1373,8 +1373,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1386,8 +1386,8 @@
       "start_date": "2016-04-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1399,8 +1399,8 @@
       "start_date": "2013-11-03",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1412,8 +1412,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1425,8 +1425,8 @@
       "start_date": "2017-01-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1438,8 +1438,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1449,8 +1449,8 @@
       "area_id": "Q47455987",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1462,8 +1462,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1475,8 +1475,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     },
     {
@@ -1488,8 +1488,8 @@
       "start_date": "2009-11-01",
       "role_code": "Q45414411",
       "role": {
-        "lang:en_CA": "Montreal City Councillor",
-        "lang:fr_CA": "conseiller de la ville"
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
       }
     }
   ]

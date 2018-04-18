@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Heath MacDonald",
-        "lang:fr_CA": "Heath MacDonald"
+        "lang:en": "Heath MacDonald",
+        "lang:fr": "Heath MacDonald"
       },
       "id": "Q19966780",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Brad Trivers",
-        "lang:fr_CA": "Brad Trivers"
+        "lang:en": "Brad Trivers",
+        "lang:fr": "Brad Trivers"
       },
       "id": "Q19966785",
       "identifiers": [
@@ -34,7 +34,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Chris Palmer"
+        "lang:en": "Chris Palmer"
       },
       "id": "Q28059507",
       "identifiers": [
@@ -49,8 +49,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Bush Dumville",
-        "lang:fr_CA": "Bush Dumville"
+        "lang:en": "Bush Dumville",
+        "lang:fr": "Bush Dumville"
       },
       "id": "Q2928710",
       "identifiers": [
@@ -65,8 +65,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Kathleen Casey",
-        "lang:fr_CA": "Kathleen Casey"
+        "lang:en": "Kathleen Casey",
+        "lang:fr": "Kathleen Casey"
       },
       "id": "Q3194059",
       "identifiers": [
@@ -81,8 +81,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Paula Biggar",
-        "lang:fr_CA": "Paula Biggar"
+        "lang:en": "Paula Biggar",
+        "lang:fr": "Paula Biggar"
       },
       "id": "Q3372552",
       "identifiers": [
@@ -97,8 +97,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Robert Mitchell",
-        "lang:fr_CA": "Robert Mitchell"
+        "lang:en": "Robert Mitchell",
+        "lang:fr": "Robert Mitchell"
       },
       "id": "Q3435932",
       "identifiers": [
@@ -113,8 +113,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Janice Sherry",
-        "lang:fr_CA": "Janice Sherry"
+        "lang:en": "Janice Sherry",
+        "lang:fr": "Janice Sherry"
       },
       "id": "Q656467",
       "identifiers": [
@@ -131,8 +131,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Legislative Assembly of Prince Edward Island",
+        "lang:fr": "Assemblée législative de l'Île-du-Prince-Édouard"
       },
       "id": "Q825815",
       "classification": "branch",
@@ -165,8 +165,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -191,8 +191,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Prince Edward Island",
@@ -216,7 +216,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Alberton-Roseville"
@@ -239,7 +239,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Belfast-Murray River"
@@ -262,7 +262,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Borden-Kinkora"
@@ -285,7 +285,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Charlottetown-Brighton"
@@ -308,7 +308,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Charlottetown-Parkdale"
@@ -331,7 +331,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Charlottetown-Lewis Point"
@@ -354,7 +354,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Charlottetown-Sherwood"
@@ -377,7 +377,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Charlottetown-Victoria Park"
@@ -400,7 +400,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Cornwall-Meadowbank"
@@ -423,7 +423,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Evangeline-Miscouche"
@@ -446,7 +446,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Georgetown-St. Peters"
@@ -469,7 +469,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Kellys Cross-Cumberland"
@@ -492,7 +492,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Kensington-Malpeque"
@@ -515,7 +515,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Montague-Kilmuir"
@@ -538,7 +538,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Morell-Mermaid"
@@ -561,7 +561,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "O'Leary-Inverness"
@@ -584,7 +584,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Rustico-Emerald"
@@ -607,7 +607,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Souris-Elmira"
@@ -630,7 +630,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Stratford-Kinlock"
@@ -653,7 +653,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Summerside-St. Eleanors"
@@ -676,7 +676,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Summerside-Wilmot"
@@ -699,7 +699,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Tignish-Palmer Road"
@@ -722,7 +722,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Tracadie-Hillsborough Park"
@@ -745,7 +745,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Tyne Valley-Linkletter"
@@ -768,7 +768,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "Vernon River-Stratford"
@@ -791,7 +791,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "West Royalty-Springvale"
@@ -814,7 +814,7 @@
         "Q21010685"
       ],
       "type": {
-        "lang:en_CA": "provincial electoral district of Prince Edward Island"
+        "lang:en": "provincial electoral district of Prince Edward Island"
       },
       "name": {
         "lang:en_CA": "York-Oyster Bed"
@@ -830,13 +830,13 @@
       "area_id": "Q2997600",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     },
     {
@@ -846,13 +846,13 @@
       "area_id": "Q3453561",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     },
     {
@@ -862,13 +862,13 @@
       "area_id": "Q3503686",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     },
     {
@@ -878,13 +878,13 @@
       "area_id": "Q3567444",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     },
     {
@@ -894,13 +894,13 @@
       "area_id": "Q2961049",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     },
     {
@@ -911,13 +911,13 @@
       "start_date": "2007-05-28",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     },
     {
@@ -928,13 +928,13 @@
       "start_date": "2007-06-12",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     },
     {
@@ -945,13 +945,13 @@
       "start_date": "2007-03-28",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en_CA": "member of a legislative assembly",
-        "lang:fr_CA": "membre d'une assemblée législative"
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
       },
       "role_code": "Q21010685",
       "role": {
-        "lang:en_CA": "Member of the Legislative Assembly of Prince Edward Island",
-        "lang:fr_CA": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
       }
     }
   ]
