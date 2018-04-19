@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Sandy Silver",
-        "lang:fr_CA": "Sandy Silver"
+        "lang:en": "Sandy Silver",
+        "lang:fr": "Sandy Silver"
       },
       "id": "Q1841565",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Darrell Pasloski",
-        "lang:fr_CA": "Darrell Pasloski"
+        "lang:en": "Darrell Pasloski",
+        "lang:fr": "Darrell Pasloski"
       },
       "id": "Q3016474",
       "identifiers": [
@@ -39,7 +39,7 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Legislature of Yukon"
+        "lang:en": "Legislature of Yukon"
       },
       "id": "Q17108558",
       "classification": "branch",
@@ -53,8 +53,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Yukon Liberal Party",
-        "lang:fr_CA": "Parti libéral du Yukon"
+        "lang:en": "Yukon Liberal Party",
+        "lang:fr": "Parti libéral du Yukon"
       },
       "id": "Q3366503",
       "classification": "party",
@@ -67,8 +67,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Yukon Party",
-        "lang:fr_CA": "Parti du Yukon"
+        "lang:en": "Yukon Party",
+        "lang:fr": "Parti du Yukon"
       },
       "id": "Q739885",
       "classification": "party",
@@ -97,8 +97,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -123,8 +123,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Quebec",
@@ -149,8 +149,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Ontario"
@@ -174,8 +174,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Manitoba"
@@ -199,8 +199,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Alberta",
@@ -225,8 +225,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Nova Scotia",
@@ -251,8 +251,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "New Brunswick",
@@ -277,8 +277,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "British Columbia",
@@ -303,8 +303,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Prince Edward Island",
@@ -329,8 +329,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Saskatchewan",
@@ -355,8 +355,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Newfoundland and Labrador",
@@ -381,8 +381,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Northwest Territories",
@@ -407,8 +407,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Yukon"
@@ -432,8 +432,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Nunavut",
@@ -452,13 +452,13 @@
       "start_date": "2016-12-03",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
-        "lang:en_CA": "premier",
-        "lang:fr_CA": "premier ministre du Canada"
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
       },
       "role_code": "Q12270260",
       "role": {
-        "lang:en_CA": "Premier of Yukon",
-        "lang:fr_CA": "premier ministre du Yukon"
+        "lang:en": "Premier of Yukon",
+        "lang:fr": "premier ministre du Yukon"
       }
     },
     {
@@ -469,13 +469,13 @@
       "area_id": "Q2009",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
-        "lang:en_CA": "premier",
-        "lang:fr_CA": "premier ministre du Canada"
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
       },
       "role_code": "Q12270260",
       "role": {
-        "lang:en_CA": "Premier of Yukon",
-        "lang:fr_CA": "premier ministre du Yukon"
+        "lang:en": "Premier of Yukon",
+        "lang:fr": "premier ministre du Yukon"
       }
     }
   ]

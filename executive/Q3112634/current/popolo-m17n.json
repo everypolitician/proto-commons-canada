@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Philippe Couillard",
-        "lang:fr_CA": "Philippe Couillard"
+        "lang:en": "Philippe Couillard",
+        "lang:fr": "Philippe Couillard"
       },
       "id": "Q3379654",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Government of Quebec",
-        "lang:fr_CA": "Gouvernement du Québec"
+        "lang:en": "Government of Quebec",
+        "lang:fr": "Gouvernement du Québec"
       },
       "id": "Q3112634",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Quebec Liberal Party",
-        "lang:fr_CA": "Parti libéral du Québec"
+        "lang:en": "Quebec Liberal Party",
+        "lang:fr": "Parti libéral du Québec"
       },
       "id": "Q1631384",
       "classification": "party",
@@ -68,8 +68,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -94,8 +94,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Quebec",
@@ -120,8 +120,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Ontario"
@@ -145,8 +145,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Manitoba"
@@ -170,8 +170,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Alberta",
@@ -196,8 +196,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Nova Scotia",
@@ -222,8 +222,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "New Brunswick",
@@ -248,8 +248,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "British Columbia",
@@ -274,8 +274,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Prince Edward Island",
@@ -300,8 +300,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Saskatchewan",
@@ -326,8 +326,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Newfoundland and Labrador",
@@ -352,8 +352,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Northwest Territories",
@@ -378,8 +378,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Yukon"
@@ -403,8 +403,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Nunavut",
@@ -423,13 +423,13 @@
       "start_date": "2014-04-23",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
-        "lang:en_CA": "premier",
-        "lang:fr_CA": "premier ministre du Canada"
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
       },
       "role_code": "Q2911019",
       "role": {
-        "lang:en_CA": "Premier of Quebec",
-        "lang:fr_CA": "premier ministre du Québec"
+        "lang:en": "Premier of Quebec",
+        "lang:fr": "premier ministre du Québec"
       }
     }
   ]

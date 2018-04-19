@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Naheed Nenshi",
-        "lang:fr_CA": "Naheed Nenshi"
+        "lang:en": "Naheed Nenshi",
+        "lang:fr": "Naheed Nenshi"
       },
       "id": "Q2588612",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Calgary City Council",
-        "lang:fr_CA": "consesi de calgary"
+        "lang:en": "Calgary City Council",
+        "lang:fr": "consesi de calgary"
       },
       "id": "Q4145705",
       "classification": "branch",
@@ -54,8 +54,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -79,8 +79,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Toronto"
@@ -104,8 +104,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Quebec",
@@ -130,8 +130,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Ontario"
@@ -154,8 +154,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Ottawa"
@@ -179,8 +179,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Manitoba"
@@ -204,8 +204,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Alberta",
@@ -230,8 +230,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Nova Scotia",
@@ -256,8 +256,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "British Columbia",
@@ -281,8 +281,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Edmonton"
@@ -305,8 +305,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Winnipeg"
@@ -329,8 +329,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Halifax"
@@ -353,8 +353,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Quebec City"
@@ -377,8 +377,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Vancouver"
@@ -401,8 +401,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Montreal"
@@ -425,8 +425,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Calgary"
@@ -443,12 +443,12 @@
       "start_date": "2010-10-25",
       "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
+        "lang:en": "mayor",
+        "lang:fr": "maire"
       },
       "role_code": "Q47455744",
       "role": {
-        "lang:en_CA": "Mayor of Calgary"
+        "lang:en": "Mayor of Calgary"
       }
     }
   ]

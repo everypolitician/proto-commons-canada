@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Valérie Plante",
-        "lang:fr_CA": "Valérie Plante"
+        "lang:en": "Valérie Plante",
+        "lang:fr": "Valérie Plante"
       },
       "id": "Q27959212",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Médéric Martin",
-        "lang:fr_CA": "Médéric Martin"
+        "lang:en": "Médéric Martin",
+        "lang:fr": "Médéric Martin"
       },
       "id": "Q3332743",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Jean Drapeau",
-        "lang:fr_CA": "Jean Drapeau"
+        "lang:en": "Jean Drapeau",
+        "lang:fr": "Jean Drapeau"
       },
       "id": "Q979154",
       "identifiers": [
@@ -55,8 +55,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Montreal City Council",
-        "lang:fr_CA": "Conseil municipal de Montréal"
+        "lang:en": "Montreal City Council",
+        "lang:fr": "Conseil municipal de Montréal"
       },
       "id": "Q2994131",
       "classification": "branch",
@@ -70,8 +70,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Liberal Party of Canada",
-        "lang:fr_CA": "Parti libéral du Canada"
+        "lang:en": "Liberal Party of Canada",
+        "lang:fr": "Parti libéral du Canada"
       },
       "id": "Q138345",
       "classification": "party",
@@ -84,8 +84,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Civic Action League",
-        "lang:fr_CA": "Ligue d'action civique"
+        "lang:en": "Civic Action League",
+        "lang:fr": "Ligue d'action civique"
       },
       "id": "Q3240324",
       "classification": "party",
@@ -98,8 +98,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Projet Montréal",
-        "lang:fr_CA": "Projet Montréal"
+        "lang:en": "Projet Montréal",
+        "lang:fr": "Projet Montréal"
       },
       "id": "Q3407213",
       "classification": "party",
@@ -128,8 +128,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -153,8 +153,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Toronto"
@@ -178,8 +178,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Quebec",
@@ -204,8 +204,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Ontario"
@@ -228,8 +228,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Ottawa"
@@ -253,8 +253,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Manitoba"
@@ -278,8 +278,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Alberta",
@@ -304,8 +304,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Nova Scotia",
@@ -330,8 +330,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "British Columbia",
@@ -355,8 +355,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Edmonton"
@@ -379,8 +379,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Winnipeg"
@@ -403,8 +403,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Halifax"
@@ -427,8 +427,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Quebec City"
@@ -451,8 +451,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Vancouver"
@@ -475,8 +475,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Montreal"
@@ -499,8 +499,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Calgary"
@@ -518,13 +518,13 @@
       "start_date": "2017-11-16",
       "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
+        "lang:en": "mayor",
+        "lang:fr": "maire"
       },
       "role_code": "Q177645",
       "role": {
-        "lang:en_CA": "Mayor of Montreal",
-        "lang:fr_CA": "maire de Montréal"
+        "lang:en": "Mayor of Montreal",
+        "lang:fr": "maire de Montréal"
       }
     },
     {
@@ -535,13 +535,13 @@
       "area_id": "Q340",
       "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
+        "lang:en": "mayor",
+        "lang:fr": "maire"
       },
       "role_code": "Q177645",
       "role": {
-        "lang:en_CA": "Mayor of Montreal",
-        "lang:fr_CA": "maire de Montréal"
+        "lang:en": "Mayor of Montreal",
+        "lang:fr": "maire de Montréal"
       }
     },
     {
@@ -552,13 +552,13 @@
       "area_id": "Q340",
       "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en_CA": "mayor",
-        "lang:fr_CA": "maire"
+        "lang:en": "mayor",
+        "lang:fr": "maire"
       },
       "role_code": "Q177645",
       "role": {
-        "lang:en_CA": "Mayor of Montreal",
-        "lang:fr_CA": "maire de Montréal"
+        "lang:en": "Mayor of Montreal",
+        "lang:fr": "maire de Montréal"
       }
     }
   ]

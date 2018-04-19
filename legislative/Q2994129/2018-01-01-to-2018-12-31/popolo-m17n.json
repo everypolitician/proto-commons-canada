@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Jean-François Gosselin",
-        "lang:fr_CA": "Jean-François Gosselin"
+        "lang:en": "Jean-François Gosselin",
+        "lang:fr": "Jean-François Gosselin"
       },
       "id": "Q3165629",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Sylvain Légaré",
-        "lang:fr_CA": "Sylvain Légaré"
+        "lang:en": "Sylvain Légaré",
+        "lang:fr": "Sylvain Légaré"
       },
       "id": "Q3507059",
       "identifiers": [
@@ -34,7 +34,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Alicia Despins"
+        "lang:en": "Alicia Despins"
       },
       "id": "Q47492856",
       "identifiers": [
@@ -52,7 +52,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Émilie Villeneuve"
+        "lang:en": "Émilie Villeneuve"
       },
       "id": "Q47493302",
       "identifiers": [
@@ -67,8 +67,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Geneviève Hamelin",
-        "lang:fr_CA": "Geneviève Hamelin"
+        "lang:en": "Geneviève Hamelin",
+        "lang:fr": "Geneviève Hamelin"
       },
       "id": "Q47493593",
       "identifiers": [
@@ -86,7 +86,7 @@
     },
     {
       "name": {
-        "lang:fr_CA": "Jean Rousseau"
+        "lang:fr": "Jean Rousseau"
       },
       "id": "Q47493766",
       "identifiers": [
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Rémy Normand"
+        "lang:en": "Rémy Normand"
       },
       "id": "Q47493909",
       "identifiers": [
@@ -119,8 +119,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Yvon Bussières",
-        "lang:fr_CA": "Yvon Bussières"
+        "lang:en": "Yvon Bussières",
+        "lang:fr": "Yvon Bussières"
       },
       "id": "Q47493921",
       "identifiers": [
@@ -138,8 +138,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Dominique Tanguay",
-        "lang:fr_CA": "Dominique Tanguay"
+        "lang:en": "Dominique Tanguay",
+        "lang:fr": "Dominique Tanguay"
       },
       "id": "Q47494135",
       "identifiers": [
@@ -157,7 +157,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Suzanne Verreault"
+        "lang:en": "Suzanne Verreault"
       },
       "id": "Q47494155",
       "identifiers": [
@@ -177,8 +177,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Quebec City Council",
-        "lang:fr_CA": "Québec (Conseil municipal)"
+        "lang:en": "Quebec City Council",
+        "lang:fr": "Québec (Conseil municipal)"
       },
       "id": "Q2994129",
       "classification": "branch",
@@ -195,7 +195,7 @@
     },
     {
       "name": {
-        "lang:fr_CA": "Démocratie Québec"
+        "lang:fr": "Démocratie Québec"
       },
       "id": "Q3043502",
       "classification": "party",
@@ -208,8 +208,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "independent politician",
-        "lang:fr_CA": "sans étiquette"
+        "lang:en": "independent politician",
+        "lang:fr": "sans étiquette"
       },
       "id": "Q327591",
       "classification": "party",
@@ -222,8 +222,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Team Labeaume",
-        "lang:fr_CA": "Équipe Labeaume"
+        "lang:en": "Team Labeaume",
+        "lang:fr": "Équipe Labeaume"
       },
       "id": "Q3589476",
       "classification": "party",
@@ -236,8 +236,8 @@
     },
     {
       "name": {
-        "lang:en_CA": "Québec 21",
-        "lang:fr_CA": "Québec 21"
+        "lang:en": "Québec 21",
+        "lang:fr": "Québec 21"
       },
       "id": "Q47493291",
       "classification": "party",
@@ -266,8 +266,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -292,8 +292,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Quebec",
@@ -317,8 +317,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Quebec City"
@@ -341,7 +341,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Cap-aux-Diamants"
@@ -364,7 +364,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Montcalm–Saint-Sacrement"
@@ -387,7 +387,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Saint-Roch–Saint-Sauveur"
@@ -410,7 +410,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Limoilou"
@@ -433,7 +433,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Maizerets-Lairet"
@@ -456,7 +456,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Neufchâtel-Lebourgneuf"
@@ -479,7 +479,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Saint-Louis–Sillery"
@@ -502,7 +502,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Le Plateau"
@@ -525,7 +525,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "La Pointe-de-Sainte-Foy"
@@ -548,7 +548,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Cap-Rouge–Laurentien"
@@ -571,7 +571,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Saint-Rodrigue"
@@ -594,7 +594,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Louis -XIV"
@@ -617,7 +617,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Les Monts"
@@ -640,7 +640,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Sainte-Thérèse-de-Lisieux"
@@ -663,7 +663,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "La Chute-Montmorency–Seigneurial"
@@ -686,7 +686,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Robert-Giffard"
@@ -709,7 +709,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Lac-Saint-Charles–Saint-Émile"
@@ -732,7 +732,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Loretteville-Les Châtels"
@@ -755,7 +755,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Val-Bélair"
@@ -778,7 +778,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Vanier-Duberger"
@@ -801,7 +801,7 @@
         "Q47490318"
       ],
       "type": {
-        "lang:en_CA": "Municipal electoral districts of Quebec"
+        "lang:en": "Municipal electoral districts of Quebec"
       },
       "name": {
         "lang:fr_CA": "Les Saules"
@@ -819,7 +819,7 @@
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -831,7 +831,7 @@
       "start_date": "2009-11-01",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -843,7 +843,7 @@
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -855,7 +855,7 @@
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -867,7 +867,7 @@
       "start_date": "2009-11-01",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -879,7 +879,7 @@
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -891,7 +891,7 @@
       "start_date": "2017-11-05",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -903,7 +903,7 @@
       "start_date": "1993-01-01",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -915,7 +915,7 @@
       "start_date": "2013-11-03",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     },
     {
@@ -927,7 +927,7 @@
       "start_date": "2009-01-01",
       "role_code": "Q47490318",
       "role": {
-        "lang:en_CA": "Member of Quebec City Council"
+        "lang:en": "Member of Quebec City Council"
       }
     }
   ]

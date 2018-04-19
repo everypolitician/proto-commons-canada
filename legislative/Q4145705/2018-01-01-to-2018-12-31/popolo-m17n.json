@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:en_CA": "Joe Magliocca"
+        "lang:en": "Joe Magliocca"
       },
       "id": "Q21066770",
       "identifiers": [
@@ -20,7 +20,7 @@
     },
     {
       "name": {
-        "lang:en_CA": "Druh Farrell"
+        "lang:en": "Druh Farrell"
       },
       "id": "Q22277744",
       "identifiers": [
@@ -40,8 +40,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en_CA": "Calgary City Council",
-        "lang:fr_CA": "consesi de calgary"
+        "lang:en": "Calgary City Council",
+        "lang:fr": "consesi de calgary"
       },
       "id": "Q4145705",
       "classification": "branch",
@@ -74,8 +74,8 @@
         "Q14212"
       ],
       "type": {
-        "lang:en_CA": "country",
-        "lang:fr_CA": "pays"
+        "lang:en": "country",
+        "lang:fr": "pays"
       },
       "name": {
         "lang:en_CA": "Canada",
@@ -100,8 +100,8 @@
         "Q2505921"
       ],
       "type": {
-        "lang:en_CA": "province or territory of Canada",
-        "lang:fr_CA": "provinces et territoires du Canada"
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
         "lang:en_CA": "Alberta",
@@ -125,8 +125,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:en_CA": "city",
-        "lang:fr_CA": "ville"
+        "lang:en": "city",
+        "lang:fr": "ville"
       },
       "name": {
         "lang:en_CA": "Calgary"
@@ -149,7 +149,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 1 (Calgary)"
@@ -172,7 +172,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 2 (Calgary)"
@@ -195,7 +195,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 3 (Calgary)"
@@ -218,7 +218,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 4 (Calgary)"
@@ -241,7 +241,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 5 (Calgary)"
@@ -264,7 +264,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 6 (Calgary)"
@@ -287,7 +287,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 7 (Calgary)"
@@ -310,7 +310,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 8 (Calgary)"
@@ -333,7 +333,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 9 (Calgary)"
@@ -356,7 +356,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 10 (Calgary)"
@@ -379,7 +379,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 11 (Calgary)"
@@ -402,7 +402,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 12 (Calgary)"
@@ -425,7 +425,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 13 (Calgary)"
@@ -448,7 +448,7 @@
         "Q45414913"
       ],
       "type": {
-        "lang:en_CA": "municipal electoral district of Calgary"
+        "lang:en": "municipal electoral district of Calgary"
       },
       "name": {
         "lang:en_CA": "Ward 14 (Calgary)"
@@ -465,7 +465,7 @@
       "start_date": "2013-10-21",
       "role_code": "Q45414913",
       "role": {
-        "lang:en_CA": "Member of Calgary City Council"
+        "lang:en": "Member of Calgary City Council"
       }
     },
     {
@@ -476,7 +476,7 @@
       "start_date": "2001-10-01",
       "role_code": "Q45414913",
       "role": {
-        "lang:en_CA": "Member of Calgary City Council"
+        "lang:en": "Member of Calgary City Council"
       }
     }
   ]
