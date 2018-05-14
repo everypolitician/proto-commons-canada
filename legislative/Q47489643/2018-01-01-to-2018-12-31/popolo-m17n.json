@@ -26,8 +26,8 @@
         "lang:fr": "pays"
       },
       "name": {
-        "lang:en_CA": "Canada",
-        "lang:fr_CA": "Canada"
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
       },
       "parent_id": null
     },
@@ -52,8 +52,8 @@
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "British Columbia",
-        "lang:fr_CA": "Colombie-Britannique"
+        "lang:en": "British Columbia",
+        "lang:fr": "Colombie-Britannique"
       },
       "parent_id": "Q16"
     },
@@ -77,7 +77,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Vancouver"
+        "lang:en": "Vancouver"
       },
       "parent_id": "Q1974"
     },
@@ -100,7 +100,7 @@
         "lang:en": "municipal electoral district of Vancouver"
       },
       "name": {
-        "lang:en_CA": "Vancouver"
+        "lang:en": "Vancouver"
       },
       "parent_id": "Q24639"
     }
