@@ -118,8 +118,8 @@
         "lang:fr": "pays"
       },
       "name": {
-        "lang:en_CA": "Canada",
-        "lang:fr_CA": "Canada"
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
       },
       "parent_id": null
     },
@@ -143,7 +143,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Toronto"
+        "lang:en": "Toronto"
       },
       "parent_id": "Q1904"
     },
@@ -168,8 +168,8 @@
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "Quebec",
-        "lang:fr_CA": "Québec"
+        "lang:en": "Quebec",
+        "lang:fr": "Québec"
       },
       "parent_id": "Q16"
     },
@@ -194,7 +194,7 @@
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "Ontario"
+        "lang:en": "Ontario"
       },
       "parent_id": "Q16"
     },
@@ -218,7 +218,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Ottawa"
+        "lang:en": "Ottawa"
       },
       "parent_id": "Q1904"
     },
@@ -243,7 +243,7 @@
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "Manitoba"
+        "lang:en": "Manitoba"
       },
       "parent_id": "Q16"
     },
@@ -268,8 +268,8 @@
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "Alberta",
-        "lang:fr_CA": "Alberta"
+        "lang:en": "Alberta",
+        "lang:fr": "Alberta"
       },
       "parent_id": "Q16"
     },
@@ -294,8 +294,8 @@
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "Nova Scotia",
-        "lang:fr_CA": "Nouvelle-Écosse"
+        "lang:en": "Nova Scotia",
+        "lang:fr": "Nouvelle-Écosse"
       },
       "parent_id": "Q16"
     },
@@ -320,8 +320,8 @@
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en_CA": "British Columbia",
-        "lang:fr_CA": "Colombie-Britannique"
+        "lang:en": "British Columbia",
+        "lang:fr": "Colombie-Britannique"
       },
       "parent_id": "Q16"
     },
@@ -345,7 +345,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Edmonton"
+        "lang:en": "Edmonton"
       },
       "parent_id": "Q1951"
     },
@@ -369,7 +369,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Winnipeg"
+        "lang:en": "Winnipeg"
       },
       "parent_id": "Q1948"
     },
@@ -393,7 +393,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Halifax"
+        "lang:en": "Halifax"
       },
       "parent_id": "Q1952"
     },
@@ -417,7 +417,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Quebec City"
+        "lang:en": "Quebec City"
       },
       "parent_id": "Q176"
     },
@@ -441,7 +441,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Vancouver"
+        "lang:en": "Vancouver"
       },
       "parent_id": "Q1974"
     },
@@ -465,7 +465,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Montreal"
+        "lang:en": "Montreal"
       },
       "parent_id": "Q176"
     },
@@ -489,7 +489,7 @@
         "lang:fr": "ville"
       },
       "name": {
-        "lang:en_CA": "Calgary"
+        "lang:en": "Calgary"
       },
       "parent_id": "Q1951"
     }
