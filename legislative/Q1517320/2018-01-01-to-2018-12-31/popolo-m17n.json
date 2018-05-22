@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Shannon Martin",
+        "lang:fr": "Shannon Martin"
+      },
+      "id": "Q15733801",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15733801"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Greg Selinger",
         "lang:fr": "Greg Selinger"
       },
@@ -25,6 +41,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20711265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rochelle Squires"
+      },
+      "id": "Q24053382",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053382"
         }
       ],
       "links": [
@@ -93,13 +124,29 @@
     },
     {
       "name": {
-        "lang:en": "Sarah Guillemard"
+        "lang:en": "Sarah Guillemard",
+        "lang:fr": "Sarah Guillemard"
       },
       "id": "Q24053397",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q24053397"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kelly Bindle"
+      },
+      "id": "Q24053398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053398"
         }
       ],
       "links": [
@@ -115,6 +162,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q24060861"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rick Wowchuk"
+      },
+      "id": "Q24060866",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24060866"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Judy Klassen"
+      },
+      "id": "Q24191584",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24191584"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cathy Cox"
+      },
+      "id": "Q25189566",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25189566"
         }
       ],
       "links": [
@@ -179,6 +271,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3499223"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Swan",
+        "lang:fr": "Andrew Swan"
+      },
+      "id": "Q4758678",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4758678"
         }
       ],
       "links": [
@@ -273,6 +381,22 @@
     },
     {
       "name": {
+        "lang:en": "Ian Wishart",
+        "lang:fr": "Ian Wishart"
+      },
+      "id": "Q5983306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5983306"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Inez Trueman",
         "lang:fr": "Inez Trueman"
       },
@@ -297,6 +421,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6128662"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim Maloway",
+        "lang:fr": "Jim Maloway"
+      },
+      "id": "Q6196595",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6196595"
         }
       ],
       "links": [
@@ -353,6 +493,22 @@
     },
     {
       "name": {
+        "lang:en": "Mohinder Saran",
+        "lang:fr": "Mohinder Saran"
+      },
+      "id": "Q6894175",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6894175"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Myrna Driedger",
         "lang:fr": "Myrna Driedger"
       },
@@ -377,6 +533,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7307793"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rob Altemeyer",
+        "lang:fr": "Rob Altemeyer"
+      },
+      "id": "Q7339940",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7339940"
         }
       ],
       "links": [
@@ -1847,6 +2019,22 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q15733801-96FD1F25-ED1E-432E-BF83-2B232A7D6C03",
+      "person_id": "Q15733801",
+      "organization_id": "Q1517320",
+      "area_id": "Q3324398",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q178944-2A061D53-65DB-437F-9584-9AC1327026F5",
       "person_id": "Q178944",
       "organization_id": "Q1517320",
@@ -1867,6 +2055,22 @@
       "person_id": "Q20711265",
       "organization_id": "Q1517320",
       "area_id": "Q3225272",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053382-041A12D0-0B8B-4074-8623-0B71A2733D09",
+      "person_id": "Q24053382",
+      "organization_id": "Q1517320",
+      "area_id": "Q2407519",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -1975,10 +2179,74 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q24053398-8C759821-C05F-4719-B565-168682865BB4",
+      "person_id": "Q24053398",
+      "organization_id": "Q1517320",
+      "area_id": "Q3525748",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q24060861-BA7B496B-052E-4D92-83A4-B31B2E13F910",
       "person_id": "Q24060861",
       "organization_id": "Q1517320",
       "area_id": "Q3537410",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24060866-E13513ED-A87E-4A07-90AD-08EBA3D852A3",
+      "person_id": "Q24060866",
+      "organization_id": "Q1517320",
+      "area_id": "Q3506427",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24191584-75581741-F762-41B7-8F3E-B7E8F7B9528C",
+      "person_id": "Q24191584",
+      "organization_id": "Q1517320",
+      "area_id": "Q3195840",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25189566-B1D280EA-6C4E-421A-97E6-43D71C6E3321",
+      "person_id": "Q25189566",
+      "organization_id": "Q1517320",
+      "area_id": "Q3433485",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -2059,6 +2327,22 @@
       "person_id": "Q3499223",
       "organization_id": "Q1517320",
       "area_id": "Q2867183",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4758678-9F6EEEDB-5DEC-42A4-8610-C92460D0AC81",
+      "person_id": "Q4758678",
+      "organization_id": "Q1517320",
+      "area_id": "Q3315625",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -2169,6 +2453,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5983306-BBD6C43B-D96B-4883-A7B2-9AFE67C1EE14",
+      "person_id": "Q5983306",
+      "organization_id": "Q1517320",
+      "area_id": "Q3398737",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6028722-c18e6c6c-48ec-516a-57a9-e849758d98dd",
       "person_id": "Q6028722",
       "organization_id": "Q1517320",
@@ -2188,6 +2488,22 @@
       "person_id": "Q6128662",
       "organization_id": "Q1517320",
       "area_id": "Q3077876",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6196595-BDED4715-C84B-4E1F-8F59-E9072461064B",
+      "person_id": "Q6196595",
+      "organization_id": "Q1517320",
+      "area_id": "Q3051611",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -2248,6 +2564,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q6894175-ECFCF641-027E-43C0-B51D-3467DA4350B0",
+      "person_id": "Q6894175",
+      "organization_id": "Q1517320",
+      "area_id": "Q3521776",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6948386-A56EF5D3-5EE0-431A-B3AE-0CEAD11CD8B4",
       "person_id": "Q6948386",
       "organization_id": "Q1517320",
@@ -2268,6 +2600,22 @@
       "person_id": "Q7307793",
       "organization_id": "Q1517320",
       "area_id": "Q2923733",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7339940-7006450C-C6EB-483E-B536-7C1C5B1F4E27",
+      "person_id": "Q7339940",
+      "organization_id": "Q1517320",
+      "area_id": "Q3569733",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

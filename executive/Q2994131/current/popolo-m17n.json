@@ -34,22 +34,6 @@
       "links": [
 
       ]
-    },
-    {
-      "name": {
-        "lang:en": "Jean Drapeau",
-        "lang:fr": "Jean Drapeau"
-      },
-      "id": "Q979154",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q979154"
-        }
-      ],
-      "links": [
-
-      ]
     }
   ],
   "organizations": [
@@ -79,20 +63,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q138345"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Civic Action League",
-        "lang:fr": "Ligue d'action civique"
-      },
-      "id": "Q3240324",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3240324"
         }
       ]
     },
@@ -531,23 +501,6 @@
       "id": "http://www.wikidata.org/entity/statement/q3332743-61bb808e-4fd6-5d43-7516-0955cb9d1731",
       "person_id": "Q3332743",
       "on_behalf_of_id": "Q138345",
-      "organization_id": "Q2994131",
-      "area_id": "Q340",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
-      },
-      "role_code": "Q177645",
-      "role": {
-        "lang:en": "Mayor of Montreal",
-        "lang:fr": "maire de Montréal"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q979154-36088532-41c1-4230-535b-e488b790bc97",
-      "person_id": "Q979154",
-      "on_behalf_of_id": "Q3240324",
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "role_superclass_code": "Q30185",

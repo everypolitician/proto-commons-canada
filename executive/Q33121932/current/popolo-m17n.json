@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Harry Strom",
-        "lang:fr": "Harry Strom"
-      },
-      "id": "Q180079",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q180079"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Rachel Notley",
         "lang:fr": "Rachel Notley"
       },
@@ -50,20 +34,6 @@
         }
       ],
       "area_id": "Q1951"
-    },
-    {
-      "name": {
-        "lang:en": "Alberta Social Credit Party",
-        "lang:fr": "Parti Crédit social de l'Alberta"
-      },
-      "id": "Q1518382",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1518382"
-        }
-      ]
     },
     {
       "name": {
@@ -450,23 +420,6 @@
       "organization_id": "Q33121932",
       "area_id": "Q1951",
       "start_date": "2015-05-24",
-      "role_superclass_code": "Q2505921",
-      "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
-      },
-      "role_code": "Q3401750",
-      "role": {
-        "lang:en": "Premier of Alberta",
-        "lang:fr": "Premier ministre de l'Alberta"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q180079-C48D3191-DB5A-4814-9016-9DC5489F9A13",
-      "person_id": "Q180079",
-      "on_behalf_of_id": "Q1518382",
-      "organization_id": "Q33121932",
-      "area_id": "Q1951",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
         "lang:en": "premier",

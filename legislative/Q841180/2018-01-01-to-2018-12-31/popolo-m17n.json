@@ -1557,22 +1557,6 @@
     },
     {
       "name": {
-        "lang:en": "Alexandre Lacoste",
-        "lang:fr": "Alexandre Lacoste"
-      },
-      "id": "Q2833795",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2833795"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Alfred Johnson Brooks",
         "lang:fr": "Alfred Johnson Brooks"
       },
@@ -10075,22 +10059,6 @@
     },
     {
       "name": {
-        "lang:en": "Kelvin Ogilvie",
-        "lang:fr": "Kelvin Ogilvie"
-      },
-      "id": "Q6386718",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6386718"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "J. Michel Fournier",
         "lang:fr": "Joseph Fournier"
       },
@@ -10938,6 +10906,21 @@
           "note": "facebook",
           "url": "https://www.facebook.com/SenatorJaffer"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Murray Sinclair"
+      },
+      "id": "Q6939457",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6939457"
+        }
+      ],
+      "links": [
+
       ]
     },
     {
@@ -15281,21 +15264,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q2833795-269B36F1-28E3-4400-AFD3-CEC9FEB4EDDC",
-      "person_id": "Q2833795",
-      "organization_id": "Q841180",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:fr": "sénateur"
-      },
-      "role_code": "Q18524027",
-      "role": {
-        "lang:en": "Member of the Senate of Canada",
-        "lang:fr": "membre du Sénat du Canada"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q2835215-66E2360A-06AA-48FA-B01A-80FDABB240D1",
       "person_id": "Q2835215",
       "organization_id": "Q841180",
@@ -15810,6 +15778,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q2978387-E8F032FC-D1CA-4556-949C-F67274E9FD69",
       "person_id": "Q2978387",
       "organization_id": "Q841180",
+      "start_date": "2005-03-24",
+      "end_date": "2018-02-02",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -15825,6 +15795,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q2982619-739AA5D3-893E-4988-883B-B358B0E683A5",
       "person_id": "Q2982619",
       "organization_id": "Q841180",
+      "start_date": "1984-06-29",
+      "end_date": "2018-02-02",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -23278,21 +23250,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6386718-285FD346-6001-41BE-BE93-BED88C7DB6CC",
-      "person_id": "Q6386718",
-      "organization_id": "Q841180",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:fr": "sénateur"
-      },
-      "role_code": "Q18524027",
-      "role": {
-        "lang:en": "Member of the Senate of Canada",
-        "lang:fr": "membre du Sénat du Canada"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q639772-1BFFAF35-AE47-45A0-81BA-242FB6C68F91",
       "person_id": "Q639772",
       "organization_id": "Q841180",
@@ -24079,6 +24036,21 @@
       "organization_id": "Q841180",
       "area_id": "Q1974",
       "start_date": "2001-06-13",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:fr": "sénateur"
+      },
+      "role_code": "Q18524027",
+      "role": {
+        "lang:en": "Member of the Senate of Canada",
+        "lang:fr": "membre du Sénat du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6939457-74ce1f21-4fb2-fa6f-ee7c-85db07b04a6b",
+      "person_id": "Q6939457",
+      "organization_id": "Q841180",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",

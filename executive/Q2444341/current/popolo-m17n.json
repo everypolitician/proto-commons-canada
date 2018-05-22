@@ -48,6 +48,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/johntoryTO"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/johntoryTO"
         }
       ]
     }
@@ -535,6 +539,23 @@
       "organization_id": "Q2444341",
       "area_id": "Q172",
       "start_date": "2014-12-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q14927262",
+      "role": {
+        "lang:en": "Mayor of Toronto",
+        "lang:fr": "maire de Toronto"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q928118-1f3a9624-4f07-89e6-1606-aca2a009b670",
+      "person_id": "Q928118",
+      "on_behalf_of_id": "Q826977",
+      "organization_id": "Q2444341",
+      "area_id": "Q172",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:en": "mayor",
