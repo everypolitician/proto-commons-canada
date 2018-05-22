@@ -4067,15 +4067,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2394580"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Walsh Acres"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Regina-Walsh Acres"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Walsh Acres"
       }
     }, {
       "statement" : {
@@ -4929,6 +4929,80 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21062862-185D9091-D2B4-4E51-B47C-AFC9422B8F6C"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18675661"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'assemblée législative de la Saskatchewan"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Assembly of Saskatchewan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21062862"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colleen Young"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1537375"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de la Saskatchewan"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Saskatchewan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1989"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "61"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6662843"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lloydminster"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2137997-CB29ACB5-AD5B-4D77-BA5B-311BE39A9622"
       },
       "role_superclass" : {
@@ -5209,13 +5283,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q944820"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Prince Albert Carlton"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Prince Albert Carlton"
       }
@@ -5362,15 +5436,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3423460"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Lakeview"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Regina-Lakeview"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Lakeview"
       }
     }, {
       "statement" : {
@@ -5446,15 +5520,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3363810"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Douglas Park"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Parc Douglas de Regina"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Douglas Park"
       }
     }, {
       "statement" : {
@@ -5829,6 +5903,159 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q23881411-FB478ECA-71C9-4FD0-8E49-17A2E45A4845"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18675661"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'assemblée législative de la Saskatchewan"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Assembly of Saskatchewan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23881411"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Warren Kaeding"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1537375"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de la Saskatchewan"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Saskatchewan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1989"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "61"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6813848"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Melville-Saltcoats"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q23881416-EF510234-851C-4A44-B1D1-2F6177FEA897"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18675661"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'assemblée législative de la Saskatchewan"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Assembly of Saskatchewan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23881416"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Doug Steele"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1537375"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de la Saskatchewan"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Saskatchewan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1989"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "61"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5200338"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cypress Hills"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-04-04T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881420-714BAF42-10B4-44E8-B07C-74B9721A5C34"
       },
       "role_superclass" : {
@@ -5895,13 +6122,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5401086"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Estevan"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Estevan"
       }
@@ -14550,6 +14777,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "David Forbes"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3473795"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Saskatoon-Centre"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saskatoon Centre"
       }
     }, {
       "statement" : {
@@ -21078,6 +21319,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Glen Hart"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3218399"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Last Mountain-Touchwood"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Last Mountain-Touchwood"
       }
     }, {
       "statement" : {
@@ -22011,15 +22266,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3323622"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Moose Jaw Wakamow"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Moose Jaw-Wakamow"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moose Jaw Wakamow"
       }
     }, {
       "statement" : {
@@ -30732,13 +30987,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3305031"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Melfort"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Melfort"
       }
@@ -32584,15 +32839,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3363804"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Coronation Park"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Parc Coronation de Regina"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Coronation Park"
       }
     }, {
       "statement" : {
@@ -33993,6 +34248,15 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Nancy Heppner"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24191359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martensville-Warman"
       }
     }, {
       "statement" : {
@@ -36023,6 +36287,15 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Randy Weekes"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24191355"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Biggar-Sask Valley"
       }
     }, {
       "statement" : {
@@ -38268,15 +38541,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3473800"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon Meewasin"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Saskatoon-Meewasin"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saskatoon Meewasin"
       }
     }, {
       "statement" : {
@@ -40592,15 +40865,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3423462"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Rosemont"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Regina-Rosemont"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Rosemont"
       }
     }, {
       "statement" : {
@@ -41310,6 +41583,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Warren Steinley"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2394580"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Regina-Walsh Acres"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Walsh Acres"
       }
     }, {
       "statement" : {

@@ -2107,15 +2107,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3195267"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kent South"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Kent-Sud"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kent South"
       }
     }, {
       "statement" : {
@@ -2191,15 +2191,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q281399"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Maryland-Sunbury West"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "New Maryland—Sunbury-Ouest"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Maryland-Sunbury West"
       }
     }, {
       "statement" : {
@@ -2275,15 +2275,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3113468"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Grand Falls-Drummond-Saint-André"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Grand-Sault—Drummond—Saint-André"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grand Falls-Drummond-Saint-André"
       }
     }, {
       "statement" : {
@@ -2503,6 +2503,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Lisa Harris"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2879404"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Baie-de-Miramichi—Neguac"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miramichi Bay-Neguac"
       }
     }, {
       "statement" : {
@@ -2652,6 +2666,15 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Stephen Horsman"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5499248"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fredericton North"
       }
     }, {
       "statement" : {
@@ -2797,15 +2820,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2830904"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Albert"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Albert (circonscription provinciale)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albert"
       }
     }, {
       "statement" : {
@@ -3323,6 +3346,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Serge Rousselle"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3536142"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Tracadie-Sheila"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tracadie-Sheila"
       }
     }, {
       "statement" : {
@@ -14392,13 +14429,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3515350"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Tantramar"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tantramar"
       }
@@ -14756,15 +14793,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3315872"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miramichi-Bay du Vin"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Miramichi—Baie-du-Vin"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miramichi-Bay du Vin"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -14910,6 +14947,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Blaine Higgs"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q964313"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Quispamsis"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quispamsis"
       }
     }, {
       "statement" : {
@@ -15050,6 +15101,15 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Brian Gallant"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17093013"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shediac Bay-Dieppe"
       }
     }, {
       "statement" : {
@@ -15125,13 +15185,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2891243"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Bathurst"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bathurst"
       },
@@ -15293,13 +15353,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3433524"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Riverview"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Riverview"
       }
@@ -15377,15 +15437,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3197087"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kings East"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Kings-Est"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kings East"
       }
     }, {
       "statement" : {
@@ -17229,13 +17289,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3463899"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Saint John Lancaster"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Saint John Lancaster"
       }
@@ -17383,13 +17443,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3463898"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Saint John Harbour"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Saint John Harbour"
       }
@@ -18932,6 +18992,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Glen Savoie"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3463893"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Saint John-Est"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint John East"
       }
     }, {
       "statement" : {
@@ -19702,6 +19776,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Hugh Flemming"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3442975"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Rothesay"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rothesay"
       }
     }, {
       "statement" : {
@@ -19772,6 +19860,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Hédard Albert"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2937885"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Caraquet (circonscription provinciale)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Caraquet"
       }
     }, {
       "statement" : {
@@ -20192,6 +20294,20 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Jake Stewart"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3315869"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Miramichi-Sud-Ouest"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southwest Miramichi"
       }
     }, {
       "statement" : {
@@ -21811,76 +21927,6 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Joseph Zenon Daigle"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3194724-B5027B87-A857-4A61-A472-A14D28D68977"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18984329"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative du Nouveau-Brunswick"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Legislative Assembly of New Brunswick"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3194724"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Keith Ashfield"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1516914"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative du Nouveau-Brunswick"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of New Brunswick"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1965"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "49"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Keith Ashfield"
       }
     }, {
       "statement" : {
@@ -26183,13 +26229,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3463902"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Saint John Portland"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Saint John Portland"
       }
@@ -26407,15 +26453,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3481698"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Shediac-Cap-Pelé"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Shediac—Cap-Pelé"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shediac-Cap-Pelé"
       }
     }, {
       "statement" : {
@@ -41130,15 +41176,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16981383"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fredericton South"
-      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Fredericton-Sud"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fredericton South"
       }
     }, {
       "statement" : {
