@@ -1,0 +1,1237 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q16251674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16251674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Argyle-Barrington"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q16256447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16256447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Cape Breton-Richmond"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q16258481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16258481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Clare-Digby"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q16258528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16258528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Clayton Park West"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q16975633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16975633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Fairview-Clayton Park"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q16983123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16983123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Halifax Armdale"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q16983194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16983194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Hammonds Plains-Lucasville"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q17086308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17086308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Guysborough-Eastern Shore-Tracadie"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q17092063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17092063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Northside-Westmount"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q17092535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17092535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Preston-Dartmouth"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q17092609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17092609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Queens-Shelburne"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q17097741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17097741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Sydney River-Mira-Louisbourg"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q17097748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17097748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Sydney-Whitney Pier"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q1952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Nova Scotia",
+        "lang:fr": "Nouvelle-Écosse"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q4767958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4767958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Annapolis"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q4774773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4774773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Antigonish"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q4879093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4879093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Bedford"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5034603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5034603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Cape Breton Centre"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5093417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5093417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Chester-St. Margaret's"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5142072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5142072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Colchester-Musquodoboit Valley"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5142099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5142099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Colchester North"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5142651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5142651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Cole Harbour-Eastern Passage"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5142654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5142654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Cole Harbour-Portland Valley"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5193931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5193931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Cumberland North"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5193964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5193964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Cumberland South"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5225692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5225692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Dartmouth East"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5225716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5225716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Dartmouth North"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5225726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5225726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Dartmouth South"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5330444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5330444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Eastern Shore"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5566089",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5566089"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Glace Bay"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5642124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5642124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Halifax Atlantic"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5642136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5642136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Halifax Chebucto"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5642137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5642137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Halifax Citadel-Sable Island"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5642203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5642203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Halifax Needham"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5651309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5651309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Hants East"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q5651314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5651314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Hants West"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q6060198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6060198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Inverness"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q6412965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6412965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Kings North"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q6413019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6413019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Kings South"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q6413033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6413033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Kings West"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q6704214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6704214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Lunenburg"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q6704227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6704227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Lunenburg West"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7191125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7191125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Pictou Centre"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7191129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7191129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Pictou East"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7191133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7191133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Pictou West"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7396845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7396845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Sackville-Beaver Bank"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7396846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7396846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Sackville-Cobequid"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7804704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7804704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Timberlea-Prospect"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7848021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7848021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Truro-Bible Hill-Millbrook-Salmon River"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7926536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7926536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Victoria-The Lakes"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q7975406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7975406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Waverley-Fall River-Beaver Bank"
+      },
+      "parent_id": "Q1952"
+    },
+    {
+      "id": "Q8049384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ns/ed:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8049384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18239264"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Nova Scotia"
+      },
+      "name": {
+        "lang:en": "Yarmouth"
+      },
+      "parent_id": "Q1952"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

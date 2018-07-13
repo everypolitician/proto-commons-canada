@@ -1,373 +1,200 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "James Boyle Uniacke",
+        "lang:fr": "James Boyle Uniacke"
+      },
+      "id": "Q3160951",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3160951"
+        }
+      ],
+      "links": [
 
-  ],
-  "organizations": [
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen McNeil",
+        "lang:fr": "Stephen McNeil"
+      },
+      "id": "Q3498613",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3498613"
+        }
+      ],
+      "links": [
 
-  ],
-  "areas": [
-    {
-      "id": "Q16",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q14212"
-      ],
-      "type": {
-        "lang:en": "country",
-        "lang:fr": "pays"
-      },
-      "name": {
-        "lang:en": "Canada",
-        "lang:fr": "Canada"
-      },
-      "parent_id": null
+      ]
     },
     {
-      "id": "Q176",
+      "name": {
+        "lang:en": "Rodney MacDonald",
+        "lang:fr": "Rodney MacDonald"
+      },
+      "id": "Q378058",
       "identifiers": [
         {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:qc"
-        },
-        {
           "scheme": "wikidata",
-          "identifier": "Q176"
+          "identifier": "Q378058"
         }
       ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Quebec",
-        "lang:fr": "Québec"
-      },
-      "parent_id": "Q16"
+      "links": [
+
+      ]
     },
     {
-      "id": "Q1904",
+      "name": {
+        "lang:en": "Darrell Dexter",
+        "lang:fr": "Darrell Dexter"
+      },
+      "id": "Q766147",
       "identifiers": [
         {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:on"
-        },
-        {
           "scheme": "wikidata",
-          "identifier": "Q1904"
+          "identifier": "Q766147"
         }
       ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Ontario"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1948",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:mb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1948"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Manitoba"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1951",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ab"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1951"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Alberta",
-        "lang:fr": "Alberta"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1952",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ns"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1952"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Nova Scotia",
-        "lang:fr": "Nouvelle-Écosse"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1965",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:nb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1965"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "New Brunswick",
-        "lang:fr": "Nouveau-Brunswick"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1974",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:bc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1974"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "British Columbia",
-        "lang:fr": "Colombie-Britannique"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1979",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:pe"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1979"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Prince Edward Island",
-        "lang:fr": "Île-du-Prince-Édouard"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1989",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:sk"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1989"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Saskatchewan",
-        "lang:fr": "Saskatchewan"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2003",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:nl"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2003"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Newfoundland and Labrador",
-        "lang:fr": "Terre-Neuve et Labrador"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2007",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2007"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Northwest Territories",
-        "lang:fr": "Territoires du Nord-Ouest"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2009",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:yt"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2009"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Yukon"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2023",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2023"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Nunavut",
-        "lang:fr": "Nunavut"
-      },
-      "parent_id": "Q16"
+      "links": [
+
+      ]
     }
   ],
-  "memberships": [
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Government of Nova Scotia"
+      },
+      "id": "Q5589276",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5589276"
+        }
+      ],
+      "area_id": "Q1952"
+    },
+    {
+      "name": {
+        "lang:en": "Progressive Conservative Association of Nova Scotia",
+        "lang:fr": "Association progressiste-conservateur de la Nouvelle-Écosse"
+      },
+      "id": "Q2868020",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2868020"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nova Scotia New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique de la Nouvelle-Écosse"
+      },
+      "id": "Q3345047",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3345047"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nova Scotia Liberal Party",
+        "lang:fr": "Parti libéral de la Nouvelle-Écosse"
+      },
+      "id": "Q3366494",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366494"
+        }
+      ]
+    }
+  ],
+  "areas": [
 
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3498613-2a87e1b0-4422-8658-f0a7-1fcc79c43498",
+      "person_id": "Q3498613",
+      "on_behalf_of_id": "Q3366494",
+      "organization_id": "Q5589276",
+      "area_id": "Q1952",
+      "start_date": "2013-10-22",
+      "role_superclass_code": "Q7240360",
+      "role_superclass": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      },
+      "role_code": "Q7240360",
+      "role": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q3160951-19C8CD90-750B-4976-A032-18CD49129B53",
+      "person_id": "Q3160951",
+      "on_behalf_of_id": "Q3366494",
+      "organization_id": "Q5589276",
+      "area_id": "Q1952",
+      "role_superclass_code": "Q7240360",
+      "role_superclass": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      },
+      "role_code": "Q7240360",
+      "role": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q378058-B6292523-3F7F-4CB1-B7CC-7560BBC0A14C",
+      "person_id": "Q378058",
+      "on_behalf_of_id": "Q2868020",
+      "organization_id": "Q5589276",
+      "area_id": "Q1952",
+      "role_superclass_code": "Q7240360",
+      "role_superclass": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      },
+      "role_code": "Q7240360",
+      "role": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q766147-A7190DA4-1E0D-4D4A-9683-8AB8778738D1",
+      "person_id": "Q766147",
+      "on_behalf_of_id": "Q3345047",
+      "organization_id": "Q5589276",
+      "area_id": "Q1952",
+      "role_superclass_code": "Q7240360",
+      "role_superclass": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      },
+      "role_code": "Q7240360",
+      "role": {
+        "lang:en": "Premier of Nova Scotia",
+        "lang:fr": "premier ministre de la Nouvelle-Écosse"
+      }
+    }
   ]
 }

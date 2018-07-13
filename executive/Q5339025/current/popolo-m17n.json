@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Elmer Ernest Roper",
-        "lang:fr": "Elmer Ernest Roper"
-      },
-      "id": "Q14915630",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q14915630"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Herbert Charles Wilson",
         "lang:fr": "Herbert Charles Wilson"
       },
@@ -588,20 +572,6 @@
     },
     {
       "name": {
-        "lang:en": "Alberta New Democratic Party",
-        "lang:fr": "Nouveau Parti démocratique de l'Alberta"
-      },
-      "id": "Q3345044",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3345044"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Labour candidates and parties in Canada"
       },
       "id": "Q6467545",
@@ -643,428 +613,17 @@
     }
   ],
   "areas": [
-    {
-      "id": "Q16",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q14212"
-      ],
-      "type": {
-        "lang:en": "country",
-        "lang:fr": "pays"
-      },
-      "name": {
-        "lang:en": "Canada",
-        "lang:fr": "Canada"
-      },
-      "parent_id": null
-    },
-    {
-      "id": "Q172",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3520005"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q172"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Toronto"
-      },
-      "parent_id": "Q1904"
-    },
-    {
-      "id": "Q176",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:qc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q176"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Quebec",
-        "lang:fr": "Québec"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1904",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:on"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1904"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Ontario"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1930",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3506008"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1930"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Ottawa"
-      },
-      "parent_id": "Q1904"
-    },
-    {
-      "id": "Q1948",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:mb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1948"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Manitoba"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1951",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ab"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1951"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Alberta",
-        "lang:fr": "Alberta"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1952",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ns"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1952"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Nova Scotia",
-        "lang:fr": "Nouvelle-Écosse"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1974",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:bc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1974"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "British Columbia",
-        "lang:fr": "Colombie-Britannique"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2096",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4811061"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2096"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Edmonton"
-      },
-      "parent_id": "Q1951"
-    },
-    {
-      "id": "Q2135",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4611040"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2135"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Winnipeg"
-      },
-      "parent_id": "Q1948"
-    },
-    {
-      "id": "Q2141",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:1209034"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2141"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Halifax"
-      },
-      "parent_id": "Q1952"
-    },
-    {
-      "id": "Q2145",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2423027"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2145"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Quebec City"
-      },
-      "parent_id": "Q176"
-    },
-    {
-      "id": "Q24639",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:5915022"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24639"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Vancouver"
-      },
-      "parent_id": "Q1974"
-    },
-    {
-      "id": "Q340",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q340"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Montreal"
-      },
-      "parent_id": "Q176"
-    },
-    {
-      "id": "Q36312",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q36312"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Calgary"
-      },
-      "parent_id": "Q1951"
-    }
+
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q14915630-253495B6-0C5E-4D03-965B-21364450D72D",
-      "person_id": "Q14915630",
-      "on_behalf_of_id": "Q3345044",
-      "organization_id": "Q5339025",
-      "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
-      },
-      "role_code": "Q21094906",
-      "role": {
-        "lang:en": "Mayor of Edmonton"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q14949662-9296D553-9465-4FF8-9F43-EC35C267F036",
       "person_id": "Q14949662",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1076,10 +635,9 @@
       "person_id": "Q16018408",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1092,10 +650,9 @@
       "on_behalf_of_id": "Q1518057",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1108,10 +665,9 @@
       "on_behalf_of_id": "Q1518057",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1124,10 +680,9 @@
       "on_behalf_of_id": "Q909827",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1139,10 +694,9 @@
       "person_id": "Q5055849",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1154,10 +708,9 @@
       "person_id": "Q5080743",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1169,10 +722,9 @@
       "person_id": "Q5171364",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1185,10 +737,9 @@
       "on_behalf_of_id": "Q6467545",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1201,10 +752,9 @@
       "organization_id": "Q5339025",
       "area_id": "Q2096",
       "start_date": "2013-10-29",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1217,10 +767,9 @@
       "on_behalf_of_id": "Q1518057",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1232,10 +781,9 @@
       "person_id": "Q5544136",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1247,10 +795,9 @@
       "person_id": "Q5666838",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1262,10 +809,9 @@
       "person_id": "Q5670896",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1278,10 +824,9 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1293,10 +838,9 @@
       "person_id": "Q6149793",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1308,10 +852,9 @@
       "person_id": "Q6218609",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1323,10 +866,9 @@
       "person_id": "Q6263543",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1339,10 +881,9 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1355,10 +896,9 @@
       "on_behalf_of_id": "Q6467545",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1370,10 +910,9 @@
       "person_id": "Q6390782",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1386,10 +925,9 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1402,10 +940,9 @@
       "on_behalf_of_id": "Q939248",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1418,10 +955,9 @@
       "on_behalf_of_id": "Q939248",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1433,10 +969,9 @@
       "person_id": "Q7346789",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1448,10 +983,9 @@
       "person_id": "Q7509270",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1463,10 +997,9 @@
       "person_id": "Q7704210",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1479,10 +1012,9 @@
       "on_behalf_of_id": "Q1292617",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1495,10 +1027,9 @@
       "on_behalf_of_id": "Q1518057",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1511,10 +1042,9 @@
       "on_behalf_of_id": "Q909827",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1527,10 +1057,9 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1542,10 +1071,9 @@
       "person_id": "Q8013291",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1557,10 +1085,9 @@
       "person_id": "Q8017931",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1572,10 +1099,9 @@
       "person_id": "Q8018413",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
@@ -1588,10 +1114,9 @@
       "on_behalf_of_id": "Q939248",
       "organization_id": "Q5339025",
       "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q21094906",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor of Edmonton"
       },
       "role_code": "Q21094906",
       "role": {
