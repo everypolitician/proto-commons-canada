@@ -1,0 +1,1116 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Jordan Brown",
+        "lang:fr": "Jordan Brown"
+      },
+      "id": "Q19876540",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19876540"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jamie Fox",
+        "lang:fr": "Jamie Fox"
+      },
+      "id": "Q19957801",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19957801"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Heath MacDonald",
+        "lang:fr": "Heath MacDonald"
+      },
+      "id": "Q19966780",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19966780"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sidney MacEwen",
+        "lang:fr": "Sidney MacEwen"
+      },
+      "id": "Q19966783",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19966783"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brad Trivers",
+        "lang:fr": "Brad Trivers"
+      },
+      "id": "Q19966785",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19966785"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Palmer"
+      },
+      "id": "Q28059507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28059507"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bush Dumville",
+        "lang:fr": "Bush Dumville"
+      },
+      "id": "Q2928710",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2928710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kathleen Casey",
+        "lang:fr": "Kathleen Casey"
+      },
+      "id": "Q3194059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3194059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paula Biggar",
+        "lang:fr": "Paula Biggar"
+      },
+      "id": "Q3372552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3372552"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Brown",
+        "lang:fr": "Richard Brown"
+      },
+      "id": "Q3430583",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3430583"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Henderson",
+        "lang:fr": "Robert Henderson"
+      },
+      "id": "Q3435378",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3435378"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steven Myers",
+        "lang:fr": "Steven Myers"
+      },
+      "id": "Q3499252",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3499252"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hannah Bell",
+        "lang:fr": "Hannah Bell"
+      },
+      "id": "Q43921032",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43921032"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Legislative Assembly of Prince Edward Island",
+        "lang:fr": "Assemblée législative de l'Île-du-Prince-Édouard"
+      },
+      "id": "Q825815",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q825815"
+        }
+      ],
+      "area_id": "Q1979",
+      "seat_counts": {
+        "Q21010685": "27"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Prince Edward Island",
+        "lang:fr": "Île-du-Prince-Édouard"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2831855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2831855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Alberton-Roseville"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2894314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2894314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Belfast-Murray River"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2910717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2910717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Borden-Kinkora"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2961047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Charlottetown-Brighton"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2961048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Charlottetown-Parkdale"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2961049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Charlottetown-Lewis Point"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2961051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Charlottetown-Sherwood"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2961054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Charlottetown-Victoria Park"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q2997600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2997600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Cornwall-Meadowbank"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3061342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3061342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Evangeline-Miscouche"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3103726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3103726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Georgetown-St. Peters"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3194924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3194924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Kellys Cross-Cumberland"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3195258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3195258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Kensington-Malpeque"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3322383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3322383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Montague-Kilmuir"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3323906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3323906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Morell-Mermaid"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3347410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3347410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "O'Leary-Inverness"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3453561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3453561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Rustico-Emerald"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3491932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3491932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Souris-Elmira"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3500091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3500091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Stratford-Kinlock"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3503683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3503683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Summerside-St. Eleanors"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3503686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3503686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Summerside-Wilmot"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3528333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3528333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Tignish-Palmer Road"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3536140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3536140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Tracadie-Hillsborough Park"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3546076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3546076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Tyne Valley-Linkletter"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3555998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3555998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "Vernon River-Stratford"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3567444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3567444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "West Royalty-Springvale"
+      },
+      "parent_id": "Q1979"
+    },
+    {
+      "id": "Q3572595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:pe/ed:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3572595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21010685"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Prince Edward Island"
+      },
+      "name": {
+        "lang:en": "York-Oyster Bed"
+      },
+      "parent_id": "Q1979"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19876540-C26C856F-6AB9-4B41-87AB-07CC44D5E7A8",
+      "person_id": "Q19876540",
+      "organization_id": "Q825815",
+      "area_id": "Q2961047",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19957801-5690CACE-DDEF-4D6A-A6B9-4EF6D3242EB3",
+      "person_id": "Q19957801",
+      "organization_id": "Q825815",
+      "area_id": "Q2910717",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19966780-D16BE2FF-0FDC-44F4-8F2A-31BA3A2D1347",
+      "person_id": "Q19966780",
+      "organization_id": "Q825815",
+      "area_id": "Q2997600",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19966783-AF8A0589-F732-4C04-B2F9-6C5231287BC7",
+      "person_id": "Q19966783",
+      "organization_id": "Q825815",
+      "area_id": "Q3323906",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19966785-F0E2C607-9BE3-436F-8776-9B7290BC468E",
+      "person_id": "Q19966785",
+      "organization_id": "Q825815",
+      "area_id": "Q3453561",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28059507-7064D700-CAAB-4E57-838A-9D4BDECAB8B6",
+      "person_id": "Q28059507",
+      "organization_id": "Q825815",
+      "area_id": "Q3503686",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2928710-114C9BD9-2625-4CC3-8CCA-C29C8636488A",
+      "person_id": "Q2928710",
+      "organization_id": "Q825815",
+      "area_id": "Q3567444",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3194059-B018C789-7772-4DCB-ACFE-20EEFA49B81E",
+      "person_id": "Q3194059",
+      "organization_id": "Q825815",
+      "area_id": "Q2961049",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3372552-7ae0f76d-4aee-48c4-06bf-3775777cee02",
+      "person_id": "Q3372552",
+      "organization_id": "Q825815",
+      "area_id": "Q3546076",
+      "start_date": "2007-05-28",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3430583-A42212F4-E845-4E44-9DA9-E7A13B58A96E",
+      "person_id": "Q3430583",
+      "organization_id": "Q825815",
+      "area_id": "Q2961054",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3435378-912B8C57-95F1-4AF4-A7F3-2B5CB0A1D9F9",
+      "person_id": "Q3435378",
+      "organization_id": "Q825815",
+      "area_id": "Q3347410",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3499252-089C5E3A-B08E-4528-AFB1-4396A03E4B1E",
+      "person_id": "Q3499252",
+      "organization_id": "Q825815",
+      "area_id": "Q3103726",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43921032-0A610B34-8339-4C71-9509-5B2A452CC355",
+      "person_id": "Q43921032",
+      "organization_id": "Q825815",
+      "area_id": "Q2961048",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1439 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Blaine Pedersen",
+        "lang:fr": "Blaine Pedersen"
+      },
+      "id": "Q4923968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4923968"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/blainepedersenmla"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Legislative Assembly of Manitoba",
+        "lang:fr": "Assemblée législative du Manitoba"
+      },
+      "id": "Q1517320",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1517320"
+        }
+      ],
+      "area_id": "Q1948",
+      "seat_counts": {
+        "Q19007867": "57"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Progressive Conservative Party of Manitoba",
+        "lang:fr": "Parti progressiste-conservateur du Manitoba"
+      },
+      "id": "Q3366633",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366633"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Manitoba"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2398974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:southdale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2398974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Southdale"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2407519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:riel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2407519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Riel"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2826438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:agassiz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2826438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Agassiz"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2867183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:assiniboia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2867183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Assiniboia"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q287870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:arthur-virden"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q287870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Arthur-Virden"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2923732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:brandon_east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2923732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Brandon East"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2923733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:brandon_west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2923733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Brandon West"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2928608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:burrows"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2928608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Burrows"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2960784",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:charleswood"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2960784"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Charleswood"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2962280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:dawson_trail"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2962280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Dawson Trail"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q2992091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:concordia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2992091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Concordia"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3017030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:dauphin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3017030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Dauphin"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3051611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:elmwood"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3051611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Elmwood"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3052176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:emerson"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3052176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Emerson"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3055165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:interlake"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3055165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Interlake"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3073735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:flin_flon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3073735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Flin Flon"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3077876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:fort_garry-riverview"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3077876"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Fort Garry-Riverview"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3077999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:fort_richmond"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3077999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Fort Richmond"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3078005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:fort_rouge"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3078005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Fort Rouge"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3078105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:fort_whyte"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3078105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Fort Whyte"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3106666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:gimli"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3106666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Gimli"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3195840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:kewatinook"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3195840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Kewatinook"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3196586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:kildonan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3196586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Kildonan"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3197398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:kirkfield_park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Kirkfield Park"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3213959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:la_verendrye"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3213959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "La Verendrye"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3214679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:lac_du_bonnet"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3214679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Lac du Bonnet"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3216480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:lakeside"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3216480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Lakeside"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3225272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:the_pas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3225272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "The Pas"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3257846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:logan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3257846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Logan"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3315625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:minto"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3315625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Minto"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3321613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:riding_mountain"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3321613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Riding Mountain"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3323853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:morden-winkler"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3323853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Morden-Winkler"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3324398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:morris"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3324398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Morris"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3393338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:point_douglas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3393338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Point Douglas"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3398737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:portage_la_prairie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3398737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Portage La Prairie"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3417042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:radisson"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3417042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Radisson"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3433485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:river_east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "River East"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3433487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:river_heights"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "River Heights"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3433587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:seine_river"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Seine River"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3461904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:st._boniface"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3461904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "St. Boniface"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3463068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:st._norbert"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "St. Norbert"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3463119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:st._paul"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "St. Paul"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3463515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:st._vital"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "St. Vital"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3463857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:st._james"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "St. James"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3463904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:st._johns"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "St. Johns"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3478166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:selkirk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3478166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Selkirk"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3498073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:steinbach"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3498073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Steinbach"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3506427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:swan_river"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3506427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Swan River"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3521776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:the_maples"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3521776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "The Maples"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3525748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:thompson"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3525748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Thompson"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3537410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:transcona"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3537410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Transcona"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3542476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:tuxedo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3542476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Tuxedo"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3546073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:tyndall_park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3546073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Tyndall Park"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q3569733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:wolseley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3569733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Wolseley"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q668552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:midland"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Midland"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q770353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:spruce_woods"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q770353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Spruce Woods"
+      },
+      "parent_id": "Q1948"
+    },
+    {
+      "id": "Q961737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:mb/ed:rossmere"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q961737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007867"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Manitoba"
+      },
+      "name": {
+        "lang:en": "Rossmere"
+      },
+      "parent_id": "Q1948"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4923968-ecad7366-4bc0-3e78-07a3-eb5bf62cd959",
+      "person_id": "Q4923968",
+      "on_behalf_of_id": "Q3366633",
+      "organization_id": "Q1517320",
+      "area_id": "Q668552",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19007867",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of Manitoba",
+        "lang:fr": "membre de l'Assemblée législative du Manitoba"
+      }
+    }
+  ]
+}

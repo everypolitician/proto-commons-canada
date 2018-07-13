@@ -1,0 +1,1100 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Quebec",
+        "lang:fr": "Québec"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Montreal"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q47455979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:1.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Ahuntsic"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:1.4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Bordeaux-Cartierville"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:1.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Sulpice"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:1.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Sault-au-Récollet"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:3.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Côte-des-Neiges"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:3.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Darlington"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:3.5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Loyola"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:3.4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Notre-Dame-de-Grâce"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:3.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Snowdon"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:5.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Cecil-P.-Newman"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:5.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Sault-Saint-Louis"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:11.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "DeLorimier"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:11.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Jeanne-Mance"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:11.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Mile-End"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:16.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47455999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:16.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Paul—Émard"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:7.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Hochelaga"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:7.4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Louis-Riel"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:7.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Maisonneuve—Longue-Pointe"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:7.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Tétreaultville"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:8.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Marie-Clarac"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:8.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Ovide-Clermont"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:10.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Bois-de-Liesse"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:10.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Cap-Saint-Jacques"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:12.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "La Pointe-aux-Prairies"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:12.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Pointe-aux-Trembles"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:12.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Rivière-des-Prairies"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:13.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Étienne-Desmarteau"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:13.4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Marie-Victorin"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:13.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Édouard"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:13.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Vieux-Rosemont"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:14.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Côte-de-Liesse"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:14.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Norman-McLaren"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:15.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Léonard-Est"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:15.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Léonard-Ouest"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:19.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Michel"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:17.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Champlain—L'Île-des-Soeurs"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:17.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Desmarchais-Crawford"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:18.1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Peter-McGill"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:18.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Saint-Jacques"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:18.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Sainte-Marie"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:19.2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "François-Perrault"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:19.4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Parc-Extension"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q47456031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/district:19.3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47456031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Montreal"
+      },
+      "name": {
+        "lang:en": "Villeray"
+      },
+      "parent_id": "Q340"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

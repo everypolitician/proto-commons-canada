@@ -1,0 +1,3126 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Thomas Kevin Drummond",
+        "lang:fr": "Thomas Kevin Drummond"
+      },
+      "id": "Q21275152",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21275152"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "National Assembly of Quebec",
+        "lang:fr": "Assemblée nationale du Québec"
+      },
+      "id": "Q1492249",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1492249"
+        }
+      ],
+      "area_id": "Q176",
+      "seat_counts": {
+        "Q3305338": "125"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Quebec Liberal Party",
+        "lang:fr": "Parti libéral du Québec"
+      },
+      "id": "Q1631384",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1631384"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Quebec",
+        "lang:fr": "Québec"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q2377768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:353"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2377768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Berthier"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2381824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:783"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2381824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Roberval"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2382048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2382048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Huntingdon"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2424346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:703"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2424346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Rimouski"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q261059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:399"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q261059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Marguerite-Bourgeoys"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2821645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:579"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2821645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Abitibi-Est"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2821647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:573"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2821647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Abitibi-Ouest"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2822230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:437"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2822230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Acadie"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2850263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:373"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2850263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Anjou–Louis-Riel"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2860941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:535"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2860941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Argenteuil"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2864904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:323"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2864904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Arthabaska"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q286850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:663"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q286850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Lévis"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2893118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:309"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2893118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Beauce-Nord"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2893119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:293"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2893119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Beauce-Sud"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2893182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2893182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Beauharnois"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2894824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:303"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2894824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Bellechasse"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2899431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:525"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2899431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Bertrand"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2905727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:473"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2905727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Blainville"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2909922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:713"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2909922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Bonaventure"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2910794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2910794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Borduas"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2922329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:377"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2922329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Bourget"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2925997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2925997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Brome-Missisquoi"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2948099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2948099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Chambly"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2955903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:593"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2955903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Champlain"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2957545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:559"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2957545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Chapleau"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2960772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:619"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2960772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Charlesbourg"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2960791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:679"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2960791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Charlevoix–Côte-de-Beaupré"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2961704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:613"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Chauveau"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2963419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:763"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2963419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Chicoutimi"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2964413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:441"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2964413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Chomedey"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2967723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:659"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2967723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Chutes-de-la-Chaudière"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q2971888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2971888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Châteauguay"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3006259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:433"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3006259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Crémazie"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3010622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:683"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3010622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Côte-du-Sud"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3010893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:403"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3010893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "D'Arcy-McGee"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3024863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:483"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3024863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Deux-Montagnes"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3040122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3040122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Drummond–Bois-Francs"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3040650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:759"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3040650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Dubuc"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3041436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:745"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3041436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Duplessis"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3063783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:443"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3063783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Fabre"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3095559",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:673"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3095559"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Montmorency"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3098859",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:731"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3098859"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Gaspé"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3099274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:557"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3099274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Gatineau"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3111624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:381"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3111624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Gouin"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3113419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3113419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Granby"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3117289",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:481"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3117289"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Groulx"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3138924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:387"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3138924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Hochelaga-Maisonneuve"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3143016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:561"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3143016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Hull"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3157893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:409"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3157893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Jacques-Cartier"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3166585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:623"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3166585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Jean-Lesage"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3170034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:643"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3170034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Jean-Talon"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3175932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:429"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3175932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Jeanne-Mance–Viger"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3183003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3183003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Johnson"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3183136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:361"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3183136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Joliette"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3183626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:773"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3183626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Jonquière"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3202478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:363"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3202478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "L'Assomption"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3206243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:371"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "LaFontaine"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3211449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:603"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3211449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "La Peltrie"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3211644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3211644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "La Pinière"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3211885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3211885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "La Prairie"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3214319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:545"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3214319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Labelle"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3214651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:779"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3214651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Lac-Saint-Jean"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3217775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3217775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Laporte"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3219660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:423"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3219660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Laurier-Dorion"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3219748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:439"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3219748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Laval-des-Rapides"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3219830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:583"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3219830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Laviolette"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3259964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:289"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3259964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Lotbinière-Frontenac"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3260600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:653"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3260600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Louis-Hébert"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3292298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3292298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Marie-Victorin"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3294760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:407"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3294760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Marquette"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3297286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:349"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3297286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Maskinongé"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3297801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:465"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3297801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Masson"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3298209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:711"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3298209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Matane-Matapédia"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3306380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:383"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3306380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Mercier"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3314264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:451"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3314264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Mille-Îles"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3315793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:495"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3315793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Mirabel"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3321617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:419"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3321617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Mont-Royal"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3322449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3322449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Montarville"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3332790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3332790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Mégantic"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3337918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:411"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3337918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Nelligan"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3341152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:329"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3341152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Nicolet-Bécancour"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3344589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:401"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3344589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Notre-Dame-de-Grâce"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3355914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3355914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Orford"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3358665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:421"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3358665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Outremont"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3362911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:553"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3362911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Papineau"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3393517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:369"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3393517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Pointe-aux-Trembles"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3397735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:563"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3397735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Pontiac"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3399332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:599"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3399332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Portneuf"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3425708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:753"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3425708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "René-Lévesque"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3427228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:367"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3427228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Repentigny"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3431420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3431420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Richelieu"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3431469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3431469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Richmond"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3433607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:699"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Rivière-du-Loup–Témiscouata"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3434356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:413"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3434356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Robert-Baldwin"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3443437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:515"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3443437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Rousseau"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3445512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:567"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3445512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Rouyn-Noranda–Témiscamingue"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3462187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Saint-François"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3462395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:393"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Saint-Henri–Sainte-Anne"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3462431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Saint-Hyacinthe"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3462578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Saint-Jean"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3462678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:505"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Saint-Jérôme"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3462722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:417"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Saint-Laurent"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3462965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:343"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3462965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Saint-Maurice"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3464370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:389"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3464370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Sainte-Marie–Saint-Jacques"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3464415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:447"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3464415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Sainte-Rose"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3472258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3472258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Sanguinet"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3481912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3481912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Sherbrooke"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3491636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3491636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Soulanges"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3514032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3514032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Taillon"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3515928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:633"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3515928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Taschereau"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3518684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:453"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3518684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Terrebonne"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3539917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:333"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3539917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Trois-Rivières"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3549908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:793"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3549908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Ungava"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3553117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3553117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Vachon"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3554586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:639"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3554586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Vanier-Les Rivières"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3555763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3555763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Verchères"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3555824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:397"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3555824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Verdun"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3556797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:427"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3556797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Viau"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3559344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:449"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3559344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Vimont"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3567542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:391"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3567542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Westmount–Saint-Louis"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q3593522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:733"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3593522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Îles-de-la-Madeleine"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q600540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q600540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Iberville"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q726528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:431"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q726528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Bourassa-Sauvé"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q788732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q788732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Vaudreuil"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q9648145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc/ed:379"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9648145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3305338"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of Quebec",
+        "lang:fr": "circonscription électorale du Québec"
+      },
+      "name": {
+        "lang:fr": "Rosemont"
+      },
+      "parent_id": "Q176"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21275152-c5be6380-40b3-bca8-b5fc-f861d582fa62",
+      "person_id": "Q21275152",
+      "on_behalf_of_id": "Q1631384",
+      "organization_id": "Q1492249",
+      "area_id": "Q3567537",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14212"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1840816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1840816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Copperbelt North"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q1841547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1841547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Copperbelt South"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q1841558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1841558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Mountainview"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q1842118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1842118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Takhini Kopper King"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q1842800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1842800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Mount Lorne - Southern Lakes"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q2009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2505921"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Yukon"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q3197896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Klondike"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3197911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Kluane"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3215001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3215001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Lake Laberge"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3302995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3302995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Mayo Tatchun"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3374511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3374511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Pelly Nisutlin"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3399235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3399235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Porter Creek Centre"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3399237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3399237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Porter Creek North"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3399238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3399238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Porter Creek South"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3433502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Riverdale South"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3433505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Riverdale North"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3563849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3563849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Vuntut Gwitchin"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3567803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3567803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Whitehorse Centre"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q3567804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3567804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Whitehorse West"
+      },
+      "parent_id": "Q2009"
+    },
+    {
+      "id": "Q7974835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:yt/ed-tmp:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7974835"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18608478"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Yukon"
+      },
+      "name": {
+        "lang:en": "Watson Lake"
+      },
+      "parent_id": "Q2009"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
