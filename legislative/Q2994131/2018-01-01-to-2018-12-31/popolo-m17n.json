@@ -263,6 +263,106 @@
   ],
   "areas": [
     {
+      "id": "Q1324904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1324904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Villeray—Saint-Michel—Parc-Extension"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1325316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1325316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Saint-Léonard"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1474128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1474128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Lachine"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1571112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1571112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Rosemont—La Petite-Patrie"
+      },
+      "parent_id": "Q340"
+    },
+    {
       "id": "Q16",
       "identifiers": [
         {
@@ -286,6 +386,156 @@
         "lang:fr": "Canada"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q1612609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1612609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Rivière-des-Prairies—Pointe-aux-Trembles"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1628875",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1628875"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Sud-Ouest"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1628888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1628888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Mercier—Hochelaga-Maisonneuve"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1629121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1629121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "LaSalle"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1629887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1629887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Côte-des-Neiges—Notre-Dame-de-Grâce"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1714436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1714436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Montréal-Nord"
+      },
+      "parent_id": "Q340"
     },
     {
       "id": "Q176",
@@ -314,6 +564,131 @@
       "parent_id": "Q16"
     },
     {
+      "id": "Q1810072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1810072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Plateau-Mont-Royal"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1896248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1896248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Pierrefonds-Roxboro"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q2042095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2042095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Outremont"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q2117999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2117999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Saint-Laurent"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q247123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q247123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Ville-Marie"
+      },
+      "parent_id": "Q340"
+    },
+    {
       "id": "Q340",
       "identifiers": [
         {
@@ -336,6 +711,31 @@
         "lang:en": "Montreal"
       },
       "parent_id": "Q176"
+    },
+    {
+      "id": "Q403031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q403031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Ahuntsic-Cartierville"
+      },
+      "parent_id": "Q340"
     },
     {
       "id": "Q47455979",
@@ -1346,6 +1746,81 @@
       },
       "name": {
         "lang:en": "Villeray"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q518076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q518076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Verdun"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q551476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q551476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Anjou"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q617452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q617452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "L'Île-Bizard—Sainte-Geneviève"
       },
       "parent_id": "Q340"
     }
