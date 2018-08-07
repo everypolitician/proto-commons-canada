@@ -1,9 +1,51 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Brad Wall",
+        "lang:fr": "Brad Wall"
+      },
+      "id": "Q437816",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q437816"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Government of Saskatchewan"
+      },
+      "id": "Q30295437",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30295437"
+        }
+      ],
+      "area_id": "Q1989"
+    },
+    {
+      "name": {
+        "lang:en": "Saskatchewan Party",
+        "lang:fr": "Parti saskatchewanais"
+      },
+      "id": "Q2225652",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2225652"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -368,6 +410,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/q437816-092D549F-0001-448D-9D59-97D350CE7745",
+      "person_id": "Q437816",
+      "on_behalf_of_id": "Q2225652",
+      "organization_id": "Q30295437",
+      "area_id": "Q1989",
+      "start_date": "2007-11-21",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q6578215",
+      "role": {
+        "lang:en": "Premier of Saskatchewan",
+        "lang:fr": "premier ministre de la Saskatchewan"
+      }
+    }
   ]
 }

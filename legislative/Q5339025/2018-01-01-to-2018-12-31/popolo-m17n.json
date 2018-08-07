@@ -1,9 +1,191 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Aaron Paquette"
+      },
+      "id": "Q22279565",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22279565"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ben Henderson",
+        "lang:fr": "Ben Henderson"
+      },
+      "id": "Q4885824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4885824"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jon Dziadyk"
+      },
+      "id": "Q55122060",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122060"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Scott McKeen"
+      },
+      "id": "Q55122065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Walters"
+      },
+      "id": "Q55122071",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122071"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bev Esslinger"
+      },
+      "id": "Q55122072",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122072"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Knack"
+      },
+      "id": "Q55122076",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tim Cartmell"
+      },
+      "id": "Q55122077",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122077"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohinder Banga"
+      },
+      "id": "Q55122081",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122081"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarah Hamilton"
+      },
+      "id": "Q55122088",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122088"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mike Nickel",
+        "lang:fr": "Mike Nickel"
+      },
+      "id": "Q6848190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6848190"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Edmonton City Council"
+      },
+      "id": "Q5339025",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5339025"
+        }
+      ],
+      "area_id": "Q2096",
+      "seat_counts": {
+        "Q47490130": "12"
+      }
+    }
   ],
   "areas": [
     {
@@ -359,6 +541,185 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22279565-49FA7A46-B064-4A22-8DDE-65D6D6741BD4",
+      "person_id": "Q22279565",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490240",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4885824-4E3BED97-F933-453F-BD7B-527E3983BE5C",
+      "person_id": "Q4885824",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490244",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122060-BE98EA52-F615-4604-9310-CD3FE3CAE0FE",
+      "person_id": "Q55122060",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490239",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122065-77DB12AB-3829-436D-8C93-1591B0F89307",
+      "person_id": "Q55122065",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490242",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122071-6943B1E6-2D47-4965-8810-47F25DBB9703",
+      "person_id": "Q55122071",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490246",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122071-C7AF2525-CFBC-47B8-B7BA-652054EA0A1F",
+      "person_id": "Q55122071",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490246",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122072-9BB094B2-B362-4F90-9F7C-8E77C807E97B",
+      "person_id": "Q55122072",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490238",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122076-1C3B7EF4-38F0-4437-9E05-D61A04D6E060",
+      "person_id": "Q55122076",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490237",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122077-F10EBCD7-3DC3-4B5D-AEE0-F7D669980449",
+      "person_id": "Q55122077",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490245",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122081-20392CD8-A8F0-4A1F-9A38-6CAC6DFD0EDA",
+      "person_id": "Q55122081",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490202",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122088-282808B4-F3B9-444D-8882-5EDAAC1B5712",
+      "person_id": "Q55122088",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490241",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6848190-36A396FB-3A7D-407C-A6A2-3E2B9FC14FC3",
+      "person_id": "Q6848190",
+      "organization_id": "Q5339025",
+      "area_id": "Q47490247",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490130",
+      "role": {
+        "lang:en": "Member of Edmonton City Council"
+      }
+    }
   ]
 }

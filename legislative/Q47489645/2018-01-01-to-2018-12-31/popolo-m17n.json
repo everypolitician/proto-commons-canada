@@ -1,9 +1,222 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Shawn Dobson"
+      },
+      "id": "Q55127662",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127662"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Devi Sharma"
+      },
+      "id": "Q55127699",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127699"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Matt Allard"
+      },
+      "id": "Q55127708",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127708"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cindy Gilroy"
+      },
+      "id": "Q55127716",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127716"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Scott Gillingham"
+      },
+      "id": "Q55127733",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127733"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mike Pagtakhan"
+      },
+      "id": "Q55127745",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127745"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Janice Lukes"
+      },
+      "id": "Q55127753",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127753"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brian Mayes"
+      },
+      "id": "Q55127764",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127764"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Marty Morantz"
+      },
+      "id": "Q55127770",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127770"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jeff Browaty"
+      },
+      "id": "Q55127776",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55127776"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jenny Gerbasi",
+        "lang:fr": "Jenny Gerbasi"
+      },
+      "id": "Q6179281",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6179281"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Orlikow",
+        "lang:fr": "John Orlikow"
+      },
+      "id": "Q6251306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6251306"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Russ Wyatt"
+      },
+      "id": "Q7381262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7381262"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Winnipeg City Council",
+        "lang:fr": "Conseil municipal de Winnipeg"
+      },
+      "id": "Q47489645",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47489645"
+        }
+      ],
+      "area_id": "Q2135",
+      "seat_counts": {
+        "Q47490128": "16"
+      }
+    }
   ],
   "areas": [
     {
@@ -427,6 +640,200 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127662-1470E54D-3599-45DE-917F-C2A1944D6410",
+      "person_id": "Q55127662",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490227",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127699-972E5088-303C-41EE-AFEB-B93370EA0C59",
+      "person_id": "Q55127699",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490222",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127708-0DC2B378-07A6-4918-8362-FBBDCE298DDD",
+      "person_id": "Q55127708",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490233",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127716-9368917A-E797-4DC5-8D25-B72E9306CDF9",
+      "person_id": "Q55127716",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490225",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127733-E37DE830-EE98-488A-9FF6-FE58A6DE8746",
+      "person_id": "Q55127733",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490226",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127745-DDC0D70E-8E02-4EA5-9437-731A36B2FD78",
+      "person_id": "Q55127745",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490224",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127753-2E890F79-2552-4DA1-B367-0367A5712FEF",
+      "person_id": "Q55127753",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490231",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127764-8F48EFFD-F709-4C77-A25F-C6F02C619924",
+      "person_id": "Q55127764",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490232",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127770-94F2E993-7BF4-45BA-95E8-69108CBA6D58",
+      "person_id": "Q55127770",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490228",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55127776-857A8F69-EEB6-4543-9D9C-3805D09E1852",
+      "person_id": "Q55127776",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490236",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6179281-95F037AA-6A3A-4B25-AF72-2F85168BB575",
+      "person_id": "Q6179281",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490230",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6251306-55059C49-2ED5-4BB6-AD0F-0CF47739D2E0",
+      "person_id": "Q6251306",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490229",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7381262-84BB8BE7-BBA5-41D4-89B4-B4A4BF5D73C6",
+      "person_id": "Q7381262",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490234",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    }
   ]
 }

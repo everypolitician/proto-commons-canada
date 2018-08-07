@@ -2,6 +2,36 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Sean Chu"
+      },
+      "id": "Q20630836",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20630836"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ward Sutherland"
+      },
+      "id": "Q21063464",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21063464"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Joe Magliocca"
       },
       "id": "Q21066770",
@@ -20,6 +50,37 @@
     },
     {
       "name": {
+        "lang:en": "Ray Jones"
+      },
+      "id": "Q21067141",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21067141"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Demong",
+        "lang:fr": "Peter Demong"
+      },
+      "id": "Q22277555",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22277555"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Druh Farrell"
       },
       "id": "Q22277744",
@@ -33,7 +94,116 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/DruhFarrellCalgary"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DruhFarrellCalgary"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Evan Woolley"
+      },
+      "id": "Q23091320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23091320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gian-Carlo Carra"
+      },
+      "id": "Q38231670",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38231670"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jeromy Farkas"
+      },
+      "id": "Q51470490",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51470490"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Diane Colley-Urquhart"
+      },
+      "id": "Q5271424",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5271424"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Chahal"
+      },
+      "id": "Q55122163",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122163"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jyoti Gondek"
+      },
+      "id": "Q55122176",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122176"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shane Keating"
+      },
+      "id": "Q55122215",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122215"
+        }
+      ],
+      "links": [
+
       ]
     }
   ],
@@ -458,11 +628,91 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20630836-4E6CC609-0E8A-45A7-B37A-F1B104263181",
+      "person_id": "Q20630836",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455796",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21063464-B1CF1922-6282-4A4B-9838-38C936DC615D",
+      "person_id": "Q21063464",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455783",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21066770-66283de7-4fee-0af1-8ada-e4c141eff26b",
       "person_id": "Q21066770",
       "organization_id": "Q4145705",
       "area_id": "Q47455793",
       "start_date": "2013-10-21",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21067141-FD4FD1C8-E750-470A-AD36-AA71C1DCA7BA",
+      "person_id": "Q21067141",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455802",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22277555-45A90020-A448-4743-9BF2-05C3E7CD37FE",
+      "person_id": "Q22277555",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455806",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22277744-537CF21D-D539-4B8D-BB7A-A4BD1303CC29",
+      "person_id": "Q22277744",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455799",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
       "role_code": "Q45414913",
       "role": {
         "lang:en": "Member of Calgary City Council"
@@ -474,6 +724,116 @@
       "organization_id": "Q4145705",
       "area_id": "Q47455799",
       "start_date": "2001-10-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23091320-63442672-8BF5-4F57-87C0-705D918A4D69",
+      "person_id": "Q23091320",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455800",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q38231670-7E1160D3-D13F-4770-AFD4-02504CE58CA7",
+      "person_id": "Q38231670",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455801",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51470490-75F67E31-5375-4B5D-88C6-7F03B94E0032",
+      "person_id": "Q51470490",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455803",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5271424-11021CD5-C6A3-4D4B-BAFA-189BFDFF138E",
+      "person_id": "Q5271424",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455805",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122163-9B4B1FBE-0203-4643-870F-19955B9655C6",
+      "person_id": "Q55122163",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455797",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122176-8DC7CC00-66B2-46A1-BCFA-0DA0CEFD9066",
+      "person_id": "Q55122176",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455795",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "Member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122215-B2D28E81-F989-4B3E-B6E1-08FE5E155CDE",
+      "person_id": "Q55122215",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455804",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
       "role_code": "Q45414913",
       "role": {
         "lang:en": "Member of Calgary City Council"

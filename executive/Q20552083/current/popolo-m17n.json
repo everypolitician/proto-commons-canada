@@ -1,9 +1,111 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Greg Selinger",
+        "lang:fr": "Greg Selinger"
+      },
+      "id": "Q178944",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q178944"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tobias Norris",
+        "lang:fr": "Tobias Crawford Norris"
+      },
+      "id": "Q2437944",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2437944"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brian Pallister",
+        "lang:fr": "Brian Pallister"
+      },
+      "id": "Q2924976",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2924976"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Government of Manitoba"
+      },
+      "id": "Q20552083",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20552083"
+        }
+      ],
+      "area_id": "Q1948"
+    },
+    {
+      "name": {
+        "lang:en": "Progressive Conservative Party of Manitoba",
+        "lang:fr": "Parti progressiste-conservateur du Manitoba"
+      },
+      "id": "Q3366633",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366633"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Conservative Party of Canada",
+        "lang:fr": "Parti conservateur du Canada"
+      },
+      "id": "Q488523",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q488523"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "New Democratic Party of Manitoba",
+        "lang:fr": "Nouveau Parti démocratique du Manitoba"
+      },
+      "id": "Q774542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q774542"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -368,6 +470,74 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2924976-7C5AC260-2A0D-471D-A3E4-A35199F1180C",
+      "person_id": "Q2924976",
+      "on_behalf_of_id": "Q3366633",
+      "organization_id": "Q20552083",
+      "area_id": "Q1948",
+      "start_date": "2016-05-03",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q3401758",
+      "role": {
+        "lang:en": "Premier of Manitoba",
+        "lang:fr": "Premier ministre du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2924976-7C5AC260-2A0D-471D-A3E4-A35199F1180C",
+      "person_id": "Q2924976",
+      "on_behalf_of_id": "Q488523",
+      "organization_id": "Q20552083",
+      "area_id": "Q1948",
+      "start_date": "2016-05-03",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q3401758",
+      "role": {
+        "lang:en": "Premier of Manitoba",
+        "lang:fr": "Premier ministre du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q178944-28AB6EF7-DF60-4276-83EF-A27EE8506F27",
+      "person_id": "Q178944",
+      "on_behalf_of_id": "Q774542",
+      "organization_id": "Q20552083",
+      "area_id": "Q1948",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q3401758",
+      "role": {
+        "lang:en": "Premier of Manitoba",
+        "lang:fr": "Premier ministre du Manitoba"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q2437944-30EDA15F-68D5-45C8-BCFB-56229FF26808",
+      "person_id": "Q2437944",
+      "organization_id": "Q20552083",
+      "area_id": "Q1948",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q3401758",
+      "role": {
+        "lang:en": "Premier of Manitoba",
+        "lang:fr": "Premier ministre du Manitoba"
+      }
+    }
   ]
 }

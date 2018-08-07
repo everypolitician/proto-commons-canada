@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Hilda Watson",
+        "lang:fr": "Hilda Watson"
+      },
+      "id": "Q16013984",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16013984"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jim McLachlan",
         "lang:fr": "Jim McLachlan"
       },
@@ -1843,6 +1859,21 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16013984-22d11969-b890-41a2-9614-51ae90f06b93",
+      "person_id": "Q16013984",
+      "organization_id": "Q908022",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16106346-47F2A579-B91B-4E8A-898E-15B42D5287AE",
       "person_id": "Q16106346",

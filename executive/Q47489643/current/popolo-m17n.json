@@ -1,9 +1,98 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Gregor Robertson",
+        "lang:fr": "Gregor Robertson"
+      },
+      "id": "Q1391375",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1391375"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Art Phillips",
+        "lang:fr": "Art Phillips"
+      },
+      "id": "Q4797014",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4797014"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jack Volrich",
+        "lang:fr": "Jack Volrich"
+      },
+      "id": "Q6115597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6115597"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Vancouver City Council",
+        "lang:fr": "Conseil municipal de Vancouver"
+      },
+      "id": "Q47489643",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47489643"
+        }
+      ],
+      "area_id": "Q24639"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Canada",
+        "lang:fr": "Parti libéral du Canada"
+      },
+      "id": "Q138345",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "British Columbia New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique de la Colombie-Britannique"
+      },
+      "id": "Q919052",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q919052"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -403,6 +492,56 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1391375-b644f969-4553-6815-7243-a24fe880fa87",
+      "person_id": "Q1391375",
+      "on_behalf_of_id": "Q919052",
+      "organization_id": "Q47489643",
+      "area_id": "Q24639",
+      "start_date": "2008-12-08",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q24255207",
+      "role": {
+        "lang:en": "Mayor of Vancouver",
+        "lang:fr": "maire de Vancouver"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4797014-abf39ee4-426b-3360-861f-2fd6126f57e6",
+      "person_id": "Q4797014",
+      "on_behalf_of_id": "Q138345",
+      "organization_id": "Q47489643",
+      "area_id": "Q24639",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q24255207",
+      "role": {
+        "lang:en": "Mayor of Vancouver",
+        "lang:fr": "maire de Vancouver"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6115597-de51db21-489d-102d-7e3e-d982797a721a",
+      "person_id": "Q6115597",
+      "organization_id": "Q47489643",
+      "area_id": "Q24639",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q24255207",
+      "role": {
+        "lang:en": "Mayor of Vancouver",
+        "lang:fr": "maire de Vancouver"
+      }
+    }
   ]
 }

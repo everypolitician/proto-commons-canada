@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Elmer Ernest Roper",
-        "lang:fr": "Elmer Ernest Roper"
-      },
-      "id": "Q14915630",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q14915630"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Herbert Charles Wilson",
         "lang:fr": "Herbert Charles Wilson"
       },
@@ -588,20 +572,6 @@
     },
     {
       "name": {
-        "lang:en": "Alberta New Democratic Party",
-        "lang:fr": "Nouveau Parti démocratique de l'Alberta"
-      },
-      "id": "Q3345044",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3345044"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Labour candidates and parties in Canada"
       },
       "id": "Q6467545",
@@ -1040,22 +1010,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q14915630-253495B6-0C5E-4D03-965B-21364450D72D",
-      "person_id": "Q14915630",
-      "on_behalf_of_id": "Q3345044",
-      "organization_id": "Q5339025",
-      "area_id": "Q2096",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
-      },
-      "role_code": "Q21094906",
-      "role": {
-        "lang:en": "Mayor of Edmonton"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q14949662-9296D553-9465-4FF8-9F43-EC35C267F036",
       "person_id": "Q14949662",

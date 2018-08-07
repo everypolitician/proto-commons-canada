@@ -1,9 +1,191 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Kathy Dunderdale",
+        "lang:fr": "Kathy Dunderdale"
+      },
+      "id": "Q1396012",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1396012"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Bond",
+        "lang:fr": "Robert Bond"
+      },
+      "id": "Q176075",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q176075"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frederick Carter",
+        "lang:fr": "Frederick Carter"
+      },
+      "id": "Q2090572",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2090572"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Squires",
+        "lang:fr": "Richard Squires"
+      },
+      "id": "Q2150634",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2150634"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Clyde Wells",
+        "lang:fr": "Clyde Wells"
+      },
+      "id": "Q2980434",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2980434"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frederick C. Alderdice",
+        "lang:fr": "Frederick C. Alderdice"
+      },
+      "id": "Q5497454",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5497454"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tom Marshall",
+        "lang:fr": "Tom Marshall"
+      },
+      "id": "Q7816723",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7816723"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Whiteway",
+        "lang:fr": "William Whiteway"
+      },
+      "id": "Q8020299",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8020299"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Government of Newfoundland and Labrador",
+        "lang:fr": "Gouvernement de Terre-Neuve-et-Labrador"
+      },
+      "id": "Q5589273",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5589273"
+        }
+      ],
+      "area_id": "Q2003"
+    },
+    {
+      "name": {
+        "lang:en": "Progressive Conservative Party of Newfoundland and Labrador",
+        "lang:fr": "Parti progressiste-conservateur de Terre-Neuve-et-Labrador"
+      },
+      "id": "Q2399535",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2399535"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Newfoundland and Labrador",
+        "lang:fr": "Parti libéral de Terre-Neuve-et-Labrador"
+      },
+      "id": "Q3366492",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366492"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "United Newfoundland Party"
+      },
+      "id": "Q7888990",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7888990"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -368,6 +550,139 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q176075-D2831686-EF62-4C61-B1F0-90A7F4CB4F9D",
+      "person_id": "Q176075",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2090572-BC71612A-94E7-4847-9FF3-3FD531BCFCE0",
+      "person_id": "Q2090572",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2150634-CC9F9DC2-FBF7-4EC3-9EBE-DEBFE70AAEC9",
+      "person_id": "Q2150634",
+      "on_behalf_of_id": "Q3366492",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5497454-4DD28A1E-BCD9-486D-B8A5-458668BF4181",
+      "person_id": "Q5497454",
+      "on_behalf_of_id": "Q7888990",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7816723-2d5128c6-4dfc-eaba-f952-e879e269bfc7",
+      "person_id": "Q7816723",
+      "on_behalf_of_id": "Q2399535",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "start_date": "2013-01-24",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8020299-6a093bd8-446f-2f27-1331-5ddb2dc22f50",
+      "person_id": "Q8020299",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q1396012-D71D1088-2F52-4BC2-92A6-50BB9380CA71",
+      "person_id": "Q1396012",
+      "on_behalf_of_id": "Q2399535",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q2980434-EC9CF726-242C-4DBA-80C8-4FDD3A20C3E1",
+      "person_id": "Q2980434",
+      "on_behalf_of_id": "Q3366492",
+      "organization_id": "Q5589273",
+      "area_id": "Q2003",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240356",
+      "role": {
+        "lang:en": "Premier of Newfoundland and Labrador",
+        "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+      }
+    }
   ]
 }

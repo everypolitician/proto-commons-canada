@@ -1122,6 +1122,21 @@
     },
     {
       "name": {
+        "lang:en": "Colleen Young"
+      },
+      "id": "Q21062862",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21062862"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Reginald John Marsden Parker",
         "lang:fr": "Reginald John Marsden Parker"
       },
@@ -1297,6 +1312,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23881408"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Warren Kaeding"
+      },
+      "id": "Q23881411",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23881411"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Doug Steele"
+      },
+      "id": "Q23881416",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23881416"
         }
       ],
       "links": [
@@ -1743,6 +1788,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4706327"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alan Embury",
+        "lang:fr": "Alan Embury"
+      },
+      "id": "Q4706581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4706581"
         }
       ],
       "links": [
@@ -2703,6 +2764,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5024808"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Todd Goudy"
+      },
+      "id": "Q50321907",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50321907"
         }
       ],
       "links": [
@@ -4279,6 +4355,22 @@
     },
     {
       "name": {
+        "lang:en": "Frederick Bagshaw",
+        "lang:fr": "Frederick Bagshaw"
+      },
+      "id": "Q5497322",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5497322"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Frederick Clarke Tate",
         "lang:fr": "Frederick Clarke Tate"
       },
@@ -5743,6 +5835,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6134880"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Pascoe",
+        "lang:fr": "James Pascoe"
+      },
+      "id": "Q6140982",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6140982"
         }
       ],
       "links": [
@@ -7343,6 +7451,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6722810"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malcolm Dobie",
+        "lang:fr": "Malcolm Dobie"
+      },
+      "id": "Q6742278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6742278"
         }
       ],
       "links": [
@@ -12408,6 +12532,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21062862-185D9091-D2B4-4E51-B47C-AFC9422B8F6C",
+      "person_id": "Q21062862",
+      "organization_id": "Q1537375",
+      "area_id": "Q6662843",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2137997-CB29ACB5-AD5B-4D77-BA5B-311BE39A9622",
       "person_id": "Q2137997",
       "organization_id": "Q1537375",
@@ -12598,6 +12738,39 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23881411-FB478ECA-71C9-4FD0-8E49-17A2E45A4845",
+      "person_id": "Q23881411",
+      "organization_id": "Q1537375",
+      "area_id": "Q6813848",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23881416-EF510234-851C-4A44-B1D1-2F6177FEA897",
+      "person_id": "Q23881416",
+      "organization_id": "Q1537375",
+      "area_id": "Q5200338",
+      "start_date": "2016-04-04",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23881420-714BAF42-10B4-44E8-B07C-74B9721A5C34",
       "person_id": "Q23881420",
       "organization_id": "Q1537375",
@@ -12693,6 +12866,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3014970-3CF7DBD7-45DF-4DDA-AAB8-BCF26F13C242",
       "person_id": "Q3014970",
       "organization_id": "Q1537375",
+      "area_id": "Q7425676",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -12754,6 +12928,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3036768-9B0FF85D-4DD9-41AF-87CA-BCCDDAC17BCF",
       "person_id": "Q3036768",
       "organization_id": "Q1537375",
+      "area_id": "Q24191357",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -12784,6 +12959,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3038389-4D69B842-2C90-4A2E-BA70-68BD0AAA3FA8",
       "person_id": "Q3038389",
       "organization_id": "Q1537375",
+      "area_id": "Q5193828",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -12814,6 +12990,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3086800-D78F82B4-08BA-46C4-9079-F7321B345296",
       "person_id": "Q3086800",
       "organization_id": "Q1537375",
+      "area_id": "Q5046704",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -13010,6 +13187,21 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4706327-EF89E807-D8B9-4FAC-9D14-7E842302660E",
       "person_id": "Q4706327",
+      "organization_id": "Q1537375",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4706581-7c338403-6105-4659-b7b6-f33b6266ca7a",
+      "person_id": "Q4706581",
       "organization_id": "Q1537375",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
@@ -13923,6 +14115,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q50321907-D1810B18-FAFF-4E5C-8BC4-6A06E2743FB1",
+      "person_id": "Q50321907",
+      "organization_id": "Q1537375",
+      "area_id": "Q3305031",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5040441-F0213462-490B-4BD0-8DAC-23ECF33EA4BA",
       "person_id": "Q5040441",
       "organization_id": "Q1537375",
@@ -13971,6 +14179,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5053496-07E026DD-7346-460C-B1A7-E01402552FA0",
       "person_id": "Q5053496",
       "organization_id": "Q1537375",
+      "area_id": "Q7425668",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -14452,6 +14661,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5233726-DD95FE36-4170-42EE-BBA2-1C3D5B7624DA",
       "person_id": "Q5233726",
       "organization_id": "Q1537375",
+      "area_id": "Q3473795",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -15395,6 +15605,21 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5497322-81c6c457-33c5-4e16-a669-cf1c68828329",
+      "person_id": "Q5497322",
+      "organization_id": "Q1537375",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5497543-6EA0F844-3DA8-40BA-AE63-3304F921B7F2",
       "person_id": "Q5497543",
       "organization_id": "Q1537375",
@@ -15849,6 +16074,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5567792-D0C882DA-AF68-42EB-9B3F-417293DE6A85",
       "person_id": "Q5567792",
       "organization_id": "Q1537375",
+      "area_id": "Q3218399",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -16781,6 +17007,21 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q6140982-cb496264-6ae3-490c-9bc4-43aee56bdebe",
+      "person_id": "Q6140982",
+      "organization_id": "Q1537375",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6142127-FF4BA40E-D1C0-4DB9-97A2-A04A259A277D",
       "person_id": "Q6142127",
       "organization_id": "Q1537375",
@@ -16859,6 +17100,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6181454-CA7B16C5-A1DA-441F-9369-4511978F4949",
       "person_id": "Q6181454",
       "organization_id": "Q1537375",
+      "area_id": "Q3215052",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -18285,6 +18527,21 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q6742278-6eb121cd-b74a-491d-8385-b24de32058c3",
+      "person_id": "Q6742278",
+      "organization_id": "Q1537375",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6766238-39EFA1EA-3B42-486F-9EC8-83722B1AC6C1",
       "person_id": "Q6766238",
       "organization_id": "Q1537375",
@@ -18604,6 +18861,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6962741-229B898D-9044-4A44-BE4F-FA6379F1110A",
       "person_id": "Q6962741",
       "organization_id": "Q1537375",
+      "area_id": "Q24191359",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -18859,6 +19117,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7152469-51AD7B77-F1C1-4471-9644-95D4C30B19C4",
       "person_id": "Q7152469",
       "organization_id": "Q1537375",
+      "area_id": "Q24191365",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -19039,6 +19298,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7292505-07D9309A-F805-4CA4-BE05-C77ED45E49C4",
       "person_id": "Q7292505",
       "organization_id": "Q1537375",
+      "area_id": "Q24191355",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -20152,6 +20412,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7970387-FB118FC5-D70E-48B3-825D-4F097584EE1C",
       "person_id": "Q7970387",
       "organization_id": "Q1537375",
+      "area_id": "Q14874996",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -20167,6 +20428,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7970499-73078AE6-C4CE-4605-A974-2A42B83BEE8A",
       "person_id": "Q7970499",
       "organization_id": "Q1537375",
+      "area_id": "Q2394580",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

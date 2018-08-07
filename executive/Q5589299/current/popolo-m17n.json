@@ -1,9 +1,255 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "John Holl",
+        "lang:fr": "John Holl"
+      },
+      "id": "Q13522650",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13522650"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Wade MacLauchlan",
+        "lang:fr": "Wade MacLauchlan"
+      },
+      "id": "Q19825046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19825046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Ghiz",
+        "lang:fr": "Robert Ghiz"
+      },
+      "id": "Q2157288",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2157288"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James David Stewart",
+        "lang:fr": "James David Stewart"
+      },
+      "id": "Q3161011",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3161011"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Lee",
+        "lang:fr": "James Matthew Lee"
+      },
+      "id": "Q3161260",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3161260"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joe Ghiz",
+        "lang:fr": "Joe Ghiz"
+      },
+      "id": "Q3180073",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3180073"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Walter Lea",
+        "lang:fr": "Walter Maxfield Lea"
+      },
+      "id": "Q3565825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3565825"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Coles",
+        "lang:fr": "George Coles"
+      },
+      "id": "Q4236422",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4236422"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward Palmer",
+        "lang:fr": "Edward Palmer"
+      },
+      "id": "Q540634",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q540634"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Hensley",
+        "lang:fr": "Joseph Hensley"
+      },
+      "id": "Q6283953",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6283953"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Haythorne",
+        "lang:fr": "Robert Haythorne"
+      },
+      "id": "Q7345345",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7345345"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Hamilton Gray",
+        "lang:fr": "John Hamilton Gray"
+      },
+      "id": "Q978445",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q978445"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Government of Prince Edward Island"
+      },
+      "id": "Q5589299",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5589299"
+        }
+      ],
+      "area_id": "Q1979"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Canada",
+        "lang:fr": "Parti libéral du Canada"
+      },
+      "id": "Q138345",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Prince Edward Island Liberal Party",
+        "lang:fr": "Parti libéral de l'Île-du-Prince-Édouard"
+      },
+      "id": "Q2110304",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2110304"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Progressive Conservative Party of Prince Edward Island",
+        "lang:fr": "Parti progressiste-conservateur de l'Île-du-Prince-Édouard"
+      },
+      "id": "Q247332",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q247332"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -368,6 +614,206 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19825046-57f5cb8c-4d65-eeab-8a72-eaa516fc08d6",
+      "person_id": "Q19825046",
+      "on_behalf_of_id": "Q138345",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "start_date": "2015-02-23",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q13522650-B829AE4E-B502-4FDF-9C5E-E9CD077E8851",
+      "person_id": "Q13522650",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q2157288-EE0F7804-90F3-4C41-A8FA-6F103B80359A",
+      "person_id": "Q2157288",
+      "on_behalf_of_id": "Q2110304",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q3161011-F93CA400-CDA3-437E-997C-9CD6972868C3",
+      "person_id": "Q3161011",
+      "on_behalf_of_id": "Q247332",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q3161260-D25CBE32-9B1B-4B44-8415-ECEF8C5DF43F",
+      "person_id": "Q3161260",
+      "on_behalf_of_id": "Q247332",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q3180073-5639FB88-00F3-4737-8DFC-1D1315687CF8",
+      "person_id": "Q3180073",
+      "on_behalf_of_id": "Q2110304",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q3565825-51045024-E927-4532-BBB2-9D8767CA80C9",
+      "person_id": "Q3565825",
+      "on_behalf_of_id": "Q2110304",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q4236422-C1E19BDC-4BF2-4297-AE94-881576EA8F87",
+      "person_id": "Q4236422",
+      "on_behalf_of_id": "Q2110304",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q540634-56061A59-C580-48F7-AA25-13302C0A1F61",
+      "person_id": "Q540634",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q6283953-7D9A7F28-D53F-4315-AF84-0B9F15A21C4B",
+      "person_id": "Q6283953",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q7345345-EE5C8E68-090B-42CB-B05A-FA3494688DFF",
+      "person_id": "Q7345345",
+      "on_behalf_of_id": "Q138345",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q978445-FADF6D63-476E-44C4-872D-531DB6D8F020",
+      "person_id": "Q978445",
+      "organization_id": "Q5589299",
+      "area_id": "Q1979",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q7240361",
+      "role": {
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+      }
+    }
   ]
 }
