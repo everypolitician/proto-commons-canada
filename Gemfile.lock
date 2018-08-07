@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/everypolitician/commons-builder.git
-  revision: 0cba06a671a6ff836a02a9889099045987593ff2
+  revision: 40886d43d4096c2eed4c55a35b0012b478b102e3
   specs:
     commons-builder (0.1.0)
       commons-integrity
@@ -55,4 +55,4 @@ RUBY VERSION
    ruby 2.4.2p198
 
 BUNDLED WITH
-   1.16.2
+   1.16.3
