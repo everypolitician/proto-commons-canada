@@ -1,31 +1,51 @@
 [
   {
+    "comment": "Laval City Council",
+    "executive_item_id": "Q16251180",
+    "positions": [
+      {
+        "comment": "Mayor of Laval",
+        "position_item_id": "Q56097740"
+      }
+    ]
+  },
+  {
+    "comment": "Vaughan City Council",
+    "executive_item_id": "Q17029808",
+    "positions": [
+      {
+        "comment": "Mayor of Vaughan",
+        "position_item_id": "Q56099574"
+      }
+    ]
+  },
+  {
     "comment": "Halifax Regional Council",
     "executive_item_id": "Q17107607",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Halifax",
+        "position_item_id": "Q18693083"
       }
     ]
   },
   {
-    "comment": "The Government of Yukon",
+    "comment": "Legislature of Yukon",
     "executive_item_id": "Q17108558",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Yukon",
+        "position_item_id": "Q12270260"
       }
     ]
   },
   {
-    "comment": "The Government of Manitoba",
+    "comment": "Government of Manitoba",
     "executive_item_id": "Q20552083",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Manitoba",
+        "position_item_id": "Q3401758"
       }
     ]
   },
@@ -34,8 +54,8 @@
     "executive_item_id": "Q2444341",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Toronto",
+        "position_item_id": "Q14927262"
       }
     ]
   },
@@ -44,8 +64,38 @@
     "executive_item_id": "Q2458227",
     "positions": [
       {
-        "comment": "Prime Minister",
-        "position_item_id": "Q14212"
+        "comment": "Prime Minister of Canada",
+        "position_item_id": "Q839078"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of New Brunswick",
+    "executive_item_id": "Q2993946",
+    "positions": [
+      {
+        "comment": "maire de Saint-Jean",
+        "position_item_id": "Q28382706"
+      }
+    ]
+  },
+  {
+    "comment": "Ottawa City Council",
+    "executive_item_id": "Q2994125",
+    "positions": [
+      {
+        "comment": "Mayor of Ottawa",
+        "position_item_id": "Q47488905"
+      }
+    ]
+  },
+  {
+    "comment": "Gatineau City Council",
+    "executive_item_id": "Q2994126",
+    "positions": [
+      {
+        "comment": "Mayor of Gatineau",
+        "position_item_id": "Q56071331"
       }
     ]
   },
@@ -54,8 +104,8 @@
     "executive_item_id": "Q2994129",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Quebec City",
+        "position_item_id": "Q47490293"
       }
     ]
   },
@@ -64,68 +114,68 @@
     "executive_item_id": "Q2994131",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Montreal",
+        "position_item_id": "Q177645"
       }
     ]
   },
   {
-    "comment": "The Government of British Columbia",
+    "comment": "Government of British Columbia",
     "executive_item_id": "Q30295427",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of British Columbia",
+        "position_item_id": "Q7240349"
       }
     ]
   },
   {
-    "comment": "The Government of Saskatchewan",
+    "comment": "Government of Saskatchewan",
     "executive_item_id": "Q30295437",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Saskatchewan",
+        "position_item_id": "Q6578215"
       }
     ]
   },
   {
-    "comment": "The Government of New Brunswick",
+    "comment": "Government of New Brunswick",
     "executive_item_id": "Q3112626",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of New Brunswick",
+        "position_item_id": "Q12270252"
       }
     ]
   },
   {
-    "comment": "The Government of Quebec",
+    "comment": "Government of Quebec",
     "executive_item_id": "Q3112634",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Quebec",
+        "position_item_id": "Q2911019"
       }
     ]
   },
   {
-    "comment": "The Government of Alberta",
+    "comment": "Government of Alberta",
     "executive_item_id": "Q33121932",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Alberta",
+        "position_item_id": "Q3401750"
       }
     ]
   },
   {
-    "comment": "The Government of Nunavut",
+    "comment": "Government of Nunavut",
     "executive_item_id": "Q33121937",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Nunavut",
+        "position_item_id": "Q4377222"
       }
     ]
   },
@@ -134,8 +184,8 @@
     "executive_item_id": "Q4145705",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Calgary",
+        "position_item_id": "Q47455744"
       }
     ]
   },
@@ -144,8 +194,8 @@
     "executive_item_id": "Q47489643",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Vancouver",
+        "position_item_id": "Q24255207"
       }
     ]
   },
@@ -154,8 +204,18 @@
     "executive_item_id": "Q47489645",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Winnipeg",
+        "position_item_id": "Q47490035"
+      }
+    ]
+  },
+  {
+    "comment": "Brampton City Council",
+    "executive_item_id": "Q4956221",
+    "positions": [
+      {
+        "comment": "Mayor of Brampton",
+        "position_item_id": "Q56043125"
       }
     ]
   },
@@ -164,48 +224,98 @@
     "executive_item_id": "Q5339025",
     "positions": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Edmonton",
+        "position_item_id": "Q21094906"
       }
     ]
   },
   {
-    "comment": "The Government of Newfoundland and Labrador",
+    "comment": "Executive Council of the Northwest Territories",
+    "executive_item_id": "Q5419831",
+    "positions": [
+      {
+        "comment": "Premier of the Northwest Territories",
+        "position_item_id": "Q7240368"
+      }
+    ]
+  },
+  {
+    "comment": "Government of Newfoundland and Labrador",
     "executive_item_id": "Q5589273",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Newfoundland and Labrador",
+        "position_item_id": "Q7240356"
       }
     ]
   },
   {
-    "comment": "The Government of Nova Scotia",
+    "comment": "Government of Nova Scotia",
     "executive_item_id": "Q5589276",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Nova Scotia",
+        "position_item_id": "Q7240360"
       }
     ]
   },
   {
-    "comment": "The Government of Ontario",
+    "comment": "Government of Ontario",
     "executive_item_id": "Q5589283",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Ontario",
+        "position_item_id": "Q2560704"
       }
     ]
   },
   {
-    "comment": "The Government of Prince Edward Island",
+    "comment": "Government of Prince Edward Island",
     "executive_item_id": "Q5589299",
     "positions": [
       {
-        "comment": "Premier",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Prince Edward Island",
+        "position_item_id": "Q7240361"
+      }
+    ]
+  },
+  {
+    "comment": "Hamilton, Ontario City Council",
+    "executive_item_id": "Q5644769",
+    "positions": [
+      {
+        "comment": "mayor of Hamilton, Ontario",
+        "position_item_id": "Q56071664"
+      }
+    ]
+  },
+  {
+    "comment": "London City Council",
+    "executive_item_id": "Q6670238",
+    "positions": [
+      {
+        "comment": "Mayor of London",
+        "position_item_id": "Q56098876"
+      }
+    ]
+  },
+  {
+    "comment": "Mississauga City Council",
+    "executive_item_id": "Q6878950",
+    "positions": [
+      {
+        "comment": "Mayor of Mississauga",
+        "position_item_id": "Q56100961"
+      }
+    ]
+  },
+  {
+    "comment": "Surrey City Council",
+    "executive_item_id": "Q7646781",
+    "positions": [
+      {
+        "comment": "Mayor of Surrey",
+        "position_item_id": "Q56099619"
       }
     ]
   }
