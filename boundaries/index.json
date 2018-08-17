@@ -361,5 +361,83 @@
     "name_columns": {
       "lang:en": "PED_Name_E"
     }
+  },
+  {
+    "directory": "brampton-wards",
+    "associations": [
+      {
+        "comment": "member of Brampton City Council",
+        "position_item_id": "Q56043118"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56043027",
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    }
+  },
+  {
+    "directory": "gatineau-districts",
+    "associations": [
+      {
+        "comment": "member of Gatineau City Council",
+        "position_item_id": "Q56071328"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56071300",
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    }
+  },
+  {
+    "directory": "laval-districts",
+    "associations": [
+      {
+        "comment": "member of Laval City Council",
+        "position_item_id": "Q56097744"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56117998",
+    "name_columns": {
+      "lang:en": "NM_DIS"
+    }
+  },
+  {
+    "directory": "hamilton-wards",
+    "associations": [
+      {
+        "comment": "member of Hamilton City Council",
+        "position_item_id": "Q56071683"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56071350",
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    }
+  },
+  {
+    "directory": "london-wards",
+    "associations": [
+      {
+        "comment": "member of London City Council",
+        "position_item_id": "Q56098847"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56118117",
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    }
+  },
+  {
+    "directory": "mississauga-wards",
+    "associations": [
+      {
+        "comment": "member of Mississauga City Council",
+        "position_item_id": "Q56100957"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56118173",
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    }
   }
 ]
