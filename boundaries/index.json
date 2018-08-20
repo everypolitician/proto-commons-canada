@@ -4,8 +4,8 @@
     "area_type_wikidata_item_id": "Q6256",
     "associations": [
       {
-        "comment": "prime minister",
-        "position_item_id": "Q14212"
+        "comment": "prime minister of Canada",
+        "position_item_id": "Q839078"
       }
     ],
     "name_columns": {
@@ -35,8 +35,224 @@
         "position_item_id": "Q18524027"
       },
       {
-        "comment": "head of government of a Canadian province or territory",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Ontario",
+        "position_item_id": "Q2560704"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Quebec",
+        "position_item_id": "Q2911019"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Alberta",
+        "position_item_id": "Q3401750"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Manitoba",
+        "position_item_id": "Q3401758"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Nunavut",
+        "position_item_id": "Q4377222"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Saskatchewan",
+        "position_item_id": "Q6578215"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of British Columbia",
+        "position_item_id": "Q7240349"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Newfoundland and Labrador",
+        "position_item_id": "Q7240356"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Nova Scotia",
+        "position_item_id": "Q7240360"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Prince Edward Island",
+        "position_item_id": "Q7240361"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of the Northwest Territories",
+        "position_item_id": "Q7240368"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of New Brunswick",
+        "position_item_id": "Q12270252"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Yukon",
+        "position_item_id": "Q12270260"
       }
     ],
     "area_type_wikidata_item_id": "Q2879",
