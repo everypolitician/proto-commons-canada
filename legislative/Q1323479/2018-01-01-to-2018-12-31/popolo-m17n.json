@@ -402,6 +402,22 @@
     },
     {
       "name": {
+        "lang:en": "Andrew Wilkinson",
+        "lang:fr": "Andrew Wilkinson"
+      },
+      "id": "Q17020421",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17020421"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Katrina Chen"
       },
       "id": "Q18384082",
@@ -4596,6 +4612,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17020421-A5E96F50-014E-4B8C-BC79-2F6F8424CA36",
+      "person_id": "Q17020421",
+      "organization_id": "Q1323479",
+      "area_id": "Q7914105",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19004821",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of British Columbia",
+        "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q18384082-6C50BA03-F4E8-4DED-AFC7-E80D7B781939",
       "person_id": "Q18384082",
       "organization_id": "Q1323479",
@@ -5318,39 +5350,7 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q50285672-3995BF8B-81A8-41CF-AD73-FF1D6F9ED58E",
-      "person_id": "Q50285672",
-      "organization_id": "Q1323479",
-      "area_id": "Q5099089",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly",
-        "lang:fr": "membre d'une assemblée législative"
-      },
-      "role_code": "Q19004821",
-      "role": {
-        "lang:en": "Member of the Legislative Assembly of British Columbia",
-        "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q50285672-61DF236A-DCBC-4FB4-8376-4DAE97002F24",
-      "person_id": "Q50285672",
-      "organization_id": "Q1323479",
-      "area_id": "Q5099089",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly",
-        "lang:fr": "membre d'une assemblée législative"
-      },
-      "role_code": "Q19004821",
-      "role": {
-        "lang:en": "Member of the Legislative Assembly of British Columbia",
-        "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50285672-F97C425F-678A-4444-A144-5CB92C746FE7",
       "person_id": "Q50285672",
       "organization_id": "Q1323479",
       "area_id": "Q5099089",
