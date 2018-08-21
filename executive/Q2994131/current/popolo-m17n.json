@@ -83,6 +83,78 @@
   ],
   "areas": [
     {
+      "id": "Q133116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Hamilton"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q141810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:24032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q141810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Laval"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q141844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/cd:2481"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q141844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Gatineau"
+      },
+      "parent_id": "Q176"
+    },
+    {
       "id": "Q16",
       "identifiers": [
         {
@@ -476,6 +548,78 @@
         "lang:en": "Calgary"
       },
       "parent_id": "Q1951"
+    },
+    {
+      "id": "Q44198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3521010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q44198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Brampton"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q50816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:351005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Mississauga"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q92561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q92561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q30185"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "London"
+      },
+      "parent_id": "Q1904"
     }
   ],
   "memberships": [
