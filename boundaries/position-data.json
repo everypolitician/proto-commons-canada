@@ -1,0 +1,1014 @@
+[
+  {
+    "role_id": "Q15964815",
+    "role_name": {
+      "lang:en": "member of Alberta Legislative Assembly",
+      "lang:fr": "membre de l'assemblée législative d'Alberta"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator",
+      "lang:fr": "législateur"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1812866",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of Alberta",
+      "lang:fr": "Assemblée législative de l'Alberta"
+    }
+  },
+  {
+    "role_id": "Q15964890",
+    "role_name": {
+      "lang:en": "member of the House of Commons of Canada",
+      "lang:fr": "député de la Chambre des communes du Canada"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:en": "deputy",
+      "lang:fr": "député"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q383590",
+    "organization_name": {
+      "lang:en": "House of Commons",
+      "lang:fr": "chambre des communes du Canada"
+    }
+  },
+  {
+    "role_id": "Q177645",
+    "role_name": {
+      "lang:en": "Mayor of Montreal",
+      "lang:fr": "maire de Montréal"
+    },
+    "generic_role_id": "Q47450829",
+    "generic_role_name": {
+      "lang:en": "Mayor and Borough Mayors of Montreal"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q2994131",
+    "organization_name": {
+      "lang:en": "Montreal City Council",
+      "lang:fr": "Conseil municipal de Montréal"
+    }
+  },
+  {
+    "role_id": "Q18239264",
+    "role_name": {
+      "lang:en": "member of the Nova Scotia House of Assembly",
+      "lang:fr": "membre de l'Assemblée législative de la Nouvelle-Écosse"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q320273",
+    "organization_name": {
+      "lang:en": "Nova Scotia House of Assembly",
+      "lang:fr": "chambre d'assemblée de la Nouvelle-Écosse"
+    }
+  },
+  {
+    "role_id": "Q18524027",
+    "role_name": {
+      "lang:en": "Member of the Senate of Canada",
+      "lang:fr": "membre du Sénat du Canada"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:en": "senator",
+      "lang:fr": "sénateur"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q841180",
+    "organization_name": {
+      "lang:en": "Senate of Canada",
+      "lang:fr": "Sénat du Canada"
+    }
+  },
+  {
+    "role_id": "Q18608478",
+    "role_name": {
+      "lang:en": "Member of the Yukon Legislative Assembly",
+      "lang:fr": "membre de l'Assemblée législative du Yukon"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q908022",
+    "organization_name": {
+      "lang:en": "Yukon Legislative Assembly",
+      "lang:fr": "Assemblée législative du Yukon"
+    }
+  },
+  {
+    "role_id": "Q18675661",
+    "role_name": {
+      "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+      "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1537375",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of Saskatchewan",
+      "lang:fr": "Assemblée législative de la Saskatchewan"
+    }
+  },
+  {
+    "role_id": "Q18693083",
+    "role_name": {
+      "lang:en": "Mayor of Halifax",
+      "lang:fr": "maire d'Halifax"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q17107607",
+    "organization_name": {
+      "lang:en": "Halifax Regional Council",
+      "lang:fr": "Région de Halifax"
+    }
+  },
+  {
+    "role_id": "Q18984329",
+    "role_name": {
+      "lang:en": "member of the Legislative Assembly of New Brunswick",
+      "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1516914",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of New Brunswick",
+      "lang:fr": "Assemblée législative du Nouveau-Brunswick"
+    }
+  },
+  {
+    "role_id": "Q19004821",
+    "role_name": {
+      "lang:en": "Member of the Legislative Assembly of British Columbia",
+      "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1323479",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of British Columbia",
+      "lang:fr": "Assemblée législative de la Colombie-Britannique"
+    }
+  },
+  {
+    "role_id": "Q19007867",
+    "role_name": {
+      "lang:en": "member of the Legislative Assembly of Manitoba",
+      "lang:fr": "membre de l'Assemblée législative du Manitoba"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator",
+      "lang:fr": "législateur"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1517320",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of Manitoba",
+      "lang:fr": "Assemblée législative du Manitoba"
+    }
+  },
+  {
+    "role_id": "Q19403853",
+    "role_name": {
+      "lang:en": "Member of the Newfoundland and Labrador House of Assembly",
+      "lang:fr": "membre de la chambre d'Assemblée de Terre-Neuve-et-Labrador"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q258843",
+    "organization_name": {
+      "lang:en": "Newfoundland and Labrador House of Assembly",
+      "lang:fr": "chambre d'Assemblée de Terre-Neuve-et-Labrador"
+    }
+  },
+  {
+    "role_id": "Q21010685",
+    "role_name": {
+      "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+      "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q825815",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of Prince Edward Island",
+      "lang:fr": "Assemblée législative de l'Île-du-Prince-Édouard"
+    }
+  },
+  {
+    "role_id": "Q21094906",
+    "role_name": {
+      "lang:en": "Mayor of Edmonton"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q5339025",
+    "organization_name": {
+      "lang:en": "Edmonton City Council"
+    }
+  },
+  {
+    "role_id": "Q24255207",
+    "role_name": {
+      "lang:en": "Mayor of Vancouver",
+      "lang:fr": "maire de Vancouver"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q47489643",
+    "organization_name": {
+      "lang:en": "Vancouver City Council",
+      "lang:fr": "Conseil municipal de Vancouver"
+    }
+  },
+  {
+    "role_id": "Q2911019",
+    "role_name": {
+      "lang:en": "Premier of Quebec",
+      "lang:fr": "premier ministre du Québec"
+    },
+    "generic_role_id": "Q2505921",
+    "generic_role_name": {
+      "lang:en": "premier",
+      "lang:fr": "premier ministre du Canada"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q2993943",
+    "organization_name": {
+      "lang:en": "Executive Council of Quebec",
+      "lang:fr": "Conseil exécutif du Québec"
+    }
+  },
+  {
+    "role_id": "Q3305338",
+    "role_name": {
+      "lang:en": "Member of the National Assembly of Quebec",
+      "lang:fr": "député de l'Assemblée nationale du Québec"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1492249",
+    "organization_name": {
+      "lang:en": "National Assembly of Quebec",
+      "lang:fr": "Assemblée nationale du Québec"
+    }
+  },
+  {
+    "role_id": "Q3305347",
+    "role_name": {
+      "lang:en": "Member of Ontario Provincial Parliament",
+      "lang:fr": "membre du Parlement provincial"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1809086",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of Ontario",
+      "lang:fr": "Assemblée législative de l'Ontario"
+    }
+  },
+  {
+    "role_id": "Q45308607",
+    "role_name": {
+      "lang:en": "Member of the Legislative Assembly of Nunavut"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2867082",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of Nunavut",
+      "lang:fr": "Assemblée législative du Nunavut"
+    }
+  },
+  {
+    "role_id": "Q45308871",
+    "role_name": {
+      "lang:en": "Member of the Legislative Assembly of the Northwest Territories"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly",
+      "lang:fr": "membre d'une assemblée législative"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2867078",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of the Northwest Territories",
+      "lang:fr": "Assemblée législative des Territoires du Nord-Ouest"
+    }
+  },
+  {
+    "role_id": "Q45413990",
+    "role_name": {
+      "lang:en": "Member of Toronto City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q2444341",
+    "organization_name": {
+      "lang:en": "Toronto City Council",
+      "lang:fr": "Toronto"
+    }
+  },
+  {
+    "role_id": "Q45414411",
+    "role_name": {
+      "lang:en": "Montreal City Councillor",
+      "lang:fr": "conseiller de la ville"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q2994131",
+    "organization_name": {
+      "lang:en": "Montreal City Council",
+      "lang:fr": "Conseil municipal de Montréal"
+    }
+  },
+  {
+    "role_id": "Q45414913",
+    "role_name": {
+      "lang:en": "member of Calgary City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q4145705",
+    "organization_name": {
+      "lang:en": "Calgary City Council",
+      "lang:fr": "consesi de calgary"
+    }
+  },
+  {
+    "role_id": "Q47450833",
+    "role_name": {
+      "lang:en": "Borough Mayor (Montreal)",
+      "lang:fr": "Maire d'arrondissement (montréal)"
+    },
+    "generic_role_id": "Q47450829",
+    "generic_role_name": {
+      "lang:en": "Mayor and Borough Mayors of Montreal"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q2994131",
+    "organization_name": {
+      "lang:en": "Montreal City Council",
+      "lang:fr": "Conseil municipal de Montréal"
+    }
+  },
+  {
+    "role_id": "Q47487122",
+    "role_name": {
+      "lang:en": "Member of Ottawa City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q2994125",
+    "organization_name": {
+      "lang:en": "Ottawa City Council",
+      "lang:fr": "Ottawa (Conseil municipal)"
+    }
+  },
+  {
+    "role_id": "Q47488905",
+    "role_name": {
+      "lang:en": "Mayor of Ottawa"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q2994125",
+    "organization_name": {
+      "lang:en": "Ottawa City Council",
+      "lang:fr": "Ottawa (Conseil municipal)"
+    }
+  },
+  {
+    "role_id": "Q47490035",
+    "role_name": {
+      "lang:en": "Mayor of Winnipeg"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q47489645",
+    "organization_name": {
+      "lang:en": "Winnipeg City Council",
+      "lang:fr": "Conseil municipal de Winnipeg"
+    }
+  },
+  {
+    "role_id": "Q47490128",
+    "role_name": {
+      "lang:en": "Member of Winnipeg City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q47489645",
+    "organization_name": {
+      "lang:en": "Winnipeg City Council",
+      "lang:fr": "Conseil municipal de Winnipeg"
+    }
+  },
+  {
+    "role_id": "Q47490129",
+    "role_name": {
+      "lang:en": "Member of Vancouver City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q47489643",
+    "organization_name": {
+      "lang:en": "Vancouver City Council",
+      "lang:fr": "Conseil municipal de Vancouver"
+    }
+  },
+  {
+    "role_id": "Q47490130",
+    "role_name": {
+      "lang:en": "Member of Edmonton City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q5339025",
+    "organization_name": {
+      "lang:en": "Edmonton City Council"
+    }
+  },
+  {
+    "role_id": "Q47490131",
+    "role_name": {
+      "lang:en": "Member of Halifax Regional Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q17107607",
+    "organization_name": {
+      "lang:en": "Halifax Regional Council",
+      "lang:fr": "Région de Halifax"
+    }
+  },
+  {
+    "role_id": "Q47490293",
+    "role_name": {
+      "lang:en": "Mayor of Quebec City",
+      "lang:fr": "Maire de Québec"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q2994129",
+    "organization_name": {
+      "lang:en": "Quebec City Council",
+      "lang:fr": "Québec (Conseil municipal)"
+    }
+  },
+  {
+    "role_id": "Q47490318",
+    "role_name": {
+      "lang:en": "Member of Quebec City Council",
+      "lang:fr": "Conseiller municipal de Québec"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q2994129",
+    "organization_name": {
+      "lang:en": "Quebec City Council",
+      "lang:fr": "Québec (Conseil municipal)"
+    }
+  },
+  {
+    "role_id": "Q56043118",
+    "role_name": {
+      "lang:en": "member of Brampton City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q4956221",
+    "organization_name": {
+      "lang:en": "Brampton City Council"
+    }
+  },
+  {
+    "role_id": "Q56043125",
+    "role_name": {
+      "lang:en": "Mayor of Brampton"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q4956221",
+    "organization_name": {
+      "lang:en": "Brampton City Council"
+    }
+  },
+  {
+    "role_id": "Q56071328",
+    "role_name": {
+      "lang:en": "member of Gatineau City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q2994126",
+    "organization_name": {
+      "lang:en": "Gatineau City Council",
+      "lang:fr": "Conseil municipal de Gatineau"
+    }
+  },
+  {
+    "role_id": "Q56071331",
+    "role_name": {
+      "lang:en": "Mayor of Gatineau",
+      "lang:fr": "maire de Gatineau"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q2994126",
+    "organization_name": {
+      "lang:en": "Gatineau City Council",
+      "lang:fr": "Conseil municipal de Gatineau"
+    }
+  },
+  {
+    "role_id": "Q56071664",
+    "role_name": {
+      "lang:en": "mayor of Hamilton, Ontario"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q5644769",
+    "organization_name": {
+      "lang:en": "Hamilton, Ontario City Council"
+    }
+  },
+  {
+    "role_id": "Q56071683",
+    "role_name": {
+      "lang:en": "member of Hamilton City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q5644769",
+    "organization_name": {
+      "lang:en": "Hamilton, Ontario City Council"
+    }
+  },
+  {
+    "role_id": "Q56097740",
+    "role_name": {
+      "lang:en": "Mayor of Laval"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q16251180",
+    "organization_name": {
+      "lang:en": "Laval City Council"
+    }
+  },
+  {
+    "role_id": "Q56097744",
+    "role_name": {
+      "lang:en": "member of Laval City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16251180",
+    "organization_name": {
+      "lang:en": "Laval City Council"
+    }
+  },
+  {
+    "role_id": "Q56098847",
+    "role_name": {
+      "lang:en": "member of London City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q6670238",
+    "organization_name": {
+      "lang:en": "London City Council"
+    }
+  },
+  {
+    "role_id": "Q56098876",
+    "role_name": {
+      "lang:en": "Mayor of London"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q6670238",
+    "organization_name": {
+      "lang:en": "London City Council"
+    }
+  },
+  {
+    "role_id": "Q56099529",
+    "role_name": {
+      "lang:en": "member of Markham City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q6770993",
+    "organization_name": {
+      "lang:en": "Markham City Council"
+    }
+  },
+  {
+    "role_id": "Q56099530",
+    "role_name": {
+      "lang:en": "Mayor of Markham"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q6770993",
+    "organization_name": {
+      "lang:en": "Markham City Council"
+    }
+  },
+  {
+    "role_id": "Q56099571",
+    "role_name": {
+      "lang:en": "member of Vaughan City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q17029808",
+    "organization_name": {
+      "lang:en": "Vaughan City Council"
+    }
+  },
+  {
+    "role_id": "Q56099574",
+    "role_name": {
+      "lang:en": "Mayor of Vaughan"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q17029808",
+    "organization_name": {
+      "lang:en": "Vaughan City Council"
+    }
+  },
+  {
+    "role_id": "Q56099617",
+    "role_name": {
+      "lang:en": "member of Surrey City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q7646781",
+    "organization_name": {
+      "lang:en": "Surrey City Council"
+    }
+  },
+  {
+    "role_id": "Q56099619",
+    "role_name": {
+      "lang:en": "Mayor of Surrey"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q7646781",
+    "organization_name": {
+      "lang:en": "Surrey City Council"
+    }
+  },
+  {
+    "role_id": "Q56100957",
+    "role_name": {
+      "lang:en": "member of Mississauga City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:fr": "conseiller municipal"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q6878950",
+    "organization_name": {
+      "lang:en": "Mississauga City Council"
+    }
+  },
+  {
+    "role_id": "Q56100961",
+    "role_name": {
+      "lang:en": "Mayor of Mississauga"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:fr": "maire"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q6878950",
+    "organization_name": {
+      "lang:en": "Mississauga City Council"
+    }
+  },
+  {
+    "role_id": "Q6578215",
+    "role_name": {
+      "lang:en": "Premier of Saskatchewan",
+      "lang:fr": "premier ministre de la Saskatchewan"
+    },
+    "generic_role_id": "Q2505921",
+    "generic_role_name": {
+      "lang:en": "premier",
+      "lang:fr": "premier ministre du Canada"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q30295437",
+    "organization_name": {
+      "lang:en": "Government of Saskatchewan"
+    }
+  },
+  {
+    "role_id": "Q7240356",
+    "role_name": {
+      "lang:en": "Premier of Newfoundland and Labrador",
+      "lang:fr": "Premier ministre de Terre-Neuve-et-Labrador"
+    },
+    "generic_role_id": "Q2505921",
+    "generic_role_name": {
+      "lang:en": "premier",
+      "lang:fr": "premier ministre du Canada"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q5589273",
+    "organization_name": {
+      "lang:en": "Government of Newfoundland and Labrador",
+      "lang:fr": "Gouvernement de Terre-Neuve-et-Labrador"
+    }
+  },
+  {
+    "role_id": "Q7240360",
+    "role_name": {
+      "lang:en": "Premier of Nova Scotia",
+      "lang:fr": "premier ministre de la Nouvelle-Écosse"
+    },
+    "generic_role_id": "Q2505921",
+    "generic_role_name": {
+      "lang:en": "premier",
+      "lang:fr": "premier ministre du Canada"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q5589276",
+    "organization_name": {
+      "lang:en": "Government of Nova Scotia"
+    }
+  },
+  {
+    "role_id": "Q7240361",
+    "role_name": {
+      "lang:en": "Premier of Prince Edward Island",
+      "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
+    },
+    "generic_role_id": "Q2505921",
+    "generic_role_name": {
+      "lang:en": "premier",
+      "lang:fr": "premier ministre du Canada"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q5589299",
+    "organization_name": {
+      "lang:en": "Government of Prince Edward Island"
+    }
+  },
+  {
+    "role_id": "Q839078",
+    "role_name": {
+      "lang:en": "Prime Minister of Canada",
+      "lang:fr": "Premier ministre du Canada"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:fr": "Premier ministre"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q2458227",
+    "organization_name": {
+      "lang:en": "Cabinet of Canada",
+      "lang:fr": "Cabinet du Canada"
+    }
+  }
+]
