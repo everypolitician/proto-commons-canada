@@ -12792,21 +12792,6 @@
     },
     {
       "name": {
-        "lang:en": "Julie Bouley"
-      },
-      "id": "Q50276278",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q50276278"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Candide Rochefort",
         "lang:fr": "Candide Rochefort"
       },
@@ -28868,6 +28853,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3189174-3711DBC2-9340-447D-9033-285749EC489E",
       "person_id": "Q3189174",
       "organization_id": "Q1492249",
+      "area_id": "Q3219830",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -34006,22 +33992,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q5026634-0BD0DB91-28E0-4106-9B93-9D10D11D4198",
       "person_id": "Q5026634",
       "organization_id": "Q1492249",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly",
-        "lang:fr": "membre d'une assemblée législative"
-      },
-      "role_code": "Q3305338",
-      "role": {
-        "lang:en": "Member of the National Assembly of Quebec",
-        "lang:fr": "député de l'Assemblée nationale du Québec"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50276278-02FF3B09-24C8-477E-975C-3FB6A683C486",
-      "person_id": "Q50276278",
-      "organization_id": "Q1492249",
-      "area_id": "Q3219830",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

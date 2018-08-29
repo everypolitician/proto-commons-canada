@@ -21,6 +21,41 @@
     },
     {
       "name": {
+        "lang:en": "Christine Black",
+        "lang:fr": "Christine Black"
+      },
+      "id": "Q29889392",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29889392"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mairessechristineblack"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michel Bissonnet",
+        "lang:fr": "Michel Bissonnet"
+      },
+      "id": "Q3309025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3309025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Médéric Martin",
         "lang:fr": "Médéric Martin"
       },
@@ -33,6 +68,59 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maja Vodanovic",
+        "lang:fr": "Maja Vodanovic"
+      },
+      "id": "Q45312548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45312548"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/maja.vodanovic.9"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Manon Barbe",
+        "lang:fr": "Manon Barbe"
+      },
+      "id": "Q6751263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6751263"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Émilie Thuillier"
+      },
+      "id": "Q8078328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8078328"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/emilie.thuillier.52"
+        }
       ]
     }
   ],
@@ -54,6 +142,20 @@
     },
     {
       "name": {
+        "lang:en": "New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique"
+      },
+      "id": "Q130765",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130765"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Liberal Party of Canada",
         "lang:fr": "Parti libéral du Canada"
       },
@@ -68,6 +170,20 @@
     },
     {
       "name": {
+        "lang:en": "Ensemble Montréal",
+        "lang:fr": "Ensemble Montréal"
+      },
+      "id": "Q15050564",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15050564"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Projet Montréal",
         "lang:fr": "Projet Montréal"
       },
@@ -77,6 +193,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3407213"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Équipe Barbe Team",
+        "lang:fr": "Équipe Barbe Team"
+      },
+      "id": "Q47496204",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47496204"
         }
       ]
     }
@@ -639,6 +769,112 @@
       "role": {
         "lang:en": "Mayor of Montreal",
         "lang:fr": "maire de Montréal"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29889392-5017b076-437d-c8b0-f14d-843ea6bbdc4c",
+      "person_id": "Q29889392",
+      "organization_id": "Q2994131",
+      "area_id": "Q340",
+      "start_date": "2016-04-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q47450833",
+      "role": {
+        "lang:en": "Borough Mayor (Montreal)",
+        "lang:fr": "Maire d'arrondissement (montréal)"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3309025-3A0A1126-82B3-4DA8-AEB7-17B847D0A47E",
+      "person_id": "Q3309025",
+      "on_behalf_of_id": "Q130765",
+      "organization_id": "Q2994131",
+      "area_id": "Q340",
+      "start_date": "2008-09-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q47450833",
+      "role": {
+        "lang:en": "Borough Mayor (Montreal)",
+        "lang:fr": "Maire d'arrondissement (montréal)"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3309025-3A0A1126-82B3-4DA8-AEB7-17B847D0A47E",
+      "person_id": "Q3309025",
+      "on_behalf_of_id": "Q15050564",
+      "organization_id": "Q2994131",
+      "area_id": "Q340",
+      "start_date": "2008-09-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q47450833",
+      "role": {
+        "lang:en": "Borough Mayor (Montreal)",
+        "lang:fr": "Maire d'arrondissement (montréal)"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45312548-9dacbc8c-4779-1f10-1f54-f896e0f7293b",
+      "person_id": "Q45312548",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q340",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q47450833",
+      "role": {
+        "lang:en": "Borough Mayor (Montreal)",
+        "lang:fr": "Maire d'arrondissement (montréal)"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6751263-51289799-4eb9-8b3f-40e8-059768fd8408",
+      "person_id": "Q6751263",
+      "on_behalf_of_id": "Q47496204",
+      "organization_id": "Q2994131",
+      "area_id": "Q340",
+      "start_date": "2003-11-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q47450833",
+      "role": {
+        "lang:en": "Borough Mayor (Montreal)",
+        "lang:fr": "Maire d'arrondissement (montréal)"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8078328-5d172ff3-480f-5d82-9006-add4956054a9",
+      "person_id": "Q8078328",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q340",
+      "start_date": "2009-11-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q47450833",
+      "role": {
+        "lang:en": "Borough Mayor (Montreal)",
+        "lang:fr": "Maire d'arrondissement (montréal)"
       }
     },
     {

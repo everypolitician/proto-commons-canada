@@ -175,22 +175,6 @@
     },
     {
       "name": {
-        "lang:en": "Anthony Perruzza",
-        "lang:fr": "Anthony Perruzza"
-      },
-      "id": "Q4773275",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4773275"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "David Shiner",
         "lang:fr": "David Shiner"
       },
@@ -293,22 +277,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5568766"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Gord Perks",
-        "lang:fr": "Gord Perks"
-      },
-      "id": "Q5584618",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5584618"
         }
       ],
       "links": [
@@ -1936,21 +1904,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4773275-B25F8B67-93C2-4317-8A05-C3D874257F96",
-      "person_id": "Q4773275",
-      "organization_id": "Q2444341",
-      "area_id": "Q47455590",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:en": "councillor",
-        "lang:fr": "conseiller municipal"
-      },
-      "role_code": "Q45413990",
-      "role": {
-        "lang:en": "Member of Toronto City Council"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q5239748-7E5ACA61-DF65-42FE-95C2-BDB73D107615",
       "person_id": "Q5239748",
       "organization_id": "Q2444341",
@@ -2045,21 +1998,6 @@
       "person_id": "Q5568766",
       "organization_id": "Q2444341",
       "area_id": "Q47455621",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:en": "councillor",
-        "lang:fr": "conseiller municipal"
-      },
-      "role_code": "Q45413990",
-      "role": {
-        "lang:en": "Member of Toronto City Council"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5584618-9C9C8345-EB6F-4A69-952B-6760DC80BEEA",
-      "person_id": "Q5584618",
-      "organization_id": "Q2444341",
-      "area_id": "Q47455596",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
