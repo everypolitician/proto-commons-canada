@@ -1,0 +1,789 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Sean Chu"
+      },
+      "id": "Q20630836",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20630836"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ward Sutherland"
+      },
+      "id": "Q21063464",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21063464"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ray Jones"
+      },
+      "id": "Q21067141",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21067141"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Demong",
+        "lang:fr": "Peter Demong"
+      },
+      "id": "Q22277555",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22277555"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Druh Farrell"
+      },
+      "id": "Q22277744",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22277744"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DruhFarrellCalgary"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Evan Woolley"
+      },
+      "id": "Q23091320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23091320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gian-Carlo Carra"
+      },
+      "id": "Q38231670",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38231670"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jeromy Farkas"
+      },
+      "id": "Q51470490",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51470490"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Diane Colley-Urquhart"
+      },
+      "id": "Q5271424",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5271424"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Chahal"
+      },
+      "id": "Q55122163",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122163"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jyoti Gondek"
+      },
+      "id": "Q55122176",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122176"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shane Keating"
+      },
+      "id": "Q55122215",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55122215"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Calgary City Council",
+        "lang:fr": "consesi de calgary"
+      },
+      "id": "Q4145705",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4145705"
+        }
+      ],
+      "area_id": "Q36312",
+      "seat_counts": {
+        "Q45414913": "15"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:ab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q3401750"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Alberta",
+        "lang:fr": "Alberta"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q36312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47455744"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Calgary"
+      },
+      "parent_id": "Q1951"
+    },
+    {
+      "id": "Q47455783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 1 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 2 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 3 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 4 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 5 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 6 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 7 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 8 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 9 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 10 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 11 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 12 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 13 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    },
+    {
+      "id": "Q47455806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:4806016/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45414913"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Calgary"
+      },
+      "name": {
+        "lang:en": "Ward 14 (Calgary)"
+      },
+      "parent_id": "Q36312"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20630836-4E6CC609-0E8A-45A7-B37A-F1B104263181",
+      "person_id": "Q20630836",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455796",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21063464-B1CF1922-6282-4A4B-9838-38C936DC615D",
+      "person_id": "Q21063464",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455783",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21067141-FD4FD1C8-E750-470A-AD36-AA71C1DCA7BA",
+      "person_id": "Q21067141",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455802",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22277555-45A90020-A448-4743-9BF2-05C3E7CD37FE",
+      "person_id": "Q22277555",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455806",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22277744-537CF21D-D539-4B8D-BB7A-A4BD1303CC29",
+      "person_id": "Q22277744",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455799",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23091320-63442672-8BF5-4F57-87C0-705D918A4D69",
+      "person_id": "Q23091320",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455800",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q38231670-7E1160D3-D13F-4770-AFD4-02504CE58CA7",
+      "person_id": "Q38231670",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455801",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51470490-75F67E31-5375-4B5D-88C6-7F03B94E0032",
+      "person_id": "Q51470490",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455803",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5271424-11021CD5-C6A3-4D4B-BAFA-189BFDFF138E",
+      "person_id": "Q5271424",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455805",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122163-9B4B1FBE-0203-4643-870F-19955B9655C6",
+      "person_id": "Q55122163",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455797",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122176-8DC7CC00-66B2-46A1-BCFA-0DA0CEFD9066",
+      "person_id": "Q55122176",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455795",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55122215-B2D28E81-F989-4B3E-B6E1-08FE5E155CDE",
+      "person_id": "Q55122215",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455804",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    }
+  ]
+}

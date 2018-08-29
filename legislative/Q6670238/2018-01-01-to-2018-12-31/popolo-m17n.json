@@ -1,0 +1,409 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2560704"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Ontario"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q56118135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 10"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 11"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 12"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 13"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 14"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 5"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 6"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 7"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 8"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 9"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q56118152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56118152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098847"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of London, Ontario"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q92561"
+    },
+    {
+      "id": "Q92561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q92561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098876"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "London"
+      },
+      "parent_id": "Q1904"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

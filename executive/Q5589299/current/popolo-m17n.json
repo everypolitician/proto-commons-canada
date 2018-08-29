@@ -265,7 +265,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q14212"
+        "Q839078"
       ],
       "type": {
         "lang:en": "country",
@@ -276,186 +276,6 @@
         "lang:fr": "Canada"
       },
       "parent_id": null
-    },
-    {
-      "id": "Q176",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:qc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q176"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Quebec",
-        "lang:fr": "Québec"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1904",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:on"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1904"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Ontario"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1948",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:mb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1948"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Manitoba"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1951",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ab"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1951"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Alberta",
-        "lang:fr": "Alberta"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1952",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ns"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1952"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Nova Scotia",
-        "lang:fr": "Nouvelle-Écosse"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1965",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:nb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1965"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "New Brunswick",
-        "lang:fr": "Nouveau-Brunswick"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1974",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:bc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1974"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "British Columbia",
-        "lang:fr": "Colombie-Britannique"
-      },
-      "parent_id": "Q16"
     },
     {
       "id": "Q1979",
@@ -471,7 +291,7 @@
       ],
       "associated_wikidata_positions": [
         "Q18524027",
-        "Q2505921"
+        "Q7240361"
       ],
       "type": {
         "lang:en": "province or territory of Canada",
@@ -480,135 +300,6 @@
       "name": {
         "lang:en": "Prince Edward Island",
         "lang:fr": "Île-du-Prince-Édouard"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1989",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:sk"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1989"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Saskatchewan",
-        "lang:fr": "Saskatchewan"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2003",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:nl"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2003"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Newfoundland and Labrador",
-        "lang:fr": "Terre-Neuve et Labrador"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2007",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nt"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2007"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Northwest Territories",
-        "lang:fr": "Territoires du Nord-Ouest"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2009",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:yt"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2009"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Yukon"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2023",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/territory:nu"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2023"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Nunavut",
-        "lang:fr": "Nunavut"
       },
       "parent_id": "Q16"
     }
@@ -621,10 +312,10 @@
       "organization_id": "Q5589299",
       "area_id": "Q1979",
       "start_date": "2015-02-23",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -637,10 +328,10 @@
       "person_id": "Q13522650",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -654,10 +345,10 @@
       "on_behalf_of_id": "Q2110304",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -671,10 +362,10 @@
       "on_behalf_of_id": "Q247332",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -688,10 +379,10 @@
       "on_behalf_of_id": "Q247332",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -705,10 +396,10 @@
       "on_behalf_of_id": "Q2110304",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -722,10 +413,10 @@
       "on_behalf_of_id": "Q2110304",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -739,10 +430,10 @@
       "on_behalf_of_id": "Q2110304",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -755,10 +446,10 @@
       "person_id": "Q540634",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -771,10 +462,10 @@
       "person_id": "Q6283953",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -788,10 +479,10 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {
@@ -804,10 +495,10 @@
       "person_id": "Q978445",
       "organization_id": "Q5589299",
       "area_id": "Q1979",
-      "role_superclass_code": "Q2505921",
+      "role_superclass_code": "Q7240361",
       "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
+        "lang:en": "Premier of Prince Edward Island",
+        "lang:fr": "premier ministre de l'Île-du-Prince-Édouard"
       },
       "role_code": "Q7240361",
       "role": {

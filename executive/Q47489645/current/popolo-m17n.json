@@ -7,78 +7,6 @@
   ],
   "areas": [
     {
-      "id": "Q133116",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3525005"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q133116"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Hamilton"
-      },
-      "parent_id": "Q1904"
-    },
-    {
-      "id": "Q141810",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/ed:24032"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q141810"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Laval"
-      },
-      "parent_id": "Q176"
-    },
-    {
-      "id": "Q141844",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/cd:2481"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q141844"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Gatineau"
-      },
-      "parent_id": "Q176"
-    },
-    {
       "id": "Q16",
       "identifiers": [
         {
@@ -91,7 +19,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q14212"
+        "Q839078"
       ],
       "type": {
         "lang:en": "country",
@@ -102,105 +30,6 @@
         "lang:fr": "Canada"
       },
       "parent_id": null
-    },
-    {
-      "id": "Q172",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3520005"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q172"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Toronto"
-      },
-      "parent_id": "Q1904"
-    },
-    {
-      "id": "Q176",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:qc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q176"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Quebec",
-        "lang:fr": "Québec"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1904",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:on"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1904"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Ontario"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1930",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3506008"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1930"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Ottawa"
-      },
-      "parent_id": "Q1904"
     },
     {
       "id": "Q1948",
@@ -216,7 +45,7 @@
       ],
       "associated_wikidata_positions": [
         "Q18524027",
-        "Q2505921"
+        "Q3401758"
       ],
       "type": {
         "lang:en": "province or territory of Canada",
@@ -226,108 +55,6 @@
         "lang:en": "Manitoba"
       },
       "parent_id": "Q16"
-    },
-    {
-      "id": "Q1951",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ab"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1951"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Alberta",
-        "lang:fr": "Alberta"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1952",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:ns"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1952"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "Nova Scotia",
-        "lang:fr": "Nouvelle-Écosse"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1974",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:bc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1974"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "British Columbia",
-        "lang:fr": "Colombie-Britannique"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2096",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4811061"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2096"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Edmonton"
-      },
-      "parent_id": "Q1951"
     },
     {
       "id": "Q2135",
@@ -342,7 +69,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47490035"
       ],
       "type": {
         "lang:en": "city",
@@ -352,198 +79,6 @@
         "lang:en": "Winnipeg"
       },
       "parent_id": "Q1948"
-    },
-    {
-      "id": "Q2141",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:1209034"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2141"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Halifax"
-      },
-      "parent_id": "Q1952"
-    },
-    {
-      "id": "Q2145",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2423027"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2145"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Quebec City"
-      },
-      "parent_id": "Q176"
-    },
-    {
-      "id": "Q24639",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:5915022"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24639"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Vancouver"
-      },
-      "parent_id": "Q1974"
-    },
-    {
-      "id": "Q340",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2466023"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q340"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Montreal"
-      },
-      "parent_id": "Q176"
-    },
-    {
-      "id": "Q36312",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q36312"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Calgary"
-      },
-      "parent_id": "Q1951"
-    },
-    {
-      "id": "Q44198",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3521010"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q44198"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Brampton"
-      },
-      "parent_id": "Q1904"
-    },
-    {
-      "id": "Q50816",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:351005"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q50816"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Mississauga"
-      },
-      "parent_id": "Q1904"
-    },
-    {
-      "id": "Q92561",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3539036"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q92561"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "London"
-      },
-      "parent_id": "Q1904"
     }
   ],
   "memberships": [

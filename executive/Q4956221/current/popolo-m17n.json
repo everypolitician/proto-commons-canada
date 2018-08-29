@@ -55,6 +55,30 @@
         "lang:en": "Ontario"
       },
       "parent_id": "Q16"
+    },
+    {
+      "id": "Q44198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3521010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q44198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56043125"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Brampton"
+      },
+      "parent_id": "Q1904"
     }
   ],
   "memberships": [

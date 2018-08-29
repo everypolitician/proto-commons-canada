@@ -55,6 +55,30 @@
         "lang:en": "Ontario"
       },
       "parent_id": "Q16"
+    },
+    {
+      "id": "Q92561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3539036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q92561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56098876"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "London"
+      },
+      "parent_id": "Q1904"
     }
   ],
   "memberships": [
