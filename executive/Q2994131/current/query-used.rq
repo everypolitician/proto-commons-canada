@@ -7,7 +7,7 @@ SELECT ?statement
        ?role_superclass ?role_superclass_en ?role_superclass_fr
        ?org ?org_en ?org_fr ?org_jurisdiction
 WHERE {
-  VALUES ?role_superclass { wd:Q30185 }
+  VALUES ?role_superclass { wd:Q177645 }
   BIND(wd:Q2994131 AS ?org)
   OPTIONAL {
   ?org rdfs:label ?org_en
