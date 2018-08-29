@@ -7,6 +7,30 @@
   ],
   "areas": [
     {
+      "id": "Q141844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/cd:2481"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q141844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071331"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Gatineau"
+      },
+      "parent_id": "Q176"
+    },
+    {
       "id": "Q16",
       "identifiers": [
         {
@@ -32,27 +56,28 @@
       "parent_id": null
     },
     {
-      "id": "Q1904",
+      "id": "Q176",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/province:on"
+          "identifier": "country:ca/province:qc"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1904"
+          "identifier": "Q176"
         }
       ],
       "associated_wikidata_positions": [
         "Q18524027",
-        "Q2560704"
+        "Q2911019"
       ],
       "type": {
         "lang:en": "province or territory of Canada",
         "lang:fr": "provinces et territoires du Canada"
       },
       "name": {
-        "lang:en": "Ontario"
+        "lang:en": "Quebec",
+        "lang:fr": "Québec"
       },
       "parent_id": "Q16"
     }

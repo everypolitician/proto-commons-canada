@@ -1,0 +1,504 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Jim Antoine",
+        "lang:fr": "Jim Antoine"
+      },
+      "id": "Q13522653",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13522653"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen Kakfwi",
+        "lang:fr": "Stephen Kakfwi"
+      },
+      "id": "Q13522654",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13522654"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bob McLeod",
+        "lang:fr": "Bob McLeod (homme politique)"
+      },
+      "id": "Q2907758",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2907758"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nellie Cournoyea",
+        "lang:fr": "Nellie Cournoyea"
+      },
+      "id": "Q3337913",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3337913"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Floyd Roland",
+        "lang:fr": "Floyd Roland"
+      },
+      "id": "Q364948",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q364948"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dennis Patterson",
+        "lang:fr": "Dennis Patterson"
+      },
+      "id": "Q5258849",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5258849"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Don Morin",
+        "lang:fr": "Don Morin"
+      },
+      "id": "Q5293175",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5293175"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Braden",
+        "lang:fr": "George Braden"
+      },
+      "id": "Q5537189",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5537189"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Goo Arlooktoo",
+        "lang:fr": "Goo Arlooktoo"
+      },
+      "id": "Q5582341",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5582341"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nick Sibbeston",
+        "lang:fr": "Nick Sibbeston"
+      },
+      "id": "Q7027927",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7027927"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Nerysoo",
+        "lang:fr": "Richard Nerysoo"
+      },
+      "id": "Q7328029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7328029"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of the Northwest Territories"
+      },
+      "id": "Q5419831",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5419831"
+        }
+      ],
+      "area_id": "Q2007"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Canada",
+        "lang:fr": "Parti libéral du Canada"
+      },
+      "id": "Q138345",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q138345"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Senate Liberal Caucus",
+        "lang:fr": "caucus des sénateurs libéraux"
+      },
+      "id": "Q21035865",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21035865"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "consensus government in Canada",
+        "lang:fr": "gouvernement de consensus"
+      },
+      "id": "Q3112578",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3112578"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Conservative Party of Canada",
+        "lang:fr": "Parti conservateur du Canada"
+      },
+      "id": "Q488523",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q488523"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q2007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q7240368"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Northwest Territories",
+        "lang:fr": "Territoires du Nord-Ouest"
+      },
+      "parent_id": "Q16"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/q13522653-DA5BDE0C-A03B-4EC9-B617-D336F97418C4",
+      "person_id": "Q13522653",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q13522654-E509D90E-1C5F-41F9-B399-F5C9FC6CE83D",
+      "person_id": "Q13522654",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q2907758-18FD59B1-7EB7-407B-A2BA-7F04C5188719",
+      "person_id": "Q2907758",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "start_date": "2011-10-26",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q3337913-3D322391-59E3-4621-99E8-F94665999027",
+      "person_id": "Q3337913",
+      "on_behalf_of_id": "Q3112578",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q364948-E3B70776-CF4C-41BC-8150-C1980CA29A72",
+      "person_id": "Q364948",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q5258849-0BFB15A0-2A4B-4CC5-AF19-CD596779BCB4",
+      "person_id": "Q5258849",
+      "on_behalf_of_id": "Q488523",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q5293175-0BC7447A-B8C0-4619-B984-B8D28A89A777",
+      "person_id": "Q5293175",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q5537189-5E36754F-C0CA-4F87-8661-5704E23B2CAD",
+      "person_id": "Q5537189",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q5582341-C2A06C3C-B39B-453E-84F4-B518DCEA870A",
+      "person_id": "Q5582341",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q7027927-85EBACF9-846F-4627-A964-DA819BF6A2F0",
+      "person_id": "Q7027927",
+      "on_behalf_of_id": "Q138345",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q7027927-85EBACF9-846F-4627-A964-DA819BF6A2F0",
+      "person_id": "Q7027927",
+      "on_behalf_of_id": "Q21035865",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q7328029-2FC99D02-D774-4ECD-9B02-73405AB33313",
+      "person_id": "Q7328029",
+      "organization_id": "Q5419831",
+      "area_id": "Q2007",
+      "role_superclass_code": "Q7240368",
+      "role_superclass": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      },
+      "role_code": "Q7240368",
+      "role": {
+        "lang:en": "Premier of the Northwest Territories",
+        "lang:fr": "premier ministre des Territoires du Nord-Ouest"
+      }
+    }
+  ]
+}

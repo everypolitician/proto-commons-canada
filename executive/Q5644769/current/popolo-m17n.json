@@ -7,6 +7,30 @@
   ],
   "areas": [
     {
+      "id": "Q133116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071664"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Hamilton"
+      },
+      "parent_id": "Q1904"
+    },
+    {
       "id": "Q16",
       "identifiers": [
         {

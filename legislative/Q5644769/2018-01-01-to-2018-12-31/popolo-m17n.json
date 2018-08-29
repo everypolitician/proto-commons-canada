@@ -1,0 +1,432 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q133116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071664"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Hamilton"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2560704"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Ontario"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q56071355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 6"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 7"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 8"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 9"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 11"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 12"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 13"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 14"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 15"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 5"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 10"
+      },
+      "parent_id": "Q133116"
+    },
+    {
+      "id": "Q56071369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3525005/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56071369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56071683"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Hamilton"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q133116"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

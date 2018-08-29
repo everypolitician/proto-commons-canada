@@ -55,6 +55,30 @@
         "lang:en": "Ontario"
       },
       "parent_id": "Q16"
+    },
+    {
+      "id": "Q50816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:351005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56100961"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Mississauga"
+      },
+      "parent_id": "Q1904"
     }
   ],
   "memberships": [
