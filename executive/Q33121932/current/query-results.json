@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7279347-503ba6ee-4e45-cee0-6311-7038a35171ad"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7279347"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rachel Notley"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Rachel Notley"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3345044"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Nouveau Parti démocratique de l'Alberta"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Alberta New Democratic Party"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7279347"
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique de l'Alberta"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1951"
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Alberta"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_fr" : {
+        "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Alberta"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3401750"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3401750"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Premier ministre de l'Alberta"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Premier of Alberta"
@@ -59,20 +64,28 @@
         "type" : "literal",
         "value" : "Premier ministre de l'Alberta"
       },
-      "role_en" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-05-24T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "rachelnotley"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2505921"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Premier of Alberta"
+        "value" : "premier"
       },
-      "name_fr" : {
+      "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "Rachel Notley"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rachel Notley"
+        "value" : "premier ministre du Canada"
       },
       "org" : {
         "type" : "uri",
@@ -83,22 +96,9 @@
         "type" : "literal",
         "value" : "Government of Alberta"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7279347-503ba6ee-4e45-cee0-6311-7038a35171ad"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1951"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-05-24T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "rachelnotley"
       }
     } ]
   }
