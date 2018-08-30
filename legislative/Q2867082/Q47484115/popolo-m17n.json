@@ -1,0 +1,616 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Paul Quassa",
+        "lang:fr": "Paul Quassa"
+      },
+      "id": "Q16151930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16151930"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Legislative Assembly of Nunavut",
+        "lang:fr": "Assemblée législative du Nunavut"
+      },
+      "id": "Q2867082",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2867082"
+        }
+      ],
+      "area_id": "Q2023",
+      "seat_counts": {
+        "Q45308607": "22"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q12626632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:992"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12626632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Aivilik"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q14501868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:971"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14501868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Pangnirtung"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q16209592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:962"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16209592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Aggu"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16209623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:995"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16209623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Arviat North-Whale Cove"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16209633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:998"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16209633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Arviat South"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16210212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16210212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Iqaluit-Niaqunnguu"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16210219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16210219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Iqaluit-Sinaa"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16211071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:977"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16211071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Netsilik"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16211482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16211482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Rankin Inlet North-Chesterfield Inlet"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q16211495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16211495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Rankin Inlet South"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q17067571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17067571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Gjoa Haven"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q17070798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17070798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Iqaluit-Manirajak"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q17070816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17070816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Iqaluit-Tasiluk"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q2023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q4377222"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Nunavut",
+        "lang:fr": "Nunavut"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q4746949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:974"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4746949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Amittuq"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q4849172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:986"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4849172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Baker Lake"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q5025357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:980"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5025357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Cambridge Bay"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q613190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q613190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Hudson Bay"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q6441985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:983"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6441985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Kugluktuk"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q7273020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:965"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7273020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Quttiktuq"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q7566226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:989"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7566226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "South Baffin"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q7853354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:968"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7853354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Tununiq"
+      },
+      "parent_id": "Q2023"
+    },
+    {
+      "id": "Q7899516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/territory:nu/ed-tmp:1025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7899516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q45308607"
+      ],
+      "type": {
+        "lang:en": "territorial electoral district of Nunavut"
+      },
+      "name": {
+        "lang:en": "Uqqummiut"
+      },
+      "parent_id": "Q2023"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16151930-7c845f03-4192-fa9f-9c99-bbda102f06e9",
+      "person_id": "Q16151930",
+      "organization_id": "Q2867082",
+      "area_id": "Q16209592",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    }
+  ]
+}

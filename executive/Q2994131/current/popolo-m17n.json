@@ -213,76 +213,104 @@
   ],
   "areas": [
     {
-      "id": "Q133116",
+      "id": "Q1324904",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3525005"
+          "identifier": "country:ca/csd:2466023/borough:19"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q133116"
+          "identifier": "Q1324904"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Hamilton"
+        "lang:en": "Villeray—Saint-Michel—Parc-Extension"
       },
-      "parent_id": "Q1904"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q141810",
+      "id": "Q1325316",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/ed:24032"
+          "identifier": "country:ca/csd:2466023/borough:15"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q141810"
+          "identifier": "Q1325316"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Laval"
+        "lang:en": "Saint-Léonard"
       },
-      "parent_id": "Q176"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q141844",
+      "id": "Q1474128",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/cd:2481"
+          "identifier": "country:ca/csd:2466023/borough:4"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q141844"
+          "identifier": "Q1474128"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Gatineau"
+        "lang:en": "Lachine"
       },
-      "parent_id": "Q176"
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1571112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1571112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Rosemont—La Petite-Patrie"
+      },
+      "parent_id": "Q340"
     },
     {
       "id": "Q16",
@@ -297,7 +325,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q14212"
+        "Q839078"
       ],
       "type": {
         "lang:en": "country",
@@ -310,28 +338,154 @@
       "parent_id": null
     },
     {
-      "id": "Q172",
+      "id": "Q1612609",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3520005"
+          "identifier": "country:ca/csd:2466023/borough:12"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q172"
+          "identifier": "Q1612609"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Toronto"
+        "lang:en": "Rivière-des-Prairies—Pointe-aux-Trembles"
       },
-      "parent_id": "Q1904"
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1628875",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1628875"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Sud-Ouest"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1628888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1628888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Mercier—Hochelaga-Maisonneuve"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1629121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1629121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "LaSalle"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1629887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1629887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Côte-des-Neiges—Notre-Dame-de-Grâce"
+      },
+      "parent_id": "Q340"
+    },
+    {
+      "id": "Q1714436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:2466023/borough:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1714436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47450833",
+        "Q45414411"
+      ],
+      "type": {
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
+      },
+      "name": {
+        "lang:en": "Montréal-Nord"
+      },
+      "parent_id": "Q340"
     },
     {
       "id": "Q176",
@@ -347,7 +501,7 @@
       ],
       "associated_wikidata_positions": [
         "Q18524027",
-        "Q2505921"
+        "Q2911019"
       ],
       "type": {
         "lang:en": "province or territory of Canada",
@@ -360,276 +514,129 @@
       "parent_id": "Q16"
     },
     {
-      "id": "Q1904",
+      "id": "Q1810072",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/province:on"
+          "identifier": "country:ca/csd:2466023/borough:11"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1904"
+          "identifier": "Q1810072"
         }
       ],
       "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Ontario"
+        "lang:en": "Plateau-Mont-Royal"
       },
-      "parent_id": "Q16"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q1930",
+      "id": "Q1896248",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3506008"
+          "identifier": "country:ca/csd:2466023/borough:10"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1930"
+          "identifier": "Q1896248"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Ottawa"
+        "lang:en": "Pierrefonds-Roxboro"
       },
-      "parent_id": "Q1904"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q1948",
+      "id": "Q2042095",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/province:mb"
+          "identifier": "country:ca/csd:2466023/borough:9"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1948"
+          "identifier": "Q2042095"
         }
       ],
       "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Manitoba"
+        "lang:en": "Outremont"
       },
-      "parent_id": "Q16"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q1951",
+      "id": "Q2117999",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/province:ab"
+          "identifier": "country:ca/csd:2466023/borough:14"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1951"
+          "identifier": "Q2117999"
         }
       ],
       "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Alberta",
-        "lang:fr": "Alberta"
+        "lang:en": "Saint-Laurent"
       },
-      "parent_id": "Q16"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q1952",
+      "id": "Q247123",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/province:ns"
+          "identifier": "country:ca/csd:2466023/borough:18"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1952"
+          "identifier": "Q247123"
         }
       ],
       "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Nova Scotia",
-        "lang:fr": "Nouvelle-Écosse"
+        "lang:en": "Ville-Marie"
       },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q1974",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/province:bc"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1974"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18524027",
-        "Q2505921"
-      ],
-      "type": {
-        "lang:en": "province or territory of Canada",
-        "lang:fr": "provinces et territoires du Canada"
-      },
-      "name": {
-        "lang:en": "British Columbia",
-        "lang:fr": "Colombie-Britannique"
-      },
-      "parent_id": "Q16"
-    },
-    {
-      "id": "Q2096",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4811061"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2096"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Edmonton"
-      },
-      "parent_id": "Q1951"
-    },
-    {
-      "id": "Q2135",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4611040"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2135"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Winnipeg"
-      },
-      "parent_id": "Q1948"
-    },
-    {
-      "id": "Q2141",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:1209034"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2141"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Halifax"
-      },
-      "parent_id": "Q1952"
-    },
-    {
-      "id": "Q2145",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:2423027"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2145"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Quebec City"
-      },
-      "parent_id": "Q176"
-    },
-    {
-      "id": "Q24639",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:ca/csd:5915022"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24639"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
-      },
-      "name": {
-        "lang:en": "Vancouver"
-      },
-      "parent_id": "Q1974"
+      "parent_id": "Q340"
     },
     {
       "id": "Q340",
@@ -644,7 +651,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q177645"
       ],
       "type": {
         "lang:en": "city",
@@ -656,100 +663,104 @@
       "parent_id": "Q176"
     },
     {
-      "id": "Q36312",
+      "id": "Q403031",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:4806016"
+          "identifier": "country:ca/csd:2466023/borough:1"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q36312"
+          "identifier": "Q403031"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Calgary"
+        "lang:en": "Ahuntsic-Cartierville"
       },
-      "parent_id": "Q1951"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q44198",
+      "id": "Q518076",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3521010"
+          "identifier": "country:ca/csd:2466023/borough:17"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q44198"
+          "identifier": "Q518076"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Brampton"
+        "lang:en": "Verdun"
       },
-      "parent_id": "Q1904"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q50816",
+      "id": "Q551476",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:351005"
+          "identifier": "country:ca/csd:2466023/borough:2"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q50816"
+          "identifier": "Q551476"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "Mississauga"
+        "lang:en": "Anjou"
       },
-      "parent_id": "Q1904"
+      "parent_id": "Q340"
     },
     {
-      "id": "Q92561",
+      "id": "Q617452",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:ca/csd:3539036"
+          "identifier": "country:ca/csd:2466023/borough:6"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q92561"
+          "identifier": "Q617452"
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q47450833",
+        "Q45414411"
       ],
       "type": {
-        "lang:en": "city",
-        "lang:fr": "ville"
+        "lang:en": "borough of Montreal",
+        "lang:fr": "arrondissement de Montréal"
       },
       "name": {
-        "lang:en": "London"
+        "lang:en": "L'Île-Bizard—Sainte-Geneviève"
       },
-      "parent_id": "Q1904"
+      "parent_id": "Q340"
     }
   ],
   "memberships": [
@@ -760,10 +771,9 @@
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2017-11-16",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q177645",
       "role": {
@@ -777,10 +787,9 @@
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2016-04-01",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q47450833",
       "role": {
@@ -795,10 +804,9 @@
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2008-09-01",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q47450833",
       "role": {
@@ -813,10 +821,9 @@
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2008-09-01",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q47450833",
       "role": {
@@ -830,10 +837,9 @@
       "on_behalf_of_id": "Q3407213",
       "organization_id": "Q2994131",
       "area_id": "Q340",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q47450833",
       "role": {
@@ -848,10 +854,9 @@
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2003-11-01",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q47450833",
       "role": {
@@ -866,10 +871,9 @@
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2009-11-01",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q47450833",
       "role": {
@@ -883,10 +887,9 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q2994131",
       "area_id": "Q340",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q47450829",
       "role_superclass": {
-        "lang:en": "mayor",
-        "lang:fr": "maire"
+        "lang:en": "Mayor and Borough Mayors of Montreal"
       },
       "role_code": "Q177645",
       "role": {

@@ -5,8 +5,8 @@
     "position_item_id": "Q19004821",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "41st Parliament of British Columbia",
+        "term_item_id": "Q29561388"
       }
     ]
   },
@@ -16,8 +16,8 @@
     "position_item_id": "Q3305338",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "41st Quebec Legislature",
+        "term_item_id": "Q16246364"
       }
     ]
   },
@@ -27,8 +27,8 @@
     "position_item_id": "Q18984329",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "58th New Brunswick Legislature",
+        "term_item_id": "Q18220962"
       }
     ]
   },
@@ -38,8 +38,8 @@
     "position_item_id": "Q19007867",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "41st Manitoba Legislature",
+        "term_item_id": "Q24191581"
       }
     ]
   },
@@ -49,8 +49,30 @@
     "position_item_id": "Q18675661",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "28th Legislative Assembly of Saskatchewan",
+        "term_item_id": "Q49224615"
+      }
+    ]
+  },
+  {
+    "comment": "Laval City Council",
+    "house_item_id": "Q16251180",
+    "position_item_id": "Q56097744",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Vaughan City Council",
+    "house_item_id": "Q17029808",
+    "position_item_id": "Q56099571",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -60,8 +82,8 @@
     "position_item_id": "Q47490131",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "2014-2018 Council",
+        "term_item_id": "Q55096053"
       }
     ]
   },
@@ -71,8 +93,8 @@
     "position_item_id": "Q3305347",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "41st Parliament of Ontario",
+        "term_item_id": "Q17183093"
       }
     ]
   },
@@ -82,8 +104,8 @@
     "position_item_id": "Q15964815",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "29th Alberta Legislature",
+        "term_item_id": "Q19876139"
       }
     ]
   },
@@ -93,8 +115,8 @@
     "position_item_id": "Q45413990",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "Toronto City Council 2014–2018",
+        "term_item_id": "Q18353522"
       }
     ]
   },
@@ -104,8 +126,8 @@
     "position_item_id": "Q19403853",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "48th General Assembly of Newfoundland and Labrador",
+        "term_item_id": "Q25000468"
       }
     ]
   },
@@ -115,8 +137,8 @@
     "position_item_id": "Q45308871",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "18th Northwest Territories Legislative Assembly",
+        "term_item_id": "Q48698545"
       }
     ]
   },
@@ -126,8 +148,12 @@
     "position_item_id": "Q45308607",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "4th Nunavut Legislature",
+        "term_item_id": "Q15301541"
+      },
+      {
+        "comment": "5th Legislative Assembly of Nunavut",
+        "term_item_id": "Q47484115"
       }
     ]
   },
@@ -137,8 +163,8 @@
     "position_item_id": "Q47487122",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "2014-2018 Council",
+        "term_item_id": "Q55094248"
       }
     ]
   },
@@ -148,8 +174,8 @@
     "position_item_id": "Q47490318",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -159,19 +185,8 @@
     "position_item_id": "Q45414411",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
-      }
-    ]
-  },
-  {
-    "comment": "Montreal City Council",
-    "house_item_id": "Q2994131",
-    "position_item_id": "Q47450833",
-    "terms": [
-      {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "2017-2021 Council",
+        "term_item_id": "Q55122348"
       }
     ]
   },
@@ -181,17 +196,18 @@
     "position_item_id": "Q18239264",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "63rd General Assembly of Nova Scotia",
+        "term_item_id": "Q30682157"
       }
     ]
   },
   {
-    "comment": "The House of Commons of Canada",
+    "comment": "House of Commons",
     "house_item_id": "Q383590",
     "position_item_id": "Q15964890",
     "terms": [
       {
+        "comment": "42nd Canadian Parliament",
         "term_item_id": "Q21157957"
       }
     ]
@@ -202,8 +218,8 @@
     "position_item_id": "Q45414913",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "2017-2021 Council",
+        "term_item_id": "Q55093545"
       }
     ]
   },
@@ -213,8 +229,8 @@
     "position_item_id": "Q47490129",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "2014-2018 Council",
+        "term_item_id": "Q55086916"
       }
     ]
   },
@@ -224,8 +240,8 @@
     "position_item_id": "Q47490128",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "2014-2018 Council",
+        "term_item_id": "Q55127597"
       }
     ]
   },
@@ -235,8 +251,52 @@
     "position_item_id": "Q47490130",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "2017-2021 Council",
+        "term_item_id": "Q55086858"
+      }
+    ]
+  },
+  {
+    "comment": "Hamilton, Ontario City Council",
+    "house_item_id": "Q5644769",
+    "position_item_id": "Q56071683",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "London City Council",
+    "house_item_id": "Q6670238",
+    "position_item_id": "Q56098847",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Markham City Council",
+    "house_item_id": "Q6770993",
+    "position_item_id": "Q56099529",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Surrey City Council",
+    "house_item_id": "Q7646781",
+    "position_item_id": "Q56099617",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -246,19 +306,19 @@
     "position_item_id": "Q21010685",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "65th General Assembly of Prince Edward Island",
+        "term_item_id": "Q20683815"
       }
     ]
   },
   {
-    "comment": "The Senate of Canada",
+    "comment": "Senate of Canada",
     "house_item_id": "Q841180",
     "position_item_id": "Q18524027",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "42nd Canadian Parliament",
+        "term_item_id": "Q21157957"
       }
     ]
   },
@@ -268,8 +328,8 @@
     "position_item_id": "Q18608478",
     "terms": [
       {
-        "end_date": "2018-12-31",
-        "start_date": "2018-01-01"
+        "comment": "34th Yukon Legislative Assembly",
+        "term_item_id": "Q29561167"
       }
     ]
   }

@@ -4,8 +4,8 @@
     "area_type_wikidata_item_id": "Q6256",
     "associations": [
       {
-        "comment": "prime minister",
-        "position_item_id": "Q14212"
+        "comment": "prime minister of Canada",
+        "position_item_id": "Q839078"
       }
     ],
     "name_columns": {
@@ -35,14 +35,282 @@
         "position_item_id": "Q18524027"
       },
       {
-        "comment": "head of government of a Canadian province or territory",
-        "position_item_id": "Q2505921"
+        "comment": "Premier of Ontario",
+        "position_item_id": "Q2560704"
       }
     ],
     "area_type_wikidata_item_id": "Q2879",
     "name_columns": {
       "lang:en": "name_en",
       "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:on",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Quebec",
+        "position_item_id": "Q2911019"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:qc",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Alberta",
+        "position_item_id": "Q3401750"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:ab",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Manitoba",
+        "position_item_id": "Q3401758"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:mb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Nunavut",
+        "position_item_id": "Q4377222"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/territory:nu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Saskatchewan",
+        "position_item_id": "Q6578215"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:sk",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of British Columbia",
+        "position_item_id": "Q7240349"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:bc",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Newfoundland and Labrador",
+        "position_item_id": "Q7240356"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:nl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Nova Scotia",
+        "position_item_id": "Q7240360"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:ns",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Prince Edward Island",
+        "position_item_id": "Q7240361"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:pe",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of the Northwest Territories",
+        "position_item_id": "Q7240368"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/territory:nt",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of New Brunswick",
+        "position_item_id": "Q12270252"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/province:nb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "associations": [
+      {
+        "comment": "Member of the Senate of Canada",
+        "position_item_id": "Q18524027"
+      },
+      {
+        "comment": "Premier of Yukon",
+        "position_item_id": "Q12270260"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2879",
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:fr": "name_fr"
+    },
+    "filter": {
+      "match": "country:ca/territory:yt",
+      "column": "MS_FB"
     }
   },
   {
@@ -327,13 +595,238 @@
     "directory": "cities",
     "associations": [
       {
-        "comment": "Mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Toronto",
+        "position_item_id": "Q14927262"
       }
     ],
     "area_type_wikidata_item_id": "Q515",
     "name_columns": {
       "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:3520005",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Halifax",
+        "position_item_id": "Q18693083"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:1209034",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of London",
+        "position_item_id": "Q56098876"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:3539036",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Mississauga",
+        "position_item_id": "Q56100961"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:351005",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Hamilton",
+        "position_item_id": "Q56071664"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:3525005",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Gatineau",
+        "position_item_id": "Q56071331"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/cd:2481",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Montreal",
+        "position_item_id": "Q177645"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:2466023",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Brampton",
+        "position_item_id": "Q56043125"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:3521010",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Edmonton",
+        "position_item_id": "Q21094906"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:4811061",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Vancouver",
+        "position_item_id": "Q24255207"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:5915022",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Calgary",
+        "position_item_id": "Q47455744"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:4806016",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Ottawa",
+        "position_item_id": "Q47488905"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:3506008",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Winnipeg",
+        "position_item_id": "Q47490035"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:4611040",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Mayor of Quebec City",
+        "position_item_id": "Q47490293"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:2423027",
+      "column": "MS_FB"
     }
   },
   {

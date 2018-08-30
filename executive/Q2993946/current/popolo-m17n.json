@@ -1,0 +1,103 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Don Darling"
+      },
+      "id": "Q25349788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25349788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eric Teed",
+        "lang:fr": "Eric Teed"
+      },
+      "id": "Q5387615",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5387615"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of New Brunswick",
+        "lang:fr": "Conseil exécutif du Nouveau-Brunswick"
+      },
+      "id": "Q2993946",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2993946"
+        }
+      ],
+      "area_id": "Q1965"
+    },
+    {
+      "name": {
+        "lang:en": "Progressive Conservative Party of New Brunswick",
+        "lang:fr": "Parti progressiste-conservateur du Nouveau-Brunswick"
+      },
+      "id": "Q3366632",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366632"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25349788-021F4D98-5FF0-499B-9555-2266EE440346",
+      "person_id": "Q25349788",
+      "organization_id": "Q2993946",
+      "area_id": "Q1965",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q28382706",
+      "role": {
+        "lang:fr": "maire de Saint-Jean"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5387615-F22BE2DA-E493-442A-A12B-40A48E410178",
+      "person_id": "Q5387615",
+      "on_behalf_of_id": "Q3366632",
+      "organization_id": "Q2993946",
+      "area_id": "Q1965",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q28382706",
+      "role": {
+        "lang:fr": "maire de Saint-Jean"
+      }
+    }
+  ]
+}
