@@ -103,6 +103,275 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29889392-5017b076-437d-c8b0-f14d-843ea6bbdc4c"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29889392"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christine Black"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Christine Black"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Montréal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450833"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Borough Mayor (Montreal)"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Maire d'arrondissement (montréal)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-04-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mairessechristineblack"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450829"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor and Borough Mayors of Montreal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994131"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal City Council"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Conseil municipal de Montréal"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3309025-3A0A1126-82B3-4DA8-AEB7-17B847D0A47E"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3309025"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michel Bissonnet"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Michel Bissonnet"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130765"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Democratic Party"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Montréal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450833"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Borough Mayor (Montreal)"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Maire d'arrondissement (montréal)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-09-01T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450829"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor and Borough Mayors of Montreal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994131"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal City Council"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Conseil municipal de Montréal"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3309025-3A0A1126-82B3-4DA8-AEB7-17B847D0A47E"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3309025"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michel Bissonnet"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Michel Bissonnet"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15050564"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ensemble Montréal"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Ensemble Montréal"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Montréal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450833"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Borough Mayor (Montreal)"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Maire d'arrondissement (montréal)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-09-01T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450829"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor and Borough Mayors of Montreal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994131"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal City Council"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Conseil municipal de Montréal"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/q3332743-61bb808e-4fd6-5d43-7516-0955cb9d1731"
       },
       "item" : {
@@ -160,6 +429,283 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "maire de Montréal"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450829"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor and Borough Mayors of Montreal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994131"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal City Council"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Conseil municipal de Montréal"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q45312548-9dacbc8c-4779-1f10-1f54-f896e0f7293b"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45312548"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maja Vodanovic"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Maja Vodanovic"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3407213"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Projet Montréal"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Projet Montréal"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Montréal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450833"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Borough Mayor (Montreal)"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Maire d'arrondissement (montréal)"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "maja.vodanovic.9"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450829"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor and Borough Mayors of Montreal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994131"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal City Council"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Conseil municipal de Montréal"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6751263-51289799-4eb9-8b3f-40e8-059768fd8408"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6751263"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manon Barbe"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Manon Barbe"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47496204"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Équipe Barbe Team"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Équipe Barbe Team"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Montréal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450833"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Borough Mayor (Montreal)"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Maire d'arrondissement (montréal)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-11-01T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450829"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor and Borough Mayors of Montreal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994131"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal City Council"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Conseil municipal de Montréal"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8078328-5d172ff3-480f-5d82-9006-add4956054a9"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8078328"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Émilie Thuillier"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3407213"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Projet Montréal"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Projet Montréal"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montreal"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Montréal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47450833"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Borough Mayor (Montreal)"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Maire d'arrondissement (montréal)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-11-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "emilie.thuillier.52"
       },
       "role_superclass" : {
         "type" : "uri",
