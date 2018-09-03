@@ -130,6 +130,22 @@
     },
     {
       "name": {
+        "lang:en": "John Martin",
+        "lang:fr": "John Martin"
+      },
+      "id": "Q16244253",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16244253"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Mike Morris",
         "lang:fr": "Mike Morris"
       },
@@ -678,6 +694,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q428376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christy Clark",
+        "lang:fr": "Christy Clark"
+      },
+      "id": "Q460064",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q460064"
         }
       ],
       "links": [
@@ -1304,6 +1336,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7323220"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Lee",
+        "lang:fr": "Richard Lee"
+      },
+      "id": "Q7327305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7327305"
         }
       ],
       "links": [
@@ -3625,6 +3673,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16244253-d10c2701-4d1f-00f1-f290-6682f6b82b85",
+      "person_id": "Q16244253",
+      "organization_id": "Q1323479",
+      "area_id": "Q5099089",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19004821",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of British Columbia",
+        "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16244342-07745E30-AC6E-42B0-B4D1-B07D21C2187C",
       "person_id": "Q16244342",
       "organization_id": "Q1323479",
@@ -4190,6 +4255,24 @@
       "person_id": "Q428376",
       "organization_id": "Q1323479",
       "area_id": "Q7073425",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19004821",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of British Columbia",
+        "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q460064-998BA52E-D914-4004-848A-BE6D9A348809",
+      "person_id": "Q460064",
+      "organization_id": "Q1323479",
+      "area_id": "Q7989671",
+      "start_date": "2013-07-10",
+      "end_date": "2017-08-04",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -4864,6 +4947,23 @@
       "person_id": "Q7323220",
       "organization_id": "Q1323479",
       "area_id": "Q28233141",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19004821",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of British Columbia",
+        "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7327305-b01d1443-4b53-3c44-3524-84609fe59a3a",
+      "person_id": "Q7327305",
+      "organization_id": "Q1323479",
+      "area_id": "Q4999593",
+      "start_date": "2001-05-16",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

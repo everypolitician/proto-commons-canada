@@ -1038,6 +1038,22 @@
     },
     {
       "name": {
+        "lang:en": "Brian Jean",
+        "lang:fr": "Brian Jean"
+      },
+      "id": "Q2421201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2421201"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Brian Mason",
         "lang:fr": "Brian Mason"
       },
@@ -1078,6 +1094,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3162959"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alison Redford",
+        "lang:fr": "Alison Redford"
+      },
+      "id": "Q459603",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q459603"
         }
       ],
       "links": [
@@ -1138,6 +1170,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q51463051"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dave Hancock",
+        "lang:fr": "Dave Hancock"
+      },
+      "id": "Q5228907",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5228907"
         }
       ],
       "links": [
@@ -1325,6 +1373,20 @@
       "seat_counts": {
         "Q15964815": "87"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Alberta New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique de l'Alberta"
+      },
+      "id": "Q3345044",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3345044"
+        }
+      ]
     }
   ],
   "areas": [
@@ -3582,6 +3644,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19861370-11ba1e2e-4bd6-ce83-8921-3bd95f084cb3",
+      "person_id": "Q19861370",
+      "on_behalf_of_id": "Q3345044",
+      "organization_id": "Q1812866",
+      "area_id": "Q7619584",
+      "start_date": "2015-05-05",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q15964815",
+      "role": {
+        "lang:en": "member of Alberta Legislative Assembly",
+        "lang:fr": "membre de l'assemblée législative d'Alberta"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19861370-1F7D6193-0F2B-472A-976D-B52CBD1D2382",
       "person_id": "Q19861370",
       "organization_id": "Q1812866",
@@ -4526,6 +4606,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2421201-15b6f5b8-428c-5a28-4c86-41e9ad9ff49f",
+      "person_id": "Q2421201",
+      "organization_id": "Q1812866",
+      "area_id": "Q5471643",
+      "start_date": "2015-01-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q15964815",
+      "role": {
+        "lang:en": "member of Alberta Legislative Assembly",
+        "lang:fr": "membre de l'assemblée législative d'Alberta"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2924949-23C31EEB-BD6A-4C4E-87F9-7366AC8F054C",
       "person_id": "Q2924949",
       "organization_id": "Q1812866",
@@ -4562,6 +4659,23 @@
       "person_id": "Q3162959",
       "organization_id": "Q1812866",
       "area_id": "Q5019612",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q15964815",
+      "role": {
+        "lang:en": "member of Alberta Legislative Assembly",
+        "lang:fr": "membre de l'assemblée législative d'Alberta"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q459603-2128aee3-4424-5264-065d-4b367b3c6ab4",
+      "person_id": "Q459603",
+      "organization_id": "Q1812866",
+      "area_id": "Q5019601",
+      "start_date": "2008-03-03",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -4674,6 +4788,23 @@
       "person_id": "Q51463051",
       "organization_id": "Q1812866",
       "area_id": "Q5338987",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q15964815",
+      "role": {
+        "lang:en": "member of Alberta Legislative Assembly",
+        "lang:fr": "membre de l'assemblée législative d'Alberta"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5228907-bd711eee-4ef0-979f-cee2-3be84497eeeb",
+      "person_id": "Q5228907",
+      "organization_id": "Q1812866",
+      "area_id": "Q5339003",
+      "start_date": "1997-03-11",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

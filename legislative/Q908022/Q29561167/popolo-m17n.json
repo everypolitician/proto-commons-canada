@@ -2,6 +2,99 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Sandy Silver",
+        "lang:fr": "Sandy Silver"
+      },
+      "id": "Q1841565",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1841565"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/sydnysilver"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patti McLeod",
+        "lang:fr": "Patti McLeod"
+      },
+      "id": "Q1965024",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1965024"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/patti.mcleod.58"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Wade Istchenko",
+        "lang:fr": "Wade Istchenko"
+      },
+      "id": "Q1965881",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1965881"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/wade.istchenko"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jeanie Dendys"
+      },
+      "id": "Q27788610",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27788610"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JeanieDendys"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pauline Frost"
+      },
+      "id": "Q27791884",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27791884"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Pfrostoldcrow"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Ted Adel"
       },
       "id": "Q27805368",
@@ -15,6 +108,100 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/TedAdelCopperbeltNorth"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paolo Gallina"
+      },
+      "id": "Q27805369",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27805369"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paologallinapolitics"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Geraldine Van Bibber",
+        "lang:fr": "Geraldine Van Bibber"
+      },
+      "id": "Q299594",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q299594"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/geraldine.vanbibber"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Elizabeth Hanson",
+        "lang:fr": "Elizabeth Hanson"
+      },
+      "id": "Q3051221",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3051221"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/lizhansonMLA"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Streicker",
+        "lang:fr": "John Streicker"
+      },
+      "id": "Q6259429",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6259429"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jstreicker"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brad Cathers",
+        "lang:fr": "Brad Cathers"
+      },
+      "id": "Q661182",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q661182"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BradCathers.MLAforLakeLaberge"
         }
       ]
     }
@@ -49,6 +236,34 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3366503"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yukon Party",
+        "lang:fr": "Parti du Yukon"
+      },
+      "id": "Q739885",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739885"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yukon New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique du Yukon"
+      },
+      "id": "Q748775",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q748775"
         }
       ]
     }
@@ -544,12 +759,192 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1841565-86329AD1-5E0E-4276-969C-61A07A5596D6",
+      "person_id": "Q1841565",
+      "on_behalf_of_id": "Q3366503",
+      "organization_id": "Q908022",
+      "start_date": "2012-08-17",
+      "end_date": "2016-12-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1965024-776299CD-10CD-4B87-8948-A4D448518511",
+      "person_id": "Q1965024",
+      "on_behalf_of_id": "Q739885",
+      "organization_id": "Q908022",
+      "area_id": "Q7974835",
+      "start_date": "2011-10-11",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1965881-89491BA1-E536-4987-8DDE-A63980C65038",
+      "person_id": "Q1965881",
+      "on_behalf_of_id": "Q739885",
+      "organization_id": "Q908022",
+      "area_id": "Q3197911",
+      "start_date": "2011-10-11",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27788610-763eb70a-428e-8b2e-fdc4-802f99cfd7be",
+      "person_id": "Q27788610",
+      "on_behalf_of_id": "Q3366503",
+      "organization_id": "Q908022",
+      "area_id": "Q1841558",
+      "start_date": "2016-12-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27791884-34ebfbcd-4bfd-7392-49ec-21ce72b35f0d",
+      "person_id": "Q27791884",
+      "on_behalf_of_id": "Q3366503",
+      "organization_id": "Q908022",
+      "area_id": "Q3563849",
+      "start_date": "2016-12-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q27805368-81d02436-4b37-73d0-e75f-bb22efd58d4c",
       "person_id": "Q27805368",
       "on_behalf_of_id": "Q3366503",
       "organization_id": "Q908022",
       "area_id": "Q1840816",
       "start_date": "2016-11-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27805369-b2fd9504-4575-6f46-5cac-4b343337b60c",
+      "person_id": "Q27805369",
+      "on_behalf_of_id": "Q3366503",
+      "organization_id": "Q908022",
+      "area_id": "Q3399235",
+      "start_date": "2016-11-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q299594-c7179a49-401b-d118-c76c-66d0fcb67e66",
+      "person_id": "Q299594",
+      "on_behalf_of_id": "Q739885",
+      "organization_id": "Q908022",
+      "area_id": "Q3399237",
+      "start_date": "2016-11-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3051221-27D63931-7397-4437-BB56-9E38F07D51ED",
+      "person_id": "Q3051221",
+      "on_behalf_of_id": "Q748775",
+      "organization_id": "Q908022",
+      "area_id": "Q3567803",
+      "start_date": "2010-12-13",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6259429-e2cc48e1-4835-8cbd-6999-e4d86e0f4355",
+      "person_id": "Q6259429",
+      "on_behalf_of_id": "Q3366503",
+      "organization_id": "Q908022",
+      "area_id": "Q1842800",
+      "start_date": "2016-12-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q661182-0AB10A5F-6C37-4A9A-B016-7F5BC48D81A9",
+      "person_id": "Q661182",
+      "on_behalf_of_id": "Q739885",
+      "organization_id": "Q908022",
+      "area_id": "Q3215001",
+      "start_date": "2002-11-04",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

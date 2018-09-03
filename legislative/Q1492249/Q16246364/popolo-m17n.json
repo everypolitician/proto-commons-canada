@@ -386,6 +386,22 @@
     },
     {
       "name": {
+        "lang:en": "Marc H. Plante",
+        "lang:fr": "Marc H. Plante"
+      },
+      "id": "Q16864576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16864576"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Yves St-Denis",
         "lang:fr": "Yves St-Denis"
       },
@@ -478,6 +494,41 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jean-Paul Diamond",
+        "lang:fr": "Jean-Paul Diamond"
+      },
+      "id": "Q2379503",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2379503"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mireille Jean",
+        "lang:fr": "Mireille Jean"
+      },
+      "id": "Q24053442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053442"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Mireille-Jean-1728674760702848"
+        }
       ]
     },
     {
@@ -754,6 +805,38 @@
     },
     {
       "name": {
+        "lang:en": "Francine Charbonneau",
+        "lang:fr": "Francine Charbonneau"
+      },
+      "id": "Q3081197",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3081197"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "François Gendron",
+        "lang:fr": "François Gendron"
+      },
+      "id": "Q3084718",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3084718"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "François Legault",
         "lang:fr": "François Legault"
       },
@@ -778,6 +861,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3085498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Françoise David",
+        "lang:fr": "Françoise David"
+      },
+      "id": "Q3086459",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3086459"
         }
       ],
       "links": [
@@ -882,6 +981,22 @@
     },
     {
       "name": {
+        "lang:en": "Jacques Daoust",
+        "lang:fr": "Jacques Daoust"
+      },
+      "id": "Q3158630",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3158630"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jean-François Lisée",
         "lang:fr": "Jean-François Lisée"
       },
@@ -970,6 +1085,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3219349"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lise Thériault",
+        "lang:fr": "Lise Thériault"
+      },
+      "id": "Q3242528",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3242528"
         }
       ],
       "links": [
@@ -1202,6 +1333,25 @@
     },
     {
       "name": {
+        "lang:en": "Philippe Couillard",
+        "lang:fr": "Philippe Couillard"
+      },
+      "id": "Q3379654",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3379654"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/phcouillard"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Pierre-Michel Auger",
         "lang:fr": "Pierre-Michel Auger"
       },
@@ -1226,6 +1376,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3383756"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pierre Moreau",
+        "lang:fr": "Pierre Moreau"
+      },
+      "id": "Q3386345",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3386345"
         }
       ],
       "links": [
@@ -1503,6 +1669,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Sam Hamad",
+        "lang:fr": "Sam Hamad"
+      },
+      "id": "Q921062",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q921062"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -1523,6 +1705,20 @@
       "seat_counts": {
         "Q3305338": "125"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Parti Québécois",
+        "lang:fr": "Parti québécois"
+      },
+      "id": "Q950356",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q950356"
+        }
+      ]
     }
   ],
   "areas": [
@@ -4596,22 +4792,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q1607747-146F9643-29BF-4162-AADF-EFCB105B6CE8",
-      "person_id": "Q1607747",
-      "organization_id": "Q1492249",
-      "area_id": "Q3306380",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly",
-        "lang:fr": "membre d'une assemblée législative"
-      },
-      "role_code": "Q3305338",
-      "role": {
-        "lang:en": "Member of the National Assembly of Quebec",
-        "lang:fr": "député de l'Assemblée nationale du Québec"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q1607747-1C256D45-15BD-4C19-9585-D5C06B2D6D1F",
       "person_id": "Q1607747",
       "organization_id": "Q1492249",
@@ -4985,6 +5165,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16864576-474d72eb-4d48-076d-8f1b-685e2580d99d",
+      "person_id": "Q16864576",
+      "organization_id": "Q1492249",
+      "area_id": "Q3297286",
+      "start_date": "2014-04-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17000245-D4F31EA6-5751-43A9-A7B8-E4B3D7E5DF7E",
       "person_id": "Q17000245",
       "organization_id": "Q1492249",
@@ -5069,6 +5266,42 @@
       "person_id": "Q22277229",
       "organization_id": "Q1492249",
       "area_id": "Q2893119",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2379503-A1016122-7AED-47AA-887F-8DD9BD4693FB",
+      "person_id": "Q2379503",
+      "organization_id": "Q1492249",
+      "area_id": "Q3297286",
+      "start_date": "2008-12-08",
+      "end_date": "2014-04-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053442-88f79ff6-4553-863a-48db-c9c31da9c60f",
+      "person_id": "Q24053442",
+      "on_behalf_of_id": "Q950356",
+      "organization_id": "Q1492249",
+      "area_id": "Q2963419",
+      "start_date": "2016-04-11",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -5374,6 +5607,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3035523-afc41085-4ae8-7c30-445b-9a7803022c63",
+      "person_id": "Q3035523",
+      "organization_id": "Q1492249",
+      "area_id": "Q2894824",
+      "start_date": "2008-12-08",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3036064-9B5F608D-285A-480D-A507-508D1EC8F3D1",
       "person_id": "Q3036064",
       "organization_id": "Q1492249",
@@ -5406,6 +5656,40 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3081197-8F221F13-4F3A-4FE7-81B3-4A8A9F8F5489",
+      "person_id": "Q3081197",
+      "organization_id": "Q1492249",
+      "area_id": "Q3314264",
+      "start_date": "2008-12-08",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3084718-5A96202E-426C-454D-AEC8-CE039889CA6B",
+      "person_id": "Q3084718",
+      "organization_id": "Q1492249",
+      "area_id": "Q2821647",
+      "start_date": "1976-11-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3085147-61C51508-6A8E-4359-B3D1-06A4B8509882",
       "person_id": "Q3085147",
       "organization_id": "Q1492249",
@@ -5426,6 +5710,24 @@
       "person_id": "Q3085498",
       "organization_id": "Q1492249",
       "area_id": "Q3294760",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3086459-10A92CD0-40EA-4E91-BAFC-35E622742968",
+      "person_id": "Q3086459",
+      "organization_id": "Q1492249",
+      "area_id": "Q3111624",
+      "start_date": "2012-09-04",
+      "end_date": "2017-01-19",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -5522,6 +5824,24 @@
       "person_id": "Q3158487",
       "organization_id": "Q1492249",
       "area_id": "Q3567542",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3158630-2C77F399-12B6-4381-B1AE-A259F2484CEB",
+      "person_id": "Q3158630",
+      "organization_id": "Q1492249",
+      "area_id": "Q3555824",
+      "start_date": "2014-04-07",
+      "end_date": "2016-08-19",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -5648,10 +5968,44 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3219349-49cc4ed0-4c46-e730-4398-ac9446644ac9",
+      "person_id": "Q3219349",
+      "organization_id": "Q1492249",
+      "area_id": "Q3259964",
+      "start_date": "2012-09-04",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3219349-E79E87F6-599E-4B5F-B883-2E8AB23096E2",
       "person_id": "Q3219349",
       "organization_id": "Q1492249",
       "area_id": "Q3259964",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3242528-F430026F-DAE4-4E72-A27D-12726ECEF782",
+      "person_id": "Q3242528",
+      "organization_id": "Q1492249",
+      "area_id": "Q2850263",
+      "start_date": "2012-09-04",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -5749,22 +6103,6 @@
       "person_id": "Q3288424",
       "organization_id": "Q1492249",
       "area_id": "Q3206243",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly",
-        "lang:fr": "membre d'une assemblée législative"
-      },
-      "role_code": "Q3305338",
-      "role": {
-        "lang:en": "Member of the National Assembly of Quebec",
-        "lang:fr": "député de l'Assemblée nationale du Québec"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3295823-63306E69-AF08-45C9-B8BE-C6974749D490",
-      "person_id": "Q3295823",
-      "organization_id": "Q1492249",
-      "area_id": "Q3553117",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -5906,6 +6244,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3379654-FB8C4431-FE29-4AAE-B2CE-1C45AB1F1D2F",
+      "person_id": "Q3379654",
+      "organization_id": "Q1492249",
+      "area_id": "Q2381824",
+      "start_date": "2014-04-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3383393-114A634E-DE21-4543-92F4-0E863F3725E7",
       "person_id": "Q3383393",
       "organization_id": "Q1492249",
@@ -5938,11 +6293,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3386510-23379AE5-70D6-4EFD-9EF4-03520FC3B342",
-      "person_id": "Q3386510",
+      "id": "http://www.wikidata.org/entity/statement/Q3386345-270C6A51-0F40-419E-8AD9-22D809397A53",
+      "person_id": "Q3386345",
       "organization_id": "Q1492249",
-      "area_id": "Q2925997",
-      "start_date": "1980-11-17",
+      "area_id": "Q2971888",
+      "start_date": "2008-12-08",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -5955,10 +6310,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3386510-7674CC89-CF4B-427F-A317-7D113E1190F4",
+      "id": "http://www.wikidata.org/entity/statement/Q3386510-23379AE5-70D6-4EFD-9EF4-03520FC3B342",
       "person_id": "Q3386510",
       "organization_id": "Q1492249",
       "area_id": "Q2925997",
+      "start_date": "1980-11-17",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -6133,22 +6489,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3507009-0D6C980C-5221-45DB-91E5-8DDF01EDEB51",
-      "person_id": "Q3507009",
-      "organization_id": "Q1492249",
-      "area_id": "Q3183626",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly",
-        "lang:fr": "membre d'une assemblée législative"
-      },
-      "role_code": "Q3305338",
-      "role": {
-        "lang:en": "Member of the National Assembly of Quebec",
-        "lang:fr": "député de l'Assemblée nationale du Québec"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q3507009-A5289B10-4B8A-4943-A9CC-4C464C109503",
       "person_id": "Q3507009",
       "organization_id": "Q1492249",
@@ -6203,22 +6543,6 @@
       "organization_id": "Q1492249",
       "area_id": "Q3183136",
       "start_date": "2008-12-08",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly",
-        "lang:fr": "membre d'une assemblée législative"
-      },
-      "role_code": "Q3305338",
-      "role": {
-        "lang:en": "Member of the National Assembly of Quebec",
-        "lang:fr": "député de l'Assemblée nationale du Québec"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3564320-D6F56711-97BA-4A0D-9613-A0183F816394",
-      "person_id": "Q3564320",
-      "organization_id": "Q1492249",
-      "area_id": "Q3183136",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -6316,6 +6640,23 @@
       "person_id": "Q728648",
       "organization_id": "Q1492249",
       "area_id": "Q3098859",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q921062-2C020B94-E34A-4A42-887F-C216AC329414",
+      "person_id": "Q921062",
+      "organization_id": "Q1492249",
+      "area_id": "Q3260600",
+      "start_date": "2003-04-14",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
