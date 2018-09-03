@@ -1,9 +1,55 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en": "Doug Ford Jr.",
+        "lang:fr": "Doug Ford Jr."
+      },
+      "id": "Q5300478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5300478"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/FordNationDougFord"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Government of Ontario",
+        "lang:fr": "gouvernement de l'Ontario"
+      },
+      "id": "Q5589283",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5589283"
+        }
+      ],
+      "area_id": "Q1904"
+    },
+    {
+      "name": {
+        "lang:en": "Progressive Conservative Party of Ontario",
+        "lang:fr": "Parti progressiste-conservateur de l'Ontario"
+      },
+      "id": "Q826977",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q826977"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +104,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5300478-e412768b-4428-1be2-a607-384ade23fa64",
+      "person_id": "Q5300478",
+      "on_behalf_of_id": "Q826977",
+      "organization_id": "Q5589283",
+      "area_id": "Q1904",
+      "start_date": "2018-06-29",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q2560704",
+      "role": {
+        "lang:en": "Premier of Ontario",
+        "lang:fr": "Premier ministre de l'Ontario"
+      }
+    }
   ]
 }

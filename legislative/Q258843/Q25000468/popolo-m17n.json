@@ -1,9 +1,41 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Gerry Byrne",
+        "lang:fr": "Gerry Byrne"
+      },
+      "id": "Q3104325",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3104325"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Newfoundland and Labrador House of Assembly",
+        "lang:fr": "chambre d'Assemblée de Terre-Neuve-et-Labrador"
+      },
+      "id": "Q258843",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258843"
+        }
+      ],
+      "area_id": "Q2003",
+      "seat_counts": {
+        "Q19403853": "40"
+      }
+    }
   ],
   "areas": [
     {
@@ -979,6 +1011,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3104325-5FBBF97F-F294-4016-A1CB-0EC881CEE6A2",
+      "person_id": "Q3104325",
+      "organization_id": "Q258843",
+      "area_id": "Q22079861",
+      "start_date": "2015-11-30",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19403853",
+      "role": {
+        "lang:en": "Member of the Newfoundland and Labrador House of Assembly",
+        "lang:fr": "membre de la chambre d'Assemblée de Terre-Neuve-et-Labrador"
+      }
+    }
   ]
 }
