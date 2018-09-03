@@ -3,6 +3,108 @@
     "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "role_superclass", "role_superclass_en", "role_superclass_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366503"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral du Yukon"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yukon Liberal Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q27805368-81d02436-4b37-73d0-e75f-bb22efd58d4c"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1840816"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Copperbelt-Nord"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Copperbelt North"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18608478"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative du Yukon"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Yukon Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27805368"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ted Adel"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q908022"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative du Yukon"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yukon Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2009"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-11-07T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "TedAdelCopperbeltNorth"
+      }
+    } ]
   }
 }

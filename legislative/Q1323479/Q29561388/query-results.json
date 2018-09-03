@@ -5758,6 +5758,113 @@
     }, {
       "district" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10857025"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nanaimo"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6525470-1c97b4dd-4256-6d54-514c-00069782db7a"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19004821"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Colombie-Britannique"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Assembly of British Columbia"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6525470"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leonard Krog"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1323479"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de la Colombie-Britannique"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of British Columbia"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1974"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "87"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Leonard Krog"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nanaimo"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-22T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "leonardkrogmlananaimo"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q919052"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique de la Colombie-Britannique"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "British Columbia New Democratic Party"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28233150"
       },
       "district_name_en" : {
