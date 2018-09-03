@@ -2274,6 +2274,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2903215-b78f144e-42dd-ee37-6623-3e16641965ad",
+      "person_id": "Q2903215",
+      "organization_id": "Q1516914",
+      "area_id": "Q3315872",
+      "start_date": "2006-01-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2905723-00EB37EB-795E-41A8-BBEE-6055B5D8BA5F",
       "person_id": "Q2905723",
       "organization_id": "Q1516914",
@@ -2310,6 +2327,23 @@
       "person_id": "Q2924935",
       "organization_id": "Q1516914",
       "area_id": "Q16950560",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2924935-d996efb1-40d2-27b6-9ba9-b00769c606dc",
+      "person_id": "Q2924935",
+      "organization_id": "Q1516914",
+      "area_id": "Q2891243",
+      "start_date": "2003-01-01",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
