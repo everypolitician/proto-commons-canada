@@ -3,6 +3,90 @@
     "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "role_superclass", "role_superclass_en", "role_superclass_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22079861"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Corner Brook"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3104325-5FBBF97F-F294-4016-A1CB-0EC881CEE6A2"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19403853"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de la chambre d'Assemblée de Terre-Neuve-et-Labrador"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Newfoundland and Labrador House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3104325"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Gerry Byrne"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gerry Byrne"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258843"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'Assemblée de Terre-Neuve-et-Labrador"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newfoundland and Labrador House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2003"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-11-30T00:00:00Z"
+      }
+    } ]
   }
 }

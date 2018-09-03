@@ -4,15 +4,6 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5142654"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cole Harbour"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15128647-05C9CE4C-289E-4851-A37B-EAA0B3147B94"
@@ -49,11 +40,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15128647"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Tony Ince"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -82,21 +68,26 @@
         "type" : "literal",
         "value" : "51"
       },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Tony Ince"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5142654"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Cole Harbour-Portland-Valley"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6413019"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kings South"
-      },
+        "value" : "Cole Harbour"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15280716-7042E2B3-66C5-4B97-B1A4-418CBB531E7F"
@@ -133,11 +124,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15280716"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Keith Irving"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -166,21 +152,26 @@
         "type" : "literal",
         "value" : "51"
       },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Keith Irving"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6413019"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Kings-Sud"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5330444"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Eastern Shore"
-      },
+        "value" : "Kings South"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15284980-534FC33C-2876-4214-8B81-492DF4D2FAE2"
@@ -217,11 +208,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15284980"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Kevin Murphy (homme politique canadien)"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -250,21 +236,454 @@
         "type" : "literal",
         "value" : "51"
       },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kevin Murphy (homme politique canadien)"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5330444"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Eastern Shore"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5651309"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hants East"
+        "value" : "Eastern Shore"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15285291-228A953C-3C26-4288-886C-C76D241F48DF"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15285291"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iain Rankin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Iain Rankin (homme politique)"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7804704"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Timberlea-Prospect"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Timberlea-Prospect"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-10-08T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "IainTRankin"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15285291-6b9b4071-4013-1efc-cf51-6fb26e5b0d44"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15285291"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iain Rankin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Iain Rankin (homme politique)"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7804704"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Timberlea-Prospect"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Timberlea-Prospect"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "IainTRankin"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15285300-01782138-4cc4-51ac-3cdb-dad511cf99dd"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15285300"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Patricia Arab"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Patricia Arab"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16975633"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fairview-Clayton Park"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-10-08T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "PatriciaArab"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-29T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15285300-F782471C-0545-4920-A0A1-8E7492778E2A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15285300"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Patricia Arab"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Patricia Arab"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16975633"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fairview-Clayton Park"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "PatriciaArab"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15294033-7322B260-9754-44DB-A12B-EEA711D78730"
@@ -301,11 +720,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15294033"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Margaret Miller"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -333,17 +747,22 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
-      }
-    }, {
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Margaret Miller"
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5642124"
+        "value" : "http://www.wikidata.org/entity/Q5651309"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Halifax Atlantic"
-      },
+        "value" : "Hants East"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15294034-4876E250-2487-4BC1-8C69-218B52541D98"
@@ -380,11 +799,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15294034"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Brendan Maguire"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -412,17 +826,124 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
-      }
-    }, {
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Brendan Maguire"
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6412965"
+        "value" : "http://www.wikidata.org/entity/Q5642124"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kings North"
+        "value" : "Halifax Atlantic"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15294036-73B8AB67-1632-4359-ABDE-51A65819DE38"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15294036"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suzanne Lohnes-Croft"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Suzanne Lohnes-Croft"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6704214"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lunenburg"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-10-08T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "suzannelohnescroftns"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15296590-AD8A922A-6C48-4762-979B-2A112DDDBA10"
@@ -459,11 +980,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15296590"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "John Lohr"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -491,17 +1007,399 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
-      }
-    }, {
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "John Lohr"
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5193931"
+        "value" : "http://www.wikidata.org/entity/Q6412965"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cumberland North"
+        "value" : "Kings North"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15296602-2A5418EA-0D0F-4547-A2C2-3DA67451209C"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15296602"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lena Diab"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Lena Diab"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16983123"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Halifax Armdale"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-10-08T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "LenaDiabNS"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15296602-c8473956-4fd3-6a11-9672-957607691424"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15296602"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lena Diab"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Lena Diab"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16983123"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Halifax Armdale"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "LenaDiabNS"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30094708-42605f31-4edb-64a0-2312-b1b71fb88c5e"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30094708"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rafah DiCostanzo"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Rafah DiCostanzo"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16258528"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Clayton Park West"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30094960-2f96ed68-4a43-3633-a31d-c2249e0c05c3"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30094960"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kim Masland"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kim Masland"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17092609"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Queens-Shelburne"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q30095405-577924BF-8EC4-4C48-A91C-7FCC346A4E5D"
@@ -538,11 +1436,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30095405"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Elizabeth Smith-McCrossin"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -570,17 +1463,208 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
-      }
-    }, {
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Elizabeth Smith-McCrossin"
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5225716"
+        "value" : "http://www.wikidata.org/entity/Q5193931"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dartmouth North"
+        "value" : "Cumberland North"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30096861-f22aad22-43a1-b663-f747-77e630ce5163"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30096861"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Claudia Chender"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Claudia Chender"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5225726"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dartmouth South"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3345047"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia New Democratic Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ClaudiaChenderMLA"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30096963-3a5235b5-4e68-c164-29e6-c182c760c098"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30096963"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tammy Martin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Tammy Martin"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5034603"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cape Breton Centre"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q30096966-EBB7AC8A-E096-4EDD-AB40-5F1BE1EAAB5D"
@@ -617,11 +1701,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30096966"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Susan Leblanc"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -649,17 +1728,315 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
-      }
-    }, {
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Susan Leblanc"
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5651314"
+        "value" : "http://www.wikidata.org/entity/Q5225716"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hants West"
+        "value" : "Dartmouth North"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30123085-aa47a48b-4940-a086-c538-9fd21fee9f29"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30123085"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Barbara Adams"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Barbara Adams"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5142651"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Cole-Harbour-Eastern-Passage"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cole Harbour-Eastern Passage"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2868020"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Association progressiste-conservateur de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Conservative Association of Nova Scotia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "BarbaraAdamsFORColeHarbourEasternPassage"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3498613-07A158F0-BA22-4DF6-A12D-CC5FCC021DA8"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3498613"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stephen McNeil"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Stephen McNeil"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4767958"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Annapolis"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-08-05T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4355859-0591FD4F-9655-41DE-8A24-F7E58D4B29CE"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4355859"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lenore Zann"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Lenore Zann"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7848021"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Truro-Bible Hill"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3345047"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia New Democratic Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-06-09T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "LenoreEZann"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5115664-8BBCC2CC-E9E4-42E5-BCD6-07899D27CEE6"
@@ -696,11 +2073,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5115664"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Chuck Porter"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -728,17 +2100,124 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
-      }
-    }, {
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Chuck Porter"
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5642136"
+        "value" : "http://www.wikidata.org/entity/Q5651314"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Halifax Chebucto"
+        "value" : "Hants West"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5336375-1e3774a2-4357-37c1-80aa-5e7f87daef01"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5336375"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eddie Orrell"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Eddie Orrell"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17092063"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northside-Westmount"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2868020"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Association progressiste-conservateur de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Conservative Association of Nova Scotia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-06-21T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "eddie.orrell.9"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5524793-A3AEEF81-A045-4AAC-9F5E-44B8379E340C"
@@ -775,11 +2254,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5524793"
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Gary Burrill"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -807,6 +2281,313 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Gary Burrill"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5642136"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Halifax Chebucto"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6369554-9BECC9C7-BAFA-4A94-B80A-65079EB86315"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6369554"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karen Casey"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Karen Casey"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5142099"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colchester North"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2006-06-13T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6384010-BBBA238D-0017-400A-9A64-10F5D0AD0819"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6384010"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keith Bain"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Keith Bain"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7926536"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Victoria"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victoria-The Lakes"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2868020"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Association progressiste-conservateur de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Conservative Association of Nova Scotia"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "keith.bain.334"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8063788-AC7A7A45-EE90-4918-8742-8D20A177DC40"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18239264"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Nova Scotia House of Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8063788"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zach Churchill"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320273"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia House of Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1952"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Zach Churchill"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8049384"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yarmouth"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366494"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de la Nouvelle-Écosse"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nova Scotia Liberal Party"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-06-22T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ZachChurchillNS"
       }
     } ]
   }

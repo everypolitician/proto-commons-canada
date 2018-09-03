@@ -1,0 +1,1878 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "role_superclass", "role_superclass_en", "role_superclass_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1530835-6AF85816-341B-4DB8-817D-DD54949E5EA3"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1530835"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Glen Murray"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7826304"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toronto Centre"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Glen Murray"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Toronto-Centre"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16243982-7641D745-FE45-4698-B9AE-FD2029EE59D4"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16243982"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wayne Gates"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7023645"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niagara Falls"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Wayne Gates"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Niagara Falls"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-07-11T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16729089-284acd60-473e-c9c1-b527-2ff5d11a2bfe"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16729089"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Fraser"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3357749"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ottawa South"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "John Fraser"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Ottawa-Sud"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-06-12T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17180515-FBBB6845-1733-4832-B82A-B7B9015BE0A5"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17180515"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yvan Baker"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5404733"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Etobicoke Centre"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Yvan Baker"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Etobicoke-Centre"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-06-12T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1553186"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ontario Liberal Party"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yvanbaker"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17180770-981BE51F-0F84-4F6B-95DA-81994E693A69"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17180770"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arthur Potts"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4875861"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beaches—East York"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Arthur Potts"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Beaches—East York"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-06-12T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1553186"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ontario Liberal Party"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mpparthurpotts"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17198255-2DA97FCB-1FA4-47F5-9FE8-CF2C98358129"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17198255"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sophie Kiwala"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16861334"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingston and the Islands (provincial electoral district)"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Sophie Kiwala"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kingston et les Îles (circonscription provinciale)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-06-12T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1553186"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ontario Liberal Party"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "SKiwala"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3786221-2874a53e-4d9c-54b7-170f-fd4ea2fba4bb"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3786221"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kathleen Wynne"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5293650"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Don Valley West"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kathleen Wynne"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Don Valley-Ouest"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-10-02T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "WynneFans"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5386756-0381C116-D028-4F97-9453-5E4593FDB26D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5386756"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eric Hoskins"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7591014"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "St. Paul's"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Eric Hoskins"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "St. Paul's"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q580287-58308D62-8FD1-4257-8AA2-0D5A343A6BBA"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q580287"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bob Chiarelli"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7109274"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ottawa West—Nepean"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Bob Chiarelli"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Ottawa-Ouest—Nepean (circonscription provinciale)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6113811-02c87ee4-4304-c740-4690-cce32b812d3f"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6113811"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jack MacLaren"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5041265"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carleton—Mississippi Mills"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Jack MacLaren"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Carleton—Mississippi Mills"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-28T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29467157"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Trillium Party of Ontario"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "JackMacLarenMPP"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6175309-D6F7DFB4-7BDA-4615-BAEA-A39496C9C624"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6175309"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeff Yurek"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5360083"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elgin—Middlesex—London"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Jeff Yurek"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Elgin—Middlesex—London"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-10-06T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826977"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti progressiste-conservateur de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Conservative Party of Ontario"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jeffyurekpc"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6198969-9F59368E-E20F-45CD-88C8-241CB33C204E"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6198969"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jim Wilson"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14875423"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Simcoe—Grey (provincial electoral district)"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Jim Wilson"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Simcoe—Grey"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-07-11T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6265083-CF2A0404-0328-477C-8A3B-78DDF65BEC43"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6265083"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Yakabuski"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14875403"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renfrew—Nipissing—Pembroke (provincial electoral district)"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "John Yakabuski"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Renfrew—Nipissing—Pembroke"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-10-02T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826977"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti progressiste-conservateur de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Conservative Party of Ontario"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "John-Yakabuski-MPP-1275580362468884"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6830967-346B7E9F-7448-4A77-B3F6-606206C66ABC"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6830967"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael Harris"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16861336"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kitchener—Conestoga"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Michael Harris"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kitchener—Conestoga (circonscription provinciale)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-10-06T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6832503-9D691AB9-B261-43F6-BEC1-FD7D44F4441E"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6832503"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael Mantha"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4724311"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Algoma—Manitoulin"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Michael Mantha"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Algoma—Manitoulin"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-10-06T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q827589"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ontario New Democratic Party"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MichaelMantha"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6900388-CFAB9AB8-E0AC-4939-9B0B-EDEC60AF5B1B"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6900388"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monique Taylor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16860714"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hamilton Mountain (provincial electoral district)"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Monique Taylor"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Hamilton Mountain (circonscription provinciale)"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-10-06T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q827589"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nouveau Parti démocratique de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ontario New Democratic Party"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MPPTaylor"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6904822-A7BE3321-E13C-4644-898E-FBB09F025E4F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6904822"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monte McNaughton"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6481611"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lambton—Kent—Middlesex"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Monte McNaughton"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Lambton—Kent—Middlesex"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-10-06T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826977"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti progressiste-conservateur de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Conservative Party of Ontario"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MPPMonteMcNaughton"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7152522-B039DBB6-478E-4955-8020-BC64C2741131"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7152522"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paul Miller"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14875164"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hamilton East—Stoney Creek"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Paul Miller"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Hamilton-Est—Stoney Creek"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-01T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7925897-34C200B7-06E0-44FC-A99F-0956040E4E76"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305347"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre du Parlement provincial"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Ontario Provincial Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7925897"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vic Fedeli"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809086"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de l'Ontario"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Ontario"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1904"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7039511"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nipissing"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Victor Fedeli"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Nipissing"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-10-06T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826977"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti progressiste-conservateur de l'Ontario"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Conservative Party of Ontario"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "vicfedeli"
+      }
+    } ]
+  }
+}
