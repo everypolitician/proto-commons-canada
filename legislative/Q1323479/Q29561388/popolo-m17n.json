@@ -1085,6 +1085,25 @@
     },
     {
       "name": {
+        "lang:en": "Leonard Krog",
+        "lang:fr": "Leonard Krog"
+      },
+      "id": "Q6525470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6525470"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/leonardkrogmlananaimo"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Linda Reid",
         "lang:fr": "Linda Reid"
       },
@@ -1390,6 +1409,20 @@
       "seat_counts": {
         "Q19004821": "87"
       }
+    },
+    {
+      "name": {
+        "lang:en": "British Columbia New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique de la Colombie-Britannique"
+      },
+      "id": "Q919052",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q919052"
+        }
+      ]
     }
   ],
   "areas": [
@@ -4589,6 +4622,24 @@
       "person_id": "Q6482856",
       "organization_id": "Q1323479",
       "area_id": "Q7395668",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q19004821",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of British Columbia",
+        "lang:fr": "membre de l'Assemblée législative de la Colombie-Britannique"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6525470-1c97b4dd-4256-6d54-514c-00069782db7a",
+      "person_id": "Q6525470",
+      "on_behalf_of_id": "Q919052",
+      "organization_id": "Q1323479",
+      "area_id": "Q10857025",
+      "start_date": "2017-06-22",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

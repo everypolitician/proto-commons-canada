@@ -97,6 +97,22 @@
     },
     {
       "name": {
+        "lang:en": "Buck Watts",
+        "lang:fr": "Buck Watts"
+      },
+      "id": "Q2927460",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2927460"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Bush Dumville",
         "lang:fr": "Bush Dumville"
       },
@@ -988,6 +1004,22 @@
       "person_id": "Q28059507",
       "organization_id": "Q825815",
       "area_id": "Q3503686",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2927460-7C5760A8-16F1-4634-B66A-1A5B689D7F5E",
+      "person_id": "Q2927460",
+      "organization_id": "Q825815",
+      "area_id": "Q3536140",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

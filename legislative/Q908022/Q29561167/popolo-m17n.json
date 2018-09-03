@@ -1,9 +1,57 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en": "Ted Adel"
+      },
+      "id": "Q27805368",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27805368"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/TedAdelCopperbeltNorth"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Yukon Legislative Assembly",
+        "lang:fr": "Assemblée législative du Yukon"
+      },
+      "id": "Q908022",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q908022"
+        }
+      ],
+      "area_id": "Q2009",
+      "seat_counts": {
+        "Q18608478": "19"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Yukon Liberal Party",
+        "lang:fr": "Parti libéral du Yukon"
+      },
+      "id": "Q3366503",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366503"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -495,6 +543,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27805368-81d02436-4b37-73d0-e75f-bb22efd58d4c",
+      "person_id": "Q27805368",
+      "on_behalf_of_id": "Q3366503",
+      "organization_id": "Q908022",
+      "area_id": "Q1840816",
+      "start_date": "2016-11-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18608478",
+      "role": {
+        "lang:en": "Member of the Yukon Legislative Assembly",
+        "lang:fr": "membre de l'Assemblée législative du Yukon"
+      }
+    }
   ]
 }
