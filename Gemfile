@@ -4,4 +4,4 @@ source 'https://rubygems.org'
 
 ruby '2.4.2'
 
-gem 'commons-builder', :git => 'git://github.com/everypolitician/commons-builder.git'
+gem 'commons-builder', :git => 'git://github.com/everypolitician/commons-builder.git', :branch => 'datc-lc'

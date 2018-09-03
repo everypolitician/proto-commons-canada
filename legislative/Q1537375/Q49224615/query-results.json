@@ -4,15 +4,6 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14875009"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rosetown-Elrose"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16244486-C44F3C57-AF26-4435-96DD-E9300C9A1B52"
@@ -81,17 +72,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Jim Reiter"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6662843"
+        "value" : "http://www.wikidata.org/entity/Q14875009"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lloydminster"
-      },
+        "value" : "Rosetown-Elrose"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21062862-185D9091-D2B4-4E51-B47C-AFC9422B8F6C"
@@ -155,17 +146,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191390"
+        "value" : "http://www.wikidata.org/entity/Q6662843"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina University"
-      },
+        "value" : "Lloydminster"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881382-7346E1C4-97EB-4E28-B096-1C0C52910CA1"
@@ -229,17 +220,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q944820"
+        "value" : "http://www.wikidata.org/entity/Q24191390"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Prince Albert Carlton"
-      },
+        "value" : "Regina University"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881385-8A603A1E-FC28-4AB3-99D8-F0868ADE29A2"
@@ -304,21 +295,21 @@
         "type" : "literal",
         "value" : "61"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q944820"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prince Albert Carlton"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Prince Albert Carlton"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7425689"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon University"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881387-91D6CFC5-9295-4603-8661-B79886B4AE3A"
@@ -382,17 +373,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3423460"
+        "value" : "http://www.wikidata.org/entity/Q7425689"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina Lakeview"
-      },
+        "value" : "Saskatoon University"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881390-CDF7C9F0-FF51-4800-9702-FF29B4EC2715"
@@ -457,21 +448,21 @@
         "type" : "literal",
         "value" : "61"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3423460"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Lakeview"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Regina-Lakeview"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3363810"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Douglas Park"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881392-9B892A29-A263-4506-B11A-0EDFC103A646"
@@ -541,21 +532,21 @@
         "type" : "literal",
         "value" : "Nicole Sarauer"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3363810"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Douglas Park"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Parc Douglas de Regina"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191367"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon Stonebridge-Dakota"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881397-6F5FD369-CB38-48B7-A854-17AC812C75C2"
@@ -619,17 +610,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6908700"
+        "value" : "http://www.wikidata.org/entity/Q24191367"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Moosomin"
-      },
+        "value" : "Saskatoon Stonebridge-Dakota"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881399-9942C447-EDDF-4804-AC96-943BFA066192"
@@ -693,17 +684,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5033449"
+        "value" : "http://www.wikidata.org/entity/Q6908700"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Canora-Pelly"
-      },
+        "value" : "Moosomin"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881401-4E4B658D-75E2-48D0-B7F6-046C42408F3C"
@@ -767,17 +758,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6386771"
+        "value" : "http://www.wikidata.org/entity/Q5033449"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kelvington-Wadena"
-      },
+        "value" : "Canora-Pelly"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881406-E9E972A4-1345-4AF6-A892-C8E6D92C6418"
@@ -841,17 +832,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191386"
+        "value" : "http://www.wikidata.org/entity/Q6386771"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina Pasqua"
-      },
+        "value" : "Kelvington-Wadena"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881408-DE3D56AA-911B-4255-A93A-7885BC9655CD"
@@ -915,17 +906,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6813848"
+        "value" : "http://www.wikidata.org/entity/Q24191386"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Melville-Saltcoats"
-      },
+        "value" : "Regina Pasqua"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881411-FB478ECA-71C9-4FD0-8E49-17A2E45A4845"
@@ -989,17 +980,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5200338"
+        "value" : "http://www.wikidata.org/entity/Q6813848"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cypress Hills"
-      },
+        "value" : "Melville-Saltcoats"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881416-EF510234-851C-4A44-B1D1-2F6177FEA897"
@@ -1064,21 +1055,21 @@
         "type" : "literal",
         "value" : "61"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5200338"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cypress Hills"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-04-04T00:00:00Z"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5401086"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Estevan"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23881420-714BAF42-10B4-44E8-B07C-74B9721A5C34"
@@ -1143,21 +1134,21 @@
         "type" : "literal",
         "value" : "61"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5401086"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estevan"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Estevan"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191380"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon Westview"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24262406-C99C7305-1458-4577-B1D1-1576E0D65C7B"
@@ -1221,17 +1212,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "61"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7425676"
+        "value" : "http://www.wikidata.org/entity/Q24191380"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Saskatoon Riversdale"
-      },
+        "value" : "Saskatoon Westview"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3014970-3CF7DBD7-45DF-4DDA-AAB8-BCF26F13C242"
@@ -1301,21 +1292,21 @@
         "type" : "literal",
         "value" : "Danielle Chartier"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7425676"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saskatoon Riversdale"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Saskatoon Riversdale"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4869450"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Batoche"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3021498-30522D65-CD45-4DE3-9475-56E0F01F4DEF"
@@ -1384,17 +1375,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Delbert Kirsch"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191357"
+        "value" : "http://www.wikidata.org/entity/Q4869450"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Humboldt-Watrous"
-      },
+        "value" : "Batoche"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3036768-9B0FF85D-4DD9-41AF-87CA-BCCDDAC17BCF"
@@ -1463,17 +1454,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Donna Harpauer"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5193828"
+        "value" : "http://www.wikidata.org/entity/Q24191357"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cumberland"
-      },
+        "value" : "Humboldt-Watrous"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3038389-4D69B842-2C90-4A2E-BA70-68BD0AAA3FA8"
@@ -1542,17 +1533,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Doyle Vermette"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5046704"
+        "value" : "http://www.wikidata.org/entity/Q5193828"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Carrot River Valley"
-      },
+        "value" : "Cumberland"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3086800-D78F82B4-08BA-46C4-9079-F7321B345296"
@@ -1621,17 +1612,101 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Fred Bradshaw"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3305031"
+        "value" : "http://www.wikidata.org/entity/Q5046704"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Melfort"
+        "value" : "Carrot River Valley"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q437816-A04F191F-321D-4F2A-A1A0-6DABF67328BA"
       },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre d'une assemblée législative"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18675661"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "membre de l'assemblée législative de la Saskatchewan"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Assembly of Saskatchewan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q437816"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brad Wall"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1537375"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Assemblée législative de la Saskatchewan"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Saskatchewan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1989"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "61"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Brad Wall"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7656032"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swift Current"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-08-16T00:00:00Z"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50321907-D1810B18-FAFF-4E5C-8BC4-6A06E2743FB1"
@@ -1696,21 +1771,21 @@
         "type" : "literal",
         "value" : "61"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3305031"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Melfort"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Melfort"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7425668"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon Nutana"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5053496-07E026DD-7346-460C-B1A7-E01402552FA0"
@@ -1779,17 +1854,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Cathy Sproule"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7308554"
+        "value" : "http://www.wikidata.org/entity/Q7425668"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina Wascana Plains"
-      },
+        "value" : "Saskatoon Nutana"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5111203-2ACE9A67-1F94-450B-AB94-10A732689C0B"
@@ -1858,17 +1933,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Christine Tell"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3473795"
+        "value" : "http://www.wikidata.org/entity/Q7308554"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Saskatoon Centre"
-      },
+        "value" : "Regina Wascana Plains"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5233726-DD95FE36-4170-42EE-BBA2-1C3D5B7624DA"
@@ -1938,21 +2013,21 @@
         "type" : "literal",
         "value" : "David Forbes"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3473795"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saskatoon Centre"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Saskatoon-Centre"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7425683"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon Southeast"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5293173-EE6B2541-A542-4781-BE28-C4C751D7DBFD"
@@ -2021,17 +2096,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Don Morgan"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191384"
+        "value" : "http://www.wikidata.org/entity/Q7425683"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina Gardiner Park"
-      },
+        "value" : "Saskatoon Southeast"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5531332-6AA5FBEB-80EB-4175-A8C0-C68A575E03FB"
@@ -2100,17 +2175,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Gene Makowsky"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3218399"
+        "value" : "http://www.wikidata.org/entity/Q24191384"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Last Mountain-Touchwood"
-      },
+        "value" : "Regina Gardiner Park"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5567792-D0C882DA-AF68-42EB-9B3F-417293DE6A85"
@@ -2180,21 +2255,21 @@
         "type" : "literal",
         "value" : "Glen Hart"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3218399"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Last Mountain-Touchwood"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Last Mountain-Touchwood"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7425667"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon Northwest"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5586020-78471347-A934-4FE4-9895-A6DEADB94DC9"
@@ -2263,17 +2338,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Gordon Wyant"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4792462"
+        "value" : "http://www.wikidata.org/entity/Q7425667"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Arm River"
-      },
+        "value" : "Saskatoon Northwest"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5605335-A2F8FF5B-9CCE-4332-B60C-2B333EC84150"
@@ -2342,17 +2417,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Greg Brkich"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3323622"
+        "value" : "http://www.wikidata.org/entity/Q4792462"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Moose Jaw Wakamow"
-      },
+        "value" : "Arm River"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5605887-20DCCCFA-5CA1-4E66-A4E6-0D3FA5DCA062"
@@ -2422,21 +2497,21 @@
         "type" : "literal",
         "value" : "Greg Lawrence"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3323622"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moose Jaw Wakamow"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Moose Jaw-Wakamow"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8055786"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yorkton"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5606088-12021313-2EC8-45A0-9985-CBE84B8A6BB7"
@@ -2505,17 +2580,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Greg Ottenbreit"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7715914"
+        "value" : "http://www.wikidata.org/entity/Q8055786"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "The Battlefords"
-      },
+        "value" : "Yorkton"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5732891-C28CA294-B204-438E-B441-C7CB50FFA8AF"
@@ -2584,17 +2659,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Herb Cox"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3215052"
+        "value" : "http://www.wikidata.org/entity/Q7715914"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Meadow Lake"
-      },
+        "value" : "The Battlefords"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6181454-CA7B16C5-A1DA-441F-9369-4511978F4949"
@@ -2664,21 +2739,21 @@
         "type" : "literal",
         "value" : "Jeremy Harrison"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3215052"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meadow Lake"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "lac Meadow"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191382"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatoon Willowgrove"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6387442-FC266BA0-DBB1-422B-9009-E3757E5CCA69"
@@ -2747,17 +2822,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Ken Cheveldayoff"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5196636"
+        "value" : "http://www.wikidata.org/entity/Q24191382"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cut Knife-Turtleford"
-      },
+        "value" : "Saskatoon Willowgrove"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6490206-BE6926B5-9D47-4719-8857-1D102B655F81"
@@ -2826,17 +2901,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Larry Doke"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191388"
+        "value" : "http://www.wikidata.org/entity/Q5196636"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina Rochdale"
-      },
+        "value" : "Cut Knife-Turtleford"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6499381-3051B3A3-15C8-4EF1-A73B-F49D517D98DF"
@@ -2905,17 +2980,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Laura Ross"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3363804"
+        "value" : "http://www.wikidata.org/entity/Q24191388"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina Coronation Park"
-      },
+        "value" : "Regina Rochdale"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6767386-4E883E29-409F-40DE-AEE0-00B30CFEE787"
@@ -2985,21 +3060,21 @@
         "type" : "literal",
         "value" : "Mark Docherty"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3363804"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Coronation Park"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Parc Coronation de Regina"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191359"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Martensville-Warman"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6962741-229B898D-9044-4A44-BE4F-FA6379F1110A"
@@ -3068,17 +3143,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Nancy Heppner"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191365"
+        "value" : "http://www.wikidata.org/entity/Q24191359"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Saskatoon Silverspring-Sutherland"
-      },
+        "value" : "Martensville-Warman"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7152469-51AD7B77-F1C1-4471-9644-95D4C30B19C4"
@@ -3147,17 +3222,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Paul Merriman"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24191355"
+        "value" : "http://www.wikidata.org/entity/Q24191365"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Biggar-Sask Valley"
-      },
+        "value" : "Saskatoon Silverspring-Sutherland"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7292505-07D9309A-F805-4CA4-BE05-C77ED45E49C4"
@@ -3226,17 +3301,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Randy Weekes"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3473800"
+        "value" : "http://www.wikidata.org/entity/Q24191355"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Saskatoon Meewasin"
-      },
+        "value" : "Biggar-Sask Valley"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7384329-A86873A2-24C7-468C-8A04-B1B28C74C0FB"
@@ -3306,21 +3381,21 @@
         "type" : "literal",
         "value" : "Ryan Meili"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3473800"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saskatoon Meewasin"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Saskatoon-Meewasin"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3423462"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Rosemont"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7838480-DE641D7F-2725-4C81-A152-1DA55BFB8722"
@@ -3390,21 +3465,21 @@
         "type" : "literal",
         "value" : "Trent Wotherspoon"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3423462"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Rosemont"
+      },
       "district_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Regina-Rosemont"
       }
     }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7308465"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regina Elphinstone-Centre"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7970380-3F5B4982-7E4C-4AC6-8972-802176B4C2A4"
@@ -3473,17 +3548,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Warren McCall"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14874996"
+        "value" : "http://www.wikidata.org/entity/Q7308465"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Moose Jaw North"
-      },
+        "value" : "Regina Elphinstone-Centre"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7970387-FB118FC5-D70E-48B3-825D-4F097584EE1C"
@@ -3552,17 +3627,17 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Warren Michelson"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2394580"
+        "value" : "http://www.wikidata.org/entity/Q14874996"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regina Walsh Acres"
-      },
+        "value" : "Moose Jaw North"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7970499-73078AE6-C4CE-4605-A974-2A42B83BEE8A"
@@ -3631,6 +3706,15 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "Warren Steinley"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2394580"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina Walsh Acres"
       },
       "district_name_fr" : {
         "xml:lang" : "fr",
