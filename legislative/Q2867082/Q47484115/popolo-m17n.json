@@ -2,6 +2,25 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Tony Akoak",
+        "lang:fr": "Tony Akoak"
+      },
+      "id": "Q16145801",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16145801"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100010121023931"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Paul Quassa",
         "lang:fr": "Paul Quassa"
       },
@@ -14,6 +33,134 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Hickes",
+        "lang:fr": "George Hickes"
+      },
+      "id": "Q16244044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16244044"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pauloosie Keyootak"
+      },
+      "id": "Q20983369",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983369"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Allan Rumbolt",
+        "lang:fr": "Allan Rumbolt"
+      },
+      "id": "Q2837763",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2837763"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mila Adjukak Kamingoak"
+      },
+      "id": "Q41540312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41540312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adam Arreak-Lightstone"
+      },
+      "id": "Q42427188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427188"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Adam-Arreak-Lightstone-MLA-For-Iqaluit-Manirajak-1937484636536815"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Margaret Nakashuk"
+      },
+      "id": "Q42427576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427576"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joelie Kaernerk"
+      },
+      "id": "Q42427578",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427578"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cathy Towtongie"
+      },
+      "id": "Q42427693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42427693"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/cathy.towtongie"
+        }
       ]
     }
   ],
@@ -598,10 +745,170 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16145801-80d3119c-4d1b-b11f-e429-60d375c95094",
+      "person_id": "Q16145801",
+      "organization_id": "Q2867082",
+      "area_id": "Q17067571",
+      "start_date": "2013-10-28",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16151930-7c845f03-4192-fa9f-9c99-bbda102f06e9",
       "person_id": "Q16151930",
       "organization_id": "Q2867082",
       "area_id": "Q16209592",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16151930-fb18c588-4369-b7f6-7470-ac68c1ac0ee4",
+      "person_id": "Q16151930",
+      "organization_id": "Q2867082",
+      "area_id": "Q16209592",
+      "start_date": "2013-10-28",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16244044-88a1a8f1-4943-84bf-605d-349e2ddd98e1",
+      "person_id": "Q16244044",
+      "organization_id": "Q2867082",
+      "area_id": "Q17070816",
+      "start_date": "2013-10-28",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983369-3c777e75-4831-fb84-0c53-b7ef9a9a935d",
+      "person_id": "Q20983369",
+      "organization_id": "Q2867082",
+      "area_id": "Q7899516",
+      "start_date": "2015-02-09",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2837763-8916f788-41ec-90e1-ed47-fcdae59f9052",
+      "person_id": "Q2837763",
+      "organization_id": "Q2867082",
+      "area_id": "Q613190",
+      "start_date": "2008-10-27",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41540312-3490dc14-46e6-854e-d4b8-ccfb4d1e0b35",
+      "person_id": "Q41540312",
+      "organization_id": "Q2867082",
+      "area_id": "Q6441985",
+      "start_date": "2017-10-30",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427188-f8b80541-4ebc-5d89-febd-f784ba20404f",
+      "person_id": "Q42427188",
+      "organization_id": "Q2867082",
+      "area_id": "Q17070798",
+      "start_date": "2017-10-30",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427576-7fc25678-49d3-f06d-3837-855bcfe4d3d3",
+      "person_id": "Q42427576",
+      "organization_id": "Q2867082",
+      "area_id": "Q14501868",
+      "start_date": "2017-10-30",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427578-b893c6ee-4f88-d3cb-ffe7-c3f3e41b1954",
+      "person_id": "Q42427578",
+      "organization_id": "Q2867082",
+      "area_id": "Q4746949",
+      "start_date": "2017-10-30",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q45308607",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Nunavut"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42427693-0bd2d942-469f-f957-cc3f-3fe354f1a649",
+      "person_id": "Q42427693",
+      "organization_id": "Q2867082",
+      "area_id": "Q16211482",
+      "start_date": "2017-10-30",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

@@ -95,6 +95,24 @@
     },
     {
       "name": {
+        "lang:en": "Neethan Shan"
+      },
+      "id": "Q28823469",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28823469"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CouncillorShan"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jim Karygiannis",
         "lang:fr": "Jim Karygiannis"
       },
@@ -342,6 +360,25 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joe Mihevc",
+        "lang:fr": "Joe Mihevc"
+      },
+      "id": "Q6211354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6211354"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/joemihevc"
+        }
       ]
     },
     {
@@ -621,6 +658,20 @@
       "seat_counts": {
         "Q45413990": "45"
       }
+    },
+    {
+      "name": {
+        "lang:en": "New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique"
+      },
+      "id": "Q130765",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130765"
+        }
+      ]
     }
   ],
   "areas": [
@@ -1804,6 +1855,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q28823469-596502c1-4f9c-c877-5a69-b9122de7eecc",
+      "person_id": "Q28823469",
+      "on_behalf_of_id": "Q130765",
+      "organization_id": "Q2444341",
+      "area_id": "Q47455625",
+      "start_date": "2017-02-13",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45413990",
+      "role": {
+        "lang:en": "Member of Toronto City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3178858-9A1146B4-D8F6-412A-A74A-80A508B9FE88",
       "person_id": "Q3178858",
       "organization_id": "Q2444341",
@@ -2044,6 +2112,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q6211354-09cdcdb3-4fa0-c4b5-30c8-7a10d63eec6d",
+      "person_id": "Q6211354",
+      "organization_id": "Q2444341",
+      "area_id": "Q47455604",
+      "start_date": "2000-12-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45413990",
+      "role": {
+        "lang:en": "Member of Toronto City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6233112-FBA4874A-27C5-460C-A8D8-1ACC060BBE3D",
       "person_id": "Q6233112",
       "organization_id": "Q2444341",
@@ -2078,6 +2162,22 @@
       "person_id": "Q6438493",
       "organization_id": "Q2444341",
       "area_id": "Q47455610",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45413990",
+      "role": {
+        "lang:en": "Member of Toronto City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6438493-972c70eb-494f-381b-b283-c38f724b0954",
+      "person_id": "Q6438493",
+      "organization_id": "Q2444341",
+      "area_id": "Q47455610",
+      "start_date": "2010-12-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -2168,6 +2268,21 @@
       "person_id": "Q6834861",
       "organization_id": "Q2444341",
       "area_id": "Q47455620",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45413990",
+      "role": {
+        "lang:en": "Member of Toronto City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6836923-8d2ac137-4c8e-84e7-ec5e-7edcefd653df",
+      "person_id": "Q6836923",
+      "organization_id": "Q2444341",
+      "start_date": "2010-12-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",

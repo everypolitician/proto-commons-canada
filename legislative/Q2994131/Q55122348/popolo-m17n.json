@@ -2,6 +2,136 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Magda Popeanu",
+        "lang:fr": "Magda Popeanu"
+      },
+      "id": "Q16187268",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16187268"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mpopeanu"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Suzanne Décarie",
+        "lang:fr": "Suzanne Décarie"
+      },
+      "id": "Q16201113",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16201113"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/suzanne.decarie.7"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christine Black",
+        "lang:fr": "Christine Black"
+      },
+      "id": "Q29889392",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29889392"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mairessechristineblack"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michel Bissonnet",
+        "lang:fr": "Michel Bissonnet"
+      },
+      "id": "Q3309025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3309025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anne-Marie Sigouin",
+        "lang:fr": "Anne-Marie Sigouin"
+      },
+      "id": "Q42740027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42740027"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AMsigouin"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maja Vodanovic",
+        "lang:fr": "Maja Vodanovic"
+      },
+      "id": "Q45312548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45312548"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/maja.vodanovic.9"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frantz Benjamin",
+        "lang:fr": "Frantz Benjamin"
+      },
+      "id": "Q5492631",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5492631"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/frantz.benjamin.10"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Abdelhaq Sari"
       },
       "id": "Q55122408",
@@ -13,6 +143,59 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Manon Barbe",
+        "lang:fr": "Manon Barbe"
+      },
+      "id": "Q6751263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6751263"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mary Deros",
+        "lang:fr": "Mary Deros"
+      },
+      "id": "Q6779315",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6779315"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mary.deros"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Émilie Thuillier"
+      },
+      "id": "Q8078328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8078328"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/emilie.thuillier.52"
+        }
       ]
     }
   ],
@@ -34,6 +217,48 @@
       "seat_counts": {
         "Q45414411": "65"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Ensemble Montréal",
+        "lang:fr": "Ensemble Montréal"
+      },
+      "id": "Q15050564",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15050564"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Projet Montréal",
+        "lang:fr": "Projet Montréal"
+      },
+      "id": "Q3407213",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3407213"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Équipe Barbe Team",
+        "lang:fr": "Équipe Barbe Team"
+      },
+      "id": "Q47496204",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47496204"
+        }
+      ]
     }
   ],
   "areas": [
@@ -1602,10 +1827,224 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16187268-7c3cc516-4b89-ec3e-adaa-c620b5a21046",
+      "person_id": "Q16187268",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q47455986",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16187268-d75c3ea2-4d24-bcbb-530d-74950068ccba",
+      "person_id": "Q16187268",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q47455986",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16201113-7b354342-467f-3987-d080-d3679c8213aa",
+      "person_id": "Q16201113",
+      "on_behalf_of_id": "Q15050564",
+      "organization_id": "Q2994131",
+      "area_id": "Q47456011",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29889392-0e67af77-456c-7891-e0f3-512130d6b04a",
+      "person_id": "Q29889392",
+      "on_behalf_of_id": "Q15050564",
+      "organization_id": "Q2994131",
+      "area_id": "Q1714436",
+      "start_date": "2016-04-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3309025-0cba9eab-4579-1435-0e02-b93c01e8c391",
+      "person_id": "Q3309025",
+      "on_behalf_of_id": "Q15050564",
+      "organization_id": "Q2994131",
+      "area_id": "Q1325316",
+      "start_date": "2013-11-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42740027-45835176-41b8-d041-f70d-2cbb53387a43",
+      "person_id": "Q42740027",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q47455999",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42740027-f4db19f2-4312-6af9-94d1-268584e7f30a",
+      "person_id": "Q42740027",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q47455999",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45312548-44eb3684-4213-296d-1a50-8ff32afa9eb4",
+      "person_id": "Q45312548",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q1474128",
+      "start_date": "2017-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5492631-073945ad-404c-367d-2222-dd24f6b42552",
+      "person_id": "Q5492631",
+      "on_behalf_of_id": "Q15050564",
+      "organization_id": "Q2994131",
+      "area_id": "Q47456023",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55122408-3336177C-1938-4014-BECB-4F6502CD6977",
       "person_id": "Q55122408",
       "organization_id": "Q2994131",
       "area_id": "Q47456004",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6751263-a0be61ab-4b00-aca6-c441-7b89f3dca1e6",
+      "person_id": "Q6751263",
+      "on_behalf_of_id": "Q47496204",
+      "organization_id": "Q2994131",
+      "area_id": "Q1629121",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6779315-8713a04c-4825-0b61-320f-a9b2b1440252",
+      "person_id": "Q6779315",
+      "on_behalf_of_id": "Q15050564",
+      "organization_id": "Q2994131",
+      "area_id": "Q47456030",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8078328-0c76926d-45a7-713c-820d-851db8dea94a",
+      "person_id": "Q8078328",
+      "on_behalf_of_id": "Q3407213",
+      "organization_id": "Q2994131",
+      "area_id": "Q403031",
+      "start_date": "2009-11-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",

@@ -32,6 +32,24 @@
     },
     {
       "name": {
+        "lang:en": "Joe Magliocca"
+      },
+      "id": "Q21066770",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21066770"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/joe.magliocca.calgary"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Ray Jones"
       },
       "id": "Q21067141",
@@ -636,6 +654,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21066770-66283de7-4fee-0af1-8ada-e4c141eff26b",
+      "person_id": "Q21066770",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455793",
+      "start_date": "2013-10-21",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21067141-FD4FD1C8-E750-470A-AD36-AA71C1DCA7BA",
       "person_id": "Q21067141",
       "organization_id": "Q4145705",
@@ -670,6 +704,22 @@
       "person_id": "Q22277744",
       "organization_id": "Q4145705",
       "area_id": "Q47455799",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414913",
+      "role": {
+        "lang:en": "member of Calgary City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22277744-9731a8ac-4c3c-4418-d334-8bb2aaa2808a",
+      "person_id": "Q22277744",
+      "organization_id": "Q4145705",
+      "area_id": "Q47455799",
+      "start_date": "2001-10-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",

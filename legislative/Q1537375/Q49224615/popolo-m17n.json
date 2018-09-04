@@ -324,6 +324,22 @@
     },
     {
       "name": {
+        "lang:en": "Brad Wall",
+        "lang:fr": "Brad Wall"
+      },
+      "id": "Q437816",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q437816"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Todd Goudy"
       },
       "id": "Q50321907",
@@ -2525,6 +2541,23 @@
       "person_id": "Q3086800",
       "organization_id": "Q1537375",
       "area_id": "Q5046704",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q437816-A04F191F-321D-4F2A-A1A0-6DABF67328BA",
+      "person_id": "Q437816",
+      "organization_id": "Q1537375",
+      "area_id": "Q7656032",
+      "start_date": "1999-08-16",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
