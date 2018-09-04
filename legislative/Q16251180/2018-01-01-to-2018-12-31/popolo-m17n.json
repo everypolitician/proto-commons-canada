@@ -7,6 +7,81 @@
   ],
   "areas": [
     {
+      "id": "Q141810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:24032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q141810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56097740"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Laval"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2911019"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Quebec",
+        "lang:fr": "Québec"
+      },
+      "parent_id": "Q16"
+    },
+    {
       "id": "Q56118021",
       "identifiers": [
         {
@@ -27,7 +102,7 @@
       "name": {
         "lang:en": "Chomedey"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118022",
@@ -50,7 +125,7 @@
       "name": {
         "lang:en": "Laval-des-Rapides"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118023",
@@ -73,7 +148,7 @@
       "name": {
         "lang:en": "Val-des-Arbres"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118024",
@@ -96,7 +171,7 @@
       "name": {
         "lang:en": "Saint-Martin"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118026",
@@ -119,7 +194,7 @@
       "name": {
         "lang:en": "Renaud"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118027",
@@ -142,7 +217,7 @@
       "name": {
         "lang:en": "Fabreville"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118028",
@@ -165,7 +240,7 @@
       "name": {
         "lang:en": "Sainte-Rose"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118029",
@@ -188,7 +263,7 @@
       "name": {
         "lang:en": "L'Orée-des-Bois"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118030",
@@ -211,7 +286,7 @@
       "name": {
         "lang:en": "Auteuil"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118033",
@@ -234,7 +309,7 @@
       "name": {
         "lang:en": "Laval-les-Îles"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118034",
@@ -257,7 +332,7 @@
       "name": {
         "lang:en": "Saint-François"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118036",
@@ -280,7 +355,7 @@
       "name": {
         "lang:en": "Marigot"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118037",
@@ -303,7 +378,7 @@
       "name": {
         "lang:en": "Duvernay-Pont-Viau"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118038",
@@ -326,7 +401,7 @@
       "name": {
         "lang:en": "Abord-à-Plouffe"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118040",
@@ -349,7 +424,7 @@
       "name": {
         "lang:en": "Souvenir-Labelle"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118041",
@@ -372,7 +447,7 @@
       "name": {
         "lang:en": "Saint-Bruno"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118042",
@@ -395,7 +470,7 @@
       "name": {
         "lang:en": "Vimont"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118043",
@@ -418,7 +493,7 @@
       "name": {
         "lang:en": "Marc-Aurèle-Fortin"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118045",
@@ -441,7 +516,7 @@
       "name": {
         "lang:en": "Concorde-Bois-de-Boulogne"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118046",
@@ -464,7 +539,7 @@
       "name": {
         "lang:en": "Sainte-Dorothée"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     },
     {
       "id": "Q56118047",
@@ -487,7 +562,7 @@
       "name": {
         "lang:en": "Saint-Vincent-de-Paul"
       },
-      "parent_id": null
+      "parent_id": "Q141810"
     }
   ],
   "memberships": [

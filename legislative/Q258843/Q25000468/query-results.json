@@ -4,15 +4,6 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22079861"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Corner Brook"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3104325-5FBBF97F-F294-4016-A1CB-0EC881CEE6A2"
@@ -86,6 +77,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-11-30T00:00:00Z"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22079861"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Corner Brook"
       }
     } ]
   }

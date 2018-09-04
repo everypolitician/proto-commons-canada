@@ -6,7 +6,81 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q141810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/ed:24032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q141810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56097740"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Laval"
+      },
+      "parent_id": "Q176"
+    },
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:qc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2911019"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Quebec",
+        "lang:fr": "Québec"
+      },
+      "parent_id": "Q16"
+    }
   ],
   "memberships": [
 
