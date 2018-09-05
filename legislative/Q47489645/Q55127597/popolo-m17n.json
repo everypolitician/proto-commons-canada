@@ -184,6 +184,22 @@
     },
     {
       "name": {
+        "lang:en": "Ross Eadie",
+        "lang:fr": "Ross Eadie"
+      },
+      "id": "Q7369308",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7369308"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Russ Wyatt"
       },
       "id": "Q7381262",
@@ -810,6 +826,21 @@
       "person_id": "Q6251306",
       "organization_id": "Q47489645",
       "area_id": "Q47490229",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q47490128",
+      "role": {
+        "lang:en": "Member of Winnipeg City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7369308-C0953530-16A8-40DC-807D-3B7189007888",
+      "person_id": "Q7369308",
+      "organization_id": "Q47489645",
+      "area_id": "Q47490223",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
