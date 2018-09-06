@@ -40,6 +40,21 @@
     },
     {
       "name": {
+        "lang:en": "Sterling Downey"
+      },
+      "id": "Q29010877",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29010877"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Christine Black",
         "lang:fr": "Christine Black"
       },
@@ -1868,6 +1883,22 @@
       "organization_id": "Q2994131",
       "area_id": "Q47456011",
       "start_date": "2013-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:fr": "conseiller municipal"
+      },
+      "role_code": "Q45414411",
+      "role": {
+        "lang:en": "Montreal City Councillor",
+        "lang:fr": "conseiller de la ville"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29010877-040854E7-3E58-4566-857B-27DFD9491AD6",
+      "person_id": "Q29010877",
+      "organization_id": "Q2994131",
+      "area_id": "Q518076",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",

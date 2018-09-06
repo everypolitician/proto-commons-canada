@@ -109,6 +109,21 @@
     },
     {
       "name": {
+        "lang:en": "Nicole Rancourt"
+      },
+      "id": "Q23881394",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23881394"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Bronwyn Eyre"
       },
       "id": "Q23881397",
@@ -411,6 +426,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5293173"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dustin Duncan",
+        "lang:fr": "Dustin Duncan"
+      },
+      "id": "Q5317090",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5317090"
         }
       ],
       "links": [
@@ -2328,6 +2359,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23881394-586534ED-130B-4AED-8092-912880352633",
+      "person_id": "Q23881394",
+      "organization_id": "Q1537375",
+      "area_id": "Q3403303",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23881397-6F5FD369-CB38-48B7-A854-17AC812C75C2",
       "person_id": "Q23881397",
       "organization_id": "Q1537375",
@@ -2638,6 +2685,22 @@
       "person_id": "Q5293173",
       "organization_id": "Q1537375",
       "area_id": "Q7425683",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18675661",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Saskatchewan",
+        "lang:fr": "membre de l'assemblée législative de la Saskatchewan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5317090-B863A2CF-6E70-4B68-9A18-8F0C14751332",
+      "person_id": "Q5317090",
+      "organization_id": "Q1537375",
+      "area_id": "Q7990299",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

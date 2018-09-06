@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Wade MacLauchlan",
+        "lang:fr": "Wade MacLauchlan"
+      },
+      "id": "Q19825046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19825046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jordan Brown",
         "lang:fr": "Jordan Brown"
       },
@@ -66,6 +82,22 @@
     },
     {
       "name": {
+        "lang:en": "Matthew MacKay",
+        "lang:fr": "Matthew MacKay"
+      },
+      "id": "Q19966784",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19966784"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Brad Trivers",
         "lang:fr": "Brad Trivers"
       },
@@ -89,6 +121,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q28059507"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Allen Roach",
+        "lang:fr": "Allen Roach"
+      },
+      "id": "Q2837915",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2837915"
         }
       ],
       "links": [
@@ -129,6 +177,22 @@
     },
     {
       "name": {
+        "lang:en": "Colin LaVie",
+        "lang:fr": "Colin LaVie"
+      },
+      "id": "Q2982624",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2982624"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Kathleen Casey",
         "lang:fr": "Kathleen Casey"
       },
@@ -137,6 +201,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3194059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Murphy",
+        "lang:fr": "Pat Murphy"
+      },
+      "id": "Q3368566",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3368566"
         }
       ],
       "links": [
@@ -201,6 +281,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3435932"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sonny Gallant",
+        "lang:fr": "Sonny Gallant"
+      },
+      "id": "Q3490640",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3490640"
         }
       ],
       "links": [
@@ -952,6 +1048,22 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19825046-0AB33778-947D-4D68-A2C2-18201244C319",
+      "person_id": "Q19825046",
+      "organization_id": "Q825815",
+      "area_id": "Q3572595",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19876540-C26C856F-6AB9-4B41-87AB-07CC44D5E7A8",
       "person_id": "Q19876540",
       "organization_id": "Q825815",
@@ -1016,6 +1128,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19966784-907B25E7-02F0-468A-8FC4-206AE734E3ED",
+      "person_id": "Q19966784",
+      "organization_id": "Q825815",
+      "area_id": "Q3195258",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19966785-F0E2C607-9BE3-436F-8776-9B7290BC468E",
       "person_id": "Q19966785",
       "organization_id": "Q825815",
@@ -1036,6 +1164,22 @@
       "person_id": "Q28059507",
       "organization_id": "Q825815",
       "area_id": "Q3503686",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2837915-88C0D5D4-2CF2-4DAE-A839-3704F4789318",
+      "person_id": "Q2837915",
+      "organization_id": "Q825815",
+      "area_id": "Q3322383",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -1080,10 +1224,42 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2982624-0D137DB7-5921-417B-9BAC-1B9D70692BD6",
+      "person_id": "Q2982624",
+      "organization_id": "Q825815",
+      "area_id": "Q3491932",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3194059-B018C789-7772-4DCB-ACFE-20EEFA49B81E",
       "person_id": "Q3194059",
       "organization_id": "Q825815",
       "area_id": "Q2961049",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3368566-409C4E4A-7970-4AEC-BEB3-ED3D04667C62",
+      "person_id": "Q3368566",
+      "organization_id": "Q825815",
+      "area_id": "Q2831855",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -1101,6 +1277,22 @@
       "organization_id": "Q825815",
       "area_id": "Q3546076",
       "start_date": "2007-05-28",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3372552-93C51596-A6B8-446D-926A-3C7B928AC6F8",
+      "person_id": "Q3372552",
+      "organization_id": "Q825815",
+      "area_id": "Q3546076",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -1150,6 +1342,38 @@
       "organization_id": "Q825815",
       "area_id": "Q2961051",
       "start_date": "2007-06-12",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3435932-E7997201-8E71-42D9-B8CE-FBAC8E105DD3",
+      "person_id": "Q3435932",
+      "organization_id": "Q825815",
+      "area_id": "Q2961051",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q21010685",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Prince Edward Island",
+        "lang:fr": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3490640-7CC1C06F-BF59-499C-9560-176C0EE26D0C",
+      "person_id": "Q3490640",
+      "organization_id": "Q825815",
+      "area_id": "Q3061342",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

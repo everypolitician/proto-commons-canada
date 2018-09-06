@@ -485,6 +485,22 @@
     },
     {
       "name": {
+        "lang:en": "Leela Aheer",
+        "lang:fr": "Leela Aheer"
+      },
+      "id": "Q19876234",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19876234"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Wayne Anderson",
         "lang:fr": "Wayne Anderson"
       },
@@ -4018,6 +4034,22 @@
       "person_id": "Q19862181",
       "organization_id": "Q1812866",
       "area_id": "Q5315788",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q15964815",
+      "role": {
+        "lang:en": "member of Alberta Legislative Assembly",
+        "lang:fr": "membre de l'assemblée législative d'Alberta"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19876234-2F92A4D3-E58D-4610-8B40-37849401E8FE",
+      "person_id": "Q19876234",
+      "organization_id": "Q1812866",
+      "area_id": "Q5093847",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
