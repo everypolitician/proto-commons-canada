@@ -1608,6 +1608,22 @@
     },
     {
       "name": {
+        "lang:en": "Éric Caire",
+        "lang:fr": "Éric Caire"
+      },
+      "id": "Q3591027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3591027"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Geneviève Guilbault",
         "lang:fr": "Geneviève Guilbault"
       },
@@ -1632,6 +1648,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q518024"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Genevieve Guibault"
+      },
+      "id": "Q56460371",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56460371"
         }
       ],
       "links": [
@@ -6651,6 +6682,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3591027-9AFAA598-1CEC-4EC8-AB94-44031CF43D55",
+      "person_id": "Q3591027",
+      "organization_id": "Q1492249",
+      "area_id": "Q3211449",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q41545405-7D1C81F3-A72B-448B-BE4F-B175DA10DF78",
       "person_id": "Q41545405",
       "organization_id": "Q1492249",
@@ -6688,6 +6735,22 @@
       "organization_id": "Q1492249",
       "area_id": "Q3214651",
       "start_date": "2007-03-26",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56460371-90F945F7-232A-4624-9086-9050B8DA92EC",
+      "person_id": "Q56460371",
+      "organization_id": "Q1492249",
+      "area_id": "Q3260600",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

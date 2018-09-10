@@ -34,6 +34,22 @@
     },
     {
       "name": {
+        "lang:en": "Peggy Sattler",
+        "lang:fr": "Peggy Sattler"
+      },
+      "id": "Q16244547",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16244547"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "John Fraser",
         "lang:fr": "John Fraser"
       },
@@ -65,6 +81,38 @@
           "note": "facebook",
           "url": "https://www.facebook.com/yvanbaker"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jennifer French",
+        "lang:fr": "Jennifer French"
+      },
+      "id": "Q17180604",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17180604"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Marie-France Lalonde",
+        "lang:fr": "Marie-France Lalonde"
+      },
+      "id": "Q17180720",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17180720"
+        }
+      ],
+      "links": [
+
       ]
     },
     {
@@ -107,6 +155,53 @@
     },
     {
       "name": {
+        "lang:en": "Sam Oosterhoff"
+      },
+      "id": "Q27899207",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27899207"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "France Gélinas",
+        "lang:fr": "France Gélinas"
+      },
+      "id": "Q3080717",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3080717"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lisa MacLeod",
+        "lang:fr": "Lisa MacLeod"
+      },
+      "id": "Q3242423",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3242423"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Kathleen Wynne",
         "lang:fr": "Kathleen Wynne"
       },
@@ -126,6 +221,22 @@
     },
     {
       "name": {
+        "lang:en": "Catherine Fife",
+        "lang:fr": "Catherine Fife"
+      },
+      "id": "Q5052672",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5052672"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Eric Hoskins",
         "lang:fr": "Eric Hoskins"
       },
@@ -134,6 +245,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5386756"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raymond Sung Joon Cho"
+      },
+      "id": "Q55236788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55236788"
         }
       ],
       "links": [
@@ -231,6 +357,22 @@
     },
     {
       "name": {
+        "lang:en": "Lisa Thompson",
+        "lang:fr": "Lisa Thompson"
+      },
+      "id": "Q6558454",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6558454"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Michael Harris",
         "lang:fr": "Michael Harris"
       },
@@ -304,6 +446,22 @@
     },
     {
       "name": {
+        "lang:en": "Norm Miller",
+        "lang:fr": "Norm Miller"
+      },
+      "id": "Q7051543",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7051543"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Paul Miller",
         "lang:fr": "Paul Miller"
       },
@@ -312,6 +470,54 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7152522"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Randy Hillier",
+        "lang:fr": "Randy Hillier"
+      },
+      "id": "Q7292235",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7292235"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steve Clark",
+        "lang:fr": "Steve Clark"
+      },
+      "id": "Q7612215",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7612215"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sylvia Jones",
+        "lang:fr": "Sylvia Jones"
+      },
+      "id": "Q7660940",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7660940"
         }
       ],
       "links": [
@@ -3069,6 +3275,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16244547-A44DF846-F975-4703-8050-81B4F1182387",
+      "person_id": "Q16244547",
+      "organization_id": "Q1809086",
+      "area_id": "Q14875272",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16729089-284acd60-473e-c9c1-b527-2ff5d11a2bfe",
       "person_id": "Q16729089",
       "organization_id": "Q1809086",
@@ -3092,6 +3314,38 @@
       "organization_id": "Q1809086",
       "area_id": "Q5404733",
       "start_date": "2014-06-12",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17180604-F3A2EDD6-4EEE-4F25-8399-6AA8C86F2C30",
+      "person_id": "Q17180604",
+      "organization_id": "Q1809086",
+      "area_id": "Q14875377",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17180720-49C10C59-AB7C-489B-8FB9-E0870036268A",
+      "person_id": "Q17180720",
+      "organization_id": "Q1809086",
+      "area_id": "Q7109333",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -3140,6 +3394,54 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q27899207-459FAF8C-0FA1-443D-BD67-B20C4B474729",
+      "person_id": "Q27899207",
+      "organization_id": "Q1809086",
+      "area_id": "Q2391317",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3080717-4CFE5F71-D18E-4ECC-B249-0151D1C914AE",
+      "person_id": "Q3080717",
+      "organization_id": "Q1809086",
+      "area_id": "Q7028243",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3242423-A87DBCFC-1CAC-4410-A3A4-D16A9BC266B0",
+      "person_id": "Q3242423",
+      "organization_id": "Q1809086",
+      "area_id": "Q6994616",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3786221-2874a53e-4d9c-54b7-170f-fd4ea2fba4bb",
       "person_id": "Q3786221",
       "organization_id": "Q1809086",
@@ -3157,11 +3459,59 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3786221-c3b02abd-4ea1-850a-ab69-7e35a75ad100",
+      "person_id": "Q3786221",
+      "organization_id": "Q1809086",
+      "area_id": "Q5293650",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5052672-65580F9E-E167-4FCC-A776-6BD7480701F5",
+      "person_id": "Q5052672",
+      "organization_id": "Q1809086",
+      "area_id": "Q6418066",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5386756-0381C116-D028-4F97-9453-5E4593FDB26D",
       "person_id": "Q5386756",
       "organization_id": "Q1809086",
       "area_id": "Q7591014",
       "start_date": "2009-01-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55236788-DDD9D922-0F7A-4E09-BBE3-E2E7EF44BF7F",
+      "person_id": "Q55236788",
+      "organization_id": "Q1809086",
+      "area_id": "Q14875418",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -3262,6 +3612,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q6558454-68F3DF83-18A6-47E2-9C6F-9AEB6623F009",
+      "person_id": "Q6558454",
+      "organization_id": "Q1809086",
+      "area_id": "Q14875203",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6830967-346B7E9F-7448-4A77-B3F6-606206C66ABC",
       "person_id": "Q6830967",
       "organization_id": "Q1809086",
@@ -3333,11 +3699,74 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7152522-B039DBB6-478E-4955-8020-BC64C2741131",
+      "id": "http://www.wikidata.org/entity/statement/Q7051543-8895AF7B-45C5-4210-A90D-5F2C82106A23",
+      "person_id": "Q7051543",
+      "organization_id": "Q1809086",
+      "area_id": "Q7139897",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7152522-896ff69b-4662-c96b-b95b-dee8497b00d5",
       "person_id": "Q7152522",
       "organization_id": "Q1809086",
       "area_id": "Q14875164",
-      "start_date": "2007-01-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7292235-A59B37C8-28EA-4EF3-A337-6133C3EE4975",
+      "person_id": "Q7292235",
+      "organization_id": "Q1809086",
+      "area_id": "Q14875246",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7612215-5DB03E21-9AA4-4AF0-8641-83C4DEB995FC",
+      "person_id": "Q7612215",
+      "organization_id": "Q1809086",
+      "area_id": "Q6516188",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305347",
+      "role": {
+        "lang:en": "Member of Ontario Provincial Parliament",
+        "lang:fr": "membre du Parlement provincial"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7660940-42A99E41-2006-4706-A0B5-DB679C582319",
+      "person_id": "Q7660940",
+      "organization_id": "Q1809086",
+      "area_id": "Q5312348",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
