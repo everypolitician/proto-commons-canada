@@ -847,6 +847,87 @@
     }
   },
   {
+    "directory": "cities-without-boundaries",
+    "associations": [
+      {
+        "comment": "Mayor of Vaughan",
+        "position_item_id": "Q56099574"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:3519028",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-without-boundaries",
+    "associations": [
+      {
+        "comment": "Mayor of Markham",
+        "position_item_id": "Q56099530"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:3519036",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-without-boundaries",
+    "associations": [
+      {
+        "comment": "Mayor of Surrey",
+        "position_item_id": "Q56099619"
+      },
+      {
+        "comment": "member of Surrey City Council",
+        "position_item_id": "Q56099617"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q515",
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ca/csd:5915004",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "markham-wards",
+    "associations": [
+      {
+        "comment": "member of Markham City Council",
+        "position_item_id": "Q56099529"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56753612",
+    "name_columns": {
+      "lang:en": "NAME"
+    }
+  },
+  {
+    "directory": "vaughan-wards",
+    "associations": [
+      {
+        "comment": "member of Vaughan City Council",
+        "position_item_id": "Q56099571"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q56753627",
+    "name_columns": {
+      "lang:en": "NAME"
+    }
+  },
+  {
     "directory": "province-british-columbia",
     "associations": [
       {
