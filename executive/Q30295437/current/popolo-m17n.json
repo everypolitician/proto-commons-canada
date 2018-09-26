@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Scott Moe",
+        "lang:fr": "Scott Moe"
+      },
+      "id": "Q7436891",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7436891"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -101,6 +117,23 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7436891-D6ABC76F-160E-4BE3-9A5D-DDC8E4D28061",
+      "person_id": "Q7436891",
+      "on_behalf_of_id": "Q2225652",
+      "organization_id": "Q30295437",
+      "area_id": "Q1989",
+      "role_superclass_code": "Q2505921",
+      "role_superclass": {
+        "lang:en": "premier",
+        "lang:fr": "premier ministre du Canada"
+      },
+      "role_code": "Q6578215",
+      "role": {
+        "lang:en": "Premier of Saskatchewan",
+        "lang:fr": "premier ministre de la Saskatchewan"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/q437816-092D549F-0001-448D-9D59-97D350CE7745",
       "person_id": "Q437816",

@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Quebec City Council",
+        "lang:fr": "Québec (Conseil municipal)"
+      },
+      "id": "Q2994129",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2994129"
+        }
+      ],
+      "area_id": "Q2145"
+    }
   ],
   "areas": [
     {
