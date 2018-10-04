@@ -274,6 +274,22 @@
     },
     {
       "name": {
+        "lang:en": "Catherine Dorion",
+        "lang:fr": "Catherine Dorion"
+      },
+      "id": "Q16536539",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16536539"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Claude Surprenant",
         "lang:fr": "Claude Surprenant"
       },
@@ -282,6 +298,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16540298"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sol Zanetti",
+        "lang:fr": "Sol Zanetti"
+      },
+      "id": "Q16677378",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16677378"
         }
       ],
       "links": [
@@ -1576,6 +1608,22 @@
     },
     {
       "name": {
+        "lang:en": "Vincent Marissal",
+        "lang:fr": "Vincent Marissal"
+      },
+      "id": "Q3559732",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3559732"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Véronique Hivon",
         "lang:fr": "Véronique Hivon"
       },
@@ -1667,6 +1715,40 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ruba Ghazal",
+        "lang:fr": "Ruba Ghazal"
+      },
+      "id": "Q56861255",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56861255"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Christine Labrie"
+      },
+      "id": "Q56863245",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56863245"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ChristineLabrieQS"
+        }
       ]
     },
     {
@@ -5099,10 +5181,44 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16536539-F6A1D75D-7FF9-482D-BD70-4B9C74F918FE",
+      "person_id": "Q16536539",
+      "organization_id": "Q1492249",
+      "area_id": "Q3515928",
+      "start_date": "2018-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16540298-C7B2C5DB-7380-41E3-AA80-C8D9C592E8CD",
       "person_id": "Q16540298",
       "organization_id": "Q1492249",
       "area_id": "Q3117289",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16677378-0A418575-950C-48CA-9DE7-35261AE30405",
+      "person_id": "Q16677378",
+      "organization_id": "Q1492249",
+      "area_id": "Q3166585",
+      "start_date": "2018-10-01",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",
@@ -6633,6 +6749,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3559732-cfa9f978-4316-b3e2-014c-1aa7063a1bf8",
+      "person_id": "Q3559732",
+      "organization_id": "Q1492249",
+      "area_id": "Q9648145",
+      "start_date": "2018-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3564320-6F145D27-D2DB-451B-8064-A6EE0571B412",
       "person_id": "Q3564320",
       "organization_id": "Q1492249",
@@ -6751,6 +6884,40 @@
       "person_id": "Q56460371",
       "organization_id": "Q1492249",
       "area_id": "Q3260600",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56861255-9A95C494-F659-4256-A993-4CF2846B0AAA",
+      "person_id": "Q56861255",
+      "organization_id": "Q1492249",
+      "area_id": "Q3306380",
+      "start_date": "2018-10-01",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q3305338",
+      "role": {
+        "lang:en": "Member of the National Assembly of Quebec",
+        "lang:fr": "député de l'Assemblée nationale du Québec"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56863245-12b810f4-435f-4756-270d-c4e02cde50d1",
+      "person_id": "Q56863245",
+      "organization_id": "Q1492249",
+      "area_id": "Q3481912",
+      "start_date": "2018-10-01",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

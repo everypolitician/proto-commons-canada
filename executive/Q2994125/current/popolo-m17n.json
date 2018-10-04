@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Ottawa City Council",
+        "lang:fr": "Ottawa (Conseil municipal)"
+      },
+      "id": "Q2994125",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2994125"
+        }
+      ],
+      "area_id": "Q1930"
+    }
   ],
   "areas": [
     {

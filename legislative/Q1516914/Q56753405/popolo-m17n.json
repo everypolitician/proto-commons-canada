@@ -1,0 +1,1397 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Isabelle Thériault",
+        "lang:fr": "Isabelle Thériault"
+      },
+      "id": "Q56744315",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56744315"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kevin Arseneau",
+        "lang:fr": "Kevin Arseneau"
+      },
+      "id": "Q56749848",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56749848"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Gauvin",
+        "lang:fr": "Robert Gauvin"
+      },
+      "id": "Q56749889",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56749889"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrea Anderson-Mason",
+        "lang:fr": "Andrea Anderson-Mason"
+      },
+      "id": "Q56749931",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56749931"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mary Wilson",
+        "lang:fr": "Mary Wilson"
+      },
+      "id": "Q56751774",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751774"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Rick DeSaulniers"
+      },
+      "id": "Q56753896",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56753896"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Legislative Assembly of New Brunswick",
+        "lang:fr": "Assemblée législative du Nouveau-Brunswick"
+      },
+      "id": "Q1516914",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1516914"
+        }
+      ],
+      "area_id": "Q1965",
+      "seat_counts": {
+        "Q18984329": "49"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q16253549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16253549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Bathurst East-Nepisiguit-Saint-Isidore"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16256328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16256328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Campbellton-Dalhousie"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16256540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16256540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Carleton"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16950560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16950560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Bathurst West-Beresford"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16955881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16955881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Carleton-Victoria"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16981383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16981383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Fredericton South"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16981385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16981385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Fredericton West-Hanwell"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16981388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16981388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Fredericton-Grand Lake"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16981389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16981389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Fredericton-York"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16981570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16981570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Gagetown-Petitcodiac"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16983208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16983208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Hampton"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q16989122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16989122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Kings Centre"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q17052880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17052880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Oromocto-Lincoln"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q17059436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17059436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Carleton-York"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q17090633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17090633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Miramichi"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q17090768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17090768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Moncton Centre"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q17090780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17090780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Moncton East"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q17090787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17090787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Moncton Southwest"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q17093013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17093013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Shediac Bay-Dieppe"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q1965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q12270252"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "New Brunswick",
+        "lang:fr": "Nouveau-Brunswick"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q281399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q281399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "New Maryland-Sunbury"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q2830904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2830904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Albert"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q2879404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2879404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Miramichi Bay-Neguac"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q2937885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2937885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Caraquet"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q2960928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2960928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Charlotte-Campobello"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q2960932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2960932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Fundy-The Isles-Saint John West"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3027487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3027487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Dieppe"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3048153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3048153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Edmundston-Madawaska Centre"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3113468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3113468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Victoria-La Valle"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3195267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3195267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Kent South"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3197087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3197087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Sussex-Fundy-St. Martins"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3216887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3216887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Shippagan-Lamque-Miscou"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3275450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3275450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Madawaska Les Lacs-Edmundston"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3315869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3315869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Southwest Miramichi-Bay du Vin"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3341339",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3341339"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Restigouche-Chaleur"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3433524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3433524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Riverview"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3439665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3439665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Kent North"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3442975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3442975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Rothesay"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3463893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Saint John East"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3463898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Saint John Harbour"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3463899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Saint John Lancaster"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3463902",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3463902"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Portland-Simonds"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3481698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3481698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Shediac-Beaubassin-Cap-Pel"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3515350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3515350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Memramcook-Tantramar"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q3536142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3536142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Tracadie-Sheila"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q47462432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47462432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Moncton South"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q47462543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47462543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Moncton Northwest"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q5499248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5499248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Fredericton North"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q7316116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7316116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Restigouche West"
+      },
+      "parent_id": "Q1965"
+    },
+    {
+      "id": "Q964313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:nb/ed:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q964313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18984329"
+      ],
+      "type": {
+        "lang:en": "provincial electoral district of New Brunswick"
+      },
+      "name": {
+        "lang:en": "Quispamsis"
+      },
+      "parent_id": "Q1965"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56744315-4f4926dc-415c-1828-f104-3ccf43410e18",
+      "person_id": "Q56744315",
+      "organization_id": "Q1516914",
+      "area_id": "Q2937885",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56749848-c94b7766-4326-e344-101f-ac56797f55e9",
+      "person_id": "Q56749848",
+      "organization_id": "Q1516914",
+      "area_id": "Q3439665",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56749889-282d9121-462a-54ce-e8ee-467aadbbeaef",
+      "person_id": "Q56749889",
+      "organization_id": "Q1516914",
+      "area_id": "Q3216887",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56749931-10fef2ed-409c-6d2a-49b7-d8da1da7423a",
+      "person_id": "Q56749931",
+      "organization_id": "Q1516914",
+      "area_id": "Q2960932",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56751774-a701d12b-4d0c-9761-64d6-06a3e8e6e8c2",
+      "person_id": "Q56751774",
+      "organization_id": "Q1516914",
+      "area_id": "Q17052880",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56753896-449b59d3-4b5b-b66e-626e-93cb4cf6660d",
+      "person_id": "Q56753896",
+      "organization_id": "Q1516914",
+      "area_id": "Q16981389",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    }
+  ]
+}
