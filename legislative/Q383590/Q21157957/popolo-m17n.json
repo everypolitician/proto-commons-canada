@@ -5744,6 +5744,20 @@
     },
     {
       "name": {
+        "lang:en": "People's Party of Canada",
+        "lang:fr": "Parti populaire du Canada"
+      },
+      "id": "Q56612740",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612740"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Green Party of Canada",
         "lang:fr": "Parti vert du Canada"
       },
@@ -14590,6 +14604,44 @@
       "on_behalf_of_id": "Q50312633",
       "organization_id": "Q383590",
       "area_id": "Q3322478",
+      "end_date": "2018-02-28",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1396130-4e1cf19b-443d-fc4b-f334-6d90cb868c55",
+      "person_id": "Q1396130",
+      "on_behalf_of_id": "Q50312633",
+      "organization_id": "Q383590",
+      "area_id": "Q3322478",
+      "start_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1396130-d95f13c8-4a89-656c-9284-5d332b9d2666",
+      "person_id": "Q1396130",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q383590",
+      "area_id": "Q3322478",
+      "start_date": "2018-02-28",
+      "end_date": "2018-09-17",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -15288,11 +15340,49 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21159929-017d4450-48d9-c93e-7c9f-f77f70cf7af6",
+      "person_id": "Q21159929",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q383590",
+      "area_id": "Q428070",
+      "start_date": "2018-02-28",
+      "end_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21159929-8C9D6058-11E2-41EA-B88A-4AD55A36FE4F",
       "person_id": "Q21159929",
       "on_behalf_of_id": "Q50312633",
       "organization_id": "Q383590",
       "area_id": "Q428070",
+      "end_date": "2018-02-28",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21159929-c3816f58-4da7-6b92-c725-6f3a45c37e5b",
+      "person_id": "Q21159929",
+      "on_behalf_of_id": "Q50312633",
+      "organization_id": "Q383590",
+      "area_id": "Q428070",
+      "start_date": "2018-09-17",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -15310,6 +15400,22 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q383590",
       "area_id": "Q16979633",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21162694-18FC0076-CBAC-4F4B-8DA5-649F33094A1C",
+      "person_id": "Q21162694",
+      "organization_id": "Q383590",
+      "area_id": "Q3376996",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -15408,12 +15514,50 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21177259-4445816e-4d1a-072e-9de2-082a0fb1c33e",
+      "person_id": "Q21177259",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q383590",
+      "area_id": "Q3183138",
+      "start_date": "2018-02-28",
+      "end_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21177259-6f98e636-4a48-418c-2bd7-ade059cbcdd8",
+      "person_id": "Q21177259",
+      "on_behalf_of_id": "Q50312633",
+      "organization_id": "Q383590",
+      "area_id": "Q3183138",
+      "start_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21177259-7af9211c-4c61-be55-a577-351b7d9d8eb9",
       "person_id": "Q21177259",
       "on_behalf_of_id": "Q50312633",
       "organization_id": "Q383590",
       "area_id": "Q3183138",
       "start_date": "2015-12-03",
+      "end_date": "2018-02-28",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -15533,6 +15677,44 @@
       "on_behalf_of_id": "Q50312633",
       "organization_id": "Q383590",
       "area_id": "Q3427232",
+      "end_date": "2018-02-28",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21286025-5cad06bc-4e89-897f-f64f-188b4cba6540",
+      "person_id": "Q21286025",
+      "on_behalf_of_id": "Q50312633",
+      "organization_id": "Q383590",
+      "area_id": "Q3427232",
+      "start_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21286025-fa1dba91-4c90-2dfc-ae0e-ddf2d1d17ccd",
+      "person_id": "Q21286025",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q383590",
+      "area_id": "Q3427232",
+      "start_date": "2018-02-28",
+      "end_date": "2018-09-17",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -16233,6 +16415,25 @@
       "on_behalf_of_id": "Q138345",
       "organization_id": "Q383590",
       "area_id": "Q16949447",
+      "end_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22003106-b474f344-4875-840d-2d53-698284b8c8fe",
+      "person_id": "Q22003106",
+      "on_behalf_of_id": "Q488523",
+      "organization_id": "Q383590",
+      "area_id": "Q16949447",
+      "start_date": "2018-09-17",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -19070,6 +19271,7 @@
       "on_behalf_of_id": "Q130765",
       "organization_id": "Q383590",
       "area_id": "Q16966970",
+      "end_date": "2018-09-14",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -19218,11 +19420,49 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3262931-36122ded-412d-6531-6b98-74e0c6f7d89b",
+      "person_id": "Q3262931",
+      "on_behalf_of_id": "Q50312633",
+      "organization_id": "Q383590",
+      "area_id": "Q2886296",
+      "start_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3262931-837dc792-4d3b-2d93-d67e-bdb43819dd13",
+      "person_id": "Q3262931",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q383590",
+      "area_id": "Q2886296",
+      "start_date": "2018-02-28",
+      "end_date": "2018-09-17",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3262931-93CC77C6-0A7B-480C-A9F1-C1E0BF10DF93",
       "person_id": "Q3262931",
       "on_behalf_of_id": "Q50312633",
       "organization_id": "Q383590",
       "area_id": "Q2886296",
+      "end_date": "2018-02-28",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
@@ -20232,12 +20472,31 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q516940-33235f74-4279-6733-fc31-f4a3f590ca7b",
+      "person_id": "Q516940",
+      "on_behalf_of_id": "Q56612740",
+      "organization_id": "Q383590",
+      "area_id": "Q2893126",
+      "start_date": "2018-09-14",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy",
+        "lang:fr": "député"
+      },
+      "role_code": "Q15964890",
+      "role": {
+        "lang:en": "member of the House of Commons of Canada",
+        "lang:fr": "député de la Chambre des communes du Canada"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q516940-3495c3d4-4449-c5dd-dd8b-f8709c0b9f4c",
       "person_id": "Q516940",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q383590",
       "area_id": "Q2893126",
       "start_date": "2018-08-23",
+      "end_date": "2018-09-14",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy",
