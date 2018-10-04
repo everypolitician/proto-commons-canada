@@ -1404,12 +1404,17 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6467545"
+        "value" : "http://www.wikidata.org/entity/Q138345"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Labour candidates and parties in Canada"
+        "value" : "Liberal Party of Canada"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Parti libéral du Canada"
       }
     }, {
       "statement" : {
@@ -1482,17 +1487,12 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
+        "value" : "http://www.wikidata.org/entity/Q6467545"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
+        "value" : "Labour candidates and parties in Canada"
       }
     }, {
       "statement" : {
