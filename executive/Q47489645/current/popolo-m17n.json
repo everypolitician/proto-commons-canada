@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Winnipeg City Council",
+        "lang:fr": "Conseil municipal de Winnipeg"
+      },
+      "id": "Q47489645",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47489645"
+        }
+      ],
+      "area_id": "Q2135"
+    }
   ],
   "areas": [
     {
