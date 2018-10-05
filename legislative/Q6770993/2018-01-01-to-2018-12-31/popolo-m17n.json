@@ -19,7 +19,264 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2560704"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Ontario"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q44016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q44016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099530"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Markham"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q56876561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q44016"
+    },
+    {
+      "id": "Q56876562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q44016"
+    },
+    {
+      "id": "Q56876563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q44016"
+    },
+    {
+      "id": "Q56876564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q44016"
+    },
+    {
+      "id": "Q56876565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 5"
+      },
+      "parent_id": "Q44016"
+    },
+    {
+      "id": "Q56876566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 6"
+      },
+      "parent_id": "Q44016"
+    },
+    {
+      "id": "Q56876567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 7"
+      },
+      "parent_id": "Q44016"
+    },
+    {
+      "id": "Q56876568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519036/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099529"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Markham"
+      },
+      "name": {
+        "lang:en": "Ward 8"
+      },
+      "parent_id": "Q44016"
+    }
   ],
   "memberships": [
 

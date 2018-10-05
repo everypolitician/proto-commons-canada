@@ -19,7 +19,82 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:bc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q7240349"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "British Columbia",
+        "lang:fr": "Colombie-Britannique"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q390583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:5915004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q390583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099619",
+        "Q56099617"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Surrey"
+      },
+      "parent_id": "Q1974"
+    }
   ],
   "memberships": [
 
