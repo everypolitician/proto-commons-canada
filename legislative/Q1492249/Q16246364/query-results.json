@@ -10634,7 +10634,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56863245-12b810f4-435f-4756-270d-c4e02cde50d1"
+        "value" : "http://www.wikidata.org/entity/statement/Q56871993-200D2D4F-C445-4822-B88E-1FA3E6B0F2F9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10666,10 +10666,15 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56863245"
+        "value" : "http://www.wikidata.org/entity/Q56871993"
       },
       "name_fr" : {
         "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Christine Labrie"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Christine Labrie"
       },
@@ -10802,6 +10807,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gouin"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-29T00:00:00Z"
       }
     }, {
       "statement" : {
