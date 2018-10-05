@@ -19,7 +19,195 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q16",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q839078"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:fr": "pays"
+      },
+      "name": {
+        "lang:en": "Canada",
+        "lang:fr": "Canada"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/province:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18524027",
+        "Q2560704"
+      ],
+      "type": {
+        "lang:en": "province or territory of Canada",
+        "lang:fr": "provinces et territoires du Canada"
+      },
+      "name": {
+        "lang:en": "Ontario"
+      },
+      "parent_id": "Q16"
+    },
+    {
+      "id": "Q44013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q44013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099574"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:fr": "ville"
+      },
+      "name": {
+        "lang:en": "Vaughan"
+      },
+      "parent_id": "Q1904"
+    },
+    {
+      "id": "Q56876600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519028/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099571"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Vaughan"
+      },
+      "name": {
+        "lang:en": "Maple/Kleinburg"
+      },
+      "parent_id": "Q44013"
+    },
+    {
+      "id": "Q56876601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519028/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099571"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Vaughan"
+      },
+      "name": {
+        "lang:en": "Woodbridge West"
+      },
+      "parent_id": "Q44013"
+    },
+    {
+      "id": "Q56876602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519028/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099571"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Vaughan"
+      },
+      "name": {
+        "lang:en": "Woodbridge/Vellore"
+      },
+      "parent_id": "Q44013"
+    },
+    {
+      "id": "Q56876603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519028/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099571"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Vaughan"
+      },
+      "name": {
+        "lang:en": "Concord/Thornhill North"
+      },
+      "parent_id": "Q44013"
+    },
+    {
+      "id": "Q56876604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ca/csd:3519028/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56876604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56099571"
+      ],
+      "type": {
+        "lang:en": "municipal electoral district of Vaughan"
+      },
+      "name": {
+        "lang:en": "Thornhill"
+      },
+      "parent_id": "Q44013"
+    }
   ],
   "memberships": [
 
