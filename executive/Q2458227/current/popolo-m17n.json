@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Robert Baldwin",
+        "lang:fr": "Robert Baldwin"
+      },
+      "id": "Q2093662",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2093662"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Justin Trudeau",
         "lang:fr": "Justin Trudeau"
       },
@@ -49,6 +65,20 @@
           "identifier": "Q138345"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Reform movement",
+        "lang:fr": "Parti réformiste"
+      },
+      "id": "Q7307428",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7307428"
+        }
+      ]
     }
   ],
   "areas": [
@@ -79,6 +109,23 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2093662-ead55116-4bf8-4945-8851-859be3aa4e75",
+      "person_id": "Q2093662",
+      "on_behalf_of_id": "Q7307428",
+      "organization_id": "Q2458227",
+      "area_id": "Q16",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:fr": "Premier ministre"
+      },
+      "role_code": "Q839078",
+      "role": {
+        "lang:en": "Prime Minister of Canada",
+        "lang:fr": "Premier ministre du Canada"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf",
       "person_id": "Q3099714",

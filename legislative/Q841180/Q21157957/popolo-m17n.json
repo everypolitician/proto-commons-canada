@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Peter Boehm",
+        "lang:fr": "Peter Boehm"
+      },
+      "id": "Q1357406",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1357406"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Paul McIntyre",
         "lang:fr": "Paul McIntyre"
       },
@@ -442,6 +458,81 @@
     },
     {
       "name": {
+        "lang:en": "Patti LaBoucane-Benson"
+      },
+      "id": "Q56879414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56879414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paula Simons"
+      },
+      "id": "Q56879415",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56879415"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Josée Forest-Niesing"
+      },
+      "id": "Q57313609",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57313609"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brian Francis"
+      },
+      "id": "Q57419107",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57419107"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Marty Klyne"
+      },
+      "id": "Q58099825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58099825"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Kelvin Ogilvie",
         "lang:fr": "Kelvin Ogilvie"
       },
@@ -603,6 +694,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q28946329"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:fr": "sans étiquette"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
         }
       ]
     },
@@ -984,6 +1089,22 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1357406-1276a7cc-4c64-1759-2d23-83688533a79f",
+      "person_id": "Q1357406",
+      "organization_id": "Q841180",
+      "start_date": "2018-10-03",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:fr": "sénateur"
+      },
+      "role_code": "Q18524027",
+      "role": {
+        "lang:en": "Member of the Senate of Canada",
+        "lang:fr": "membre du Sénat du Canada"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q14942774-98CDF2B8-D08E-42D3-B59C-0CE31AACA890",
       "person_id": "Q14942774",
@@ -1430,6 +1551,89 @@
       "organization_id": "Q841180",
       "area_id": "Q1989",
       "start_date": "2018-10-24",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:fr": "sénateur"
+      },
+      "role_code": "Q18524027",
+      "role": {
+        "lang:en": "Member of the Senate of Canada",
+        "lang:fr": "membre du Sénat du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56879414-c57d06b0-4229-5093-12da-cd55b4a1459e",
+      "person_id": "Q56879414",
+      "organization_id": "Q841180",
+      "start_date": "2018-10-03",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:fr": "sénateur"
+      },
+      "role_code": "Q18524027",
+      "role": {
+        "lang:en": "Member of the Senate of Canada",
+        "lang:fr": "membre du Sénat du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56879415-bfb2c00f-42e2-f750-00f1-4541fb2cfedc",
+      "person_id": "Q56879415",
+      "organization_id": "Q841180",
+      "start_date": "2018-10-03",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:fr": "sénateur"
+      },
+      "role_code": "Q18524027",
+      "role": {
+        "lang:en": "Member of the Senate of Canada",
+        "lang:fr": "membre du Sénat du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57313609-926cb9b2-4e0f-bba7-064c-be41372d7aab",
+      "person_id": "Q57313609",
+      "organization_id": "Q841180",
+      "area_id": "Q1904",
+      "start_date": "2018-10-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:fr": "sénateur"
+      },
+      "role_code": "Q18524027",
+      "role": {
+        "lang:en": "Member of the Senate of Canada",
+        "lang:fr": "membre du Sénat du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57419107-f678eaed-4434-8cf7-cc78-708f4db63985",
+      "person_id": "Q57419107",
+      "organization_id": "Q841180",
+      "area_id": "Q1979",
+      "start_date": "2018-10-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:fr": "sénateur"
+      },
+      "role_code": "Q18524027",
+      "role": {
+        "lang:en": "Member of the Senate of Canada",
+        "lang:fr": "membre du Sénat du Canada"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58099825-c20c4802-40fb-db07-0f62-3de71b3ee1b3",
+      "person_id": "Q58099825",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q841180",
+      "start_date": "2018-09-24",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",

@@ -2,21 +2,18 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Gregor Robertson",
-        "lang:fr": "Gregor Robertson"
+        "lang:en": "Kennedy Stewart",
+        "lang:fr": "Kennedy Stewart"
       },
-      "id": "Q1391375",
+      "id": "Q3195160",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q1391375"
+          "identifier": "Q3195160"
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/gregorrobertson"
-        }
+
       ]
     },
     {
@@ -70,6 +67,20 @@
     },
     {
       "name": {
+        "lang:en": "New Democratic Party",
+        "lang:fr": "Nouveau Parti démocratique"
+      },
+      "id": "Q130765",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130765"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Liberal Party of Canada",
         "lang:fr": "Parti libéral du Canada"
       },
@@ -84,15 +95,15 @@
     },
     {
       "name": {
-        "lang:en": "British Columbia New Democratic Party",
-        "lang:fr": "Nouveau Parti démocratique de la Colombie-Britannique"
+        "lang:en": "independent politician",
+        "lang:fr": "sans étiquette"
       },
-      "id": "Q919052",
+      "id": "Q327591",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q919052"
+          "identifier": "Q327591"
         }
       ]
     }
@@ -176,12 +187,30 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q1391375-b644f969-4553-6815-7243-a24fe880fa87",
-      "person_id": "Q1391375",
-      "on_behalf_of_id": "Q919052",
+      "id": "http://www.wikidata.org/entity/statement/Q3195160-17355a8e-49e2-1fe1-fc16-7c390dda52c2",
+      "person_id": "Q3195160",
+      "on_behalf_of_id": "Q130765",
       "organization_id": "Q47489643",
       "area_id": "Q24639",
-      "start_date": "2008-12-08",
+      "start_date": "2018-11-05",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:fr": "maire"
+      },
+      "role_code": "Q24255207",
+      "role": {
+        "lang:en": "Mayor of Vancouver",
+        "lang:fr": "maire de Vancouver"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3195160-17355a8e-49e2-1fe1-fc16-7c390dda52c2",
+      "person_id": "Q3195160",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q47489643",
+      "area_id": "Q24639",
+      "start_date": "2018-11-05",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:en": "mayor",

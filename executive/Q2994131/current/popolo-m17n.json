@@ -142,6 +142,20 @@
     },
     {
       "name": {
+        "lang:en": "Union Montreal",
+        "lang:fr": "Union Montréal"
+      },
+      "id": "Q116211",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q116211"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "New Democratic Party",
         "lang:fr": "Nouveau Parti démocratique"
       },
@@ -784,6 +798,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q29889392-5017b076-437d-c8b0-f14d-843ea6bbdc4c",
       "person_id": "Q29889392",
+      "on_behalf_of_id": "Q116211",
       "organization_id": "Q2994131",
       "area_id": "Q340",
       "start_date": "2016-04-01",
