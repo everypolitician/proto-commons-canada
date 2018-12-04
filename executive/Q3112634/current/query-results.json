@@ -6,35 +6,35 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3379654-d080d9ef-4d4f-dd39-b5e9-f56a0472945b"
+        "value" : "http://www.wikidata.org/entity/statement/Q3085147-b710eb45-4499-fe37-b7a2-36a66c758f6e"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3379654"
+        "value" : "http://www.wikidata.org/entity/Q3085147"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Philippe Couillard"
+        "value" : "François Legault"
       },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "Philippe Couillard"
+        "value" : "François Legault"
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1631384"
+        "value" : "http://www.wikidata.org/entity/Q2348226"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Quebec Liberal Party"
+        "value" : "Coalition Avenir Québec"
       },
       "party_name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "Parti libéral du Québec"
+        "value" : "Coalition avenir Québec"
       },
       "district" : {
         "type" : "uri",
@@ -67,11 +67,7 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2014-04-23T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "phcouillard"
+        "value" : "2018-10-18T00:00:00Z"
       },
       "role_superclass" : {
         "type" : "uri",
