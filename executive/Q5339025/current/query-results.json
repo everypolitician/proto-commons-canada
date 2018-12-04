@@ -1,2646 +1,2706 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_fr", "org", "org_en", "org_fr", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_fr",
+      "party",
+      "party_name_en",
+      "party_name_fr",
+      "district",
+      "district_name_en",
+      "district_name_fr",
+      "role",
+      "role_en",
+      "role_fr",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_fr",
+      "org",
+      "org_en",
+      "org_fr",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q14949662-9296D553-9465-4FF8-9F43-EC35C267F036"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q14949662-9296D553-9465-4FF8-9F43-EC35C267F036"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14949662"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Herbert Charles Wilson"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Herbert Charles Wilson"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14949662"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q16018408-DC0FBD07-0361-4257-A5A1-56A53409929B"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16018408"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ivor Dent"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ivor Dent"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Herbert Charles Wilson"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3402814-DE7960AB-DCDB-42AC-ACBF-9F3BDE7F1595"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3402814"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "David Milwyn Duggan"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "David Milwyn Duggan"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1518057"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Progressive Conservative Association of Alberta"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Association progressiste-conservateur de l'Alberta"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Herbert Charles Wilson"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4741767"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ambrose Bury"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ambrose Bury"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1518057"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Progressive Conservative Association of Alberta"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Association progressiste-conservateur de l'Alberta"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4741767"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ambrose Bury"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ambrose Bury"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q909827"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Conservative Party of Canada"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti conservateur du Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5055849-E26187B2-AF92-4C9A-BA72-B6EB534DA284"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5055849"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cec Purves"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cec Purves"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5080743-EA4301BD-21FE-4E87-8420-18415E9F0988"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5080743"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charles May"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charles May"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5171364-76054E37-58ED-4D18-8D11-EF3FB296C5FE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5171364"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cornelius Gallagher"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cornelius Gallagher"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5213821-A2300BDD-73F3-4086-B231-5A825491ABD9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5213821"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dan Knott"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dan Knott"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6467545"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Labour candidates and parties in Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5292823-75c8e36e-4e53-c511-f5f1-a7f6edcc72fa"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5292823"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Don Iveson"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Don Iveson"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-10-29T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "doniveson"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5498157-9EF5DC34-8DBA-46E1-9265-4EECDABD09EB"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5498157"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Frederick John Mitchell"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Frederick John Mitchell"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1518057"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Progressive Conservative Association of Alberta"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Association progressiste-conservateur de l'Alberta"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5544136-0FD95F1C-FD13-4791-A04F-DBE3C4214361"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5544136"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "George S. Armstrong"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "George S. Armstrong"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5666838-73D8778F-B428-4FBF-BAD1-3131E3F53CFC"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5666838"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Harry Ainlay"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Harry Ainlay"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5670896-C382621D-D3D6-47FB-A24F-C908BF2A5C6D"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5670896"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Harry Marshall Erskine Evans"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Harry Marshall Erskine Evans"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6139247-D6B38883-01C7-4B34-8A19-D04B6225E704"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6139247"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "James McCrie Douglas"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "James McCrie Douglas"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138345"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Liberal Party of Canada"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti libéral du Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6149793-3E297D85-262B-4209-896E-708C5466D670"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6149793"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Reimer"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jan Reimer"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6218609-01608AFF-87E1-4A01-9F0B-40C7B8904EFA"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6218609"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Alexander McDougall"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "John Alexander McDougall"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6263543-E424CF82-CC15-41AA-AD5F-DCDE2CCC1118"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6263543"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Wesley Fry"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "John Wesley Fry"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6282145"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joseph Clarke"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Joseph Clarke"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138345"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Liberal Party of Canada"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti libéral du Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6282145"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joseph Clarke"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Joseph Clarke"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6467545"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Labour candidates and parties in Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6390782-CE65D27C-808E-4865-96D5-48CB00DF8391"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6390782"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kenneth W. MacKenzie"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kenneth W. MacKenzie"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6390978-2C688A73-230E-43AF-A60C-9704517BB8AF"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6390978"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kenny Blatchford"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kenny Blatchford"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138345"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Liberal Party of Canada"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti libéral du Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6500565-2CEE4CFA-9DB7-47F5-AB9D-80C0690D1F63"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6500565"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laurence Decore"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Laurence Decore"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q939248"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alberta Liberal Party"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti libéral de l'Alberta"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6790939-042C6226-0203-4981-AEF5-B9563B6A4A46"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6790939"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matthew McCauley"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Matthew McCauley"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q939248"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alberta Liberal Party"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti libéral de l'Alberta"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7346789-37E45080-16D7-4205-8BF0-4ADF61ECD175"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7346789"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Robert Lee"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Robert Lee"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7509270-161FAB6B-3961-4608-B7FE-6A4E27ECF798"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7509270"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sidney Parsons"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sidney Parsons"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7704210-FFF544B4-8153-46AA-ACEC-F716601F8BEF"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7704210"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Terry Cavanagh"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Terry Cavanagh"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7931744-2B92C187-1D67-40F3-A97F-711B8D45881B"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7931744"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vincent Dantzer"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vincent Dantzer"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292617"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Progressive Conservative Party of Canada"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti progressiste-conservateur du Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8004499"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Antrobus Griesbach"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "William Antrobus Griesbach"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1518057"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Progressive Conservative Association of Alberta"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Association progressiste-conservateur de l'Alberta"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8004499"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Antrobus Griesbach"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "William Antrobus Griesbach"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q909827"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Conservative Party of Canada"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti conservateur du Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8011042-9C8E029E-5679-4CAC-AA9B-35D2AF25F89F"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8011042"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Hawrelak"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "William Hawrelak"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138345"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Liberal Party of Canada"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti libéral du Canada"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8013291-3F9E83C0-5F85-49E6-83DE-8995363058A8"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8013291"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William J. McNamara"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "William J. McNamara"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8017931-6C870420-0A81-48C3-8E71-A1063E1C330B"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8017931"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William S. Edmiston"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "William S. Edmiston"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8018413-A60D9513-C685-4429-8645-01C4D6141319"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8018413"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Short"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "William Short"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8019319-601CBFB8-6756-4F53-A32A-EDDF4A9A440F"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8019319"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Thomas Henry"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "William Thomas Henry"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q939248"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alberta Liberal Party"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti libéral de l'Alberta"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        }
       }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16018408-DC0FBD07-0361-4257-A5A1-56A53409929B"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16018408"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ivor Dent"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ivor Dent"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3402814-DE7960AB-DCDB-42AC-ACBF-9F3BDE7F1595"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3402814"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "David Milwyn Duggan"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "David Milwyn Duggan"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1518057"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Progressive Conservative Association of Alberta"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Association progressiste-conservateur de l'Alberta"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4741767"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ambrose Bury"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ambrose Bury"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1518057"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Progressive Conservative Association of Alberta"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Association progressiste-conservateur de l'Alberta"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4741767-26C48069-DB9F-4FF8-BDD7-6397329E21B7"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4741767"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ambrose Bury"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ambrose Bury"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q909827"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti conservateur du Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5055849-E26187B2-AF92-4C9A-BA72-B6EB534DA284"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5055849"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cec Purves"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Cec Purves"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5080743-EA4301BD-21FE-4E87-8420-18415E9F0988"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5080743"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charles May"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Charles May"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5171364-76054E37-58ED-4D18-8D11-EF3FB296C5FE"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5171364"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cornelius Gallagher"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Cornelius Gallagher"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5213821-A2300BDD-73F3-4086-B231-5A825491ABD9"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5213821"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dan Knott"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Dan Knott"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6467545"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Labour candidates and parties in Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5292823-75c8e36e-4e53-c511-f5f1-a7f6edcc72fa"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5292823"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Don Iveson"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Don Iveson"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-10-29T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "doniveson"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5498157-9EF5DC34-8DBA-46E1-9265-4EECDABD09EB"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5498157"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Frederick John Mitchell"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Frederick John Mitchell"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1518057"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Progressive Conservative Association of Alberta"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Association progressiste-conservateur de l'Alberta"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5544136-0FD95F1C-FD13-4791-A04F-DBE3C4214361"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5544136"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "George S. Armstrong"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "George S. Armstrong"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5666838-73D8778F-B428-4FBF-BAD1-3131E3F53CFC"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5666838"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Harry Ainlay"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Harry Ainlay"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5670896-C382621D-D3D6-47FB-A24F-C908BF2A5C6D"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5670896"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Harry Marshall Erskine Evans"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Harry Marshall Erskine Evans"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6139247-D6B38883-01C7-4B34-8A19-D04B6225E704"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6139247"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "James McCrie Douglas"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "James McCrie Douglas"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6149793-3E297D85-262B-4209-896E-708C5466D670"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6149793"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jan Reimer"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Jan Reimer"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6218609-01608AFF-87E1-4A01-9F0B-40C7B8904EFA"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6218609"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "John Alexander McDougall"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "John Alexander McDougall"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6263543-E424CF82-CC15-41AA-AD5F-DCDE2CCC1118"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6263543"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "John Wesley Fry"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "John Wesley Fry"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6282145"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Joseph Clarke"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Joseph Clarke"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6282145-F6DFB57B-C1B9-46B7-98B6-CB023C28BEE9"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6282145"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Joseph Clarke"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Joseph Clarke"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6467545"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Labour candidates and parties in Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6390782-CE65D27C-808E-4865-96D5-48CB00DF8391"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6390782"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kenneth W. MacKenzie"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Kenneth W. MacKenzie"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6390978-2C688A73-230E-43AF-A60C-9704517BB8AF"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6390978"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kenny Blatchford"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Kenny Blatchford"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6500565-2CEE4CFA-9DB7-47F5-AB9D-80C0690D1F63"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6500565"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Laurence Decore"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Laurence Decore"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q939248"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberta Liberal Party"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral de l'Alberta"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6790939-042C6226-0203-4981-AEF5-B9563B6A4A46"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6790939"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Matthew McCauley"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Matthew McCauley"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q939248"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberta Liberal Party"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral de l'Alberta"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7346789-37E45080-16D7-4205-8BF0-4ADF61ECD175"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7346789"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Robert Lee"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Robert Lee"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7509270-161FAB6B-3961-4608-B7FE-6A4E27ECF798"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7509270"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sidney Parsons"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Sidney Parsons"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7704210-FFF544B4-8153-46AA-ACEC-F716601F8BEF"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7704210"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Terry Cavanagh"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Terry Cavanagh"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7931744-2B92C187-1D67-40F3-A97F-711B8D45881B"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7931744"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vincent Dantzer"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Vincent Dantzer"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1292617"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Progressive Conservative Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti progressiste-conservateur du Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8004499"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William Antrobus Griesbach"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "William Antrobus Griesbach"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1518057"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Progressive Conservative Association of Alberta"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Association progressiste-conservateur de l'Alberta"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8004499-D199FE2E-AA17-45B4-A0BC-07B8D2306264"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8004499"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William Antrobus Griesbach"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "William Antrobus Griesbach"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q909827"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti conservateur du Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8011042-9C8E029E-5679-4CAC-AA9B-35D2AF25F89F"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8011042"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William Hawrelak"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "William Hawrelak"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q138345"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party of Canada"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral du Canada"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8013291-3F9E83C0-5F85-49E6-83DE-8995363058A8"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8013291"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William J. McNamara"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "William J. McNamara"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8017931-6C870420-0A81-48C3-8E71-A1063E1C330B"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8017931"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William S. Edmiston"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "William S. Edmiston"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8018413-A60D9513-C685-4429-8645-01C4D6141319"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8018413"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William Short"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "William Short"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8019319-601CBFB8-6756-4F53-A32A-EDDF4A9A440F"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8019319"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William Thomas Henry"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "William Thomas Henry"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q939248"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberta Liberal Party"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti libéral de l'Alberta"
-      }
-    } ]
+    ]
   }
 }

@@ -1,3426 +1,3500 @@
 {
-  "head" : {
-    "vars" : [ "position", "position_name_en", "position_name_fr", "positionType", "adminAreaTypes", "adminArea", "admin_area_en", "admin_area_fr", "positionSuperclass", "position_superclass_en", "position_superclass_fr", "body", "body_en", "body_fr" ]
+  "head": {
+    "vars": [
+      "position",
+      "position_name_en",
+      "position_name_fr",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_en",
+      "admin_area_fr",
+      "positionSuperclass",
+      "position_superclass_en",
+      "position_superclass_fr",
+      "body",
+      "body_en",
+      "body_fr"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15964815"
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15964815"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Alberta Legislative Assembly"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'assemblée législative d'Alberta"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1951"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alberta"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Alberta"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "legislator"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "législateur"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1812866"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Alberta"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Alberta"
+        }
       },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Alberta Legislative Assembly"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15964815"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Alberta Legislative Assembly"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'assemblée législative d'Alberta"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1951"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alberta"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Alberta"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1812866"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Alberta"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Alberta"
+        }
       },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'assemblée législative d'Alberta"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15964890"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the House of Commons of Canada"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de la Chambre des communes du Canada"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Canada"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Canada"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q383590"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "House of Commons"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "chambre des communes du Canada"
+        }
       },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q177645"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Montreal"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire de Montréal"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montreal"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Montréal"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47450829"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor and Borough Mayors of Montreal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994131"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montreal City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Montréal"
+        }
       },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18239264"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Nova Scotia House of Assembly"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'Assemblée législative de la Nouvelle-Écosse"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1952"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nova Scotia"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nouvelle-Écosse"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q320273"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nova Scotia House of Assembly"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "chambre d'assemblée de la Nouvelle-Écosse"
+        }
       },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1951"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18524027"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Senate of Canada"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre du Sénat du Canada"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Canada"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Canada"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sénateur"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q841180"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Canada"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sénat du Canada"
+        }
       },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberta"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18608478"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Yukon Legislative Assembly"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'Assemblée législative du Yukon"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2009"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yukon"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Yukon"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q908022"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yukon Legislative Assembly"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative du Yukon"
+        }
       },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Alberta"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18675661"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Saskatchewan"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'assemblée législative de la Saskatchewan"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1989"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saskatchewan"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Saskatchewan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1537375"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Saskatchewan"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de la Saskatchewan"
+        }
       },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18693083"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Halifax"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire d'Halifax"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2141"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Halifax"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Halifax"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17107607"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Halifax Regional Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Région de Halifax"
+        }
       },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "legislator"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18984329"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Legislative Assembly of New Brunswick"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative du Nouveau-Brunswick"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1965"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New Brunswick"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nouveau-Brunswick"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1516914"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of New Brunswick"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative du Nouveau-Brunswick"
+        }
       },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "législateur"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19004821"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of British Columbia"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'Assemblée législative de la Colombie-Britannique"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1974"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "British Columbia"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Colombie-Britannique"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1323479"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of British Columbia"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de la Colombie-Britannique"
+        }
       },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1812866"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19007867"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Legislative Assembly of Manitoba"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'Assemblée législative du Manitoba"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1948"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manitoba"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Manitoba"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "legislator"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "législateur"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1517320"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Manitoba"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative du Manitoba"
+        }
       },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Alberta"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19007867"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Legislative Assembly of Manitoba"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de l'Assemblée législative du Manitoba"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1948"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manitoba"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Manitoba"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1517320"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Manitoba"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative du Manitoba"
+        }
       },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Alberta"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19403853"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Newfoundland and Labrador House of Assembly"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre de la chambre d'Assemblée de Terre-Neuve-et-Labrador"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2003"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Newfoundland and Labrador"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Terre-Neuve-et-Labrador"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q258843"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Newfoundland and Labrador House of Assembly"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "chambre d'Assemblée de Terre-Neuve-et-Labrador"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prince Edward Island"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Île-du-Prince-Édouard"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21094906"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Edmonton"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24255207"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Vancouver"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire de Vancouver"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24639"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vancouver"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vancouver"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47489643"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vancouver City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Vancouver"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2911019"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Premier of Quebec"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre du Québec"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q176"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2505921"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "premier"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre du Canada"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2993943"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Quebec"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil exécutif du Québec"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3305338"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the National Assembly of Quebec"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée nationale du Québec"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q176"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1492249"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "National Assembly of Quebec"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée nationale du Québec"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3305347"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Ontario Provincial Parliament"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre du Parlement provincial"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1904"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ontario"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ontario"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1809086"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Ontario"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Ontario"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45308607"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Nunavut"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2023"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nunavut"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nunavut"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867082"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Nunavut"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative du Nunavut"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45308871"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of the Northwest Territories"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2007"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Northwest Territories"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Territoires du Nord-Ouest"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867078"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of the Northwest Territories"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative des Territoires du Nord-Ouest"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45413990"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Toronto City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q172"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Toronto"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Toronto"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2444341"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Toronto City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Toronto"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45414411"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montreal City Councillor"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller de la ville"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montreal"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Montréal"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994131"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montreal City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Montréal"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45414913"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Calgary City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36312"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Calgary"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Calgary"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4145705"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Calgary City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "consesi de calgary"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47450833"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Borough Mayor (Montreal)"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Maire d'arrondissement (montréal)"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q340"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montreal"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Montréal"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47450829"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor and Borough Mayors of Montreal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994131"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montreal City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Montréal"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47487122"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Ottawa City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1930"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ottawa"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ottawa"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994125"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ottawa City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ottawa (Conseil municipal)"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47488905"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Ottawa"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1930"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ottawa"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ottawa"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994125"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ottawa City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ottawa (Conseil municipal)"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490035"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Winnipeg"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2135"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Winnipeg"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Winnipeg"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47489645"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Winnipeg City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Winnipeg"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490128"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Winnipeg City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2135"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Winnipeg"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Winnipeg"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47489645"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Winnipeg City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Winnipeg"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490129"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Vancouver City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24639"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vancouver"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vancouver"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47489643"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vancouver City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Vancouver"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490130"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Edmonton City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2096"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Edmonton"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5339025"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edmonton City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490131"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Halifax Regional Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2141"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Halifax"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Halifax"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17107607"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Halifax Regional Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Région de Halifax"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490293"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Quebec City"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Maire de Québec"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56043118"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Brampton City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44198"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brampton"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Brampton"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4956221"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brampton City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56043125"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Brampton"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44198"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brampton"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Brampton"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4956221"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brampton City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56071328"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Gatineau City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q141844"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gatineau"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gatineau"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994126"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gatineau City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Gatineau"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56071331"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Gatineau"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire de Gatineau"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q141844"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gatineau"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gatineau"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994126"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gatineau City Council"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseil municipal de Gatineau"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56071664"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor of Hamilton, Ontario"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133116"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hamilton"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Hamilton"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5644769"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hamilton, Ontario City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56071683"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Hamilton City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133116"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hamilton"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Hamilton"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5644769"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hamilton, Ontario City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56097740"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Laval"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q141810"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laval"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Laval"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16251180"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laval City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56097744"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Laval City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q141810"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laval"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Laval"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16251180"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laval City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56098847"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of London City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92561"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "London"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "London"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6670238"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "London City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56098876"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of London"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92561"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "London"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "London"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6670238"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "London City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56099529"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Markham City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44016"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Markham"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Markham"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6770993"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Markham City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56099530"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Markham"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44016"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Markham"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Markham"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6770993"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Markham City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56099571"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Vaughan City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44013"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vaughan"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vaughan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17029808"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vaughan City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56099574"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Vaughan"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44013"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vaughan"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vaughan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17029808"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vaughan City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56099617"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Surrey City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q390583"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Surrey"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Surrey"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7646781"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Surrey City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56099619"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Surrey"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q390583"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Surrey"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Surrey"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7646781"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Surrey City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56100957"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of Mississauga City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50816"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mississauga"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mississauga"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6878950"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mississauga City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56100961"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Mississauga"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50816"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mississauga"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mississauga"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6878950"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mississauga City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6578215"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Premier of Saskatchewan"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre de la Saskatchewan"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1989"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saskatchewan"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Saskatchewan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2505921"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "premier"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre du Canada"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30295437"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Government of Saskatchewan"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7240356"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Premier of Newfoundland and Labrador"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Premier ministre de Terre-Neuve-et-Labrador"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2003"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Newfoundland and Labrador"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Terre-Neuve-et-Labrador"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2505921"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "premier"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre du Canada"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589273"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Government of Newfoundland and Labrador"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gouvernement de Terre-Neuve-et-Labrador"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7240360"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Premier of Nova Scotia"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre de la Nouvelle-Écosse"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1952"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nova Scotia"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nouvelle-Écosse"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2505921"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "premier"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre du Canada"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589276"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Government of Nova Scotia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7240361"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Premier of Prince Edward Island"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre de l'Île-du-Prince-Édouard"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prince Edward Island"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Île-du-Prince-Édouard"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2505921"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "premier"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre du Canada"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589299"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Government of Prince Edward Island"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q839078"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of Canada"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Premier ministre du Canada"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Canada"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Canada"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Premier ministre"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2458227"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cabinet of Canada"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cabinet du Canada"
+        }
       }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15964815"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Alberta Legislative Assembly"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'assemblée législative d'Alberta"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1951"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberta"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Alberta"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1812866"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Alberta"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Alberta"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15964890"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the House of Commons of Canada"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de la Chambre des communes du Canada"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Canada"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Canada"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1055894"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "deputy"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q383590"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "House of Commons"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "chambre des communes du Canada"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q177645"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Montreal"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire de Montréal"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q340"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Montréal"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47450829"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor and Borough Mayors of Montreal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994131"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Montréal"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18239264"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Nova Scotia House of Assembly"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'Assemblée législative de la Nouvelle-Écosse"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1952"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nova Scotia"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Nouvelle-Écosse"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q320273"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nova Scotia House of Assembly"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "chambre d'assemblée de la Nouvelle-Écosse"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18524027"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Senate of Canada"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre du Sénat du Canada"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Canada"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Canada"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "sénateur"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q841180"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Canada"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Sénat du Canada"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18608478"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Yukon Legislative Assembly"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'Assemblée législative du Yukon"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2009"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yukon"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Yukon"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q908022"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yukon Legislative Assembly"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative du Yukon"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18675661"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Saskatchewan"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'assemblée législative de la Saskatchewan"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1989"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatchewan"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Saskatchewan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1537375"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Saskatchewan"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de la Saskatchewan"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18693083"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Halifax"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire d'Halifax"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2141"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Halifax"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Halifax"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17107607"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Halifax Regional Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Région de Halifax"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18984329"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Legislative Assembly of New Brunswick"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative du Nouveau-Brunswick"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1965"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Brunswick"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Nouveau-Brunswick"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1516914"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of New Brunswick"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative du Nouveau-Brunswick"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19004821"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of British Columbia"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'Assemblée législative de la Colombie-Britannique"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1974"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "British Columbia"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Colombie-Britannique"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1323479"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of British Columbia"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de la Colombie-Britannique"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19007867"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Legislative Assembly of Manitoba"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'Assemblée législative du Manitoba"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1948"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manitoba"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Manitoba"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "legislator"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "législateur"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1517320"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Manitoba"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative du Manitoba"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19007867"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Legislative Assembly of Manitoba"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de l'Assemblée législative du Manitoba"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1948"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manitoba"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Manitoba"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1517320"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Manitoba"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative du Manitoba"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19403853"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Newfoundland and Labrador House of Assembly"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre de la chambre d'Assemblée de Terre-Neuve-et-Labrador"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2003"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Newfoundland and Labrador"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Terre-Neuve-et-Labrador"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q258843"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Newfoundland and Labrador House of Assembly"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "chambre d'Assemblée de Terre-Neuve-et-Labrador"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prince Edward Island"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Île-du-Prince-Édouard"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21094906"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Edmonton"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24255207"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Vancouver"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire de Vancouver"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24639"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vancouver"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Vancouver"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47489643"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vancouver City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Vancouver"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2911019"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Quebec"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre du Québec"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q176"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2505921"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "premier"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre du Canada"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2993943"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Council of Quebec"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil exécutif du Québec"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3305338"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly of Quebec"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée nationale du Québec"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q176"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1492249"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly of Quebec"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée nationale du Québec"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3305347"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Ontario Provincial Parliament"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre du Parlement provincial"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1904"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ontario"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ontario"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1809086"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Ontario"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Ontario"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45308607"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Nunavut"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2023"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nunavut"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Nunavut"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2867082"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Nunavut"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative du Nunavut"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45308871"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of the Northwest Territories"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2007"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Northwest Territories"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Territoires du Nord-Ouest"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2867078"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of the Northwest Territories"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative des Territoires du Nord-Ouest"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45413990"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Toronto City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q172"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Toronto"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Toronto"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2444341"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Toronto City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Toronto"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45414411"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal City Councillor"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller de la ville"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q340"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Montréal"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994131"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Montréal"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45414913"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Calgary City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36312"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Calgary"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Calgary"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4145705"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Calgary City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "consesi de calgary"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47450833"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Borough Mayor (Montreal)"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Maire d'arrondissement (montréal)"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q340"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Montréal"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47450829"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor and Borough Mayors of Montreal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994131"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montreal City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Montréal"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47487122"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Ottawa City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1930"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ottawa"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ottawa"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994125"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ottawa City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ottawa (Conseil municipal)"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47488905"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Ottawa"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1930"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ottawa"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ottawa"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994125"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ottawa City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ottawa (Conseil municipal)"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490035"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Winnipeg"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2135"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Winnipeg"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Winnipeg"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47489645"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Winnipeg City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Winnipeg"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490128"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Winnipeg City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2135"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Winnipeg"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Winnipeg"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47489645"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Winnipeg City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Winnipeg"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490129"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Vancouver City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24639"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vancouver"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Vancouver"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47489643"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vancouver City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Vancouver"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490130"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Edmonton City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2096"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Edmonton"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5339025"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edmonton City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490131"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Halifax Regional Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2141"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Halifax"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Halifax"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17107607"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Halifax Regional Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Région de Halifax"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490293"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Quebec City"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Maire de Québec"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56043118"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Brampton City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q44198"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brampton"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Brampton"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4956221"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brampton City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56043125"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Brampton"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q44198"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brampton"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Brampton"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4956221"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brampton City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56071328"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Gatineau City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q141844"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gatineau"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Gatineau"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994126"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gatineau City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Gatineau"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56071331"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Gatineau"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire de Gatineau"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q141844"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gatineau"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Gatineau"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994126"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gatineau City Council"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseil municipal de Gatineau"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56071664"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Hamilton, Ontario"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q133116"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hamilton"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Hamilton"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5644769"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hamilton, Ontario City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56071683"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Hamilton City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q133116"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hamilton"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Hamilton"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5644769"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hamilton, Ontario City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56097740"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Laval"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q141810"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Laval"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Laval"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16251180"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Laval City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56097744"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Laval City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q15284"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q141810"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Laval"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Laval"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16251180"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Laval City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098847"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of London City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q92561"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "London"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "London"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6670238"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "London City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56098876"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of London"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q92561"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "London"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "London"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6670238"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "London City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56099529"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Markham City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q44016"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Markham"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Markham"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6770993"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Markham City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56099530"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Markham"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q44016"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Markham"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Markham"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6770993"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Markham City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56099571"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Vaughan City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q44013"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vaughan"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Vaughan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17029808"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vaughan City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56099574"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Vaughan"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q44013"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vaughan"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Vaughan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17029808"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vaughan City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56099617"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Surrey City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q390583"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Surrey"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Surrey"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7646781"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Surrey City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56099619"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Surrey"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q390583"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Surrey"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Surrey"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7646781"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Surrey City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56100957"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of Mississauga City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50816"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mississauga"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Mississauga"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6878950"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mississauga City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56100961"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Mississauga"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50816"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mississauga"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Mississauga"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6878950"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mississauga City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6578215"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Saskatchewan"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre de la Saskatchewan"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1989"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saskatchewan"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Saskatchewan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2505921"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "premier"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre du Canada"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30295437"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Government of Saskatchewan"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240356"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Newfoundland and Labrador"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Premier ministre de Terre-Neuve-et-Labrador"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2003"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Newfoundland and Labrador"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Terre-Neuve-et-Labrador"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2505921"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "premier"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre du Canada"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589273"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Government of Newfoundland and Labrador"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Gouvernement de Terre-Neuve-et-Labrador"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240360"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Nova Scotia"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre de la Nouvelle-Écosse"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1952"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nova Scotia"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Nouvelle-Écosse"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2505921"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "premier"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre du Canada"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589276"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Government of Nova Scotia"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240361"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Prince Edward Island"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre de l'Île-du-Prince-Édouard"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prince Edward Island"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Île-du-Prince-Édouard"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2505921"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "premier"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre du Canada"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589299"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Government of Prince Edward Island"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q839078"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prime Minister of Canada"
-      },
-      "position_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Premier ministre du Canada"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Canada"
-      },
-      "admin_area_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Canada"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14212"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "prime minister"
-      },
-      "position_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Premier ministre"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2458227"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cabinet of Canada"
-      },
-      "body_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Cabinet du Canada"
-      }
-    } ]
+    ]
   }
 }

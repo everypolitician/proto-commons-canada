@@ -1,992 +1,1028 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "role_superclass", "role_superclass_en", "role_superclass_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_fr",
+      "party",
+      "party_name_en",
+      "party_name_fr",
+      "district",
+      "district_name_en",
+      "district_name_fr",
+      "role",
+      "role_en",
+      "role_fr",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_fr",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_en",
+      "org_fr",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493291"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3165629-7caa1a4a-445f-57da-2854-a52ceda76d1d"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3165629"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jean-François Gosselin"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jean-François Gosselin"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493291"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Québec 21"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec 21"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490359"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sainte-Thérèse-des-Lisieux"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-11-05T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec 21"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3507059-588270bf-4e6e-d1ba-09c6-5f6c0a421e0d"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3507059"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvain Légaré"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sylvain Légaré"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589476"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Team Labeaume"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Équipe Labeaume"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490364"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Val-Bélair"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Val-Bélair"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-11-01T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3165629-7caa1a4a-445f-57da-2854-a52ceda76d1d"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47492856-ff0ac952-4242-9193-55f1-3240e65f23b8"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47492856"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alicia Despins"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589476"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Team Labeaume"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Équipe Labeaume"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493667"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vanier-Duberger"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-11-05T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "alicia.angeldespins"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490359"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47493302-d521c0e5-4c42-7b55-a3f4-6f2921a22b7b"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493302"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Émilie Villeneuve"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589476"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Team Labeaume"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Équipe Labeaume"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490350"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint-Louis—Sillery"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-11-05T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sainte-Thérèse-des-Lisieux"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47493593-dff397ae-43a6-526a-d381-c5520f442645"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493593"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Geneviève Hamelin"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Geneviève Hamelin"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589476"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Team Labeaume"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Équipe Labeaume"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490346"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Maizerets-Lairet"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-11-01T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "genevieve.hamelin.733"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47493766-b046dc1d-4e29-ca79-eb5e-d697e9985179"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493766"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jean Rousseau"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jean Rousseau"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3043502"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Démocratie Québec"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490342"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cap-aux-Diamants"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-11-05T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "JRDemocratieQuebec"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47493909-123c31e6-4a13-7e52-eb2e-0dd8607f7483"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493909"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rémy Normand"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589476"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Team Labeaume"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Équipe Labeaume"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490351"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Plateau"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-11-05T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47493921-6001f132-4f3d-bca9-c178-b5ee1ad76297"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493921"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yvon Bussières"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Yvon Bussières"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q327591"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "independent politician"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sans étiquette"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490343"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montcalm-Saint-Sacrement"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1993-01-01T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "yvon.bussieres.1"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47494135-40b0d624-4636-2ca6-481f-682c360f6dfa"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47494135"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dominique Tanguay"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dominique Tanguay"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589476"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Team Labeaume"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Équipe Labeaume"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47493684"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saules"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-11-03T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "dominique.tanguay.7"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3165629"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jean-François Gosselin"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-05T00:00:00Z"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Jean-François Gosselin"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Québec 21"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47494155-3613a97d-4717-35b6-c058-88ec41060125"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47494155"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Suzanne Verreault"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3589476"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Team Labeaume"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Équipe Labeaume"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490345"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Limoilou"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47490318"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Quebec City Council"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conseiller municipal de Québec"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-01-01T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "suzanne.verreault2"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2994129"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quebec City Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Québec (Conseil municipal)"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2145"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "22"
+        }
       }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3589476"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Équipe Labeaume"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3507059-588270bf-4e6e-d1ba-09c6-5f6c0a421e0d"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490364"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Val-Bélair"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3507059"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvain Légaré"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2009-11-01T00:00:00Z"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Sylvain Légaré"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Team Labeaume"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Val-Bélair"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3589476"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Équipe Labeaume"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47492856-ff0ac952-4242-9193-55f1-3240e65f23b8"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493667"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vanier-Duberger"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47492856"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alicia Despins"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-05T00:00:00Z"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Team Labeaume"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "alicia.angeldespins"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3589476"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Équipe Labeaume"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47493302-d521c0e5-4c42-7b55-a3f4-6f2921a22b7b"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490350"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saint-Louis—Sillery"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493302"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Émilie Villeneuve"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-05T00:00:00Z"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Team Labeaume"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3589476"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Équipe Labeaume"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47493593-dff397ae-43a6-526a-d381-c5520f442645"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490346"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maizerets-Lairet"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493593"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Geneviève Hamelin"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2009-11-01T00:00:00Z"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Geneviève Hamelin"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Team Labeaume"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "genevieve.hamelin.733"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3043502"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Démocratie Québec"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47493766-b046dc1d-4e29-ca79-eb5e-d697e9985179"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490342"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cap-aux-Diamants"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493766"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jean Rousseau"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-05T00:00:00Z"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Jean Rousseau"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "JRDemocratieQuebec"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3589476"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Équipe Labeaume"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47493909-123c31e6-4a13-7e52-eb2e-0dd8607f7483"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490351"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Plateau"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493909"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rémy Normand"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-11-05T00:00:00Z"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Team Labeaume"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "sans étiquette"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47493921-6001f132-4f3d-bca9-c178-b5ee1ad76297"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490343"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montcalm-Saint-Sacrement"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493921"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yvon Bussières"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1993-01-01T00:00:00Z"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Yvon Bussières"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yvon.bussieres.1"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3589476"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Équipe Labeaume"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47494135-40b0d624-4636-2ca6-481f-682c360f6dfa"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47493684"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saules"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47494135"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dominique Tanguay"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-11-03T00:00:00Z"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Dominique Tanguay"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Team Labeaume"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "dominique.tanguay.7"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3589476"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Équipe Labeaume"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47494155-3613a97d-4717-35b6-c058-88ec41060125"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490345"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Limoilou"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47490318"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Conseiller municipal de Québec"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Quebec City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47494155"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Suzanne Verreault"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994129"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Québec (Conseil municipal)"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quebec City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2145"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2009-01-01T00:00:00Z"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Team Labeaume"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "suzanne.verreault2"
-      }
-    } ]
+    ]
   }
 }

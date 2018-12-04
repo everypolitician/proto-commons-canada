@@ -1,110 +1,136 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_fr", "org", "org_en", "org_fr", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_fr",
+      "party",
+      "party_name_en",
+      "party_name_fr",
+      "district",
+      "district_name_en",
+      "district_name_fr",
+      "role",
+      "role_en",
+      "role_fr",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_fr",
+      "org",
+      "org_en",
+      "org_fr",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5300478-e412768b-4428-1be2-a607-384ade23fa64"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5300478"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Doug Ford"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Doug Ford"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q826977"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Progressive Conservative Party of Ontario"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Parti progressiste-conservateur de l'Ontario"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1904"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ontario"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Ontario"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2560704"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Ontario"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Premier ministre de l'Ontario"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-06-29T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "FordNationDougFord"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2505921"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "premier"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "premier ministre du Canada"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589283"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Government of Ontario"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "gouvernement de l'Ontario"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1904"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5300478-e412768b-4428-1be2-a607-384ade23fa64"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5300478"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Doug Ford"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Doug Ford"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q826977"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Progressive Conservative Party of Ontario"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parti progressiste-conservateur de l'Ontario"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1904"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ontario"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ontario"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2560704"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Premier of Ontario"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Premier ministre de l'Ontario"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-06-29T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "FordNationDougFord"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2505921"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "premier"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "premier ministre du Canada"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589283"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Government of Ontario"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "gouvernement de l'Ontario"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1904"
+        }
       }
-    } ]
+    ]
   }
 }

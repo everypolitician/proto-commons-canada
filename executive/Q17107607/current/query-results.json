@@ -1,101 +1,127 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_fr", "org", "org_en", "org_fr", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_fr",
+      "party",
+      "party_name_en",
+      "party_name_fr",
+      "district",
+      "district_name_en",
+      "district_name_fr",
+      "role",
+      "role_en",
+      "role_fr",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_fr",
+      "org",
+      "org_en",
+      "org_fr",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2833143-7994682F-AA2F-4E37-A480-885947B20415"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2833143"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alexander Keith"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Alexander Keith"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2868020"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Progressive Conservative Association of Nova Scotia"
-      },
-      "party_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Association progressiste-conservateur de la Nouvelle-Écosse"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2141"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Halifax"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Halifax"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18693083"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Halifax"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire d'Halifax"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "maire"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17107607"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Halifax Regional Council"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Région de Halifax"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2141"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2833143-7994682F-AA2F-4E37-A480-885947B20415"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2833143"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alexander Keith"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Alexander Keith"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2868020"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Progressive Conservative Association of Nova Scotia"
+        },
+        "party_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Association progressiste-conservateur de la Nouvelle-Écosse"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2141"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Halifax"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Halifax"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18693083"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Halifax"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire d'Halifax"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "maire"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17107607"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Halifax Regional Council"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Région de Halifax"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2141"
+        }
       }
-    } ]
+    ]
   }
 }

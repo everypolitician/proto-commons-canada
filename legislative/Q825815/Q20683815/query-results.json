@@ -1,2034 +1,2084 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_fr", "party", "party_name_en", "party_name_fr", "district", "district_name_en", "district_name_fr", "role", "role_en", "role_fr", "role_superclass", "role_superclass_en", "role_superclass_fr", "start", "end", "facebook", "org", "org_en", "org_fr", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_fr",
+      "party",
+      "party_name_en",
+      "party_name_fr",
+      "district",
+      "district_name_en",
+      "district_name_fr",
+      "role",
+      "role_en",
+      "role_fr",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_fr",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_en",
+      "org_fr",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3572595"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19825046-0AB33778-947D-4D68-A2C2-18201244C319"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19825046"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wade MacLauchlan"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Wade MacLauchlan"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3572595"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "York-Oyster Bed"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "York-Oyster Bed"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "York-Oyster Bed"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19876540-C26C856F-6AB9-4B41-87AB-07CC44D5E7A8"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19876540"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jordan Brown"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jordan Brown"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2961047"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charlottetown-Brighton"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charlottetown-Brighton"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "York-Oyster Bed"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19957801-5690CACE-DDEF-4D6A-A6B9-4EF6D3242EB3"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19957801"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jamie Fox"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jamie Fox"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2910717"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Borden-Kinkora"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Borden-Kinkora"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19825046-0AB33778-947D-4D68-A2C2-18201244C319"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19966780-D16BE2FF-0FDC-44F4-8F2A-31BA3A2D1347"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19966780"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Heath MacDonald"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Heath MacDonald"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2997600"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cornwall-Meadowbank"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cornwall-Meadowbank"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19966783-AF8A0589-F732-4C04-B2F9-6C5231287BC7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19966783"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sidney MacEwen"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sidney MacEwen"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3323906"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Morell-Mermaid"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Morell-Mermaid"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19966784-907B25E7-02F0-468A-8FC4-206AE734E3ED"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19966784"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matthew MacKay"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Matthew MacKay"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3195258"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kensington-Malpeque"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kensington-Malpeque"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19966785-F0E2C607-9BE3-436F-8776-9B7290BC468E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19966785"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brad Trivers"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Brad Trivers"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3453561"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rustico-Emerald"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Rustico-Emerald"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q28059507-7064D700-CAAB-4E57-838A-9D4BDECAB8B6"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28059507"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chris Palmer"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3503686"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Summerside-Wilmot"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Summerside-Wilmot"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2837915-88C0D5D4-2CF2-4DAE-A839-3704F4789318"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2837915"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Allen Roach"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Allen Roach"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3322383"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Montague-Kilmuir"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Montague-Kilmuir"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2927460-7C5760A8-16F1-4634-B66A-1A5B689D7F5E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2927460"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Buck Watts"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Buck Watts"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3536140"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tracadie-Hillsborough Park"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tracadie-Hillsborough Park"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19825046"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2928710-114C9BD9-2625-4CC3-8CCA-C29C8636488A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2928710"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bush Dumville"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bush Dumville"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3567444"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "West Royalty-Springvale"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "West Royalty-Springvale"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wade MacLauchlan"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2982624-0D137DB7-5921-417B-9BAC-1B9D70692BD6"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2982624"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colin LaVie"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Colin LaVie"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3491932"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Souris-Elmira"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Souris-Elmira"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3194059-B018C789-7772-4DCB-ACFE-20EEFA49B81E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3194059"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kathleen Casey"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kathleen Casey"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2961049"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charlottetown-Lewis Point"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charlottetown-Lewis Point"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3368566-409C4E4A-7970-4AEC-BEB3-ED3D04667C62"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3368566"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pat Murphy"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Pat Murphy"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2831855"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alberton-Roseville"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Alberton-Roseville"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3372552-93C51596-A6B8-446D-926A-3C7B928AC6F8"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3372552"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paula Biggar"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paula Biggar"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3546076"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tyne Valley-Linkletter"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tyne Valley-Linkletter"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3372552-7ae0f76d-4aee-48c4-06bf-3775777cee02"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3372552"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paula Biggar"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paula Biggar"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3546076"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tyne Valley-Linkletter"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tyne Valley-Linkletter"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-05-28T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3430583-A42212F4-E845-4E44-9DA9-E7A13B58A96E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3430583"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Richard Brown"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Richard Brown"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2961054"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charlottetown-Victoria Park"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charlottetown-Victoria Park"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Wade MacLauchlan"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3435378-912B8C57-95F1-4AF4-A7F3-2B5CB0A1D9F9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3435378"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Robert Henderson"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Robert Henderson"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3347410"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "O'Leary-Inverness"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "O'Leary-Inverness"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3435932-E7997201-8E71-42D9-B8CE-FBAC8E105DD3"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3435932"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Robert Mitchell"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Robert Mitchell"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2961051"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charlottetown-Sherwood"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charlottetown-Sherwood"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3435932-996c05b0-4dec-8afd-1e50-932d3e15fe69"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3435932"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Robert Mitchell"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Robert Mitchell"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2961051"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charlottetown-Sherwood"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charlottetown-Sherwood"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-06-12T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3490640-7CC1C06F-BF59-499C-9560-176C0EE26D0C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3490640"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sonny Gallant"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sonny Gallant"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3061342"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Evangeline-Miscouche"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Evangeline-Miscouche"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3499252-089C5E3A-B08E-4528-AFB1-4396A03E4B1E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3499252"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Steven Myers"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Steven Myers"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3103726"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Georgetown-St. Peters"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Georgetown-St. Peters"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q43921032-0A610B34-8339-4C71-9509-5B2A452CC355"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43921032"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hannah Bell"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Hannah Bell"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2961048"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charlottetown-Parkdale"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charlottetown-Parkdale"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q656467-54d451d9-4cb9-8599-2520-8092eaa00c15"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q656467"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Janice Sherry"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Janice Sherry"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3503686"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Summerside-Wilmot"
+        },
+        "district_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Summerside-Wilmot"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21010685"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Assembly of Prince Edward Island"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of a legislative assembly"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "membre d'une assemblée législative"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-03-28T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825815"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Assembly of Prince Edward Island"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée législative de l'Île-du-Prince-Édouard"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1979"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "27"
+        }
       }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2961047"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Charlottetown-Brighton"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charlottetown-Brighton"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19876540-C26C856F-6AB9-4B41-87AB-07CC44D5E7A8"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19876540"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jordan Brown"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Jordan Brown"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2910717"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Borden-Kinkora"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Borden-Kinkora"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19957801-5690CACE-DDEF-4D6A-A6B9-4EF6D3242EB3"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19957801"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jamie Fox"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Jamie Fox"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2997600"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Cornwall-Meadowbank"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cornwall-Meadowbank"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19966780-D16BE2FF-0FDC-44F4-8F2A-31BA3A2D1347"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19966780"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Heath MacDonald"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Heath MacDonald"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3323906"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Morell-Mermaid"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Morell-Mermaid"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19966783-AF8A0589-F732-4C04-B2F9-6C5231287BC7"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19966783"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sidney MacEwen"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Sidney MacEwen"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3195258"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Kensington-Malpeque"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kensington-Malpeque"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19966784-907B25E7-02F0-468A-8FC4-206AE734E3ED"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19966784"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Matthew MacKay"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Matthew MacKay"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3453561"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Rustico-Emerald"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rustico-Emerald"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19966785-F0E2C607-9BE3-436F-8776-9B7290BC468E"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19966785"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brad Trivers"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Brad Trivers"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3503686"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Summerside-Wilmot"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Summerside-Wilmot"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28059507-7064D700-CAAB-4E57-838A-9D4BDECAB8B6"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28059507"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chris Palmer"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3322383"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Montague-Kilmuir"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montague-Kilmuir"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2837915-88C0D5D4-2CF2-4DAE-A839-3704F4789318"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2837915"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Allen Roach"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Allen Roach"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3536140"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Tracadie-Hillsborough Park"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tracadie-Hillsborough Park"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2927460-7C5760A8-16F1-4634-B66A-1A5B689D7F5E"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2927460"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Buck Watts"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Buck Watts"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3567444"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "West Royalty-Springvale"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "West Royalty-Springvale"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2928710-114C9BD9-2625-4CC3-8CCA-C29C8636488A"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2928710"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bush Dumville"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Bush Dumville"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3491932"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Souris-Elmira"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Souris-Elmira"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2982624-0D137DB7-5921-417B-9BAC-1B9D70692BD6"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2982624"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Colin LaVie"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Colin LaVie"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2961049"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Charlottetown-Lewis Point"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charlottetown-Lewis Point"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3194059-B018C789-7772-4DCB-ACFE-20EEFA49B81E"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3194059"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kathleen Casey"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Kathleen Casey"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2831855"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Alberton-Roseville"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberton-Roseville"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3368566-409C4E4A-7970-4AEC-BEB3-ED3D04667C62"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3368566"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pat Murphy"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Pat Murphy"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3546076"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Tyne Valley-Linkletter"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tyne Valley-Linkletter"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3372552-93C51596-A6B8-446D-926A-3C7B928AC6F8"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3372552"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paula Biggar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Paula Biggar"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3546076"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Tyne Valley-Linkletter"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tyne Valley-Linkletter"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3372552-7ae0f76d-4aee-48c4-06bf-3775777cee02"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3372552"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paula Biggar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Paula Biggar"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2007-05-28T00:00:00Z"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2961054"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Charlottetown-Victoria Park"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charlottetown-Victoria Park"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3430583-A42212F4-E845-4E44-9DA9-E7A13B58A96E"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3430583"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Richard Brown"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Richard Brown"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3347410"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "O'Leary-Inverness"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "O'Leary-Inverness"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3435378-912B8C57-95F1-4AF4-A7F3-2B5CB0A1D9F9"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3435378"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Robert Henderson"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Robert Henderson"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2961051"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Charlottetown-Sherwood"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charlottetown-Sherwood"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3435932-E7997201-8E71-42D9-B8CE-FBAC8E105DD3"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3435932"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Robert Mitchell"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Robert Mitchell"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2961051"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Charlottetown-Sherwood"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charlottetown-Sherwood"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3435932-996c05b0-4dec-8afd-1e50-932d3e15fe69"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3435932"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Robert Mitchell"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Robert Mitchell"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2007-06-12T00:00:00Z"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3061342"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Evangeline-Miscouche"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Evangeline-Miscouche"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3490640-7CC1C06F-BF59-499C-9560-176C0EE26D0C"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3490640"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sonny Gallant"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Sonny Gallant"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3103726"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Georgetown-St. Peters"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Georgetown-St. Peters"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3499252-089C5E3A-B08E-4528-AFB1-4396A03E4B1E"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3499252"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Steven Myers"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Steven Myers"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2961048"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Charlottetown-Parkdale"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charlottetown-Parkdale"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q43921032-0A610B34-8339-4C71-9509-5B2A452CC355"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q43921032"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hannah Bell"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Hannah Bell"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3503686"
-      },
-      "district_name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Summerside-Wilmot"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Summerside-Wilmot"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q656467-54d451d9-4cb9-8599-2520-8092eaa00c15"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "membre d'une assemblée législative"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a legislative assembly"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21010685"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "député de l'Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Assembly of Prince Edward Island"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q656467"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Janice Sherry"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q825815"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Assemblée législative de l'Île-du-Prince-Édouard"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Assembly of Prince Edward Island"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1979"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "27"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Janice Sherry"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2007-03-28T00:00:00Z"
-      }
-    } ]
+    ]
   }
 }
