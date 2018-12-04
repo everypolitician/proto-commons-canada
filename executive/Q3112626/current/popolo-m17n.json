@@ -68,20 +68,6 @@
         "lang:en": "Conservative Party of Canada",
         "lang:fr": "Parti conservateur du Canada"
       },
-      "id": "Q488523",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q488523"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Conservative Party of Canada",
-        "lang:fr": "Parti conservateur du Canada"
-      },
       "id": "Q909827",
       "classification": "party",
       "identifiers": [
@@ -153,23 +139,6 @@
       "organization_id": "Q3112626",
       "area_id": "Q1965",
       "start_date": "2014-10-07",
-      "role_superclass_code": "Q2505921",
-      "role_superclass": {
-        "lang:en": "premier",
-        "lang:fr": "premier ministre du Canada"
-      },
-      "role_code": "Q12270252",
-      "role": {
-        "lang:en": "Premier of New Brunswick",
-        "lang:fr": "premier ministre du Nouveau-Brunswick"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q977758-66AAAD93-893B-48FF-8AF3-19B3F7C5E8C7",
-      "person_id": "Q977758",
-      "on_behalf_of_id": "Q488523",
-      "organization_id": "Q3112626",
-      "area_id": "Q1965",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
         "lang:en": "premier",

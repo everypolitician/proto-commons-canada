@@ -66,6 +66,20 @@
     },
     {
       "name": {
+        "lang:en": "Manitoba Liberal Party",
+        "lang:fr": "Parti libéral du Manitoba"
+      },
+      "id": "Q3366499",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366499"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Progressive Conservative Party of Manitoba",
         "lang:fr": "Parti progressiste-conservateur du Manitoba"
       },
@@ -216,6 +230,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/q2437944-30EDA15F-68D5-45C8-BCFB-56229FF26808",
       "person_id": "Q2437944",
+      "on_behalf_of_id": "Q3366499",
       "organization_id": "Q20552083",
       "area_id": "Q1948",
       "role_superclass_code": "Q2505921",

@@ -18,6 +18,22 @@
     },
     {
       "name": {
+        "lang:en": "Michelle Conroy",
+        "lang:fr": "Michelle Conroy"
+      },
+      "id": "Q56744334",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56744334"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Kevin Arseneau",
         "lang:fr": "Kevin Arseneau"
       },
@@ -82,6 +98,7 @@
     },
     {
       "name": {
+        "lang:en": "Rick DeSaulniers",
         "lang:fr": "Rick DeSaulniers"
       },
       "id": "Q56753896",
@@ -1302,6 +1319,22 @@
       "person_id": "Q56744315",
       "organization_id": "Q1516914",
       "area_id": "Q2937885",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly",
+        "lang:fr": "membre d'une assemblée législative"
+      },
+      "role_code": "Q18984329",
+      "role": {
+        "lang:en": "member of the Legislative Assembly of New Brunswick",
+        "lang:fr": "député de l'Assemblée législative du Nouveau-Brunswick"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56744334-35dbf1f0-4c7d-a68e-4875-832d50f8a5fd",
+      "person_id": "Q56744334",
+      "organization_id": "Q1516914",
+      "area_id": "Q17090633",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly",

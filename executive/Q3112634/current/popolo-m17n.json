@@ -2,21 +2,18 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Philippe Couillard",
-        "lang:fr": "Philippe Couillard"
+        "lang:en": "François Legault",
+        "lang:fr": "François Legault"
       },
-      "id": "Q3379654",
+      "id": "Q3085147",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q3379654"
+          "identifier": "Q3085147"
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/phcouillard"
-        }
+
       ]
     }
   ],
@@ -38,15 +35,15 @@
     },
     {
       "name": {
-        "lang:en": "Quebec Liberal Party",
-        "lang:fr": "Parti libéral du Québec"
+        "lang:en": "Coalition Avenir Québec",
+        "lang:fr": "Coalition avenir Québec"
       },
-      "id": "Q1631384",
+      "id": "Q2348226",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q1631384"
+          "identifier": "Q2348226"
         }
       ]
     }
@@ -106,12 +103,12 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3379654-d080d9ef-4d4f-dd39-b5e9-f56a0472945b",
-      "person_id": "Q3379654",
-      "on_behalf_of_id": "Q1631384",
+      "id": "http://www.wikidata.org/entity/statement/Q3085147-b710eb45-4499-fe37-b7a2-36a66c758f6e",
+      "person_id": "Q3085147",
+      "on_behalf_of_id": "Q2348226",
       "organization_id": "Q3112634",
       "area_id": "Q176",
-      "start_date": "2014-04-23",
+      "start_date": "2018-10-18",
       "role_superclass_code": "Q2505921",
       "role_superclass": {
         "lang:en": "premier",
